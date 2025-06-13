@@ -1,9 +1,11 @@
 import re
-import tqdm
+from tqdm import tqdm
 import numpy as np
 import os
 import time
 import pandas as pd
+
+LLM_MODEL = "qwen/qwen-2.5-7b-instruct"
 
 def tokenize_and_chunk(row, tokenizer, max_tokens=512, text_col='text'):
     sentences = re.split(r'(?<=[.!?]) +', row[text_col])
@@ -69,7 +71,7 @@ Climate litigation refers to legal actions that materially concern climate chang
 - Litigation seeking damages for harms caused by climate change
 - Legal challenges to regulatory approvals on the basis of climate misalignment
  
-Your classification must be binary:
+Your classification must be binary. DO NOT PRINT ANYTHING BUT THE BINARY RESULT:
 - climate_litigation: 1 if the paragraph relates to litigation that is specifically about climate change
 - climate_litigation: 0 otherwise
  
@@ -157,7 +159,7 @@ def retrieve_similar_examples(query_text, embedding_model, groundtruth_df, k=6):
 
     return similar_examples
 
-def classify_with_rag(chunk_text, retrieved_examples, client):
+def classify_with_rag(chunk_text, retrieved_examples, client, model_name = LLM_MODEL):
     """Classify a chunk using dynamically retrieved examples"""
     try:
         messages = [{"role": "system", "content": SYSTEM_PROMPT}]
@@ -180,7 +182,7 @@ def classify_with_rag(chunk_text, retrieved_examples, client):
         })
 
         response = client.chat.completions.create(
-            model="qwen/qwen-2.5-7b-instruct",
+            model=model_name,
             messages=messages,
             temperature=0
         )
@@ -201,6 +203,8 @@ def classify_with_rag(chunk_text, retrieved_examples, client):
         return "SKIPPED"
     
 def run_rag_classification_for_company(embedding_model,
+                                       groundtruth_df,
+                                       client,
         company_df,
         company_name,
         retrieval_k=100,
@@ -240,8 +244,8 @@ def run_rag_classification_for_company(embedding_model,
             continue
 
         chunk_text = row['text']
-        similar_examples = retrieve_similar_examples(chunk_text, k=example_k)
-        classification = classify_with_rag(chunk_text, similar_examples)
+        similar_examples = retrieve_similar_examples(chunk_text, embedding_model, groundtruth_df, k=example_k)
+        classification = classify_with_rag(chunk_text, similar_examples, client)
 
         result = {
             'company': company_name,
@@ -281,3 +285,23 @@ def run_rag_classification_for_company(embedding_model,
     print(f"✅ Done with {company_name} Year {results_df['year'].iloc[0] if not results_df.empty else 'NA'}. "
           f"Results saved to {final_path}")
     return results_df
+
+def extract_flag(val, trouble_indices=[]):
+    """
+    Look for standalone 0s or 1s in the string form of val.
+    Returns:
+      0 or 1 if exactly one is found,
+      pd.NA otherwise (and records idx in trouble_indices).
+    """
+    s = str(val)
+    # find all standalone digits 0 or 1
+    matches = set(re.findall(r'\b[01]\b', s))
+    
+    if matches == {'0'}:
+        return 0
+    elif matches == {'1'}:
+        return 1
+    else:
+        # either matches == set(), or matches == {'0','1'}
+        trouble_indices.append(val)
+        return pd.NA
