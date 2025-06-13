@@ -1,3 +1,4 @@
 report_nlp/10k_2/
 *.txt
 *.csv
+report_nlp/doc_embeddings.npy
