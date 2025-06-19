@@ -5,7 +5,7 @@ import os
 import time
 import pandas as pd
 
-LLM_MODEL = "qwen/qwen-2.5-7b-instruct"
+LLM_MODEL = "sao10k/l3-lunaris-8b"
 
 def tokenize_and_chunk(row, tokenizer, max_tokens=512, text_col='text'):
     sentences = re.split(r'(?<=[.!?]) +', row[text_col])
@@ -82,7 +82,8 @@ Be especially careful not to classify the following as climate litigation:
   - Destruction of ecosystems not linked to climate change
   - Breaches of water, soil, clean air or conservation laws without reference to climate change 
  
-Do not classify as climate litigation the litigation against governments or public authorities or that aims to challenge a law, regulation or public policy, unless the litigation also targets a private actor or company. Legal challenges to climate-related laws and regulations brought solely against public authorities (e.g., EPA), where no private company is sued or legally challenged, are not considered climate litigation.
+This is IMPORTANT: 
+- Do not classify as climate litigation the litigation against governments or public authorities or that aims to challenge a law, regulation or public policy, unless the litigation also targets a private actor or company. Legal challenges to climate-related laws and regulations brought solely against public authorities (e.g., EPA), where no private company is sued or legally challenged, are not considered climate litigation.
  
 Include statements about the adoption or proposal of new rules and laws that facilitate climate litigation, such as the adoption of strict liability statutes that make companies responsible for their historical greenhouse gas emission and statutes that lower the evidentiary requirements of climate litigation cases, notably around the causality link between climate damages and greenhouse gas emissions.
  
