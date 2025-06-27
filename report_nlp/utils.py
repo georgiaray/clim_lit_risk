@@ -5,7 +5,7 @@ import os
 import time
 import pandas as pd
 
-LLM_MODEL = "sao10k/l3-lunaris-8b"
+LLM_MODEL = "meta-llama/llama-3.2-3b-instruct"
 
 def tokenize_and_chunk(row, tokenizer, max_tokens=512, text_col='text'):
     sentences = re.split(r'(?<=[.!?]) +', row[text_col])
