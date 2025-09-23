@@ -77,14 +77,14 @@ To analyze our climate litigation classification results, we:
   - Extracted binary classifications (0/1) from model responses using regex parsing
   - **Note to self**: Some responses couldn't be parsed and were marked for manual review
 - Compared model agreement and disagreement patterns
-  - Found 86% complete agreement across all three models
-  - 90% agreement when allowing two-of-three consensus
+  - **Found 86% complete agreement across all three models**
+  - **90% agreement when allowing two-of-three consensus**
   - **Note to self**: also need to measure precision and recall because we have an overabundance of negative cases in this data
 - Created visualizations comparing actual litigation cases vs. disclosure statements over time
   - Plotted active cases, new filings, and detected disclosures for trend analysis
 - Analyzed disagreement cases to understand model differences
   - Sampled disagreement cases where SAO differed from the other two models
   - Saved samples for manual validation by domain expert
-  - Domain only disagrees with SAO (when SAO is alone) 8.33% of the time (2/24)
+  - **Domain only disagrees with SAO (when SAO is alone) 8.33% of the time (2/24)**
 
 Helper methods can be found in `utils.py` and are used throughout various notebooks and py files
