@@ -4,6 +4,7 @@ import numpy as np
 import os
 import time
 import pandas as pd
+import re 
 
 LLM_MODEL = "meta-llama/llama-3.2-3b-instruct"
 
@@ -305,4 +306,50 @@ def extract_flag(val, trouble_indices=[]):
     else:
         # either matches == set(), or matches == {'0','1'}
         trouble_indices.append(val)
+        return pd.NA
+
+def load_company_data(base_dir):
+    all_dfs = []
+    for company_dir in base_dir.iterdir():
+        if not company_dir.is_dir():
+            continue
+        # you said each CSV already has a company column,
+        # so we don’t need to re-add it here
+        
+        for year_dir in company_dir.iterdir():
+            if not year_dir.is_dir() or not year_dir.name.isdigit():
+                continue
+            year = int(year_dir.name)
+            
+            # assume exactly one CSV per year folder
+            csv_files = list(year_dir.glob("*.csv"))
+            if not csv_files:
+                continue
+            
+            df = pd.read_csv(csv_files[0])
+            df["year"] = year
+            all_dfs.append(df)
+
+    # concatenate all years & companies
+    combined_df = pd.concat(all_dfs, ignore_index=True)
+    return combined_df
+
+def extract_flag(val, idx, trouble_indices):
+    """
+    Look for standalone 0s or 1s in the string form of val.
+    Returns:
+      0 or 1 if exactly one is found,
+      pd.NA otherwise (and records idx in trouble_indices).
+    """
+    s = str(val)
+    # find all standalone digits 0 or 1
+    matches = set(re.findall(r'\b[01]\b', s))
+    
+    if matches == {'0'}:
+        return 0
+    elif matches == {'1'}:
+        return 1
+    else:
+        # either matches == set(), or matches == {'0','1'}
+        trouble_indices.append(idx)
         return pd.NA
