@@ -86,5 +86,6 @@ To analyze our climate litigation classification results, we:
   - Sampled disagreement cases where SAO differed from the other two models
   - Saved samples for manual validation by domain expert
   - **Domain only disagrees with SAO (when SAO is alone) 8.33% of the time (2/24)**
+  - Another note is that SAO had the fewest positively identified cases (616 to Meta's 3857 and Gemma's 6812. This means there could be a concern about underinclusion but the disagreements from the manual grader were still in the vein of overinclusion, which inspires confidence) 
 
 Helper methods can be found in `utils.py` and are used throughout various notebooks and py files

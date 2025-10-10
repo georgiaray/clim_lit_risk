@@ -1,0 +1,398 @@
+idx_1,idx_2,reasoning,result,winner_idx
+0,1,"The breakdown identifies some climate-related regulatory risks and potential litigation exposure, but lacks specific details regarding parties involved, legal claims, or quantifiable damages. The references to the EU’s Fit for 55 package and the Emission Trading System are relevant to climate policy, but don’t constitute a concrete legal action or claim. The text primarily describes potential future risks rather than existing litigation.
+
+FINAL: text 2","text 2
+",1.0
+0,2,"The breakdown provides a list of potential climate-related regulations (Fit for 55, EU ETS), but lacks specifics regarding parties involved, a court or jurisdiction, or quantifiable impacts. The summary mentions “potential climate litigation” but doesn’t describe any actual legal action. It’s a discussion of risk rather than a concrete case.
+
+FINAL: text 2","text 2
+",2.0
+0,3,"The text provides a general mention of climate change as one of the areas of litigation, but lacks specific details about the nature of the climate-related claims, parties involved, or sought outcomes. The disclosure is vague and does not provide enough information to assess the company's climate litigation risks.
+
+FINAL: text 1",text 1,0.0
+0,4,"The text primarily discusses general environmental and regulatory risks, including potential litigation, but lacks specific details about the climate science, legal arguments, or parties involved in the lawsuits. It’s a broad discussion of potential liabilities rather than a focused analysis of climate litigation.
+
+FINAL: text 2","text 2
+",4.0
+0,5,"The text primarily discusses business risks – regulatory changes, market fluctuations, and public perception – rather than specific legal actions or claims directly related to climate change. While it mentions climate change as a factor influencing these risks, the disclosures lack the specificity required to be classified as climate litigation.
+
+FINAL: text 2","text 2
+",5.0
+0,6,"The breakdown provides a list of parties involved in the climate litigation, but lacks specific details regarding the nature of the lawsuits, the legal arguments being presented, or the potential remedies sought. The “climate linkage quotes” are very general. It identifies the lawsuits but doesn’t offer enough precision to be considered highly specific.
+
+FINAL: text 2","text 2
+",6.0
+0,7,"The text primarily focuses on the risks and challenges facing the oil and natural gas industry due to environmental regulations and potential litigation, rather than presenting a specific climate litigation case. While it mentions lawsuits and climate-related damages, it lacks the precision and detail required to be considered a highly specific disclosure. It’s a general discussion of potential liabilities rather than a concrete legal action.
+
+FINAL: text 2","text 2
+",7.0
+0,8,"The text primarily presents a risk assessment and disclosure regarding potential regulatory impacts on a natural gas company, focusing on environmental regulations and climate change. While it mentions ""litigation"" in the context of regulatory focus, it lacks the specific details of a legal action – parties involved, a case number, a court, a specific statute being challenged, or quantifiable damages sought. It’s a general discussion of potential legal exposure rather than a concrete example of climate litigation.
+
+FINAL: text 2","text 2
+",8.0
+0,9,"The disclosure provides a basic overview of the company's involvement in climate change lawsuits, identifying the parties and the nature of the legal actions. However, it lacks specific details regarding the courts, legal arguments, or potential remedies, making it a relatively vague disclosure.
+
+FINAL: text 2","text 2
+",9.0
+0,10,"The breakdown provides a list of potential legal and environmental liabilities, including “climate change,” but lacks specific details about the nature of these claims, the parties involved, or any quantifiable damages. The disclosures are framed in terms of potential future losses and general regulatory exposure, rather than concrete legal actions or specific impacts.
+
+FINAL: text 2","text 2
+",10.0
+0,11,"Text 2 provides more specific information about the climate litigation, including the number of lawsuits (four) and the parties involved (CNX and communities). In contrast, Text 1 provides more general information about the climate litigation risks, but does not provide specific details about the cases. Therefore, Text 2 is more specific.
+
+FINAL: text 2",text 2,11.0
+0,12,"The text primarily discusses the potential impacts of climate regulations on a company's business, particularly within the natural gas sector. While it mentions regulatory changes and the Inflation Reduction Act, it lacks specific details about any ongoing or planned legal challenges related to climate change. The disclosures are focused on risk assessment rather than concrete legal actions.
+
+FINAL: text 2","text 2
+",12.0
+0,13,"The text identifies CNX as a party to climate change lawsuits, which is a relevant detail. However, it lacks the specificity of a concrete legal action – no case number, court, or specific allegations are presented. It primarily describes a potential risk rather than a defined legal proceeding.
+
+FINAL: text 2","text 2
+",13.0
+0,14,"The text does not provide any specific details about climate litigation, but rather mentions it as a general risk factor. The breakdown JSON also reflects this, with most fields being empty or null.
+
+FINAL: neither",neither,
+1,2,"The text primarily discusses potential regulatory risks and challenges related to climate change, rather than specific legal actions or claims. While it mentions the *possibility* of climate litigation, it lacks the detail necessary to be considered a detailed disclosure. The references to regulations and policies are broad and don't identify specific cases or parties involved.
+
+FINAL: text 2","text 2
+",2.0
+1,3,"The text primarily details accounting adjustments and financial reporting, lacking specific details related to climate change litigation or claims. While it mentions a “loss contingency recorded in connection with the ongoing Havana Docks litigation,” this is presented without any context regarding its climate-related nature. The disclosures are focused on financial matters, not legal challenges concerning climate impacts.
+
+FINAL: text 2","text 2
+",3.0
+1,4,"The text primarily describes potential regulatory and compliance risks associated with environmental regulations and litigation, rather than specific climate litigation actions. While it mentions climate change as a factor driving these risks, it lacks the detail – such as specific legal claims, parties involved, or quantified damages – necessary to be classified as a detailed disclosure of climate litigation.
+
+FINAL: text 2","text 2
+",4.0
+1,5,"The text primarily outlines business risks and regulatory concerns, focusing on potential financial and operational impacts rather than specific legal challenges related to climate change. While it mentions climate change and related regulations, the disclosures lack the detail – such as specific legal claims, parties involved, or quantifiable damages – necessary to classify it as climate litigation.
+
+FINAL: text 2","text 2
+",5.0
+1,6,"The breakdown provides a list of parties involved in the climate litigation, but lacks specific details regarding the nature of the lawsuits, the jurisdictions involved, or any quantifiable damages sought. The timeframe is also very general. While it identifies climate change as a relevant factor, it doesn't offer enough precision to be considered a detailed disclosure.
+
+FINAL: text 2","text 2
+",6.0
+1,7,"The text primarily focuses on the risks and challenges facing the oil and natural gas industry due to environmental regulations and potential litigation related to climate change. While it mentions lawsuits and the potential for liability, it lacks the specific details – such as case names, court locations, and quantified damages – necessary to be considered highly specific. It also doesn't delve into the scientific basis of the claims or the specific legal arguments being made. Therefore, it falls into the category of ""basic disclosure.""
+
+FINAL: text 2","text 2
+",7.0
+1,8,"The text primarily outlines a company's risk assessment regarding climate change regulations and their potential impact on business operations. While it mentions litigation as a potential consequence, it lacks specific details about any ongoing or planned legal actions. The disclosures are focused on regulatory exposure and potential financial consequences rather than concrete legal claims.
+
+FINAL: text 2","text 2
+",8.0
+1,9,"The disclosure provides a basic level of detail regarding climate litigation, identifying the parties involved and the nature of the lawsuits. However, it lacks specific information about the legal proceedings, such as the court, jurisdiction, or specific claims being made.
+
+FINAL: text 2","text 2
+",9.0
+1,10,"The text primarily focuses on financial disclosures – commodity derivatives, interest rate swaps, and legal liabilities – without detailing specific climate-related claims, legal actions, or regulatory challenges directly linked to climate change. While “climate change” is mentioned as an area of litigation, the disclosure lacks the specificity required to classify it as climate litigation.
+
+FINAL: text 1","text 1
+",1.0
+1,11,"Text 1 provides more specific information about the climate litigation, including the number of lawsuits (four) and the fact that they are being pursued by communities against fossil fuel producers. In contrast, Text 2 does not provide this level of detail. Therefore, Text 1 is more specific.
+
+FINAL: text 1",text 1,1.0
+1,12,"The text primarily discusses regulatory risks related to climate change and natural gas production, focusing on policy changes and potential financial impacts. While it mentions climate-related regulations and the Inflation Reduction Act, it lacks specific details about legal challenges, lawsuits, or concrete allegations of wrongdoing – elements central to climate litigation. The disclosures are broad and focus on potential future impacts rather than past actions or legal disputes.
+
+FINAL: text 2","text 2
+",12.0
+1,13,"The text details a company's exposure to climate change litigation, specifically mentioning ongoing lawsuits and the potential for future legal action. While it identifies the parties involved and the nature of the claims, it lacks specific details regarding the legal proceedings themselves – such as court names, dates, or the precise legal arguments being made. It’s a disclosure of risk, not a detailed account of a specific case.
+
+FINAL: text 2","text 2
+",13.0
+1,14,"The rationale for choosing ""mention only"" is that the text mentions climate litigation, but does not provide any specific details about the litigation, such as parties, case title, or procedural posture.
+
+FINAL: neither",neither,
+2,3,"The breakdown provides a list of adjustments to financial statements, detailing accounting changes and contingencies. While it mentions a “loss contingency” related to the Havana Docks litigation, it lacks specifics about the nature of the litigation, its connection to climate change, or any relevant legal claims. The information is purely financial and doesn't meet the criteria for climate litigation.
+
+FINAL: text 2","text 2
+",3.0
+2,4,"The text primarily discusses general environmental and regulatory risks faced by a company, with a focus on compliance and potential liabilities. While it mentions lawsuits related to climate change, these are framed as broader legal proceedings rather than specific climate litigation cases with defined parties, dates, and quantifiable damages. The details are sufficiently general to not meet the criteria for a highly specific disclosure of climate litigation.
+
+FINAL: text 2","text 2
+",4.0
+2,5,"The text primarily discusses business risks related to regulatory changes and public perception, rather than specific legal actions or claims directly tied to climate change. While it mentions climate-related concerns, the disclosures are broad and lack the specificity of a climate litigation case – no parties, jurisdiction, statutes, or quantifiable damages are identified.
+
+FINAL: text 2","text 2
+",5.0
+2,6,"The breakdown provides a list of parties involved in the climate litigation, but lacks specific details about the nature of the lawsuits, the legal arguments being made, or the potential remedies sought. The dates and forum are also absent. The summary is broad and doesn't offer a clear understanding of the litigation's specifics.
+
+FINAL: text 2","text 2
+",6.0
+2,7,"The text primarily focuses on the risks and challenges facing the oil and gas industry due to environmental regulations and potential litigation, rather than detailing specific climate litigation cases. While it mentions lawsuits and climate-related damages, it lacks the precision and specific anchors (parties, dates, court, etc.) characteristic of highly specific disclosures. It’s a general discussion of potential liabilities linked to climate change, not a detailed account of existing legal actions.
+
+FINAL: text 2","text 2
+",7.0
+2,8,"The text primarily presents a risk assessment and disclosure regarding potential regulatory impacts on a natural gas company, focusing on environmental regulations and climate change policies. While it mentions the *possibility* of litigation, it doesn't detail any specific legal actions or claims. The information is largely descriptive and predictive, rather than evidentiary of ongoing climate litigation.
+
+FINAL: text 2","text 2
+",8.0
+2,9,"The disclosure provides a basic level of detail regarding the company's involvement in climate change lawsuits, identifying the parties and the nature of the legal actions. However, it lacks specific information about the courts, statutes, or the precise claims being made, limiting its ability to be thoroughly verified.
+
+FINAL: text 2","text 2
+",9.0
+2,10,"The breakdown provides some specific details regarding the company’s financial disclosures, including monetary amounts and identified areas of legal risk (environmental violations). However, it lacks the specificity required for a climate litigation assessment. The mention of “climate change” is too general; there’s no indication of a specific legal claim related to climate change impacts, greenhouse gas emissions, or regulatory challenges directly tied to climate policy. The disclosures primarily focus on general legal liabilities and financial reporting.
+
+FINAL: text 1","text 1
+",2.0
+2,11,"The text primarily discusses the potential regulatory and financial risks associated with climate change for the natural gas industry, focusing on legal challenges and potential liabilities. While it mentions lawsuits filed by states and municipalities, it lacks the specificity – such as case names, court details, or precise monetary amounts – that would elevate it to a ""detailed disclosure."" It’s a general overview of a risk category rather than a specific legal action.
+
+FINAL: text 2","text 2
+",11.0
+2,12,"The provided text primarily discusses the potential impacts of climate regulations on a company's business, focusing on regulatory changes and policy developments rather than specific legal actions or claims. While it mentions climate change and related regulations, it lacks the detail and specificity required to be classified as a detailed or highly specific disclosure of climate litigation. The information is presented as a risk assessment and a description of potential future challenges, not as a report of ongoing legal proceedings.
+
+FINAL: text 2","text 2
+",12.0
+2,13,"The text identifies CNX as a party to climate change lawsuits, which aligns with the definition of climate litigation. However, the level of detail is limited. It mentions the lawsuits but lacks specifics like court names, dates, or the nature of the claims. It also focuses heavily on the potential financial risks rather than the legal arguments or impacts of the litigation itself. Therefore, it’s a basic disclosure, outlining the risk but not providing granular details.
+
+FINAL: text 2","text 2
+",13.0
+2,14,"The rationale for choosing ""mention only"" is that the text mentions climate litigation, but does not provide any specific details about it, such as parties, case title, or procedural posture.
+
+FINAL: neither",neither,
+3,4,"The text primarily focuses on general financial reporting adjustments and regulatory compliance, rather than specific climate litigation details. While it mentions lawsuits related to climate change, it lacks the precision – anchors, falsifiable elements, and contextual clarity – characteristic of a detailed climate litigation disclosure. The information is presented at a high level and doesn't provide concrete details about the legal actions themselves.
+
+FINAL: text 2","text 2
+",4.0
+3,5,"The text primarily discusses business risks and regulatory challenges, focusing on financial and operational vulnerabilities rather than specific legal actions or claims related to climate change. While it acknowledges increasing attention to environmental issues and potential pressure from advocacy groups, it lacks the specificity – such as identified parties, legal citations, or quantifiable damages – typically associated with climate litigation. The references to “climate change” and “energy transition” are presented as general risks, not as the subject of ongoing legal disputes.
+
+FINAL: text 2","text 2
+",5.0
+3,6,"The breakdown provides some details regarding the climate litigation aspect – identifying the parties involved and the nature of the lawsuits – but lacks specific details such as court names, dates, or the precise legal claims being asserted. The summary and original text primarily focus on broader legal and tax risks, with the climate litigation disclosure being relatively brief and lacking the precision expected in a detailed disclosure.
+
+FINAL: text 2","text 2
+",6.0
+3,7,"Text 1 is more specific than Text 2 because it mentions ""climate change"" as one of the areas of litigation, whereas Text 2 only mentions climate change as a general topic of regulatory focus. Additionally, Text 1 provides more specific information about the company's estimated accruals for environmental and other claims, whereas Text 2 only mentions the potential impact of regulatory actions on the market for natural gas.
+
+FINAL: text 1",text 1,3.0
+3,8,"The text primarily presents a company's risk assessment regarding climate change regulations and their potential impact on its business. While it mentions litigation and regulatory focus, it lacks specific details about any ongoing or potential legal actions. The disclosures are broad and focused on potential future risks rather than concrete legal challenges.
+
+FINAL: text 2","text 2
+",8.0
+3,9,"The disclosure provides a basic level of detail regarding climate litigation, identifying the parties involved and the nature of the lawsuits. However, it lacks specificity in terms of legal jurisdiction, specific statutes or regulations, and quantifiable details about the claims or potential remedies. It’s a starting point, but further investigation would be needed to determine the full scope and impact of the litigation.
+
+FINAL: text 2","text 2
+",9.0
+3,10,"The text primarily focuses on financial reporting adjustments and liabilities, with only a brief mention of “climate change” as one area of litigation. There’s no specific detail about the nature of the climate-related claims, the parties involved, or any quantifiable impacts. The disclosure is general and lacks the specificity required to be considered a detailed or highly specific climate litigation disclosure.
+
+FINAL: text 2","text 2
+",10.0
+3,11,"Text 2 provides more specific information about the climate litigation, including the number of lawsuits (four) and the parties involved (CNX and communities). In contrast, Text 1 only mentions ""climate change"" as one of the areas of litigation, without providing any further details. Therefore, Text 2 is more specific.
+
+FINAL: text 2",text 2,11.0
+3,12,"The text primarily discusses corporate disclosures related to regulatory changes and potential impacts on business operations, rather than specific legal actions or claims directly concerning climate change. While it references climate-related regulations and policies, it lacks the detail necessary to be considered a highly specific climate litigation disclosure. The information is presented as a risk assessment and does not involve any legal proceedings or arguments.
+
+FINAL: text 2","text 2
+",12.0
+3,13,"Text 2 provides more specific information about climate litigation, including the number of lawsuits and the parties involved, whereas Text 1 only mentions climate change as one of the areas of litigation without providing any further details. Therefore, Text 2 is more specific than Text 1.
+
+FINAL: text 2",text 2,13.0
+3,14,"The rationale for choosing ""mention only"" for Text 2 is that it only mentions climate change and litigation in a general sense, without providing any specific details about the litigation, such as parties, case title, or procedural posture.
+
+FINAL: text 1",text 1,3.0
+4,5,"The text primarily discusses business risks – regulatory, financial, and reputational – without detailing specific legal actions or claims related to climate change. While it mentions climate change as a factor influencing these risks, the language is general and lacks the specificity of a climate litigation disclosure (e.g., referencing specific regulations, lawsuits, or scientific findings).
+
+FINAL: text 2","text 2
+",5.0
+4,6,"The breakdown JSON provided captures the key elements of the climate litigation disclosure, including the parties involved and the nature of the lawsuits. However, it lacks specific details regarding the legal basis of the claims, the jurisdictions involved, and the potential remedies sought. The summary and original text offer more context about the lawsuits, but the JSON focuses primarily on the factual elements without delving into the legal framework.
+
+FINAL: text 2","text 2
+",6.0
+4,7,"The text presents a general overview of climate litigation risks facing the oil and gas industry, primarily through the mention of lawsuits. However, it lacks the specific details – such as case names, court locations, or quantified monetary amounts – needed to be considered highly specific. It primarily describes the *potential* for litigation rather than detailing existing cases.
+
+FINAL: text 2","text 2
+",7.0
+4,8,"The text primarily discusses a company's risk disclosures related to climate change regulations and potential impacts on its business. While it mentions litigation and regulatory focus, it lacks specific details about any ongoing or planned legal actions. The disclosures are broad and focus on potential future risks rather than concrete legal proceedings.
+
+FINAL: text 2","text 2
+",8.0
+4,9,"The disclosure provides a basic overview of CNX's involvement in climate change lawsuits, identifying the parties and the nature of the legal proceedings. However, it lacks the specificity needed to be considered a highly detailed disclosure, as it doesn't include details about the courts, statutes, or specific claims.
+
+FINAL: text 2","text 2
+",9.0
+4,10,"The text primarily focuses on financial disclosures – derivative settlements, interest rate swaps, and accrued liabilities – rather than detailing specific climate litigation claims, legal arguments, or quantifiable impacts related to climate change. While ""climate change"" is mentioned as an area of litigation, the disclosure lacks the specificity required to classify it as a detailed or highly specific example of climate litigation. It’s a general reference within a broader list of legal claims.
+
+FINAL: text 2","text 2
+",10.0
+4,11,"The text primarily outlines regulatory and litigation risks associated with the oil and gas industry’s exposure to climate change-related lawsuits, rather than providing a highly specific analysis of individual legal actions. While it mentions the number of lawsuits and the type of damages sought, it lacks details about the specific legal claims, parties involved, or the legal basis of the lawsuits. Therefore, it falls into the category of ""basic disclosure.""
+
+FINAL: text 2","text 2
+",11.0
+4,12,"The text primarily discusses the evolving regulatory landscape surrounding climate change and its potential impact on the natural gas market, focusing on policy changes and financial implications. While it mentions lawsuits and regulations, it lacks specific details about legal actions, parties involved, or the nature of the claims. It’s a general disclosure of risk rather than a specific legal analysis.
+
+FINAL: text 2","text 2
+",12.0
+4,13,"The text primarily focuses on the company's exposure to potential legal risks, including climate change lawsuits, alongside its broader financial obligations. While it mentions the existence of these lawsuits, the details are relatively sparse – the number of lawsuits, specific legal claims, and potential damages are not quantified. It lacks the precision and specific details (like court names, dates, or specific regulations) that would characterize a highly specific disclosure.
+
+FINAL: text 2","text 2
+",13.0
+4,14,"The text does not provide specific details about climate litigation, but rather mentions it as a general risk factor. The breakdown JSON is mostly empty, indicating a lack of specific information about climate litigation.
+
+FINAL: neither",neither,
+5,6,"The breakdown provides a reasonable level of detail regarding the climate litigation aspect, identifying the parties involved and the nature of the lawsuits. However, it lacks specific details about the legal claims, the jurisdictions involved, or any potential remedies sought. The information is descriptive rather than precise.
+
+FINAL: text 2","text 2
+",6.0
+5,7,"The text primarily focuses on the risks and challenges facing a company due to environmental regulations and potential litigation, rather than directly engaging in or detailing specific climate litigation actions. While it mentions lawsuits related to climate-related damages, these are presented as potential liabilities rather than the core subject of legal proceedings. The level of specificity regarding the legal actions themselves is limited.
+
+FINAL: text 2","text 2
+",7.0
+5,8,"The text primarily presents a risk assessment and disclosure regarding potential regulatory and climate-related impacts on a company's operations. While it mentions climate change and related regulations, it lacks the specific details of a legal action or challenge – such as parties involved, a court, a specific statute being litigated, or quantifiable damages sought. It’s a discussion *about* climate litigation, not an instance *of* it.
+
+FINAL: text 1","text 1
+",5.0
+5,9,"The disclosure provides a basic level of detail regarding the company's involvement in climate litigation, identifying the parties and the nature of the lawsuits. However, it lacks specific information about the legal proceedings themselves, such as the court, jurisdiction, or specific claims being made.
+
+FINAL: text 2","text 2
+",9.0
+5,10,"The text primarily focuses on financial disclosures – derivative settlements, interest rate swaps, and legal liabilities – without detailing specific climate-related legal actions, claims, or impacts. While “climate change” is mentioned as an area of litigation, it’s a broad categorization rather than a specific legal challenge. The disclosures lack the precision and specific details required to classify it as climate litigation.
+
+FINAL: text 1","text 1
+",5.0
+5,11,"Text 2 is more specific than Text 1 because it provides more detailed information about the climate litigation, including the parties involved, the type of lawsuits, and the potential risks associated with defending litigation. In contrast, Text 1 only mentions the possibility of climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,11.0
+5,12,"The text primarily discusses the potential impacts of regulatory changes related to climate change on a company's business, specifically focusing on the evolving legal and policy landscape surrounding greenhouse gas emissions and methane. While it mentions specific regulations like the Clean Air Act and the Inflation Reduction Act, and associated monetary amounts, it lacks the specific details of a legal action – no parties are named, no court is identified, and there’s no indication of a lawsuit or legal challenge. The focus is on risk assessment and disclosure rather than a concrete legal dispute.
+
+FINAL: text 2","text 2
+",12.0
+5,13,"The breakdown identifies key elements related to climate litigation – namely, the existence of lawsuits and the potential for future legal action – but lacks the precision expected of a highly specific disclosure. It mentions the number of lawsuits (four) and the potential financial impact, but doesn't offer details about the legal basis, specific claims, or the jurisdictions involved. The information is descriptive rather than detailed.
+
+FINAL: text 2","text 2
+",13.0
+5,14,"The rationale for choosing ""mention only"" is that the text mentions climate litigation, but does not provide any specific details about it, such as parties, case title, or procedural posture.
+
+FINAL: neither",neither,
+6,7,"The disclosure is basic because it identifies the presence of climate-related lawsuits and regulations but lacks specific details that would allow for verification or a deeper understanding of the legal actions and their potential impact. It mentions the general nature of the claims and the parties involved, but doesn't provide concrete anchors like case names, court locations, or quantified damages.
+
+FINAL: text 2","text 2
+",7.0
+6,8,"The text primarily presents a risk assessment and disclosure regarding environmental regulations and climate change, rather than a specific legal action or claim. While it references litigation and regulatory frameworks, it lacks the detailed specifics (parties, dates, monetary amounts, etc.) required for a ""highly specific"" classification.
+
+FINAL: text 2","text 2
+",8.0
+6,9,"The disclosure provides a basic overview of CNX's involvement in climate change lawsuits, identifying the parties and the nature of the legal actions. However, it lacks the level of detail needed to be considered a highly specific or detailed disclosure. It’s primarily a mention of the issue rather than a deep dive into the litigation itself.
+
+FINAL: text 2","text 2
+",9.0
+6,10,"The text primarily focuses on financial disclosures – commodity derivatives, interest rate swaps, and accruals for legal liabilities – rather than detailing specific climate litigation claims. While “climate change” is mentioned as an area of litigation, the disclosure lacks specifics regarding the nature of those claims, the parties involved, or any quantifiable impacts related to climate change. The information is presented in a general, aggregated manner.
+
+FINAL: text 2","text 2
+",10.0
+6,11,"Text 2 is more specific than Text 1 because it provides more concrete information about the climate litigation, including the number of lawsuits (four) and the parties involved (CNX and communities). In contrast, Text 1 only mentions the possibility of climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,11.0
+6,12,"The text primarily discusses the potential impacts of climate regulations and policies on a company’s business, particularly within the natural gas sector. While it references the evolving regulatory landscape and specific legislation like the Inflation Reduction Act, it lacks specific details about any ongoing or proposed legal challenges related to climate change. The disclosures are broad and focus on risk assessment rather than concrete litigation or legal action.
+
+FINAL: text 2","text 2
+",12.0
+6,13,"The disclosure identifies CNX as a party to climate change lawsuits, which aligns with the definition of climate litigation. However, the level of detail is limited. It mentions the lawsuits but lacks specifics like the court, jurisdiction, or the nature of the claims. It also includes broader discussions about debt obligations that aren't directly tied to climate litigation. Therefore, it’s a basic disclosure rather than a highly specific or detailed one.
+
+FINAL: text 2","text 2
+",13.0
+6,14,"Text 2 is more specific than Text 1 because it provides more details about the regulatory environment and the potential impacts of climate change on the company's business, including specific dates, statutes, and policies. However, neither text provides specific information about climate litigation.
+
+FINAL: neither",neither,
+7,8,"The text primarily presents a risk assessment and disclosure regarding environmental regulations and climate change, rather than detailing specific legal actions or claims. While it mentions potential litigation and regulatory changes, it lacks the specific details (parties, dates, monetary amounts, etc.) required to be classified as a detailed disclosure of climate litigation.
+
+FINAL: text 2","text 2
+",8.0
+7,9,"The disclosure provides a basic overview of CNX's involvement in climate change lawsuits, identifying the parties and the nature of the legal proceedings. However, it lacks specific details regarding the legal claims, the courts involved, or the potential financial implications. The information is presented at a high level and doesn't offer a level of detail that would allow for a thorough assessment of the litigation's significance.
+
+FINAL: text 2","text 2
+",9.0
+7,10,"The text primarily focuses on financial disclosures – commodity derivatives, interest rate swaps, and contingent liabilities – rather than detailing specific climate litigation claims. While “climate change” is mentioned as an area of litigation, the disclosure lacks specifics regarding the nature of those claims, the parties involved, the legal basis, or any quantifiable damages sought. It’s a general reference within a broader list of legal issues.
+
+FINAL: text 2","text 2
+",10.0
+7,11,"The text primarily focuses on the regulatory and financial challenges facing the oil and gas industry due to climate change policies, rather than detailing specific legal actions or litigation. While it mentions lawsuits, it lacks the specificity – such as case names, court locations, or precise legal arguments – needed to be considered a highly specific disclosure. It’s a general discussion of the *risk* of litigation, not the litigation itself.
+
+FINAL: text 2","text 2
+",11.0
+7,12,"The text discusses the potential impacts of climate regulations on the natural gas industry, but it lacks specific details about any legal actions or lawsuits related to climate change. It primarily focuses on regulatory changes and policy developments, rather than concrete legal disputes.
+
+FINAL: text 2","text 2
+",12.0
+7,13,"The text outlines potential legal risks related to climate change litigation involving CNX, referencing existing lawsuits and the possibility of future actions. It details the financial implications of these potential liabilities and the company's existing debt. However, it lacks specific details about the lawsuits themselves – such as the jurisdiction, specific claims, or the potential damages – and doesn't delve into the underlying climate science or policy driving the litigation. The information is presented at a high level, focusing on the potential risks rather than the specifics of the legal proceedings.
+
+FINAL: text 2","text 2
+",13.0
+7,14,"The text primarily focuses on the evolving regulatory landscape for the oil and natural gas industry, including proposed EPA rules and state initiatives like RGGI, rather than detailing specific climate litigation cases. While it mentions lawsuits, these are presented as a broader trend rather than specific legal actions with defined parties, dates, and remedies. The level of detail regarding the climate claims themselves is limited.
+
+FINAL: text 2","text 2
+",14.0
+8,9,"The disclosure provides a basic level of detail regarding the company's involvement in climate change litigation, identifying the parties and the nature of the lawsuits. However, it lacks specific information about the legal proceedings themselves, such as the court, jurisdiction, or specific claims being made.
+
+FINAL: text 2","text 2
+",9.0
+8,10,"The text primarily details financial disclosures, including commodity derivatives and legal liabilities, without providing specific details about any climate-related legal actions or claims. While ""climate change"" is mentioned as an area of litigation, it's a general reference and lacks the specificity required to classify it as climate litigation.
+
+FINAL: text 2","text 2
+",10.0
+8,11,"Text 2 is more specific than Text 1 because it provides more concrete information about the climate litigation, including the number of lawsuits and the parties involved. Text 1, on the other hand, only mentions the possibility of climate-related litigation and does not provide any specific details.
+
+FINAL: text 2",text 2,11.0
+8,12,"The text primarily describes a company's risk assessment regarding climate regulations and their potential impact on business operations. While it mentions climate change and related regulations, it lacks specific details about any legal actions or lawsuits. The disclosures are general and focus on potential future impacts rather than concrete legal challenges.
+
+FINAL: text 1","text 1
+",8.0
+8,13,"The disclosure identifies CNX as a party to climate change lawsuits, which is a relevant detail. However, it lacks the precision of a specific case, docket number, or detailed description of the legal claims. It also primarily focuses on the *risk* of litigation rather than the litigation itself.
+
+FINAL: text 2","text 2
+",13.0
+8,14,"The rationale for choosing ""mention only"" is that the text mentions climate litigation, but does not provide any specific details or anchors related to climate litigation. The text primarily discusses climate change regulations and their potential impact on the company's business, but does not provide any specific information about climate litigation.
+
+FINAL: neither",neither,
+9,10,"The disclosure provides a general reference to “climate change” as one of the areas of litigation, but lacks specific details about the nature of the claims, the parties involved, or any quantifiable impacts. While it acknowledges potential future material losses, it doesn’t offer any concrete information to assess the risk.
+
+FINAL: text 2","text 2
+",10.0
+9,11,"Text 1 provides more specific details about climate litigation, including the parties involved, the statute or policy (Regional Greenhouse Gas Initiative), and the procedural posture (lawsuits filed). In contrast, Text 2 provides more general information about climate litigation, including the parties involved (CNX and communities) and the type of lawsuits (climate change), but lacks specific details about the court, date, or quantified remedy.
+
+FINAL: text 1",text 1,9.0
+9,12,"The disclosure provides a general overview of regulatory developments related to climate change and their potential impact on the natural gas market, but lacks specific details about any legal actions or lawsuits. It primarily describes the evolving regulatory landscape and policy changes rather than detailing any concrete legal challenges.
+
+FINAL: text 2","text 2
+",12.0
+9,13,"The disclosure is basic because it identifies the existence of climate-related lawsuits but lacks specific details about the legal actions themselves – no case names, court locations, or specific allegations are provided. It primarily focuses on the potential financial risks associated with these lawsuits rather than the litigation's specifics.
+
+FINAL: text 1","text 1
+",9.0
+9,14,"I would choose the label ""mention only"" because the text only mentions climate litigation in a general sense, without providing any specific details or anchors. The text does not provide any precision, linkage, falsifiability, or contextual clarity related to climate litigation.
+
+FINAL: text 1",text 1,9.0
+10,11,"Text 2 is more specific than Text 1 because it provides more detailed information about the climate litigation, including the number of lawsuits and the parties involved. Text 1 does not provide any specific information about climate litigation, and the mention of ""Havana Docks litigation"" is not clearly related to climate change.
+
+FINAL: text 2",text 2,11.0
+10,12,"The text primarily discusses a company's concerns about regulatory changes related to climate change and their potential impact on the natural gas market. While it mentions specific regulations like the Clean Air Act and the Inflation Reduction Act, and associated monetary amounts, it lacks details about any actual legal challenges or lawsuits. The disclosures are focused on risk assessment rather than concrete legal action.
+
+FINAL: text 2","text 2
+",12.0
+10,13,"The text primarily focuses on financial disclosures and risk assessments related to CNX’s debt and potential litigation, rather than providing a detailed analysis of specific climate litigation claims. While it mentions “climate change” as an area of litigation, the information is quite general and lacks the specificity required for a “highly specific” classification. The details regarding the lawsuits are limited to the number of cases and the potential impact on the company’s finances.
+
+FINAL: text 2","text 2
+",13.0
+10,14,"The rationale for choosing ""mention only"" is that the text mentions climate litigation, but does not provide any specific details or anchors, such as parties, case title, or dates. The text only mentions that climate change is increasingly the subject of civil litigation and regulatory focus, but does not provide any further information.
+
+FINAL: neither",neither,
+11,12,"The text provides a general overview of regulatory risks related to climate change and the natural gas industry, but lacks specific details about any particular legal actions or lawsuits. It describes the evolving regulatory landscape and potential future regulations, but doesn't identify any specific cases or legal challenges.
+
+FINAL: text 2","text 2
+",12.0
+11,13,"The disclosure identifies CNX as a party to climate change lawsuits, which is relevant to climate litigation. However, it lacks specific details about the cases themselves – no court names, dates, or quantified damages are mentioned. The information is presented as a potential risk rather than a concrete legal action.
+
+FINAL: text 2","text 2
+",13.0
+11,14,"The text primarily discusses regulatory developments and industry trends related to climate change, rather than specific legal actions. While it mentions lawsuits, it lacks the detailed information – such as case names, court locations, and specific legal arguments – necessary to classify it as a highly specific disclosure of climate litigation. The information is presented in a general, descriptive manner.
+
+FINAL: text 2","text 2
+",14.0
+12,13,"The text primarily focuses on the company's exposure to potential climate litigation and related financial risks, rather than detailing specific legal actions or climate-related claims. While it mentions lawsuits and the possibility of future investigations, it lacks the precision and specific details required for a ""highly specific"" classification. The information is presented as a disclosure of potential risks, not a description of a particular legal case.
+
+FINAL: text 2","text 2
+",13.0
+12,14,"The rationale for choosing ""mention only"" is that the text mentions climate litigation, but does not provide any specific details about the litigation, such as parties, case title, or procedural posture. The text only mentions that climate change is increasingly the subject of civil litigation and regulatory focus, but does not provide any further information.
+
+FINAL: neither",neither,
+13,14,"The text does not provide specific details about climate litigation, but rather mentions it as a general risk factor. The text does not provide any specific information about parties, case titles, forums, or jurisdictions, and does not provide any checkable details or contextual clarity.
+
+FINAL: neither",neither,

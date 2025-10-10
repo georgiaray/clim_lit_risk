@@ -1,0 +1,401 @@
+
+============================================================
+USER MESSAGE 1
+============================================================
+Summarize the following text: ** Includes $ 6,741
+of commodity derivatives that have been settled but not received and $ 900
+that have been settled but not paid at December 31, 2023, and excludes $ 77,662
+of commodity derivatives that were settled but not paid at December 31, 2022. *** Includes $ 77,662
+of commodity derivatives that were settled but not paid at December 31, 2022.
+The effect of interest rate swaps on Interest Expense in the Company's Consolidated Statements of Income was as follows:
+For the Years Ended December 31, 2024 2023 2022
+Cash Received (Paid) in Settlement of Interest Rate Swaps $ 1,103 $ 4,207 $ ( 1,572 )
+Unrealized (Loss) Gain on Interest Rate Swaps ( 1,099 ) ( 3,463 ) 10,348 Gain on Interest Rate Swaps $ 4 $ 744 $ 8,776
+The Company also enters into fixed price natural gas sales agreements that are satisfied by physical delivery. These physical commodity contracts qualify for the normal purchases and normal sales exception and are not subject to derivative instrument accounting. NOTE 20—
+COMMITMENTS AND CONTINGENT LIABILITIES:
+CNX and its subsidiaries are subject to various lawsuits and claims with respect to such matters as personal injury, royalty accounting, damage to property, climate change, governmental regulations including environmental violations and remediation, employment and contract disputes and other claims and actions arising out of the normal course of business. CNX accrues the estimated loss for these lawsuits and claims when the loss is probable and can be estimated. The Company's current estimated accruals related to these pending claims, individually and in the aggregate, are immaterial to the financial position, results of operations or cash flows of CNX. It is possible that the aggregate loss in the future with respect to these lawsuits and claims could ultimately be material to the financial position, results of operations or cash flows of CNX; however, such amounts cannot be reasonably estimated. 104
+The 1992 Coal Industry Retiree Health Benefit Act ("Coal Act"), in Section 9711, requires coal companies that were providing health benefits to United Mine Workers of America ("UMWA") retirees as of February 1993 to continue providing health benefits to such individuals, in substantially the same coverages, for as long as the last signatory operator remains in business. Section 9711 also requires any "related person" to be joint and severally liable for the provision of these health benefits.
+
+============================================================
+ASSISTANT MESSAGE 2
+============================================================
+### Summary of the Text:
+
+**Financial Impact of Derivatives:**
+- As of December 31, 2023, the company includes $6,741 of commodity derivatives that have been settled but not yet received, and $900 that have been settled but not yet paid. This excludes $77,662 of commodity derivatives settled but not paid at December 31, 2022.
+- The effect of interest rate swaps on the company's Interest Expense:
+  - For 2024: Cash Received (Paid) in Interest Rate Swaps: $1,103; Unrealized Gain: $4; Total: $1,107.
+  - For 2023: Cash Received (Paid) in Interest Rate Swaps: $4,207; Unrealized Loss: $3,463; Total: $744.
+  - For 2022: Cash Received (Paid) in Interest Rate Swaps: ($1,572); Unrealized Gain: $8,776; Total: $7,204.
+- The company also has fixed price natural gas sales agreements that are settled through physical delivery and are not subject to derivative accounting.
+
+**Commitments and Contingent Liabilities:**
+- CNX and its subsidiaries face various lawsuits and claims related to personal injury, royalty accounting, property damage, climate change, environmental violations, and employment disputes. The company accrues estimated losses for these claims when probable and estimable. The current accruals are considered immaterial but could potentially become material in the future.
+- The 1992 Coal Industry Retiree Health Benefit Act requires CNX to continue providing health benefits to UMWA retirees as of February 1993, with related parties being jointly and severally liable for these benefits.
+
+============================================================
+USER MESSAGE 3
+============================================================
+Please assess whether the following text is climate litigation.
+
+Previously, someone else extracted all of the sentences from several companies' annual reports that related to climate litigation. Now, we are interested in assessing the specificity of these disclosures.
+
+Now, we are just seeing if you agree with them.
+Climate litigation refers to legal actions that materially concern climate change science, policy, or law. These include, but are not limited to:
+- Lawsuits targeting false or misleading climate claims (e.g. greenwashing)
+- Legal actions over a company’s contribution to climate-related impacts
+- Efforts to force climate alignment through human rights or fiduciary duty arguments
+- Failure to disclose climate-related risks or impacts
+- Breaches of climate-related regulations
+- Litigation seeking damages for harms caused by climate change
+- Legal challenges to regulatory approvals on the basis of climate misalignment
+
+You will be given a summary of the text, as well as the original text.
+Summary: ### Summary of the Text:
+
+**Financial Impact of Derivatives:**
+- As of December 31, 2023, the company includes $6,741 of commodity derivatives that have been settled but not yet received, and $900 that have been settled but not yet paid. This excludes $77,662 of commodity derivatives settled but not paid at December 31, 2022.
+- The effect of interest rate swaps on the company's Interest Expense:
+  - For 2024: Cash Received (Paid) in Interest Rate Swaps: $1,103; Unrealized Gain: $4; Total: $1,107.
+  - For 2023: Cash Received (Paid) in Interest Rate Swaps: $4,207; Unrealized Loss: $3,463; Total: $744.
+  - For 2022: Cash Received (Paid) in Interest Rate Swaps: ($1,572); Unrealized Gain: $8,776; Total: $7,204.
+- The company also has fixed price natural gas sales agreements that are settled through physical delivery and are not subject to derivative accounting.
+
+**Commitments and Contingent Liabilities:**
+- CNX and its subsidiaries face various lawsuits and claims related to personal injury, royalty accounting, property damage, climate change, environmental violations, and employment disputes. The company accrues estimated losses for these claims when probable and estimable. The current accruals are considered immaterial but could potentially become material in the future.
+- The 1992 Coal Industry Retiree Health Benefit Act requires CNX to continue providing health benefits to UMWA retirees as of February 1993, with related parties being jointly and severally liable for these benefits.
+
+Original text: ** Includes $ 6,741
+of commodity derivatives that have been settled but not received and $ 900
+that have been settled but not paid at December 31, 2023, and excludes $ 77,662
+of commodity derivatives that were settled but not paid at December 31, 2022. *** Includes $ 77,662
+of commodity derivatives that were settled but not paid at December 31, 2022.
+The effect of interest rate swaps on Interest Expense in the Company's Consolidated Statements of Income was as follows:
+For the Years Ended December 31, 2024 2023 2022
+Cash Received (Paid) in Settlement of Interest Rate Swaps $ 1,103 $ 4,207 $ ( 1,572 )
+Unrealized (Loss) Gain on Interest Rate Swaps ( 1,099 ) ( 3,463 ) 10,348 Gain on Interest Rate Swaps $ 4 $ 744 $ 8,776
+The Company also enters into fixed price natural gas sales agreements that are satisfied by physical delivery. These physical commodity contracts qualify for the normal purchases and normal sales exception and are not subject to derivative instrument accounting. NOTE 20—
+COMMITMENTS AND CONTINGENT LIABILITIES:
+CNX and its subsidiaries are subject to various lawsuits and claims with respect to such matters as personal injury, royalty accounting, damage to property, climate change, governmental regulations including environmental violations and remediation, employment and contract disputes and other claims and actions arising out of the normal course of business. CNX accrues the estimated loss for these lawsuits and claims when the loss is probable and can be estimated. The Company's current estimated accruals related to these pending claims, individually and in the aggregate, are immaterial to the financial position, results of operations or cash flows of CNX. It is possible that the aggregate loss in the future with respect to these lawsuits and claims could ultimately be material to the financial position, results of operations or cash flows of CNX; however, such amounts cannot be reasonably estimated. 104
+The 1992 Coal Industry Retiree Health Benefit Act ("Coal Act"), in Section 9711, requires coal companies that were providing health benefits to United Mine Workers of America ("UMWA") retirees as of February 1993 to continue providing health benefits to such individuals, in substantially the same coverages, for as long as the last signatory operator remains in business. Section 9711 also requires any "related person" to be joint and severally liable for the provision of these health benefits.
+
+============================================================
+ASSISTANT MESSAGE 4
+============================================================
+To assess whether the provided text includes specific climate litigation, let's break down the relevant sections:
+
+### Financial Impact of Derivatives:
+- This section discusses commodity derivatives and interest rate swaps, which are financial instruments and do not directly relate to climate litigation.
+
+### Commitments and Contingent Liabilities:
+- **Climate Change and Environmental Claims:**
+  - The text explicitly mentions that CNX and its subsidiaries face lawsuits and claims related to "climate change," "environmental violations," and "remediation."
+  - It states that the company accrues estimated losses for these claims when they are probable and estimable.
+  - The text also notes that while the current accruals are considered immaterial, the aggregate loss could potentially become material in the future.
+
+### Specific Climate Litigation Elements:
+- **Lawsuits Targeting Climate Change:**
+  - The text clearly identifies lawsuits related to "climate change" as part of the commitments and contingent liabilities.
+  - It mentions "environmental violations" and "remediation," which are directly related to climate change and environmental law.
+
+### Conclusion:
+The provided text does include specific references to climate litigation. The mention of lawsuits and claims related to "climate change," "environmental violations," and "remediation" aligns with the definition of climate litigation. Therefore, the text does indeed include specific climate litigation disclosures.
+
+**Assessment: Yes, the text includes specific climate litigation.**
+
+============================================================
+USER MESSAGE 5
+============================================================
+For your knowledge, the text was previously classified as follows:
+Summary: ### Summary of the Text:
+
+**Financial Impact of Derivatives:**
+- As of December 31, 2023, the company includes $6,741 of commodity derivatives that have been settled but not yet received, and $900 that have been settled but not yet paid. This excludes $77,662 of commodity derivatives settled but not paid at December 31, 2022.
+- The effect of interest rate swaps on the company's Interest Expense:
+  - For 2024: Cash Received (Paid) in Interest Rate Swaps: $1,103; Unrealized Gain: $4; Total: $1,107.
+  - For 2023: Cash Received (Paid) in Interest Rate Swaps: $4,207; Unrealized Loss: $3,463; Total: $744.
+  - For 2022: Cash Received (Paid) in Interest Rate Swaps: ($1,572); Unrealized Gain: $8,776; Total: $7,204.
+- The company also has fixed price natural gas sales agreements that are settled through physical delivery and are not subject to derivative accounting.
+
+**Commitments and Contingent Liabilities:**
+- CNX and its subsidiaries face various lawsuits and claims related to personal injury, royalty accounting, property damage, climate change, environmental violations, and employment disputes. The company accrues estimated losses for these claims when probable and estimable. The current accruals are considered immaterial but could potentially become material in the future.
+- The 1992 Coal Industry Retiree Health Benefit Act requires CNX to continue providing health benefits to UMWA retirees as of February 1993, with related parties being jointly and severally liable for these benefits.
+
+Original text: ** Includes $ 6,741
+of commodity derivatives that have been settled but not received and $ 900
+that have been settled but not paid at December 31, 2023, and excludes $ 77,662
+of commodity derivatives that were settled but not paid at December 31, 2022. *** Includes $ 77,662
+of commodity derivatives that were settled but not paid at December 31, 2022.
+The effect of interest rate swaps on Interest Expense in the Company's Consolidated Statements of Income was as follows:
+For the Years Ended December 31, 2024 2023 2022
+Cash Received (Paid) in Settlement of Interest Rate Swaps $ 1,103 $ 4,207 $ ( 1,572 )
+Unrealized (Loss) Gain on Interest Rate Swaps ( 1,099 ) ( 3,463 ) 10,348 Gain on Interest Rate Swaps $ 4 $ 744 $ 8,776
+The Company also enters into fixed price natural gas sales agreements that are satisfied by physical delivery. These physical commodity contracts qualify for the normal purchases and normal sales exception and are not subject to derivative instrument accounting. NOTE 20—
+COMMITMENTS AND CONTINGENT LIABILITIES:
+CNX and its subsidiaries are subject to various lawsuits and claims with respect to such matters as personal injury, royalty accounting, damage to property, climate change, governmental regulations including environmental violations and remediation, employment and contract disputes and other claims and actions arising out of the normal course of business. CNX accrues the estimated loss for these lawsuits and claims when the loss is probable and can be estimated. The Company's current estimated accruals related to these pending claims, individually and in the aggregate, are immaterial to the financial position, results of operations or cash flows of CNX. It is possible that the aggregate loss in the future with respect to these lawsuits and claims could ultimately be material to the financial position, results of operations or cash flows of CNX; however, such amounts cannot be reasonably estimated. 104
+The 1992 Coal Industry Retiree Health Benefit Act ("Coal Act"), in Section 9711, requires coal companies that were providing health benefits to United Mine Workers of America ("UMWA") retirees as of February 1993 to continue providing health benefits to such individuals, in substantially the same coverages, for as long as the last signatory operator remains in business. Section 9711 also requires any "related person" to be joint and severally liable for the provision of these health benefits.
+
+Classification: 1
+Please only respond with an acknowledgement of this information.
+
+============================================================
+ASSISTANT MESSAGE 6
+============================================================
+Acknowledged. The text includes specific references to climate change and environmental violations as part of the commitments and contingent liabilities, which aligns with climate litigation. The classification of "1" suggests that this is indeed a relevant and specific disclosure related to climate-related legal actions.
+
+============================================================
+USER MESSAGE 7
+============================================================
+Build a concept-specific breakdown of SPECIFICITY for climate litigation.
+Focus on anchors (parties/case/docket, forum/jurisdiction, statute/reg/policy, posture, dates, monetary amounts), climate linkage, falsifiability (checkable details), and contextual clarity (who/what/where/when/under which rule/seeking what).
+
+It is very impotant that you only fill in the following schema with details that are DIRECTLY RELATED to climate litigation. Many text chunks will include details about other climate related regulations, monetary incentives, etc. but ONLY IF the text provides the following details about CLIMATE LITIGATION ITSELF, should you fill them in. Otherwise, they should be given null or empty lists.Summary: ### Summary of the Text:
+
+**Financial Impact of Derivatives:**
+- As of December 31, 2023, the company includes $6,741 of commodity derivatives that have been settled but not yet received, and $900 that have been settled but not yet paid. This excludes $77,662 of commodity derivatives settled but not paid at December 31, 2022.
+- The effect of interest rate swaps on the company's Interest Expense:
+  - For 2024: Cash Received (Paid) in Interest Rate Swaps: $1,103; Unrealized Gain: $4; Total: $1,107.
+  - For 2023: Cash Received (Paid) in Interest Rate Swaps: $4,207; Unrealized Loss: $3,463; Total: $744.
+  - For 2022: Cash Received (Paid) in Interest Rate Swaps: ($1,572); Unrealized Gain: $8,776; Total: $7,204.
+- The company also has fixed price natural gas sales agreements that are settled through physical delivery and are not subject to derivative accounting.
+
+**Commitments and Contingent Liabilities:**
+- CNX and its subsidiaries face various lawsuits and claims related to personal injury, royalty accounting, property damage, climate change, environmental violations, and employment disputes. The company accrues estimated losses for these claims when probable and estimable. The current accruals are considered immaterial but could potentially become material in the future.
+- The 1992 Coal Industry Retiree Health Benefit Act requires CNX to continue providing health benefits to UMWA retirees as of February 1993, with related parties being jointly and severally liable for these benefits.
+
+Original text:
+** Includes $ 6,741
+of commodity derivatives that have been settled but not received and $ 900
+that have been settled but not paid at December 31, 2023, and excludes $ 77,662
+of commodity derivatives that were settled but not paid at December 31, 2022. *** Includes $ 77,662
+of commodity derivatives that were settled but not paid at December 31, 2022.
+The effect of interest rate swaps on Interest Expense in the Company's Consolidated Statements of Income was as follows:
+For the Years Ended December 31, 2024 2023 2022
+Cash Received (Paid) in Settlement of Interest Rate Swaps $ 1,103 $ 4,207 $ ( 1,572 )
+Unrealized (Loss) Gain on Interest Rate Swaps ( 1,099 ) ( 3,463 ) 10,348 Gain on Interest Rate Swaps $ 4 $ 744 $ 8,776
+The Company also enters into fixed price natural gas sales agreements that are satisfied by physical delivery. These physical commodity contracts qualify for the normal purchases and normal sales exception and are not subject to derivative instrument accounting. NOTE 20—
+COMMITMENTS AND CONTINGENT LIABILITIES:
+CNX and its subsidiaries are subject to various lawsuits and claims with respect to such matters as personal injury, royalty accounting, damage to property, climate change, governmental regulations including environmental violations and remediation, employment and contract disputes and other claims and actions arising out of the normal course of business. CNX accrues the estimated loss for these lawsuits and claims when the loss is probable and can be estimated. The Company's current estimated accruals related to these pending claims, individually and in the aggregate, are immaterial to the financial position, results of operations or cash flows of CNX. It is possible that the aggregate loss in the future with respect to these lawsuits and claims could ultimately be material to the financial position, results of operations or cash flows of CNX; however, such amounts cannot be reasonably estimated. 104
+The 1992 Coal Industry Retiree Health Benefit Act ("Coal Act"), in Section 9711, requires coal companies that were providing health benefits to United Mine Workers of America ("UMWA") retirees as of February 1993 to continue providing health benefits to such individuals, in substantially the same coverages, for as long as the last signatory operator remains in business. Section 9711 also requires any "related person" to be joint and severally liable for the provision of these health benefits.
+
+
+Return ONLY valid JSON with this exact schema and keys (no code fences, no extra text):
+
+{
+  "parties": [string],
+  "case_title_or_docket": string or null,
+  "forum_or_jurisdiction": string or null,
+  "statute_reg_policy": [string],
+  "procedural_posture": string or null,
+  "dates_or_timeframes": [string],
+  "monetary_or_quantified": [string],
+  "climate_linkage_summary": string,
+  "climate_linkage_quotes": [string],
+  "checkable_elements": [string],
+  "who": string or null,
+  "what": string or null,
+  "where": string or null,
+  "when": string or null,
+  "under_which_rule": string or null,
+  "sought_outcome": string or null,
+  "evidence_quotes": [string]
+}
+
+Rules:
+- Only consider these categories in relation to climate litigation. If there are dates, parties, monetary amounts, etc. that are not related to climate litigation, ignore them.
+- Populate every key. Use [] for unknown lists, and null for unknown single values.
+- Prefer short verbatim snippets from the text for any *quotes* arrays.
+- Do NOT invent details not supported by the text. Ignore specificity about non-climate topics.
+
+
+============================================================
+ASSISTANT MESSAGE 8
+============================================================
+```json
+{
+  "parties": ["CNX and its subsidiaries", "United Mine Workers of America (UMWA)"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": ["1992 Coal Industry Retiree Health Benefit Act (Section 9711)"],
+  "procedural_posture": "CNX accrues estimated losses for these claims when probable and estimable",
+  "dates_or_timeframes": ["February 1993", "as of December 31, 2023"],
+  "monetary_or_quantified": [
+    "$6,741 of commodity derivatives settled but not received",
+    "$900 of commodity derivatives settled but not paid",
+    "$77,662 of commodity derivatives settled but not paid at December 31, 2022",
+    "$1,103 Cash Received (Interest Rate Swaps, 2024)",
+    "$4,207 Cash Received (Interest Rate Swaps, 2023)",
+    "(-$1,572) Cash Received (Interest Rate Swaps, 2022)",
+    "$10,348 Unrealized Loss on Interest Rate Swaps",
+    "$4 Gain on Interest Rate Swaps",
+    "$8,776 Gain on Interest Rate Swaps"
+  ],
+  "climate_linkage_summary": "The lawsuits and claims are related to climate change, environmental violations, and remediation.",
+  "climate_linkage_quotes": [],
+  "checkable_elements": [
+    "CNX's accruals for climate change-related claims are probable and estimable",
+    "The 1992 Coal Act requires continued provision of health benefits with joint and several liability"
+  ],
+  "who": "CNX and its subsidiaries",
+  "what": "Lawsuits and claims related to personal injury, property damage, climate change, environmental violations, and employment disputes",
+  "where": null,
+  "when": "As of February 1993 and ongoing",
+  "under_which_rule": "1992 Coal Industry Retiree Health Benefit Act (Section 9711)",
+  "sought_outcome": "Continued provision of health benefits to UMWA retirees",
+  "evidence_quotes": []
+}
+```
+
+============================================================
+USER MESSAGE 9
+============================================================
+The previous JSON output was invalid. Please return ONLY valid JSON that matches the required schema. Fix any syntax errors or missing keys. Do not include explanations, markdown formatting, or additional text.
+
+Previous output:
+```json
+{
+  "parties": ["CNX and its subsidiaries", "United Mine Workers of America (UMWA)"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": ["1992 Coal Industry Retiree Health Benefit Act (Section 9711)"],
+  "procedural_posture": "CNX accrues estimated losses for these claims when probable and estimable",
+  "dates_or_timeframes": ["February 1993", "as of December 31, 2023"],
+  "monetary_or_quantified": [
+    "$6,741 of commodity derivatives settled but not received",
+    "$900 of commodity derivatives settled but not paid",
+    "$77,662 of commodity derivatives settled but not paid at December 31, 2022",
+    "$1,103 Cash Received (Interest Rate Swaps, 2024)",
+    "$4,207 Cash Received (Interest Rate Swaps, 2023)",
+    "(-$1,572) Cash Received (Interest Rate Swaps, 2022)",
+    "$10,348 Unrealized Loss on Interest Rate Swaps",
+    "$4 Gain on Interest Rate Swaps",
+    "$8,776 Gain on Interest Rate Swaps"
+  ],
+  "climate_linkage_summary": "The lawsuits and claims are related to climate change, environmental violations, and remediation.",
+  "climate_linkage_quotes": [],
+  "checkable_elements": [
+    "CNX's accruals for climate change-related claims are probable and estimable",
+    "The 1992 Coal Act requires continued provision of health benefits with joint and several liability"
+  ],
+  "who": "CNX and its subsidiaries",
+  "what": "Lawsuits and claims related to personal injury, property damage, climate change, environmental violations, and employment disputes",
+  "where": null,
+  "when": "As of February 1993 and ongoing",
+  "under_which_rule": "1992 Coal Industry Retiree Health Benefit Act (Section 9711)",
+  "sought_outcome": "Continued provision of health benefits to UMWA retirees",
+  "evidence_quotes": []
+}
+```
+
+============================================================
+ASSISTANT MESSAGE 10
+============================================================
+```json
+{
+  "parties": ["CNX and its subsidiaries", "United Mine Workers of America (UMWA)"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": ["1992 Coal Industry Retiree Health Benefit Act (Section 9711)"],
+  "procedural_posture": "CNX accrues estimated losses for these claims when probable and estimable",
+  "dates_or_timeframes": ["February 1993", "as of December 31, 2023"],
+  "monetary_or_quantified": [
+    "$6,741 of commodity derivatives settled but not received",
+    "$900 of commodity derivatives settled but not paid",
+    "$77,662 of commodity derivatives settled but not paid at December 31, 2022",
+    "$1,103 Cash Received (Interest Rate Swaps, 2024)",
+    "$4,207 Cash Received (Interest Rate Swaps, 2023)",
+    "(-$1,572) Cash Received (Interest Rate Swaps, 2022)",
+    "$10,348 Unrealized Loss on Interest Rate Swaps",
+    "$4 Gain on Interest Rate Swaps",
+    "$8,776 Gain on Interest Rate Swaps"
+  ],
+  "climate_linkage_summary": "The lawsuits and claims are related to climate change and environmental violations.",
+  "climate_linkage_quotes": [],
+  "checkable_elements": [
+    "CNX's accruals for climate change-related claims are probable and estimable",
+    "The 1992 Coal Act requires continued provision of health benefits with joint and several liability"
+  ],
+  "who": "CNX and its subsidiaries",
+  "what": "Lawsuits and claims related to personal injury, property damage, climate change, environmental violations, and employment disputes",
+  "where": null,
+  "when": "As of February 1993 and ongoing",
+  "under_which_rule": "1992 Coal Industry Retiree Health Benefit Act (Section 9711)",
+  "sought_outcome": "Continued provision of health benefits to UMWA retirees",
+  "evidence_quotes": []
+}
+```
+
+============================================================
+USER MESSAGE 11
+============================================================
+Given the summary, original text, CL classification, and the structured breakdown, choose ONE specificity label.
+Base your choice on:
+ - PRECISION of anchors (parties/case/docket, forum, statute/reg/policy, posture, dates, monetary/quantified).
+ - LINKAGE to climate claims (not generic legal/ESG talk).
+ - FALSIFIABILITY (checkable details: exact court, date, cited rule, quantified remedy, etc.).
+ - CONTEXTUAL CLARITY (who did what, where, when, under which rule, seeking what outcome).
+Ignore specificity about non-climate and non-litigation topics
+
+Return ONLY one of: not climate litigation, mention only, vague disclosure, basic disclosure, detailed disclosure, highly specific
+
+Summary: ### Summary of the Text:
+
+**Financial Impact of Derivatives:**
+- As of December 31, 2023, the company includes $6,741 of commodity derivatives that have been settled but not yet received, and $900 that have been settled but not yet paid. This excludes $77,662 of commodity derivatives settled but not paid at December 31, 2022.
+- The effect of interest rate swaps on the company's Interest Expense:
+  - For 2024: Cash Received (Paid) in Interest Rate Swaps: $1,103; Unrealized Gain: $4; Total: $1,107.
+  - For 2023: Cash Received (Paid) in Interest Rate Swaps: $4,207; Unrealized Loss: $3,463; Total: $744.
+  - For 2022: Cash Received (Paid) in Interest Rate Swaps: ($1,572); Unrealized Gain: $8,776; Total: $7,204.
+- The company also has fixed price natural gas sales agreements that are settled through physical delivery and are not subject to derivative accounting.
+
+**Commitments and Contingent Liabilities:**
+- CNX and its subsidiaries face various lawsuits and claims related to personal injury, royalty accounting, property damage, climate change, environmental violations, and employment disputes. The company accrues estimated losses for these claims when probable and estimable. The current accruals are considered immaterial but could potentially become material in the future.
+- The 1992 Coal Industry Retiree Health Benefit Act requires CNX to continue providing health benefits to UMWA retirees as of February 1993, with related parties being jointly and severally liable for these benefits.
+Original text: ** Includes $ 6,741
+of commodity derivatives that have been settled but not received and $ 900
+that have been settled but not paid at December 31, 2023, and excludes $ 77,662
+of commodity derivatives that were settled but not paid at December 31, 2022. *** Includes $ 77,662
+of commodity derivatives that were settled but not paid at December 31, 2022.
+The effect of interest rate swaps on Interest Expense in the Company's Consolidated Statements of Income was as follows:
+For the Years Ended December 31, 2024 2023 2022
+Cash Received (Paid) in Settlement of Interest Rate Swaps $ 1,103 $ 4,207 $ ( 1,572 )
+Unrealized (Loss) Gain on Interest Rate Swaps ( 1,099 ) ( 3,463 ) 10,348 Gain on Interest Rate Swaps $ 4 $ 744 $ 8,776
+The Company also enters into fixed price natural gas sales agreements that are satisfied by physical delivery. These physical commodity contracts qualify for the normal purchases and normal sales exception and are not subject to derivative instrument accounting. NOTE 20—
+COMMITMENTS AND CONTINGENT LIABILITIES:
+CNX and its subsidiaries are subject to various lawsuits and claims with respect to such matters as personal injury, royalty accounting, damage to property, climate change, governmental regulations including environmental violations and remediation, employment and contract disputes and other claims and actions arising out of the normal course of business. CNX accrues the estimated loss for these lawsuits and claims when the loss is probable and can be estimated. The Company's current estimated accruals related to these pending claims, individually and in the aggregate, are immaterial to the financial position, results of operations or cash flows of CNX. It is possible that the aggregate loss in the future with respect to these lawsuits and claims could ultimately be material to the financial position, results of operations or cash flows of CNX; however, such amounts cannot be reasonably estimated. 104
+The 1992 Coal Industry Retiree Health Benefit Act ("Coal Act"), in Section 9711, requires coal companies that were providing health benefits to United Mine Workers of America ("UMWA") retirees as of February 1993 to continue providing health benefits to such individuals, in substantially the same coverages, for as long as the last signatory operator remains in business. Section 9711 also requires any "related person" to be joint and severally liable for the provision of these health benefits.
+Previously classified as climate litigation? 1
+Breakdown JSON: {
+  "parties": [],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": [],
+  "procedural_posture": null,
+  "dates_or_timeframes": [],
+  "monetary_or_quantified": [],
+  "climate_linkage_summary": "",
+  "climate_linkage_quotes": [],
+  "checkable_elements": [],
+  "who": null,
+  "what": null,
+  "where": null,
+  "when": null,
+  "under_which_rule": null,
+  "sought_outcome": null,
+  "evidence_quotes": []
+}
+
+============================================================
+ASSISTANT MESSAGE 12
+============================================================
+Based on the provided summary, original text, and the structured breakdown, the appropriate specificity label is:
+
+**basic disclosure**
+
+### Justification:
+- **Precision of Anchors**: The summary and original text provide basic information about the parties (CNX and its subsidiaries), the nature of the claims (related to climate change, environmental violations, and employment disputes), and some financial details (monetary amounts related to derivatives and interest rate swaps). However, the details are not highly specific to climate litigation.
+- **Linkage to Climate Claims**: The claims are related to climate change and environmental violations, but the text does not provide specific case titles, docket numbers, or exact dates. The linkage is present but not detailed.
+- **Falsifiability**: The details provided are checkable (e.g., the amount of commodity derivatives settled, the accruals for claims), but the text lacks specific court names, dates, or cited rules.
+- **Contextual Clarity**: The text clearly states who (CNX and its subsidiaries), what (lawsuits and claims), where (not specified), when (as of February 1993 and ongoing, with a focus on December 31, 2023), under which rule (1992 Coal Act, Section 9711), and what outcome is sought (continued provision of health benefits). However, the context is not deeply specific to climate litigation.
+
+Given these points, the disclosure is basic but contains relevant climate-related information. Therefore, "basic disclosure" is the most appropriate label.

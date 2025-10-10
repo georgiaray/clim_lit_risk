@@ -1,0 +1,336 @@
+
+============================================================
+USER MESSAGE 1
+============================================================
+Summarize the following text: or other countries’ foreign travel policy have affected, and may continue to affect our results of operations.
+Changes in U.S. and other countries' foreign policy have in the past and could in the future result in the imposition of travel restrictions or travel bans on persons to certain countries or result in the imposition of travel advisories, warnings, rules, regulations or legislation exposing us to penalties or claims of monetary damages. In addition, some countries have previously adopted restrictions against U.S. travelers. The timing and scope of these changes and regulations can be unpredictable, and they could cause us to cancel scheduled sailings, possibly on short notice, or could result in litigation against us. This, in turn, could decrease our revenue, increase our operating costs and otherwise impair our profitability.
+Factors associated with climate change, including an increasing global regulatory focus, could adversely affect our business.
+There is increasing global regulatory focus on climate change, greenhouse gas and other emissions, and new laws and regulations are expanding mandatory disclosure, reporting and diligence requirements. These regulatory efforts, both internationally, regionally and nationally, are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business. However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has enacted parts of a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to purchase emission allowances, increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power.
+In addition, various state, regional and foreign government or regulatory agencies have enacted, or may enact, environmental regulations or policies, such as requiring the use of low sulfur fuels (e.g., IMO Sulfur Limit) or the carbon intensity indicator regulation ("CII"), that have or could increase our direct cost to operate in certain markets, increase our cost of fuel, limit the supply of compliant fuel, cause us to incur significant expenses to purchase and/or develop new equipment and adversely impact the cruise vacation industry.
+
+============================================================
+ASSISTANT MESSAGE 2
+============================================================
+The text outlines several key risks and challenges facing the company, primarily related to foreign travel policies and climate change regulations:
+
+1. **Foreign Travel Policies:**
+   - Changes in U.S. and other countries' foreign travel policies can lead to travel restrictions, bans, or advisories.
+   - These changes can result in canceled sailings, litigation, decreased revenue, increased operating costs, and impaired profitability.
+   - The timing and scope of these changes are unpredictable, adding to the risk.
+
+2. **Climate Change Regulations:**
+   - There is a growing global focus on climate change, leading to new and evolving regulations.
+   - These regulations may require the company to reduce emissions, pay for emissions, modify itineraries, and face potential litigation.
+   - The company anticipates increased operating costs, including higher fuel costs, due to requirements like purchasing emission allowances, using low-carbon fuels, and connecting to shore power.
+   - Specific examples include the European Union's Fit for 55 package, which mandates emission reductions and the use of low-carbon fuels.
+
+3. **Environmental Regulations:**
+   - Various state, regional, and foreign agencies have or may enact environmental regulations, such as requirements for low sulfur fuels (e.g., IMO Sulfur Limit) and carbon intensity indicators (CII).
+   - These regulations can increase direct operating costs, limit fuel supply, increase expenses for new equipment, and negatively impact the cruise industry.
+
+In summary, the company faces significant risks from both foreign travel policy changes and evolving climate change regulations, which could impact its operations, profitability, and financial performance.
+
+============================================================
+USER MESSAGE 3
+============================================================
+Please assess whether the following text is climate litigation.
+
+Previously, someone else extracted all of the sentences from several companies' annual reports that related to climate litigation. Now, we are interested in assessing the specificity of these disclosures.
+
+Now, we are just seeing if you agree with them.
+Climate litigation refers to legal actions that materially concern climate change science, policy, or law. These include, but are not limited to:
+- Lawsuits targeting false or misleading climate claims (e.g. greenwashing)
+- Legal actions over a company’s contribution to climate-related impacts
+- Efforts to force climate alignment through human rights or fiduciary duty arguments
+- Failure to disclose climate-related risks or impacts
+- Breaches of climate-related regulations
+- Litigation seeking damages for harms caused by climate change
+- Legal challenges to regulatory approvals on the basis of climate misalignment
+
+You will be given a summary of the text, as well as the original text.
+Summary: The text outlines several key risks and challenges facing the company, primarily related to foreign travel policies and climate change regulations:
+
+1. **Foreign Travel Policies:**
+   - Changes in U.S. and other countries' foreign travel policies can lead to travel restrictions, bans, or advisories.
+   - These changes can result in canceled sailings, litigation, decreased revenue, increased operating costs, and impaired profitability.
+   - The timing and scope of these changes are unpredictable, adding to the risk.
+
+2. **Climate Change Regulations:**
+   - There is a growing global focus on climate change, leading to new and evolving regulations.
+   - These regulations may require the company to reduce emissions, pay for emissions, modify itineraries, and face potential litigation.
+   - The company anticipates increased operating costs, including higher fuel costs, due to requirements like purchasing emission allowances, using low-carbon fuels, and connecting to shore power.
+   - Specific examples include the European Union's Fit for 55 package, which mandates emission reductions and the use of low-carbon fuels.
+
+3. **Environmental Regulations:**
+   - Various state, regional, and foreign agencies have or may enact environmental regulations, such as requirements for low sulfur fuels (e.g., IMO Sulfur Limit) and carbon intensity indicators (CII).
+   - These regulations can increase direct operating costs, limit fuel supply, increase expenses for new equipment, and negatively impact the cruise industry.
+
+In summary, the company faces significant risks from both foreign travel policy changes and evolving climate change regulations, which could impact its operations, profitability, and financial performance.
+
+Original text: or other countries’ foreign travel policy have affected, and may continue to affect our results of operations.
+Changes in U.S. and other countries' foreign policy have in the past and could in the future result in the imposition of travel restrictions or travel bans on persons to certain countries or result in the imposition of travel advisories, warnings, rules, regulations or legislation exposing us to penalties or claims of monetary damages. In addition, some countries have previously adopted restrictions against U.S. travelers. The timing and scope of these changes and regulations can be unpredictable, and they could cause us to cancel scheduled sailings, possibly on short notice, or could result in litigation against us. This, in turn, could decrease our revenue, increase our operating costs and otherwise impair our profitability.
+Factors associated with climate change, including an increasing global regulatory focus, could adversely affect our business.
+There is increasing global regulatory focus on climate change, greenhouse gas and other emissions, and new laws and regulations are expanding mandatory disclosure, reporting and diligence requirements. These regulatory efforts, both internationally, regionally and nationally, are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business. However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has enacted parts of a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to purchase emission allowances, increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power.
+In addition, various state, regional and foreign government or regulatory agencies have enacted, or may enact, environmental regulations or policies, such as requiring the use of low sulfur fuels (e.g., IMO Sulfur Limit) or the carbon intensity indicator regulation ("CII"), that have or could increase our direct cost to operate in certain markets, increase our cost of fuel, limit the supply of compliant fuel, cause us to incur significant expenses to purchase and/or develop new equipment and adversely impact the cruise vacation industry.
+
+============================================================
+ASSISTANT MESSAGE 4
+============================================================
+To assess whether the provided text specifically addresses climate litigation, let's break down the relevant sections:
+
+### Climate Change Regulations Section:
+- **Climate Change Regulations:**
+  - The text mentions that new and evolving regulations may require the company to reduce emissions, pay for emissions, modify itineraries, and face potential litigation.
+  - It specifically states: "These regulations may require the company to reduce emissions, pay for emissions, modify itineraries, and face potential litigation."
+  - The example provided is the European Union's Fit for 55 package, which mandates emission reductions and the use of low-carbon fuels, potentially leading to litigation.
+
+### Environmental Regulations Section:
+- **Environmental Regulations:**
+  - This section discusses various regulations that could increase operating costs and impact the cruise industry.
+  - While it mentions "climate change-related litigation" in a broader context, it does not specifically detail legal actions or lawsuits.
+
+### Key Points:
+1. **Direct Mention of Litigation:**
+   - The text explicitly mentions the possibility of "potential litigation" due to climate change regulations.
+   - It provides a specific example (Fit for 55 package) where such litigation is anticipated.
+
+2. **Scope of Climate Change Risks:**
+   - The text covers a broader range of climate change-related risks, including emissions reduction, payment for emissions, and itinerary modifications, all of which can lead to litigation.
+
+### Conclusion:
+The provided text does address climate litigation, albeit indirectly through the mention of potential litigation as a consequence of climate change regulations. The specific reference to litigation in the context of regulatory requirements and examples like the European Union's Fit for 55 package clearly indicates that the company is at risk of climate change-related legal actions.
+
+**Assessment:**
+Yes, the text does address climate litigation, though it is not the primary focus. The potential for litigation is a significant risk highlighted in the context of evolving climate change regulations.
+
+============================================================
+USER MESSAGE 5
+============================================================
+For your knowledge, the text was previously classified as follows:
+Summary: The text outlines several key risks and challenges facing the company, primarily related to foreign travel policies and climate change regulations:
+
+1. **Foreign Travel Policies:**
+   - Changes in U.S. and other countries' foreign travel policies can lead to travel restrictions, bans, or advisories.
+   - These changes can result in canceled sailings, litigation, decreased revenue, increased operating costs, and impaired profitability.
+   - The timing and scope of these changes are unpredictable, adding to the risk.
+
+2. **Climate Change Regulations:**
+   - There is a growing global focus on climate change, leading to new and evolving regulations.
+   - These regulations may require the company to reduce emissions, pay for emissions, modify itineraries, and face potential litigation.
+   - The company anticipates increased operating costs, including higher fuel costs, due to requirements like purchasing emission allowances, using low-carbon fuels, and connecting to shore power.
+   - Specific examples include the European Union's Fit for 55 package, which mandates emission reductions and the use of low-carbon fuels.
+
+3. **Environmental Regulations:**
+   - Various state, regional, and foreign agencies have or may enact environmental regulations, such as requirements for low sulfur fuels (e.g., IMO Sulfur Limit) and carbon intensity indicators (CII).
+   - These regulations can increase direct operating costs, limit fuel supply, increase expenses for new equipment, and negatively impact the cruise industry.
+
+In summary, the company faces significant risks from both foreign travel policy changes and evolving climate change regulations, which could impact its operations, profitability, and financial performance.
+
+Original text: or other countries’ foreign travel policy have affected, and may continue to affect our results of operations.
+Changes in U.S. and other countries' foreign policy have in the past and could in the future result in the imposition of travel restrictions or travel bans on persons to certain countries or result in the imposition of travel advisories, warnings, rules, regulations or legislation exposing us to penalties or claims of monetary damages. In addition, some countries have previously adopted restrictions against U.S. travelers. The timing and scope of these changes and regulations can be unpredictable, and they could cause us to cancel scheduled sailings, possibly on short notice, or could result in litigation against us. This, in turn, could decrease our revenue, increase our operating costs and otherwise impair our profitability.
+Factors associated with climate change, including an increasing global regulatory focus, could adversely affect our business.
+There is increasing global regulatory focus on climate change, greenhouse gas and other emissions, and new laws and regulations are expanding mandatory disclosure, reporting and diligence requirements. These regulatory efforts, both internationally, regionally and nationally, are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business. However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has enacted parts of a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to purchase emission allowances, increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power.
+In addition, various state, regional and foreign government or regulatory agencies have enacted, or may enact, environmental regulations or policies, such as requiring the use of low sulfur fuels (e.g., IMO Sulfur Limit) or the carbon intensity indicator regulation ("CII"), that have or could increase our direct cost to operate in certain markets, increase our cost of fuel, limit the supply of compliant fuel, cause us to incur significant expenses to purchase and/or develop new equipment and adversely impact the cruise vacation industry.
+
+Classification: 1
+Please only respond with an acknowledgement of this information.
+
+============================================================
+ASSISTANT MESSAGE 6
+============================================================
+Acknowledged. The text has been classified as 1, indicating it primarily addresses risks and challenges related to foreign travel policies and climate change regulations, including the potential for climate change-related litigation.
+
+============================================================
+USER MESSAGE 7
+============================================================
+Build a concept-specific breakdown of SPECIFICITY for climate litigation.
+Focus on anchors (parties/case/docket, forum/jurisdiction, statute/reg/policy, posture, dates, monetary amounts), climate linkage, falsifiability (checkable details), and contextual clarity (who/what/where/when/under which rule/seeking what).
+
+It is very impotant that you only fill in the following schema with details that are DIRECTLY RELATED to climate litigation. Many text chunks will include details about other climate related regulations, monetary incentives, etc. but ONLY IF the text provides the following details about CLIMATE LITIGATION ITSELF, should you fill them in. Otherwise, they should be given null or empty lists.Summary: The text outlines several key risks and challenges facing the company, primarily related to foreign travel policies and climate change regulations:
+
+1. **Foreign Travel Policies:**
+   - Changes in U.S. and other countries' foreign travel policies can lead to travel restrictions, bans, or advisories.
+   - These changes can result in canceled sailings, litigation, decreased revenue, increased operating costs, and impaired profitability.
+   - The timing and scope of these changes are unpredictable, adding to the risk.
+
+2. **Climate Change Regulations:**
+   - There is a growing global focus on climate change, leading to new and evolving regulations.
+   - These regulations may require the company to reduce emissions, pay for emissions, modify itineraries, and face potential litigation.
+   - The company anticipates increased operating costs, including higher fuel costs, due to requirements like purchasing emission allowances, using low-carbon fuels, and connecting to shore power.
+   - Specific examples include the European Union's Fit for 55 package, which mandates emission reductions and the use of low-carbon fuels.
+
+3. **Environmental Regulations:**
+   - Various state, regional, and foreign agencies have or may enact environmental regulations, such as requirements for low sulfur fuels (e.g., IMO Sulfur Limit) and carbon intensity indicators (CII).
+   - These regulations can increase direct operating costs, limit fuel supply, increase expenses for new equipment, and negatively impact the cruise industry.
+
+In summary, the company faces significant risks from both foreign travel policy changes and evolving climate change regulations, which could impact its operations, profitability, and financial performance.
+
+Original text:
+or other countries’ foreign travel policy have affected, and may continue to affect our results of operations.
+Changes in U.S. and other countries' foreign policy have in the past and could in the future result in the imposition of travel restrictions or travel bans on persons to certain countries or result in the imposition of travel advisories, warnings, rules, regulations or legislation exposing us to penalties or claims of monetary damages. In addition, some countries have previously adopted restrictions against U.S. travelers. The timing and scope of these changes and regulations can be unpredictable, and they could cause us to cancel scheduled sailings, possibly on short notice, or could result in litigation against us. This, in turn, could decrease our revenue, increase our operating costs and otherwise impair our profitability.
+Factors associated with climate change, including an increasing global regulatory focus, could adversely affect our business.
+There is increasing global regulatory focus on climate change, greenhouse gas and other emissions, and new laws and regulations are expanding mandatory disclosure, reporting and diligence requirements. These regulatory efforts, both internationally, regionally and nationally, are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business. However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has enacted parts of a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to purchase emission allowances, increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power.
+In addition, various state, regional and foreign government or regulatory agencies have enacted, or may enact, environmental regulations or policies, such as requiring the use of low sulfur fuels (e.g., IMO Sulfur Limit) or the carbon intensity indicator regulation ("CII"), that have or could increase our direct cost to operate in certain markets, increase our cost of fuel, limit the supply of compliant fuel, cause us to incur significant expenses to purchase and/or develop new equipment and adversely impact the cruise vacation industry.
+
+
+Return ONLY valid JSON with this exact schema and keys (no code fences, no extra text):
+
+{
+  "parties": [string],
+  "case_title_or_docket": string or null,
+  "forum_or_jurisdiction": string or null,
+  "statute_reg_policy": [string],
+  "procedural_posture": string or null,
+  "dates_or_timeframes": [string],
+  "monetary_or_quantified": [string],
+  "climate_linkage_summary": string,
+  "climate_linkage_quotes": [string],
+  "checkable_elements": [string],
+  "who": string or null,
+  "what": string or null,
+  "where": string or null,
+  "when": string or null,
+  "under_which_rule": string or null,
+  "sought_outcome": string or null,
+  "evidence_quotes": [string]
+}
+
+Rules:
+- Only consider these categories in relation to climate litigation. If there are dates, parties, monetary amounts, etc. that are not related to climate litigation, ignore them.
+- Populate every key. Use [] for unknown lists, and null for unknown single values.
+- Prefer short verbatim snippets from the text for any *quotes* arrays.
+- Do NOT invent details not supported by the text. Ignore specificity about non-climate topics.
+
+
+============================================================
+ASSISTANT MESSAGE 8
+============================================================
+{
+  "parties": ["company", "U.S. travelers", "EU"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": "EU courts, U.S. courts",
+  "statute_reg_policy": [
+    "EU's Fit for 55 package",
+    "IMO Sulfur Limit",
+    "CII (Carbon Intensity Indicator)"
+  ],
+  "procedural_posture": "potential litigation",
+  "dates_or_timeframes": [
+    "in the future",
+    "2030 emission goals"
+  ],
+  "monetary_or_quantified": [
+    "penalties or claims of monetary damages",
+    "increased operating costs",
+    "significant expenses to purchase and/or develop new equipment"
+  ],
+  "climate_linkage_summary": "The company faces potential climate change-related litigation due to evolving regulations requiring emission reductions and compliance with new environmental standards.",
+  "climate_linkage_quotes": [
+    "These regulatory efforts, both internationally, regionally and nationally, are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business.",
+    "However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation."
+  ],
+  "checkable_elements": [
+    "EU's Fit for 55 package mandates emission reductions",
+    "EU requires purchase of emission allowances",
+    "EU mandates use of low-carbon fuels",
+    "EU's CII regulation requires carbon intensity reporting"
+  ],
+  "who": "EU regulatory agencies, U.S. travelers, company",
+  "what": "emission reductions, purchase of emission allowances, use of low-carbon fuels, compliance with CII",
+  "where": "EU, U.S.",
+  "when": "in the future, 2030",
+  "under_which_rule": "EU's Fit for 55 package, IMO Sulfur Limit, CII",
+  "sought_outcome": "to avoid litigation, reduce emissions, comply with new regulations",
+  "evidence_quotes": [
+    "These regulatory efforts, both internationally, regionally and nationally, are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business."
+  ]
+}
+
+============================================================
+USER MESSAGE 9
+============================================================
+Given the summary, original text, CL classification, and the structured breakdown, choose ONE specificity label.
+Base your choice on:
+ - PRECISION of anchors (parties/case/docket, forum, statute/reg/policy, posture, dates, monetary/quantified).
+ - LINKAGE to climate claims (not generic legal/ESG talk).
+ - FALSIFIABILITY (checkable details: exact court, date, cited rule, quantified remedy, etc.).
+ - CONTEXTUAL CLARITY (who did what, where, when, under which rule, seeking what outcome).
+Ignore specificity about non-climate and non-litigation topics
+
+Return ONLY one of: not climate litigation, mention only, vague disclosure, basic disclosure, detailed disclosure, highly specific
+
+Summary: The text outlines several key risks and challenges facing the company, primarily related to foreign travel policies and climate change regulations:
+
+1. **Foreign Travel Policies:**
+   - Changes in U.S. and other countries' foreign travel policies can lead to travel restrictions, bans, or advisories.
+   - These changes can result in canceled sailings, litigation, decreased revenue, increased operating costs, and impaired profitability.
+   - The timing and scope of these changes are unpredictable, adding to the risk.
+
+2. **Climate Change Regulations:**
+   - There is a growing global focus on climate change, leading to new and evolving regulations.
+   - These regulations may require the company to reduce emissions, pay for emissions, modify itineraries, and face potential litigation.
+   - The company anticipates increased operating costs, including higher fuel costs, due to requirements like purchasing emission allowances, using low-carbon fuels, and connecting to shore power.
+   - Specific examples include the European Union's Fit for 55 package, which mandates emission reductions and the use of low-carbon fuels.
+
+3. **Environmental Regulations:**
+   - Various state, regional, and foreign agencies have or may enact environmental regulations, such as requirements for low sulfur fuels (e.g., IMO Sulfur Limit) and carbon intensity indicators (CII).
+   - These regulations can increase direct operating costs, limit fuel supply, increase expenses for new equipment, and negatively impact the cruise industry.
+
+In summary, the company faces significant risks from both foreign travel policy changes and evolving climate change regulations, which could impact its operations, profitability, and financial performance.
+Original text: or other countries’ foreign travel policy have affected, and may continue to affect our results of operations.
+Changes in U.S. and other countries' foreign policy have in the past and could in the future result in the imposition of travel restrictions or travel bans on persons to certain countries or result in the imposition of travel advisories, warnings, rules, regulations or legislation exposing us to penalties or claims of monetary damages. In addition, some countries have previously adopted restrictions against U.S. travelers. The timing and scope of these changes and regulations can be unpredictable, and they could cause us to cancel scheduled sailings, possibly on short notice, or could result in litigation against us. This, in turn, could decrease our revenue, increase our operating costs and otherwise impair our profitability.
+Factors associated with climate change, including an increasing global regulatory focus, could adversely affect our business.
+There is increasing global regulatory focus on climate change, greenhouse gas and other emissions, and new laws and regulations are expanding mandatory disclosure, reporting and diligence requirements. These regulatory efforts, both internationally, regionally and nationally, are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business. However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has enacted parts of a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to purchase emission allowances, increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power.
+In addition, various state, regional and foreign government or regulatory agencies have enacted, or may enact, environmental regulations or policies, such as requiring the use of low sulfur fuels (e.g., IMO Sulfur Limit) or the carbon intensity indicator regulation ("CII"), that have or could increase our direct cost to operate in certain markets, increase our cost of fuel, limit the supply of compliant fuel, cause us to incur significant expenses to purchase and/or develop new equipment and adversely impact the cruise vacation industry.
+Previously classified as climate litigation? 1
+Breakdown JSON: {
+  "parties": [
+    "company",
+    "U.S. travelers",
+    "EU"
+  ],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": "EU courts, U.S. courts",
+  "statute_reg_policy": [
+    "EU's Fit for 55 package",
+    "IMO Sulfur Limit",
+    "CII (Carbon Intensity Indicator)"
+  ],
+  "procedural_posture": "potential litigation",
+  "dates_or_timeframes": [
+    "in the future",
+    "2030 emission goals"
+  ],
+  "monetary_or_quantified": [
+    "penalties or claims of monetary damages",
+    "increased operating costs",
+    "significant expenses to purchase and/or develop new equipment"
+  ],
+  "climate_linkage_summary": "The company faces potential climate change-related litigation due to evolving regulations requiring emission reductions and compliance with new environmental standards.",
+  "climate_linkage_quotes": [
+    "These regulatory efforts, both internationally, regionally and nationally, are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business.",
+    "However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation."
+  ],
+  "checkable_elements": [
+    "EU's Fit for 55 package mandates emission reductions",
+    "EU requires purchase of emission allowances",
+    "EU mandates use of low-carbon fuels",
+    "EU's CII regulation requires carbon intensity reporting"
+  ],
+  "who": "EU regulatory agencies, U.S. travelers, company",
+  "what": "emission reductions, purchase of emission allowances, use of low-carbon fuels, compliance with CII",
+  "where": "EU, U.S.",
+  "when": "in the future, 2030",
+  "under_which_rule": "EU's Fit for 55 package, IMO Sulfur Limit, CII",
+  "sought_outcome": "to avoid litigation, reduce emissions, comply with new regulations",
+  "evidence_quotes": [
+    "These regulatory efforts, both internationally, regionally and nationally, are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business."
+  ]
+}
+
+============================================================
+ASSISTANT MESSAGE 10
+============================================================
+{
+  "classification": "detailed disclosure"
+}

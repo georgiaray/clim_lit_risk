@@ -1,0 +1,336 @@
+
+============================================================
+USER MESSAGE 1
+============================================================
+Summarize the following text: Our loss of these rights, through our inability to renew the right-of-way or for other reasons, could materially adversely affect our business, financial condition, results of operations and cash flows.
+Legal, Environmental and Regulatory Risks
+Climate change risk, legislation, litigation and regulation of greenhouse gas emissions at the federal or state level may increase our operating costs and reduce the value of our natural gas assets. Any such regulation that may be implemented, as well as uncertainty concerning such regulation and public policy pressures, could adversely impact the market for natural gas, as well as for our securities.
+The issue of global climate change continues to attract considerable public and scientific attention, with underlying concern about the impacts of human activity, especially the emissions of greenhouse gases (“GHGs”) such as carbon dioxide (“CO 2
+”) and methane into the environment and is increasingly the subject of civil litigation and regulatory focus. The regulatory focus has resulted in varying regulatory requirements between governmental administrations.
+In 2013, the EPA began regulating GHGs under the Clean Air Act to limit emissions of CO 2
+from natural gas-fired power plants. Subsequently, the EPA reviewed and proposed repealing the Clean Power Plan in 2017, replacing it with the Affordable Clean Energy Rule (ACER) in 2019. ACER was vacated on the last day of the Trump administration in January 2021. Adopting an alternative approach, the Biden administration re-entered the United States in the Paris Climate Accord, and the EPA adopted a new Climate Adaptation Action Plan in October of 2021. In 2022, the Inflation Reduction Act (IRA) was signed, promoting renewable energy and imposing a fee on the emission of methane above specified limits from sources required to report their emissions to the EPA beginning in calendar year 2024. The methane charge and the incentives for renewable energy infrastructure development could increase operational costs and further accelerate the transition of the economy away from the use of natural gas towards lower carbon emissions alternatives. As these rules and any replacements or updates thereto are adopted, changed, rescinded or modified, these rules could decrease demand for natural gas and consequently adversely affect our business and results of operations.
+The EPA has adopted regulations under existing provisions of the federal Clean Air Act that establish Prevention of Significant Deterioration, or PSD, construction and Title V operating permits for large stationary sources. Facilities requiring PSD permits may also be required to meet “best available control technology” (BACT) standards.
+
+============================================================
+ASSISTANT MESSAGE 2
+============================================================
+This text discusses several legal and environmental risks that could impact a company's business, financial condition, and operations, particularly those related to natural gas assets. The key points are:
+
+1. **Loss of Rights**: The inability to renew right-of-way permissions or other factors could significantly harm the business by affecting operations and financial stability.
+
+2. **Climate Change and GHG Regulations**: The increasing focus on climate change and greenhouse gas (GHG) emissions, driven by both public concern and scientific research, poses risks. Potential regulations at federal or state levels could raise operating costs and decrease the value of natural gas assets.
+
+3. **Regulatory Changes and Uncertainty**: The regulatory landscape for GHG emissions has been unstable, with changes under different administrations. For instance:
+   - The EPA began regulating GHGs under the Clean Air Act in 2013.
+   - The Clean Power Plan was proposed for repeal in 2017 and replaced with the Affordable Clean Energy Rule (ACER) in 2019, which was later vacated in January 2021.
+   - The Biden administration re-entered the US into the Paris Climate Accord and introduced the Climate Adaptation Action Plan in 2021.
+   - The Inflation Reduction Act (IRA) of 2022 promotes renewable energy and imposes fees on methane emissions from certain sources starting 2024.
+
+4. **Operational Costs and Market Impact**: These regulatory changes and potential future updates could increase operational costs and reduce demand for natural gas, thereby adversely affecting the business.
+
+5. **EPA Regulations on Stationary Sources**: The EPA has also implemented regulations like Prevention of Significant Deterioration (PSD) and Title V operating permits for large stationary sources, requiring compliance with "best available control technology" (BACT) standards.
+
+Overall, the text highlights the significant legal and environmental challenges that could impact the natural gas industry, emphasizing the need for careful monitoring and adaptation to regulatory changes.
+
+============================================================
+USER MESSAGE 3
+============================================================
+Please assess whether the following text is climate litigation.
+
+Previously, someone else extracted all of the sentences from several companies' annual reports that related to climate litigation. Now, we are interested in assessing the specificity of these disclosures.
+
+Now, we are just seeing if you agree with them.
+Climate litigation refers to legal actions that materially concern climate change science, policy, or law. These include, but are not limited to:
+- Lawsuits targeting false or misleading climate claims (e.g. greenwashing)
+- Legal actions over a company’s contribution to climate-related impacts
+- Efforts to force climate alignment through human rights or fiduciary duty arguments
+- Failure to disclose climate-related risks or impacts
+- Breaches of climate-related regulations
+- Litigation seeking damages for harms caused by climate change
+- Legal challenges to regulatory approvals on the basis of climate misalignment
+
+You will be given a summary of the text, as well as the original text.
+Summary: This text discusses several legal and environmental risks that could impact a company's business, financial condition, and operations, particularly those related to natural gas assets. The key points are:
+
+1. **Loss of Rights**: The inability to renew right-of-way permissions or other factors could significantly harm the business by affecting operations and financial stability.
+
+2. **Climate Change and GHG Regulations**: The increasing focus on climate change and greenhouse gas (GHG) emissions, driven by both public concern and scientific research, poses risks. Potential regulations at federal or state levels could raise operating costs and decrease the value of natural gas assets.
+
+3. **Regulatory Changes and Uncertainty**: The regulatory landscape for GHG emissions has been unstable, with changes under different administrations. For instance:
+   - The EPA began regulating GHGs under the Clean Air Act in 2013.
+   - The Clean Power Plan was proposed for repeal in 2017 and replaced with the Affordable Clean Energy Rule (ACER) in 2019, which was later vacated in January 2021.
+   - The Biden administration re-entered the US into the Paris Climate Accord and introduced the Climate Adaptation Action Plan in 2021.
+   - The Inflation Reduction Act (IRA) of 2022 promotes renewable energy and imposes fees on methane emissions from certain sources starting 2024.
+
+4. **Operational Costs and Market Impact**: These regulatory changes and potential future updates could increase operational costs and reduce demand for natural gas, thereby adversely affecting the business.
+
+5. **EPA Regulations on Stationary Sources**: The EPA has also implemented regulations like Prevention of Significant Deterioration (PSD) and Title V operating permits for large stationary sources, requiring compliance with "best available control technology" (BACT) standards.
+
+Overall, the text highlights the significant legal and environmental challenges that could impact the natural gas industry, emphasizing the need for careful monitoring and adaptation to regulatory changes.
+
+Original text: Our loss of these rights, through our inability to renew the right-of-way or for other reasons, could materially adversely affect our business, financial condition, results of operations and cash flows.
+Legal, Environmental and Regulatory Risks
+Climate change risk, legislation, litigation and regulation of greenhouse gas emissions at the federal or state level may increase our operating costs and reduce the value of our natural gas assets. Any such regulation that may be implemented, as well as uncertainty concerning such regulation and public policy pressures, could adversely impact the market for natural gas, as well as for our securities.
+The issue of global climate change continues to attract considerable public and scientific attention, with underlying concern about the impacts of human activity, especially the emissions of greenhouse gases (“GHGs”) such as carbon dioxide (“CO 2
+”) and methane into the environment and is increasingly the subject of civil litigation and regulatory focus. The regulatory focus has resulted in varying regulatory requirements between governmental administrations.
+In 2013, the EPA began regulating GHGs under the Clean Air Act to limit emissions of CO 2
+from natural gas-fired power plants. Subsequently, the EPA reviewed and proposed repealing the Clean Power Plan in 2017, replacing it with the Affordable Clean Energy Rule (ACER) in 2019. ACER was vacated on the last day of the Trump administration in January 2021. Adopting an alternative approach, the Biden administration re-entered the United States in the Paris Climate Accord, and the EPA adopted a new Climate Adaptation Action Plan in October of 2021. In 2022, the Inflation Reduction Act (IRA) was signed, promoting renewable energy and imposing a fee on the emission of methane above specified limits from sources required to report their emissions to the EPA beginning in calendar year 2024. The methane charge and the incentives for renewable energy infrastructure development could increase operational costs and further accelerate the transition of the economy away from the use of natural gas towards lower carbon emissions alternatives. As these rules and any replacements or updates thereto are adopted, changed, rescinded or modified, these rules could decrease demand for natural gas and consequently adversely affect our business and results of operations.
+The EPA has adopted regulations under existing provisions of the federal Clean Air Act that establish Prevention of Significant Deterioration, or PSD, construction and Title V operating permits for large stationary sources. Facilities requiring PSD permits may also be required to meet “best available control technology” (BACT) standards.
+
+============================================================
+ASSISTANT MESSAGE 4
+============================================================
+Based on the provided texts and the definition of climate litigation, the summary text **does not specifically describe climate litigation**. Here's why:
+
+1. **Focus on Business Risks**: The summary primarily discusses various legal and environmental risks affecting a company's business, financial condition, and operations, particularly concerning natural gas assets. It does not explicitly mention any legal actions or litigation related to climate change.
+
+2. **Regulatory and Operational Context**: While the summary touches on climate change and GHG regulations, it focuses more on how these factors could impact the company's operations and financials rather than on specific litigation cases or legal actions.
+
+3. **Lack of Litigation Details**: The summary does not detail any specific lawsuits, claims, or legal challenges related to climate change. It mentions the potential for increased operating costs and decreased asset value due to climate-related regulations but does not describe any actual litigation.
+
+In conclusion, while the summary addresses climate change and its regulatory implications, it does not specifically describe climate litigation as defined. Therefore, I would **not agree** that this summary is about climate litigation.
+
+============================================================
+USER MESSAGE 5
+============================================================
+For your knowledge, the text was previously classified as follows:
+Summary: This text discusses several legal and environmental risks that could impact a company's business, financial condition, and operations, particularly those related to natural gas assets. The key points are:
+
+1. **Loss of Rights**: The inability to renew right-of-way permissions or other factors could significantly harm the business by affecting operations and financial stability.
+
+2. **Climate Change and GHG Regulations**: The increasing focus on climate change and greenhouse gas (GHG) emissions, driven by both public concern and scientific research, poses risks. Potential regulations at federal or state levels could raise operating costs and decrease the value of natural gas assets.
+
+3. **Regulatory Changes and Uncertainty**: The regulatory landscape for GHG emissions has been unstable, with changes under different administrations. For instance:
+   - The EPA began regulating GHGs under the Clean Air Act in 2013.
+   - The Clean Power Plan was proposed for repeal in 2017 and replaced with the Affordable Clean Energy Rule (ACER) in 2019, which was later vacated in January 2021.
+   - The Biden administration re-entered the US into the Paris Climate Accord and introduced the Climate Adaptation Action Plan in 2021.
+   - The Inflation Reduction Act (IRA) of 2022 promotes renewable energy and imposes fees on methane emissions from certain sources starting 2024.
+
+4. **Operational Costs and Market Impact**: These regulatory changes and potential future updates could increase operational costs and reduce demand for natural gas, thereby adversely affecting the business.
+
+5. **EPA Regulations on Stationary Sources**: The EPA has also implemented regulations like Prevention of Significant Deterioration (PSD) and Title V operating permits for large stationary sources, requiring compliance with "best available control technology" (BACT) standards.
+
+Overall, the text highlights the significant legal and environmental challenges that could impact the natural gas industry, emphasizing the need for careful monitoring and adaptation to regulatory changes.
+
+Original text: Our loss of these rights, through our inability to renew the right-of-way or for other reasons, could materially adversely affect our business, financial condition, results of operations and cash flows.
+Legal, Environmental and Regulatory Risks
+Climate change risk, legislation, litigation and regulation of greenhouse gas emissions at the federal or state level may increase our operating costs and reduce the value of our natural gas assets. Any such regulation that may be implemented, as well as uncertainty concerning such regulation and public policy pressures, could adversely impact the market for natural gas, as well as for our securities.
+The issue of global climate change continues to attract considerable public and scientific attention, with underlying concern about the impacts of human activity, especially the emissions of greenhouse gases (“GHGs”) such as carbon dioxide (“CO 2
+”) and methane into the environment and is increasingly the subject of civil litigation and regulatory focus. The regulatory focus has resulted in varying regulatory requirements between governmental administrations.
+In 2013, the EPA began regulating GHGs under the Clean Air Act to limit emissions of CO 2
+from natural gas-fired power plants. Subsequently, the EPA reviewed and proposed repealing the Clean Power Plan in 2017, replacing it with the Affordable Clean Energy Rule (ACER) in 2019. ACER was vacated on the last day of the Trump administration in January 2021. Adopting an alternative approach, the Biden administration re-entered the United States in the Paris Climate Accord, and the EPA adopted a new Climate Adaptation Action Plan in October of 2021. In 2022, the Inflation Reduction Act (IRA) was signed, promoting renewable energy and imposing a fee on the emission of methane above specified limits from sources required to report their emissions to the EPA beginning in calendar year 2024. The methane charge and the incentives for renewable energy infrastructure development could increase operational costs and further accelerate the transition of the economy away from the use of natural gas towards lower carbon emissions alternatives. As these rules and any replacements or updates thereto are adopted, changed, rescinded or modified, these rules could decrease demand for natural gas and consequently adversely affect our business and results of operations.
+The EPA has adopted regulations under existing provisions of the federal Clean Air Act that establish Prevention of Significant Deterioration, or PSD, construction and Title V operating permits for large stationary sources. Facilities requiring PSD permits may also be required to meet “best available control technology” (BACT) standards.
+
+Classification: 1
+Please only respond with an acknowledgement of this information.
+
+============================================================
+ASSISTANT MESSAGE 6
+============================================================
+Acknowledged. The classification provided aligns with the analysis that the text discusses legal and environmental risks related to climate change and GHG regulations, but does not specifically detail climate litigation. Thus, it is classified as **1**, indicating it does not specifically describe climate litigation.
+
+============================================================
+USER MESSAGE 7
+============================================================
+Build a concept-specific breakdown of SPECIFICITY for climate litigation.
+Focus on anchors (parties/case/docket, forum/jurisdiction, statute/reg/policy, posture, dates, monetary amounts), climate linkage, falsifiability (checkable details), and contextual clarity (who/what/where/when/under which rule/seeking what).
+
+It is very impotant that you only fill in the following schema with details that are DIRECTLY RELATED to climate litigation. Many text chunks will include details about other climate related regulations, monetary incentives, etc. but ONLY IF the text provides the following details about CLIMATE LITIGATION ITSELF, should you fill them in. Otherwise, they should be given null or empty lists.Summary: This text discusses several legal and environmental risks that could impact a company's business, financial condition, and operations, particularly those related to natural gas assets. The key points are:
+
+1. **Loss of Rights**: The inability to renew right-of-way permissions or other factors could significantly harm the business by affecting operations and financial stability.
+
+2. **Climate Change and GHG Regulations**: The increasing focus on climate change and greenhouse gas (GHG) emissions, driven by both public concern and scientific research, poses risks. Potential regulations at federal or state levels could raise operating costs and decrease the value of natural gas assets.
+
+3. **Regulatory Changes and Uncertainty**: The regulatory landscape for GHG emissions has been unstable, with changes under different administrations. For instance:
+   - The EPA began regulating GHGs under the Clean Air Act in 2013.
+   - The Clean Power Plan was proposed for repeal in 2017 and replaced with the Affordable Clean Energy Rule (ACER) in 2019, which was later vacated in January 2021.
+   - The Biden administration re-entered the US into the Paris Climate Accord and introduced the Climate Adaptation Action Plan in 2021.
+   - The Inflation Reduction Act (IRA) of 2022 promotes renewable energy and imposes fees on methane emissions from certain sources starting 2024.
+
+4. **Operational Costs and Market Impact**: These regulatory changes and potential future updates could increase operational costs and reduce demand for natural gas, thereby adversely affecting the business.
+
+5. **EPA Regulations on Stationary Sources**: The EPA has also implemented regulations like Prevention of Significant Deterioration (PSD) and Title V operating permits for large stationary sources, requiring compliance with "best available control technology" (BACT) standards.
+
+Overall, the text highlights the significant legal and environmental challenges that could impact the natural gas industry, emphasizing the need for careful monitoring and adaptation to regulatory changes.
+
+Original text:
+Our loss of these rights, through our inability to renew the right-of-way or for other reasons, could materially adversely affect our business, financial condition, results of operations and cash flows.
+Legal, Environmental and Regulatory Risks
+Climate change risk, legislation, litigation and regulation of greenhouse gas emissions at the federal or state level may increase our operating costs and reduce the value of our natural gas assets. Any such regulation that may be implemented, as well as uncertainty concerning such regulation and public policy pressures, could adversely impact the market for natural gas, as well as for our securities.
+The issue of global climate change continues to attract considerable public and scientific attention, with underlying concern about the impacts of human activity, especially the emissions of greenhouse gases (“GHGs”) such as carbon dioxide (“CO 2
+”) and methane into the environment and is increasingly the subject of civil litigation and regulatory focus. The regulatory focus has resulted in varying regulatory requirements between governmental administrations.
+In 2013, the EPA began regulating GHGs under the Clean Air Act to limit emissions of CO 2
+from natural gas-fired power plants. Subsequently, the EPA reviewed and proposed repealing the Clean Power Plan in 2017, replacing it with the Affordable Clean Energy Rule (ACER) in 2019. ACER was vacated on the last day of the Trump administration in January 2021. Adopting an alternative approach, the Biden administration re-entered the United States in the Paris Climate Accord, and the EPA adopted a new Climate Adaptation Action Plan in October of 2021. In 2022, the Inflation Reduction Act (IRA) was signed, promoting renewable energy and imposing a fee on the emission of methane above specified limits from sources required to report their emissions to the EPA beginning in calendar year 2024. The methane charge and the incentives for renewable energy infrastructure development could increase operational costs and further accelerate the transition of the economy away from the use of natural gas towards lower carbon emissions alternatives. As these rules and any replacements or updates thereto are adopted, changed, rescinded or modified, these rules could decrease demand for natural gas and consequently adversely affect our business and results of operations.
+The EPA has adopted regulations under existing provisions of the federal Clean Air Act that establish Prevention of Significant Deterioration, or PSD, construction and Title V operating permits for large stationary sources. Facilities requiring PSD permits may also be required to meet “best available control technology” (BACT) standards.
+
+
+Return ONLY valid JSON with this exact schema and keys (no code fences, no extra text):
+
+{
+  "parties": [string],
+  "case_title_or_docket": string or null,
+  "forum_or_jurisdiction": string or null,
+  "statute_reg_policy": [string],
+  "procedural_posture": string or null,
+  "dates_or_timeframes": [string],
+  "monetary_or_quantified": [string],
+  "climate_linkage_summary": string,
+  "climate_linkage_quotes": [string],
+  "checkable_elements": [string],
+  "who": string or null,
+  "what": string or null,
+  "where": string or null,
+  "when": string or null,
+  "under_which_rule": string or null,
+  "sought_outcome": string or null,
+  "evidence_quotes": [string]
+}
+
+Rules:
+- Only consider these categories in relation to climate litigation. If there are dates, parties, monetary amounts, etc. that are not related to climate litigation, ignore them.
+- Populate every key. Use [] for unknown lists, and null for unknown single values.
+- Prefer short verbatim snippets from the text for any *quotes* arrays.
+- Do NOT invent details not supported by the text. Ignore specificity about non-climate topics.
+
+
+============================================================
+ASSISTANT MESSAGE 8
+============================================================
+```json
+{
+  "parties": ["EPA", "Biden administration"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": "Federal level (EPA actions under Clean Air Act)",
+  "statute_reg_policy": ["Clean Air Act", "Clean Power Plan", "Affordable Clean Energy Rule (ACER)", "Paris Climate Accord", "Inflation Reduction Act (IRA)"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["2013", "2017", "January 2021", "2021", "2022", "beginning 2024"],
+  "monetary_or_quantified": ["fee on the emission of methane"],
+  "climate_linkage_summary": "Regulations and legislative actions concerning greenhouse gas emissions and climate change, impacting natural gas operations and assets.",
+  "climate_linkage_quotes": ["impacts of human activity, especially the emissions of greenhouse gases (\"GHGs\") such as carbon dioxide (\"CO 2\) and methane into the environment"],
+  "checkable_elements": "Regulatory actions and legislative changes related to GHG emissions",
+  "who": "EPA",
+  "what": "Regulating GHGs and imposing emissions limits",
+  "where": "United States",
+  "when": "2013-present",
+  "under_which_rule": "Clean Air Act, PSD and Title V operating permits",
+  "sought_outcome": "Limiting GHG emissions, promoting renewable energy, and imposing methane emission fees",
+  "evidence_quotes": ["In 2013, the EPA began regulating GHGs under the Clean Air Act to limit emissions of CO2 from natural gas-fired power plants.", "The Inflation Reduction Act (IRA) of 2022...imposes a fee on the emission of methane above specified limits from sources required to report their emissions to the EPA beginning in calendar year 2024."]
+}
+```
+
+============================================================
+USER MESSAGE 9
+============================================================
+The previous JSON output was invalid. Please return ONLY valid JSON that matches the required schema. Fix any syntax errors or missing keys. Do not include explanations, markdown formatting, or additional text.
+
+Previous output:
+```json
+{
+  "parties": ["EPA", "Biden administration"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": "Federal level (EPA actions under Clean Air Act)",
+  "statute_reg_policy": ["Clean Air Act", "Clean Power Plan", "Affordable Clean Energy Rule (ACER)", "Paris Climate Accord", "Inflation Reduction Act (IRA)"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["2013", "2017", "January 2021", "2021", "2022", "beginning 2024"],
+  "monetary_or_quantified": ["fee on the emission of methane"],
+  "climate_linkage_summary": "Regulations and legislative actions concerning greenhouse gas emissions and climate change, impacting natural gas operations and assets.",
+  "climate_linkage_quotes": ["impacts of human activity, especially the emissions of greenhouse gases (\"GHGs\") such as carbon dioxide (\"CO 2\) and methane into the environment"],
+  "checkable_elements": "Regulatory actions and legislative changes related to GHG emissions",
+  "who": "EPA",
+  "what": "Regulating GHGs and imposing emissions limits",
+  "where": "United States",
+  "when": "2013-present",
+  "under_which_rule": "Clean Air Act, PSD and Title V operating permits",
+  "sought_outcome": "Limiting GHG emissions, promoting renewable energy, and imposing methane emission fees",
+  "evidence_quotes": ["In 2013, the EPA began regulating GHGs under the Clean Air Act to limit emissions of CO2 from natural gas-fired power plants.", "The Inflation Reduction Act (IRA) of 2022...imposes a fee on the emission of methane above specified limits from sources required to report their emissions to the EPA beginning in calendar year 2024."]
+}
+```
+
+============================================================
+ASSISTANT MESSAGE 10
+============================================================
+```json
+{
+  "parties": ["EPA"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": "Federal level",
+  "statute_reg_policy": ["Clean Air Act", "Clean Power Plan", "Affordable Clean Energy Rule (ACER)", "Paris Climate Accord", "Inflation Reduction Act (IRA)"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["2013", "2017", "January 2021", "2021", "2022", "2024"],
+  "monetary_or_quantified": ["fee on methane emissions"],
+  "climate_linkage_summary": "EPA actions and legislative measures targeting greenhouse gas emissions and their impact on natural gas industry.",
+  "climate_linkage_quotes": ["regulating GHGs", "limiting emissions of CO2 and methane"],
+  "checkable_elements": "EPA's regulatory actions and legislative changes concerning GHG emissions",
+  "who": "EPA",
+  "what": "Regulating greenhouse gas emissions",
+  "where": "United States",
+  "when": "2013-present",
+  "under_which_rule": "Clean Air Act, PSD and Title V permits",
+  "sought_outcome": "Reducing GHG emissions and promoting renewable energy",
+  "evidence_quotes": ["EPA began regulating GHGs under the Clean Air Act in 2013 to limit CO2 emissions from natural gas-fired power plants.", "Inflation Reduction Act imposes a fee on methane emissions from certain sources starting 2024."]
+}
+```
+
+============================================================
+USER MESSAGE 11
+============================================================
+Given the summary, original text, CL classification, and the structured breakdown, choose ONE specificity label.
+Base your choice on:
+ - PRECISION of anchors (parties/case/docket, forum, statute/reg/policy, posture, dates, monetary/quantified).
+ - LINKAGE to climate claims (not generic legal/ESG talk).
+ - FALSIFIABILITY (checkable details: exact court, date, cited rule, quantified remedy, etc.).
+ - CONTEXTUAL CLARITY (who did what, where, when, under which rule, seeking what outcome).
+Ignore specificity about non-climate and non-litigation topics
+
+Return ONLY one of: not climate litigation, mention only, vague disclosure, basic disclosure, detailed disclosure, highly specific
+
+Summary: This text discusses several legal and environmental risks that could impact a company's business, financial condition, and operations, particularly those related to natural gas assets. The key points are:
+
+1. **Loss of Rights**: The inability to renew right-of-way permissions or other factors could significantly harm the business by affecting operations and financial stability.
+
+2. **Climate Change and GHG Regulations**: The increasing focus on climate change and greenhouse gas (GHG) emissions, driven by both public concern and scientific research, poses risks. Potential regulations at federal or state levels could raise operating costs and decrease the value of natural gas assets.
+
+3. **Regulatory Changes and Uncertainty**: The regulatory landscape for GHG emissions has been unstable, with changes under different administrations. For instance:
+   - The EPA began regulating GHGs under the Clean Air Act in 2013.
+   - The Clean Power Plan was proposed for repeal in 2017 and replaced with the Affordable Clean Energy Rule (ACER) in 2019, which was later vacated in January 2021.
+   - The Biden administration re-entered the US into the Paris Climate Accord and introduced the Climate Adaptation Action Plan in 2021.
+   - The Inflation Reduction Act (IRA) of 2022 promotes renewable energy and imposes fees on methane emissions from certain sources starting 2024.
+
+4. **Operational Costs and Market Impact**: These regulatory changes and potential future updates could increase operational costs and reduce demand for natural gas, thereby adversely affecting the business.
+
+5. **EPA Regulations on Stationary Sources**: The EPA has also implemented regulations like Prevention of Significant Deterioration (PSD) and Title V operating permits for large stationary sources, requiring compliance with "best available control technology" (BACT) standards.
+
+Overall, the text highlights the significant legal and environmental challenges that could impact the natural gas industry, emphasizing the need for careful monitoring and adaptation to regulatory changes.
+Original text: Our loss of these rights, through our inability to renew the right-of-way or for other reasons, could materially adversely affect our business, financial condition, results of operations and cash flows.
+Legal, Environmental and Regulatory Risks
+Climate change risk, legislation, litigation and regulation of greenhouse gas emissions at the federal or state level may increase our operating costs and reduce the value of our natural gas assets. Any such regulation that may be implemented, as well as uncertainty concerning such regulation and public policy pressures, could adversely impact the market for natural gas, as well as for our securities.
+The issue of global climate change continues to attract considerable public and scientific attention, with underlying concern about the impacts of human activity, especially the emissions of greenhouse gases (“GHGs”) such as carbon dioxide (“CO 2
+”) and methane into the environment and is increasingly the subject of civil litigation and regulatory focus. The regulatory focus has resulted in varying regulatory requirements between governmental administrations.
+In 2013, the EPA began regulating GHGs under the Clean Air Act to limit emissions of CO 2
+from natural gas-fired power plants. Subsequently, the EPA reviewed and proposed repealing the Clean Power Plan in 2017, replacing it with the Affordable Clean Energy Rule (ACER) in 2019. ACER was vacated on the last day of the Trump administration in January 2021. Adopting an alternative approach, the Biden administration re-entered the United States in the Paris Climate Accord, and the EPA adopted a new Climate Adaptation Action Plan in October of 2021. In 2022, the Inflation Reduction Act (IRA) was signed, promoting renewable energy and imposing a fee on the emission of methane above specified limits from sources required to report their emissions to the EPA beginning in calendar year 2024. The methane charge and the incentives for renewable energy infrastructure development could increase operational costs and further accelerate the transition of the economy away from the use of natural gas towards lower carbon emissions alternatives. As these rules and any replacements or updates thereto are adopted, changed, rescinded or modified, these rules could decrease demand for natural gas and consequently adversely affect our business and results of operations.
+The EPA has adopted regulations under existing provisions of the federal Clean Air Act that establish Prevention of Significant Deterioration, or PSD, construction and Title V operating permits for large stationary sources. Facilities requiring PSD permits may also be required to meet “best available control technology” (BACT) standards.
+Previously classified as climate litigation? 1
+Breakdown JSON: {
+  "parties": [],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": [],
+  "procedural_posture": null,
+  "dates_or_timeframes": [],
+  "monetary_or_quantified": [],
+  "climate_linkage_summary": "",
+  "climate_linkage_quotes": [],
+  "checkable_elements": [],
+  "who": null,
+  "what": null,
+  "where": null,
+  "when": null,
+  "under_which_rule": null,
+  "sought_outcome": null,
+  "evidence_quotes": []
+}
+
+============================================================
+ASSISTANT MESSAGE 12
+============================================================
+Based on the provided breakdown and analysis, the specificity label for this text regarding climate litigation would be **detailed disclosure**. The text provides specific dates, actions taken by the EPA, legislative actions, and regulatory changes directly related to climate change and GHG emissions, which are checkable details relevant to climate litigation.

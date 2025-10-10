@@ -1,0 +1,330 @@
+idx_1,idx_2,reasoning,result,model
+1,0,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, including the number of lawsuits, the parties involved, and the sought outcome. Text 1 only mentions that climate change is increasingly the subject of civil litigation and regulatory focus, but does not provide specific details about any ongoing or past climate litigation cases.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+2,0,"Text 1 is more specific than Text 2 because it provides more details about the climate litigation, such as the number of lawsuits (four) and the parties involved (CNX and communities). Text 2, on the other hand, mentions ""close to two dozen lawsuits"" but does not provide specific details about the parties or the lawsuits.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+3,0,"Text 2 is more specific because it provides more details about the climate litigation, including the number of lawsuits, the parties involved, and the specific weather-related events being addressed. Although the breakdown JSON for Text 2 was initially invalid, the corrected version still shows that Text 2 provides more specific information about the climate litigation.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+4,0,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, including the number of lawsuits, the parties involved, and the sought outcome. Text 1 only mentions that CNX is a party to four climate change lawsuits, but does not provide any further information.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+5,0,"Text 2 is more specific because it mentions specific lawsuits filed by states and municipalities against oil, natural gas, and coal producers for damages caused by climate change-related weather events, seeking monetary damages for remedial measures. This provides more detail about the climate litigation than Text 1, which only mentions potential regulatory and legal risks related to environmental and climate change concerns.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+6,0,"Text 2 is more specific because it mentions specific lawsuits filed by states and municipalities against oil, natural gas, and coal producers for damages caused by climate change-related weather events, and seeks monetary damages for remedial measures. This provides more detail about the climate litigation itself, whereas Text 1 only mentions the potential for climate litigation and regulation without providing specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+7,0,"Text 1 is more specific than Text 2 because it provides more precise information about the climate litigation, such as the number of lawsuits (four) and the parties involved (CNX, communities, and fossil fuel producers). In contrast, Text 2 provides more general information about the lawsuits, such as the fact that there are close to two dozen lawsuits filed on behalf of various states and municipalities, but does not provide specific details about the parties involved or the procedural posture of the lawsuits.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+8,0,"Text 1 is more specific than Text 2 because it provides more details about the lawsuits, such as the number of lawsuits filed and the specific weather-related events that are the subject of the lawsuits. Additionally, Text 1 mentions that the lawsuits are seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change, which provides more context about the sought outcome.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+9,0,"Text 1 is more specific because it provides more details about the climate litigation, such as the number of lawsuits, the parties involved, and the specific weather-related events being targeted. Text 2, on the other hand, provides less specific information and does not mention the number of lawsuits or the specific parties involved.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+10,0,"Text 2 is more specific because it provides more details about the climate litigation, including the number of lawsuits, the parties involved, and the specific weather-related events being targeted. Text 1 only mentions the potential for climate change-related litigation, but does not provide any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+11,0,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, including the parties involved, the procedural posture, and the sought outcome. Text 1 does not contain any information related to climate litigation.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+12,0,"Text 2 is more specific because it provides more details about the climate litigation, including the parties involved, the type of lawsuits, and the sought outcome. Text 1 only mentions the possibility of climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+13,0,"Text 1 is more specific than Text 2 because it provides more details about the climate litigation, such as the number of lawsuits, the parties involved, and the specific weather-related events being addressed. Text 2, on the other hand, provides more general information about environmental regulations and liabilities, but lacks specific details about the climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,0,"Text 2 is more specific because it provides more details about the climate litigation, including the parties involved, the procedural posture, and the sought outcome. Text 1 only mentions potential exposure to climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+2,1,"Text 1 is more specific than Text 2 because it mentions specific climate litigation cases, including four climate change lawsuits being pursued by communities against fossil fuel producers, whereas Text 2 only mentions civil litigation and regulatory focus related to climate change without providing specific details about any ongoing or past climate litigation cases.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+3,1,"Text 1 is classified as ""basic disclosure"" because it mentions climate change as one of the matters related to lawsuits and claims, but does not provide specific details about any ongoing or past climate litigation cases. It only mentions that the company accrues estimated losses for these lawsuits and claims when the loss is probable and can be estimated.
+
+Text 2 is classified as ""mention only"" because it mentions climate change and GHG emissions as the subject of civil litigation and regulatory focus, but does not provide specific details about any ongoing or past climate litigation cases. It only discusses the regulation of GHG emissions under the Clean Air Act and the implementation of various rules and plans related to climate change.
+
+FINAL: text 1",Text 1,mistralai/mistral-7b-instruct
+4,1,"Text 1 provides more specific details about climate litigation, including the fact that CNX is a defendant in four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change. In contrast, Text 2 does not provide any specific details about climate litigation, but rather discusses regulatory actions and policies related to climate change.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+5,1,"Text 1 is classified as ""mention only"" due to its lack of specificity regarding climate litigation, whereas Text 2 is also classified as ""mention only"" but has more details about regulatory actions and policies related to climate change. However, neither text provides specific details about ongoing or past climate litigation cases.
+
+FINAL: neither",neither,mistralai/mistral-7b-instruct
+6,1," [/INST]
+
+Text 1 provides specific details about climate litigation, including the number of lawsuits (four), the parties involved (communities against fossil fuel producers), and the procedural posture (defendant). While Text 2 mentions potential exposure to climate change-related litigation, it lacks specific details about ongoing or pending cases, parties, or procedural postures. Therefore, Text 1 is more specific in its disclosure of climate litigation.
+
+FINAL: text 1", Text 1,mistralai/mistral-7b-instruct
+7,1,"Text 1 is more specific than Text 2 because it provides more details about the climate litigation, such as the number of lawsuits, the parties involved, and the potential impact on the company's financial position. Text 2, on the other hand, only mentions that climate change is increasingly the subject of civil litigation and regulatory focus, but does not provide any specific details about ongoing or past climate litigation cases.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+8,1,"Text 1 provides more specific details about climate litigation, including the parties involved, the type of lawsuits, and the sought outcome. Text 2, on the other hand, mentions climate change and regulatory actions, but does not provide specific details about climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+9,1,"Text 1 is more specific because it provides more details about the climate litigation, including the parties involved, the specific weather-related events, and the sought outcome. Text 2, on the other hand, only mentions that climate change is increasingly the subject of civil litigation and regulatory focus, but does not provide any specific details about ongoing or past climate litigation cases.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+10,1,"Text 1 is classified as ""vague disclosure"" because it mentions potential exposure to climate change-related litigation, but does not provide specific details about any ongoing or past climate litigation cases. Text 2 is classified as ""mention only"" because it mentions climate change and GHG emissions as being the subject of civil litigation and regulatory focus, but does not provide any specific details about climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+11,1,"Text 1 does not contain any information related to climate litigation, while Text 2 mentions climate change and GHG emissions as the subject of civil litigation and regulatory focus, but does not provide specific details about any ongoing or past climate litigation cases. Therefore, Text 2 is more specific in terms of climate litigation.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+12,1,"Text 1 is more specific than Text 2 because it mentions potential exposure to climate change-related litigation, while Text 2 only mentions civil litigation and regulatory focus related to climate change without providing specific details about any ongoing or past climate litigation cases.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+13,1,"Text 1 is more specific because it mentions specific lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas, and coal liable for the consequences of certain weather-related events, whereas Text 2 only mentions that climate change is increasingly the subject of civil litigation and regulatory focus, but does not provide specific details about any ongoing or past climate litigation cases.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,1,"Text 1 is more specific than Text 2 because it mentions potential exposure to climate change-related litigation due to future climate change-related regulations, whereas Text 2 only mentions that climate change is increasingly the subject of civil litigation and regulatory focus, but does not provide specific details about any ongoing or past climate litigation cases.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+3,2,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, such as the number of lawsuits (four), the parties involved (CNX and communities), and the fact that they are being pursued against fossil fuel producers relating to climate change. In contrast, Text 1 only mentions that CNX is subject to various lawsuits and claims, including those related to climate change, but does not provide any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+4,2,"Text 1 and Text 2 both contain climate litigation information, but Text 2 provides more specific details, such as the number of lawsuits and the fact that they are being pursued by communities against fossil fuel producers. However, both texts lack specific anchors, such as case titles, docket numbers, or exact dates. Text 2's breakdown JSON shows more checkable elements and a clearer linkage to climate claims, making it a more detailed disclosure.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+5,2,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, such as the number of lawsuits (four), the parties involved (CNX and communities), and the fact that they are being pursued in the courts. Text 1, on the other hand, only mentions the possibility of increased regulatory scrutiny and litigation risks due to advocacy groups' campaigns and public perception, without providing any specific details about the litigation itself.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+6,2,"Text 2 is more specific than Text 1 because it provides more concrete details about the climate litigation, such as the number of lawsuits (four) and the parties involved (CNX and communities), whereas Text 1 only mentions the potential for climate litigation without providing specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+7,2,"Both Text 1 and Text 2 have similar specificity labels of ""detailed disclosure"". However, upon closer examination, Text 1 provides more specific information about the potential costs of defending litigation, which is a quantifiable aspect of the climate litigation. In contrast, Text 2 does not provide any monetary or quantified information related to the climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+8,2,"Text 2 is more specific than Text 1 because it provides more precise information about the climate litigation, including the number of lawsuits (four) and the parties involved (CNX and communities). Additionally, Text 2 mentions that the lawsuits are ""being pursued"" and ""beginning to gain prevalence in the courts"", which provides more context about the procedural posture and timing of the litigation.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+9,2,"Both texts are classified as climate litigation and have been given a specificity label of ""detailed disclosure"". However, Text 1 provides more specific details about the lawsuits, such as the number of lawsuits (""close to two dozen""), the parties involved (""states and municipalities""), and the specific climate-related events being litigated (""rising sea levels and more frequent and severe flooding, storms and heatwaves""). Text 2, on the other hand, only mentions that CNX is a party to four climate change lawsuits, but does not provide further details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+10,2,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, such as the number of lawsuits (four), the parties involved (CNX and communities), and the fact that they are being pursued in the courts. Text 1, on the other hand, only mentions the potential for climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+11,2,"Text 2 is more specific because it provides more details about the climate litigation, such as the number of lawsuits (four), the parties involved (CNX and communities), and the fact that they are being pursued against fossil fuel producers relating to climate change. Although the disclosure is not highly specific, it provides more information than Text 1, which does not mention climate litigation at all.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+12,2,"Text 2 is more specific because it provides more details about the climate litigation, such as the number of lawsuits (four), the parties involved (CNX and communities), and the fact that they are being pursued in the courts. Although the details are still limited, they provide more context and specificity than Text 1, which only mentions the possibility of climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+13,2,"Text 1 provides more specific details about climate litigation, including the number of lawsuits, the parties involved, and the specific weather-related events being targeted. In contrast, Text 2 only mentions that CNX is a party to four climate change lawsuits, but does not provide further details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,2,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, such as the number of lawsuits (four), the parties involved (CNX and communities), and the fact that they are being pursued against fossil fuel producers relating to climate change. Text 1 only mentions potential exposure to climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+4,3,"Text 1 provides more specific details about climate litigation, including the number of lawsuits (four) and the parties involved (communities against fossil fuel producers). In contrast, Text 2 only mentions ""lawsuits and claims with respect to climate change"" without providing any specific details. 
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+5,3,"Text 1 has a specificity label of ""mention only"", while Text 2 has a specificity label of ""basic disclosure"". Text 2 provides more specific information about the lawsuits and claims related to climate change, including the statute/reg/policy (1992 Coal Industry Retiree Health Benefit Act) and the parties involved (CNX and its subsidiaries). Although the information is still limited, it provides more detail than Text 1.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+6,3,"Text 1 is more specific because it provides more detailed information about climate litigation, including the specific regulations and laws that may impact the company's business, such as the Clean Air Act and the Paris Climate Accord. It also mentions the potential for litigation seeking damages for harms caused by climate change. In contrast, Text 2 only mentions climate change as one of the many areas of litigation that the company is involved in, without providing any specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+7,3,"Text 1 provides more specific details about climate litigation, including the number of lawsuits, the parties involved, and the potential impact on the company's financial position. In contrast, Text 2 only mentions climate change as one of the various matters that the company is subject to lawsuits and claims, without providing any specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+8,3,"Text 1 is more specific because it provides more details about the climate litigation, including the parties involved, the type of lawsuits, and the sought outcome. Although Text 2 mentions climate change, it does not provide specific details about the litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+9,3,"Text 1 is more specific because it provides more detailed information about the climate litigation, including the number of lawsuits, the parties involved, and the specific climate-related events being litigated. In contrast, Text 2 only mentions that CNX is subject to various lawsuits and claims related to climate change, but does not provide any specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+10,3,"Text 1 is more specific because it provides more details about the potential climate change-related litigation, such as the European Union's Fit for 55 package and the updates to the European Union Emission Trading System, which impose requirements on the company to purchase carbon emission allowances. In contrast, Text 2 only mentions that the company is subject to various lawsuits and claims with respect to climate change, but does not provide any specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+11,3,"Text 1 does not contain any information related to climate litigation, while Text 2 mentions lawsuits and claims related to climate change, but lacks specific details about the litigation. However, Text 2 is still more specific than Text 1 in terms of climate litigation.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+12,3,"Text 1 is more specific than Text 2 because it provides more details about the potential climate change-related litigation, such as the possibility of increased exposure to climate change-related litigation, the requirement to reduce emissions, pay for emissions, and modify itineraries. In contrast, Text 2 only mentions that the company is subject to various lawsuits and claims with respect to climate change, but does not provide any specific details about the litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+13,3,"Text 1 is more specific because it provides more detailed information about the climate litigation, including the parties involved, the specific weather-related events, and the sought outcome. In contrast, Text 2 only mentions that the company is subject to various lawsuits and claims related to climate change, but does not provide any specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,3,"Text 1 is more specific because it mentions potential exposure to climate change-related litigation due to future climate change-related regulations, whereas Text 2 only mentions lawsuits and claims related to climate change without providing specific details. 
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+5,4,"Text 2 is more specific than Text 1 because it mentions specific climate change lawsuits and the parties involved, whereas Text 1 only mentions general risks and regulatory scrutiny related to environmental concerns.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+6,4,"Text 1 is more specific than Text 2 because it provides more details about the climate litigation, such as the specific regulations and laws involved (e.g. Clean Air Act, Paris Climate Accord, Inflation Reduction Act), the procedural posture of the company (e.g. defendant), and the potential outcomes of the litigation (e.g. increased operational costs, decreased demand for natural gas). In contrast, Text 2 only mentions that the company is a defendant in four climate change lawsuits, but does not provide any further details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+7,4,"Text 1 is more specific than Text 2 because it provides more details about the climate litigation, such as the number of lawsuits (four) and the parties involved (communities against fossil fuel producers). Text 2, on the other hand, is more vague and only mentions that CNX is a party to four climate change lawsuits without providing further details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+8,4,"Text 1 is more specific than Text 2 because it provides more details about the climate litigation, such as the number of lawsuits filed, the parties involved, and the specific climate-related events being addressed. Text 2, on the other hand, only mentions that CNX is a party to four climate change lawsuits without providing further details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+9,4,"Text 1 is more specific because it provides more details about the climate litigation, such as the number of lawsuits, the parties involved, and the specific climate-related events being targeted. Text 2, on the other hand, only mentions that CNX is a party to four climate change lawsuits without providing further details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+10,4,"Text 1 has a more detailed disclosure of climate litigation, mentioning specific regulatory efforts and potential impacts on the company's business. Text 2 has a more general disclosure of climate litigation, mentioning that the company is a party to four climate change lawsuits, but lacking specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+11,4,"Text 2 is more specific than Text 1 because it mentions the company's involvement in four climate change lawsuits, the parties involved, and the context of the lawsuits, whereas Text 1 does not contain any information related to climate litigation.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+12,4,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, such as the number of lawsuits (four) and the parties involved (CNX and communities against fossil fuel producers). Text 1 only mentions the possibility of climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+13,4,"Text 1 is more specific than Text 2 because it provides more details about the climate litigation, such as the number of lawsuits filed, the parties involved, and the specific weather-related events being addressed. Text 2, on the other hand, only mentions that CNX is a party to four climate change lawsuits without providing further details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,4,"Text 1 is classified as ""mention only"" due to its brief mention of potential exposure to climate change-related litigation, but lacks specific details. Text 2 is classified as ""vague disclosure"" due to its mention of CNX being a party to four climate change lawsuits, but lacks specific details about the lawsuits, such as the court, dates, or sought outcome.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+6,5,"Text 1 is more specific than Text 2 because it provides more detailed information about climate litigation, including specific regulations, dates, and potential impacts on the company's business. Text 2, on the other hand, only mentions the potential for increased regulatory scrutiny and litigation risks due to advocacy groups' campaigns and public perception, but does not provide specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+7,5,"Text 1 is more specific than Text 2 because it provides more details about the climate litigation, such as the number of lawsuits, the parties involved, and the potential impact on the company's financial position. Text 2 does not provide any specific details about climate litigation, but rather discusses general risks and trends related to environmental and climate change concerns.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+8,5,"Text 1 is more specific because it mentions specific lawsuits filed by states and municipalities against oil, natural gas, and coal producers, seeking to hold them liable for the consequences of climate change-related events and seeking money damages for remedial measures. In contrast, Text 2 does not mention any specific climate litigation, but rather discusses potential regulatory and legal risks related to environmental and climate change concerns.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+9,5,"Text 1 is more specific because it provides more detailed information about the climate litigation, including the parties involved, the specific weather-related events, and the sought outcome. Text 2 does not provide any specific details about climate litigation, only mentioning the potential risks and impacts of climate change and environmental concerns.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+10,5,"Text 1 is more specific than Text 2 because it provides more details about the potential climate change-related litigation, such as the European Union's Fit for 55 package and the updates to the European Union Emission Trading System, which impose requirements on the company to purchase carbon emission allowances. In contrast, Text 2 only mentions the potential for increased regulatory scrutiny and litigation risks due to advocacy groups' campaigns and public perception, without providing specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+11,5,"Text 1 does not contain any information related to climate litigation, while Text 2 mentions potential regulatory and legal risks related to environmental and climate change concerns, but does not provide specific details about climate litigation. Therefore, Text 2 is more specific in terms of climate litigation details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+12,5,"Text 1 is more specific than Text 2 because it provides more details about the potential impact of climate change-related regulations on the company's business operations, including increased costs, potential litigation, and changes to itineraries. Although Text 2 mentions climate change and energy transition matters, it does not provide specific details about climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+13,5,"Text 1 is more specific because it provides more details about climate litigation, including the parties involved, the type of lawsuits, and the sought outcome. Text 2 does not provide any specific information about climate litigation, only mentioning the potential risks and impacts of climate change on the company's operations.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,5,"Text 1 is more specific than Text 2 because it provides more details about the potential climate change-related regulations and their impact on the company's business, including the European Union's Fit for 55 package and the potential for increased costs and reputational impacts. Text 2, on the other hand, is more general and does not provide specific details about climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+7,6,"Text 1 is more specific than Text 2 because it provides more precise information about the climate litigation, including the parties involved (CNX, communities, and fossil fuel producers), the type of lawsuits (climate change lawsuits), and the potential impact on the company's financial position. In contrast, Text 2 is more focused on the regulatory environment and the potential risks associated with climate change, but it does not provide specific information about climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+8,6,"Text 1 is more specific than Text 2 because it provides more details about the climate litigation, such as the parties involved, the specific weather-related events, and the sought outcome. Text 2, on the other hand, is more focused on the regulatory risks and the potential impact of climate change on the company's business, but it does not provide specific details about climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+9,6,"Text 1 is more specific because it provides more detailed information about the lawsuits filed against oil, natural gas, and coal producers, including the specific weather-related events that are the subject of the lawsuits and the sought-after outcome of damages for remedial measures. In contrast, Text 2 is more focused on the regulatory risks and potential impacts of climate change on the company's business, but does not provide specific details about climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+10,6,"Text 1 has a specificity label of ""vague disclosure"" due to its lack of precision in anchors, climate linkage, and contextual clarity. Text 2 also has a specificity label of ""vague disclosure"" due to similar reasons. However, Text 2 provides more details about the regulatory environment and the potential impact of climate change on the company's business, making it slightly more specific than Text 1.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+11,6,"Text 1 does not contain any information related to climate litigation, while Text 2 discusses the potential legal actions that may be taken against a company due to its greenhouse gas emissions and the regulation of those emissions at the federal or state level. However, the specificity of Text 2 is limited to vague disclosures about climate-related regulations and their potential impact on the company's business.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+12,6,"Text 2 is more specific than Text 1 because it provides more details about the regulatory framework and the potential impact of climate change on the company's business, including specific dates, statutes, and policies. However, the specificity is still limited to general statements about the regulatory environment and does not provide concrete details about specific climate litigation.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+13,6,"Text 1 is more specific than Text 2 because it provides more detailed information about the climate litigation, including the parties involved, the specific weather-related events, and the sought outcome. Text 2, on the other hand, provides more general information about the regulatory environment and the potential impact of climate change on the company's business.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,6,"Text 1 is more specific than Text 2 because it mentions potential exposure to climate change-related litigation due to future climate change-related regulations, whereas Text 2 only mentions the potential for civil litigation and regulatory focus without providing specific details about any ongoing or past climate litigation cases.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+8,7,"Text 2 is more specific because it provides more precise information about the climate litigation, such as the number of lawsuits (four) and the parties involved (CNX, communities, and fossil fuel producers). Additionally, it mentions the potential costs of defending litigation and the possibility of future investigations or suits.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+9,7,"Text 1 provides more specific details about the climate litigation, including the number of lawsuits, the parties involved, and the specific climate-related events being targeted. Text 2, while still providing some details about climate litigation, is more general and lacks specific anchors, climate linkage, and falsifiability.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+10,7,"Text 2 is more specific than Text 1 because it provides more precise information about the climate litigation, including the number of lawsuits (four), the parties involved (CNX, communities, and fossil fuel producers), and the potential impact on the company's financial position. In contrast, Text 1 only mentions the possibility of climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+11,7,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, such as the number of lawsuits, the parties involved, and the potential impact on the company's financial position. Text 1 does not contain any information related to climate litigation.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+12,7," [OUT] The rationale for choosing ""detailed disclosure"" for Text 2 is as follows:
+
+1. **Precision of Anchors**: Text 2 provides specific details about the parties involved (states and municipalities, CNX), the nature of the lawsuits (seeking damages for climate-related events), and the sought-outcome (money damages for remedial measures). While it lacks exact case titles or docket numbers, it offers more concrete information than Text 1.
+
+2. **Linkage to Climate Claims**: Text 2 explicitly links the lawsuits to climate change-related events such as rising sea levels, flooding, storms, and heatwaves. This is a stronger climate linkage compared to Text 1, which only mentions climate change in a broader regulatory context.
+
+3. **Falsifiability**: Text 2 includes checkable elements such as the number of lawsuits (""close to two dozen"") and specific climate-related events. This makes the disclosure more verifiable than Text 1, which lacks such details.
+
+4. **Contextual Clarity**: Text 2 clearly states who is involved (producers of oil, natural gas, and coal), what they are being held liable for (consequences of climate change-related events), and the sought-outcome (damages for remedial measures). This provides a clearer context than Text 1, which does not specify any ongoing or past climate litigation cases.
+
+Given these points, Text 2 is more specific and detailed in its disclosure of climate litigation.
+
+FINAL: text 2", text 2,mistralai/mistral-7b-instruct
+13,7,"Text 1 provides more specific details about the climate litigation, including the number of lawsuits, the parties involved, and the specific weather-related events being addressed. In contrast, Text 2 provides more general information about the company's involvement in climate change lawsuits, but lacks specific details about the lawsuits themselves.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,7,"Text 2 is more specific because it provides more details about the climate litigation, such as the number of lawsuits (four), the parties involved (CNX, communities, and fossil fuel producers), and the potential impact on the company's financial position. In contrast, Text 1 only mentions the possibility of climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+9,8,"Text 1 is more specific than Text 2 because it provides more detailed information about the climate litigation, including the number of lawsuits filed, the specific weather-related events being targeted, and the sought outcome of the lawsuits. Text 2, on the other hand, provides less specific information and lacks details about the climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+10,8,"Text 1 has a specificity label of ""vague disclosure"" due to its lack of precision in anchors, climate linkage, falsifiability, and contextual clarity. Text 2 also has a specificity label of ""vague disclosure"" for similar reasons. However, Text 2 provides more details about the lawsuits filed against oil, natural gas, and coal producers, including the number of lawsuits and the sought outcome. Therefore, Text 2 is slightly more specific than Text 1.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+11,8,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, including the parties involved, the procedural posture, and the sought outcome. Although the breakdown for Text 2 is not highly specific, it is more detailed than the breakdown for Text 1, which does not contain any information related to climate litigation.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+12,8,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, such as the number of lawsuits filed (close to two dozen), the parties involved (various states and municipalities, producers of oil, natural gas, and coal), and the sought outcome (money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change).
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+13,8,"Text 1 is more specific than Text 2 because it provides more detailed information about the climate litigation, including the parties involved, the specific weather-related events, and the sought outcome. Text 2, on the other hand, provides more general information about the lawsuits and the potential consequences of climate change.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,8,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, such as the number of lawsuits filed, the parties involved, and the sought outcome. Text 1 only mentions the potential exposure to climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+10,9,"Text 2 is more specific because it provides more detailed information about the lawsuits, including the number of lawsuits (""close to two dozen""), the parties involved (""states and municipalities"" and ""producers of oil, natural gas and coal""), and the specific consequences of climate change-related events being targeted (""rising sea levels"", ""more frequent and severe flooding"", ""storms"", and ""heatwaves""). Additionally, Text 2 mentions specific laws and regulations, such as ""laws and regulations aimed at reducing GHG emissions"" and ""environmental laws and regulations"", which adds to the specificity of the disclosure.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+11,9,"Text 2 is more specific because it provides more details about the climate litigation, including the parties involved, the type of lawsuits, and the sought outcome. Although it does not provide a case title or docket, forum, or jurisdiction, it does offer more context and specificity about the climate linkage, checkable elements, and sought outcome.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+12,9,"Text 2 is more specific because it provides more details about the climate litigation, including the number of lawsuits (""close to two dozen""), the parties involved (""states and municipalities"" and ""producers of oil, natural gas and coal""), and the specific consequences of climate change-related events being targeted (""rising sea levels"", ""more frequent and severe flooding"", ""storms"", and ""heatwaves""). Additionally, Text 2 mentions the sought outcome of the litigation (""damages for remedial measures"") and provides a specific example of the type of regulation being targeted (""laws and regulations aimed at reducing GHG emissions"").
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+13,9,"Both texts are classified as climate litigation and have similar specificity labels of ""detailed disclosure"". However, Text 1 provides more specific details about the lawsuits, such as the number of lawsuits (""close to two dozen"") and the specific weather-related events being targeted (""rising sea levels and more frequent and severe flooding, storms and heatwaves""). Text 2 also mentions ""two dozen lawsuits"" but does not provide as much detail about the specific events being targeted.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,9,"Text 2 is more specific because it provides more details about the climate litigation, including the parties involved, the type of lawsuits, and the sought outcome. Text 1 only mentions potential exposure to climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+11,10,"Text 1 does not contain any information related to climate litigation, while Text 2 mentions potential exposure to climate change-related litigation due to increasing global regulatory focus on climate change, greenhouse gas, and other emissions. However, the specificity of the disclosure in Text 2 is vague, as it does not provide precise details about the litigation, such as parties, case title, or procedural posture.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+12,10,"Text 2 is more specific than Text 1 because it provides more details about the regulatory efforts and their potential impact on the company's business, including the European Union's Fit for 55 package and updates to the European Union Emission Trading System. However, the specificity label for Text 2 is ""vague disclosure"" because it still lacks precision in anchors, linkage to climate claims, falsifiability, and contextual clarity.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct
+13,10,"Text 1 is more specific because it provides more details about the climate litigation, including the parties involved, the type of litigation, and the specific regulations and policies that are relevant to the case. In contrast, Text 2 is more vague and only mentions the potential for climate change-related litigation without providing any specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,10,"Text 1 is more specific than Text 2 because it provides more details about the potential climate change-related litigation, such as the European Union's Fit for 55 package and the updates to the European Union Emission Trading System. Although both texts mention climate change-related litigation, Text 1 provides more context and specific examples, making it more specific.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+12,11,"Text 1 is more specific because it mentions potential exposure to climate change-related litigation, while Text 2 does not contain any information related to climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+13,11,"Text 1 is more specific because it provides details about climate litigation, including the parties involved, the type of lawsuit, and the sought outcome. In contrast, Text 2 does not contain any information related to climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,11,"Text 1 is more specific because it mentions potential exposure to climate change-related litigation due to future climate change-related regulations, whereas Text 2 does not contain any information related to climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+13,12,"Text 1 is more specific than Text 2 because it provides more details about climate litigation, such as the parties involved, the type of lawsuits, and the sought outcome. Text 2, on the other hand, only mentions the possibility of climate change-related litigation without providing any specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,12,"Both texts are classified as climate litigation, but Text 1 provides more specific details about the potential impact of climate change-related regulations on the company's business operations, including increased costs, potential litigation, and changes to itineraries. Text 2 also mentions potential exposure to climate change-related litigation, but the language is more general and does not provide as much specificity.
+
+FINAL: text 1",text 1,mistralai/mistral-7b-instruct
+14,13,"Text 2 is more specific because it provides more details about the climate litigation, including the parties involved, the type of lawsuits, and the sought outcome. Text 1 only mentions potential exposure to climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-7b-instruct

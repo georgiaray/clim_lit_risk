@@ -1,0 +1,194 @@
+
+============================================================
+USER MESSAGE 1
+============================================================
+Summarize the following text: Most of these types of programs require major sources of emissions or major producers of fuels to acquire and subsequently surrender emission allowances, with the number of allowances available being reduced each year until a target goal is achieved. The cost of these allowances could increase over time. While new laws and regulations that are aimed at reducing GHG emissions will increase demand for natural gas, they may also result in increased costs for permitting, equipping, monitoring and reporting GHGs associated with natural gas production and use.
+In addition, spurred by increasing concerns regarding climate change, the oil and natural gas industry faces growing demand for corporate transparency and a demonstrated commitment to sustainability goals. Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change. For further discussion of pending legal proceedings, see Note 20 – Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K. 30
+Environmental regulations can increase costs and introduce uncertainty that could adversely impact the market for natural gas with potential short and long-term liabilities.
+CNX is subject to various stringent federal, state, and local laws and regulations relating to the discharge of materials into, and protection of, the environment. These laws and regulations may impose numerous obligations that are applicable to us and our customers’ operations. Failure to comply with these laws, regulations and related permit requirements may result in joint and several or strict liability or the assessment of administrative, civil and criminal penalties, the imposition of remedial obligations, and/or the issuance of injunctions limiting or preventing some or all of our operations. Private parties, including the owners of the properties through which CNX’s gathering systems pass, and some local municipalities may also have the right to pursue legal actions to enforce compliance, challenge governmental actions, as well as seek damages for non-compliance, with environmental laws and regulations or for personal injury or property damage.
+
+============================================================
+ASSISTANT MESSAGE 2
+============================================================
+The text discusses the impact of environmental programs and legal proceedings on the oil and natural gas industry. These programs often require major producers to acquire and surrender emission allowances, with decreasing allowances and increasing costs over time. New laws and regulations aimed at reducing GHG emissions may increase demand for natural gas but also lead to higher costs for permitting, equipping, monitoring, and reporting. The industry faces growing demand for corporate transparency and sustainability goals, with ESG programs becoming more important to investors and stakeholders. There are numerous lawsuits seeking to hold producers liable for climate change consequences, which can introduce uncertainty and increase costs. CNX, a company in the industry, is subject to various environmental laws and regulations, non-compliance with which can result in penalties, remedial obligations, or injunctions, and may face legal actions by private parties or local municipalities.
+
+============================================================
+USER MESSAGE 3
+============================================================
+Please assess whether the following text is climate litigation.
+
+Previously, someone else extracted all of the sentences from several companies' annual reports that related to climate litigation. Now, we are interested in assessing the specificity of these disclosures.
+
+Now, we are just seeing if you agree with them.
+Climate litigation refers to legal actions that materially concern climate change science, policy, or law. These include, but are not limited to:
+- Lawsuits targeting false or misleading climate claims (e.g. greenwashing)
+- Legal actions over a company’s contribution to climate-related impacts
+- Efforts to force climate alignment through human rights or fiduciary duty arguments
+- Failure to disclose climate-related risks or impacts
+- Breaches of climate-related regulations
+- Litigation seeking damages for harms caused by climate change
+- Legal challenges to regulatory approvals on the basis of climate misalignment
+
+You will be given a summary of the text, as well as the original text.
+Summary: The text discusses the impact of environmental programs and legal proceedings on the oil and natural gas industry. These programs often require major producers to acquire and surrender emission allowances, with decreasing allowances and increasing costs over time. New laws and regulations aimed at reducing GHG emissions may increase demand for natural gas but also lead to higher costs for permitting, equipping, monitoring, and reporting. The industry faces growing demand for corporate transparency and sustainability goals, with ESG programs becoming more important to investors and stakeholders. There are numerous lawsuits seeking to hold producers liable for climate change consequences, which can introduce uncertainty and increase costs. CNX, a company in the industry, is subject to various environmental laws and regulations, non-compliance with which can result in penalties, remedial obligations, or injunctions, and may face legal actions by private parties or local municipalities.
+
+Original text: Most of these types of programs require major sources of emissions or major producers of fuels to acquire and subsequently surrender emission allowances, with the number of allowances available being reduced each year until a target goal is achieved. The cost of these allowances could increase over time. While new laws and regulations that are aimed at reducing GHG emissions will increase demand for natural gas, they may also result in increased costs for permitting, equipping, monitoring and reporting GHGs associated with natural gas production and use.
+In addition, spurred by increasing concerns regarding climate change, the oil and natural gas industry faces growing demand for corporate transparency and a demonstrated commitment to sustainability goals. Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change. For further discussion of pending legal proceedings, see Note 20 – Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K. 30
+Environmental regulations can increase costs and introduce uncertainty that could adversely impact the market for natural gas with potential short and long-term liabilities.
+CNX is subject to various stringent federal, state, and local laws and regulations relating to the discharge of materials into, and protection of, the environment. These laws and regulations may impose numerous obligations that are applicable to us and our customers’ operations. Failure to comply with these laws, regulations and related permit requirements may result in joint and several or strict liability or the assessment of administrative, civil and criminal penalties, the imposition of remedial obligations, and/or the issuance of injunctions limiting or preventing some or all of our operations. Private parties, including the owners of the properties through which CNX’s gathering systems pass, and some local municipalities may also have the right to pursue legal actions to enforce compliance, challenge governmental actions, as well as seek damages for non-compliance, with environmental laws and regulations or for personal injury or property damage.
+
+============================================================
+ASSISTANT MESSAGE 4
+============================================================
+Yes, the original text discusses various legal actions and lawsuits related to climate change, which can be considered as climate litigation. These legal actions include efforts to hold producers of oil, natural gas, and coal liable for the consequences of weather-related events, as well as lawsuits seeking damages for harms caused by climate change. The text also mentions the growing demand for corporate transparency and sustainability goals, which are relevant to climate litigation.
+
+============================================================
+USER MESSAGE 5
+============================================================
+For your knowledge, the text was previously classified as follows:
+Summary: The text discusses the impact of environmental programs and legal proceedings on the oil and natural gas industry. These programs often require major producers to acquire and surrender emission allowances, with decreasing allowances and increasing costs over time. New laws and regulations aimed at reducing GHG emissions may increase demand for natural gas but also lead to higher costs for permitting, equipping, monitoring, and reporting. The industry faces growing demand for corporate transparency and sustainability goals, with ESG programs becoming more important to investors and stakeholders. There are numerous lawsuits seeking to hold producers liable for climate change consequences, which can introduce uncertainty and increase costs. CNX, a company in the industry, is subject to various environmental laws and regulations, non-compliance with which can result in penalties, remedial obligations, or injunctions, and may face legal actions by private parties or local municipalities.
+
+Original text: Most of these types of programs require major sources of emissions or major producers of fuels to acquire and subsequently surrender emission allowances, with the number of allowances available being reduced each year until a target goal is achieved. The cost of these allowances could increase over time. While new laws and regulations that are aimed at reducing GHG emissions will increase demand for natural gas, they may also result in increased costs for permitting, equipping, monitoring and reporting GHGs associated with natural gas production and use.
+In addition, spurred by increasing concerns regarding climate change, the oil and natural gas industry faces growing demand for corporate transparency and a demonstrated commitment to sustainability goals. Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change. For further discussion of pending legal proceedings, see Note 20 – Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K. 30
+Environmental regulations can increase costs and introduce uncertainty that could adversely impact the market for natural gas with potential short and long-term liabilities.
+CNX is subject to various stringent federal, state, and local laws and regulations relating to the discharge of materials into, and protection of, the environment. These laws and regulations may impose numerous obligations that are applicable to us and our customers’ operations. Failure to comply with these laws, regulations and related permit requirements may result in joint and several or strict liability or the assessment of administrative, civil and criminal penalties, the imposition of remedial obligations, and/or the issuance of injunctions limiting or preventing some or all of our operations. Private parties, including the owners of the properties through which CNX’s gathering systems pass, and some local municipalities may also have the right to pursue legal actions to enforce compliance, challenge governmental actions, as well as seek damages for non-compliance, with environmental laws and regulations or for personal injury or property damage.
+
+Classification: 1
+Please only respond with an acknowledgement of this information.
+
+============================================================
+ASSISTANT MESSAGE 6
+============================================================
+Acknowledged. The text was previously classified as follows: Summary and Original text provided, with the classification being related to the impact of environmental programs and legal proceedings on the oil and natural gas industry, including climate litigation.
+
+============================================================
+USER MESSAGE 7
+============================================================
+Build a concept-specific breakdown of SPECIFICITY for climate litigation.
+Focus on anchors (parties/case/docket, forum/jurisdiction, statute/reg/policy, posture, dates, monetary amounts), climate linkage, falsifiability (checkable details), and contextual clarity (who/what/where/when/under which rule/seeking what).
+
+It is very impotant that you only fill in the following schema with details that are DIRECTLY RELATED to climate litigation. Many text chunks will include details about other climate related regulations, monetary incentives, etc. but ONLY IF the text provides the following details about CLIMATE LITIGATION ITSELF, should you fill them in. Otherwise, they should be given null or empty lists.Summary: The text discusses the impact of environmental programs and legal proceedings on the oil and natural gas industry. These programs often require major producers to acquire and surrender emission allowances, with decreasing allowances and increasing costs over time. New laws and regulations aimed at reducing GHG emissions may increase demand for natural gas but also lead to higher costs for permitting, equipping, monitoring, and reporting. The industry faces growing demand for corporate transparency and sustainability goals, with ESG programs becoming more important to investors and stakeholders. There are numerous lawsuits seeking to hold producers liable for climate change consequences, which can introduce uncertainty and increase costs. CNX, a company in the industry, is subject to various environmental laws and regulations, non-compliance with which can result in penalties, remedial obligations, or injunctions, and may face legal actions by private parties or local municipalities.
+
+Original text:
+Most of these types of programs require major sources of emissions or major producers of fuels to acquire and subsequently surrender emission allowances, with the number of allowances available being reduced each year until a target goal is achieved. The cost of these allowances could increase over time. While new laws and regulations that are aimed at reducing GHG emissions will increase demand for natural gas, they may also result in increased costs for permitting, equipping, monitoring and reporting GHGs associated with natural gas production and use.
+In addition, spurred by increasing concerns regarding climate change, the oil and natural gas industry faces growing demand for corporate transparency and a demonstrated commitment to sustainability goals. Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change. For further discussion of pending legal proceedings, see Note 20 – Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K. 30
+Environmental regulations can increase costs and introduce uncertainty that could adversely impact the market for natural gas with potential short and long-term liabilities.
+CNX is subject to various stringent federal, state, and local laws and regulations relating to the discharge of materials into, and protection of, the environment. These laws and regulations may impose numerous obligations that are applicable to us and our customers’ operations. Failure to comply with these laws, regulations and related permit requirements may result in joint and several or strict liability or the assessment of administrative, civil and criminal penalties, the imposition of remedial obligations, and/or the issuance of injunctions limiting or preventing some or all of our operations. Private parties, including the owners of the properties through which CNX’s gathering systems pass, and some local municipalities may also have the right to pursue legal actions to enforce compliance, challenge governmental actions, as well as seek damages for non-compliance, with environmental laws and regulations or for personal injury or property damage.
+
+
+Return ONLY valid JSON with this exact schema and keys (no code fences, no extra text):
+
+{
+  "parties": [string],
+  "case_title_or_docket": string or null,
+  "forum_or_jurisdiction": string or null,
+  "statute_reg_policy": [string],
+  "procedural_posture": string or null,
+  "dates_or_timeframes": [string],
+  "monetary_or_quantified": [string],
+  "climate_linkage_summary": string,
+  "climate_linkage_quotes": [string],
+  "checkable_elements": [string],
+  "who": string or null,
+  "what": string or null,
+  "where": string or null,
+  "when": string or null,
+  "under_which_rule": string or null,
+  "sought_outcome": string or null,
+  "evidence_quotes": [string]
+}
+
+Rules:
+- Only consider these categories in relation to climate litigation. If there are dates, parties, monetary amounts, etc. that are not related to climate litigation, ignore them.
+- Populate every key. Use [] for unknown lists, and null for unknown single values.
+- Prefer short verbatim snippets from the text for any *quotes* arrays.
+- Do NOT invent details not supported by the text. Ignore specificity about non-climate topics.
+
+
+============================================================
+ASSISTANT MESSAGE 8
+============================================================
+{
+  "parties": ["various states and municipalities", "producers of oil, natural gas, and coal"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": ["climate change science", "climate-related impacts", "GHG emissions reduction laws and regulations"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["currently close to two dozen lawsuits"],
+  "monetary_or_quantified": null,
+  "climate_linkage_summary": "seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change",
+  "climate_linkage_quotes": ["rising sea levels", "more frequent and severe flooding, storms, and heatwaves"],
+  "checkable_elements": ["liability for climate change consequences"],
+  "who": null,
+  "what": null,
+  "where": null,
+  "when": null,
+  "under_which_rule": null,
+  "sought_outcome": "remedial measures aimed at eliminating or ameliorating damages caused by climate change",
+  "evidence_quotes": ["For further discussion of pending legal proceedings, see Note 20 – Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K. 30"]
+}
+
+============================================================
+USER MESSAGE 9
+============================================================
+Given the summary, original text, CL classification, and the structured breakdown, choose ONE specificity label.
+Base your choice on:
+ - PRECISION of anchors (parties/case/docket, forum, statute/reg/policy, posture, dates, monetary/quantified).
+ - LINKAGE to climate claims (not generic legal/ESG talk).
+ - FALSIFIABILITY (checkable details: exact court, date, cited rule, quantified remedy, etc.).
+ - CONTEXTUAL CLARITY (who did what, where, when, under which rule, seeking what outcome).
+Ignore specificity about non-climate and non-litigation topics
+
+Return ONLY one of: not climate litigation, mention only, vague disclosure, basic disclosure, detailed disclosure, highly specific
+
+Summary: The text discusses the impact of environmental programs and legal proceedings on the oil and natural gas industry. These programs often require major producers to acquire and surrender emission allowances, with decreasing allowances and increasing costs over time. New laws and regulations aimed at reducing GHG emissions may increase demand for natural gas but also lead to higher costs for permitting, equipping, monitoring, and reporting. The industry faces growing demand for corporate transparency and sustainability goals, with ESG programs becoming more important to investors and stakeholders. There are numerous lawsuits seeking to hold producers liable for climate change consequences, which can introduce uncertainty and increase costs. CNX, a company in the industry, is subject to various environmental laws and regulations, non-compliance with which can result in penalties, remedial obligations, or injunctions, and may face legal actions by private parties or local municipalities.
+Original text: Most of these types of programs require major sources of emissions or major producers of fuels to acquire and subsequently surrender emission allowances, with the number of allowances available being reduced each year until a target goal is achieved. The cost of these allowances could increase over time. While new laws and regulations that are aimed at reducing GHG emissions will increase demand for natural gas, they may also result in increased costs for permitting, equipping, monitoring and reporting GHGs associated with natural gas production and use.
+In addition, spurred by increasing concerns regarding climate change, the oil and natural gas industry faces growing demand for corporate transparency and a demonstrated commitment to sustainability goals. Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change. For further discussion of pending legal proceedings, see Note 20 – Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K. 30
+Environmental regulations can increase costs and introduce uncertainty that could adversely impact the market for natural gas with potential short and long-term liabilities.
+CNX is subject to various stringent federal, state, and local laws and regulations relating to the discharge of materials into, and protection of, the environment. These laws and regulations may impose numerous obligations that are applicable to us and our customers’ operations. Failure to comply with these laws, regulations and related permit requirements may result in joint and several or strict liability or the assessment of administrative, civil and criminal penalties, the imposition of remedial obligations, and/or the issuance of injunctions limiting or preventing some or all of our operations. Private parties, including the owners of the properties through which CNX’s gathering systems pass, and some local municipalities may also have the right to pursue legal actions to enforce compliance, challenge governmental actions, as well as seek damages for non-compliance, with environmental laws and regulations or for personal injury or property damage.
+Previously classified as climate litigation? 1
+Breakdown JSON: {
+  "parties": [
+    "various states and municipalities",
+    "producers of oil, natural gas, and coal"
+  ],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": [
+    "climate change science",
+    "climate-related impacts",
+    "GHG emissions reduction laws and regulations"
+  ],
+  "procedural_posture": null,
+  "dates_or_timeframes": [
+    "currently close to two dozen lawsuits"
+  ],
+  "monetary_or_quantified": null,
+  "climate_linkage_summary": "seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change",
+  "climate_linkage_quotes": [
+    "rising sea levels",
+    "more frequent and severe flooding, storms, and heatwaves"
+  ],
+  "checkable_elements": [
+    "liability for climate change consequences"
+  ],
+  "who": null,
+  "what": null,
+  "where": null,
+  "when": null,
+  "under_which_rule": null,
+  "sought_outcome": "remedial measures aimed at eliminating or ameliorating damages caused by climate change",
+  "evidence_quotes": [
+    "For further discussion of pending legal proceedings, see Note 20 – Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K. 30"
+  ]
+}
+
+============================================================
+ASSISTANT MESSAGE 10
+============================================================
+detailed disclosure

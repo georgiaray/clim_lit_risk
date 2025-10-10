@@ -1,0 +1,268 @@
+
+============================================================
+USER MESSAGE 1
+============================================================
+Summarize the following text: However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has proposed a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power. The proposed legislation also includes updates to the European Union Emission Trading System which would impose requirements to purchase carbon emission allowances beginning in 2024. In addition, the U.S. and various state and foreign government or regulatory agencies have enacted, or may enact, environmental regulations or policies, such as requiring the use of low sulfur fuels (e.g., IMO Sulfur Limit) or the incoming carbon intensity indicator regulation, that have or could increase our direct cost to operate in certain markets, increase our cost of fuel, limit the supply of compliant fuel, cause us to incur significant expenses to purchase and/or develop new equipment and adversely impact the cruise vacation industry. If enacted, these regulations may individually or collectively have a material adverse effect on our business and results of operations due to increased costs associated with compliance and modified itineraries in the affected regions.
+There has also been growing environmental scrutiny of the environmental impact of the cruise vacation industry, and some environmental groups are advocating for more stringent regulation of ship emissions at berth and at sea. This negative publicity of the cruise industry and any related measures may lead to changes in consumer preferences, such as methods or frequency of travel, which could adversely impact our operations and financial results and subject us to reputational impacts and costs.
+Labor, health and safety, financial responsibility and other maritime regulations and measures could affect operations and increase operating costs. We are subject to
+various international, national, state and local laws, regulations and treaties that govern, among other things, discharge from our ships, safety standards applicable to our ships, treatment of disabled persons, health and sanitary standards applicable to our guests, security standards on board our ships and at the ship/port interface areas, and financial responsibilities to our guests. These issues are, and we believe will continue to be, an area of focus by the relevant authorities throughout the world.
+
+============================================================
+ASSISTANT MESSAGE 2
+============================================================
+This text outlines potential future regulatory changes and their potential impact on a cruise company's business and financial results. Key points include:
+
+1. **Climate Change Regulations**: Future climate change-related regulations, such as the European Union's Fit for 55 package, may require the company to reduce emissions, use low-carbon fuels, and connect to shore power. These regulations could increase operating costs, including fuel costs, and expose the company to climate change litigation.
+
+2. **Emission Trading Systems**: The EU's updated Emission Trading System will require the company to purchase carbon emission allowances starting in 2024, adding to operational expenses.
+
+3. **U.S. and Foreign Regulations**: Various U.S. and foreign regulations, such as the requirement for low sulfur fuels (IMO Sulfur Limit) and the carbon intensity indicator regulation, could increase operational costs, limit fuel supply, and necessitate significant investments in new equipment.
+
+4. **Environmental Scrutiny**: Growing environmental scrutiny and advocacy for stricter regulations on ship emissions could lead to changes in consumer behavior, negatively impacting the company's operations and financial results.
+
+5. **Reputational Risks**: Negative publicity and potential regulatory measures could affect consumer preferences, leading to reduced travel frequency and reputational costs.
+
+6. **Additional Regulations**: The company is subject to various international, national, state, and local laws and regulations concerning environmental impact, labor, health and safety, financial responsibility, and security, which could further increase operating costs and subject the company to ongoing scrutiny from regulatory authorities.
+
+============================================================
+USER MESSAGE 3
+============================================================
+Please assess whether the following text is climate litigation.
+
+Previously, someone else extracted all of the sentences from several companies' annual reports that related to climate litigation. Now, we are interested in assessing the specificity of these disclosures.
+
+Now, we are just seeing if you agree with them.
+Climate litigation refers to legal actions that materially concern climate change science, policy, or law. These include, but are not limited to:
+- Lawsuits targeting false or misleading climate claims (e.g. greenwashing)
+- Legal actions over a company’s contribution to climate-related impacts
+- Efforts to force climate alignment through human rights or fiduciary duty arguments
+- Failure to disclose climate-related risks or impacts
+- Breaches of climate-related regulations
+- Litigation seeking damages for harms caused by climate change
+- Legal challenges to regulatory approvals on the basis of climate misalignment
+
+You will be given a summary of the text, as well as the original text.
+Summary: This text outlines potential future regulatory changes and their potential impact on a cruise company's business and financial results. Key points include:
+
+1. **Climate Change Regulations**: Future climate change-related regulations, such as the European Union's Fit for 55 package, may require the company to reduce emissions, use low-carbon fuels, and connect to shore power. These regulations could increase operating costs, including fuel costs, and expose the company to climate change litigation.
+
+2. **Emission Trading Systems**: The EU's updated Emission Trading System will require the company to purchase carbon emission allowances starting in 2024, adding to operational expenses.
+
+3. **U.S. and Foreign Regulations**: Various U.S. and foreign regulations, such as the requirement for low sulfur fuels (IMO Sulfur Limit) and the carbon intensity indicator regulation, could increase operational costs, limit fuel supply, and necessitate significant investments in new equipment.
+
+4. **Environmental Scrutiny**: Growing environmental scrutiny and advocacy for stricter regulations on ship emissions could lead to changes in consumer behavior, negatively impacting the company's operations and financial results.
+
+5. **Reputational Risks**: Negative publicity and potential regulatory measures could affect consumer preferences, leading to reduced travel frequency and reputational costs.
+
+6. **Additional Regulations**: The company is subject to various international, national, state, and local laws and regulations concerning environmental impact, labor, health and safety, financial responsibility, and security, which could further increase operating costs and subject the company to ongoing scrutiny from regulatory authorities.
+
+Original text: However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has proposed a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power. The proposed legislation also includes updates to the European Union Emission Trading System which would impose requirements to purchase carbon emission allowances beginning in 2024. In addition, the U.S. and various state and foreign government or regulatory agencies have enacted, or may enact, environmental regulations or policies, such as requiring the use of low sulfur fuels (e.g., IMO Sulfur Limit) or the incoming carbon intensity indicator regulation, that have or could increase our direct cost to operate in certain markets, increase our cost of fuel, limit the supply of compliant fuel, cause us to incur significant expenses to purchase and/or develop new equipment and adversely impact the cruise vacation industry. If enacted, these regulations may individually or collectively have a material adverse effect on our business and results of operations due to increased costs associated with compliance and modified itineraries in the affected regions.
+There has also been growing environmental scrutiny of the environmental impact of the cruise vacation industry, and some environmental groups are advocating for more stringent regulation of ship emissions at berth and at sea. This negative publicity of the cruise industry and any related measures may lead to changes in consumer preferences, such as methods or frequency of travel, which could adversely impact our operations and financial results and subject us to reputational impacts and costs.
+Labor, health and safety, financial responsibility and other maritime regulations and measures could affect operations and increase operating costs. We are subject to
+various international, national, state and local laws, regulations and treaties that govern, among other things, discharge from our ships, safety standards applicable to our ships, treatment of disabled persons, health and sanitary standards applicable to our guests, security standards on board our ships and at the ship/port interface areas, and financial responsibilities to our guests. These issues are, and we believe will continue to be, an area of focus by the relevant authorities throughout the world.
+
+============================================================
+ASSISTANT MESSAGE 4
+============================================================
+Based on the provided texts and the definition of climate litigation, the original text **does** reference climate litigation, albeit indirectly. Specifically, the following sentences from the original text indicate potential exposure to climate change-related litigation:
+
+- "However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and **may increase our exposure, if any, to climate change-related litigation.**"
+
+This sentence explicitly mentions the potential increase in exposure to climate change-related litigation as a result of future climate change regulations. Therefore, the text does allude to climate litigation concerns, making it relevant to the assessment of climate litigation disclosures.
+
+============================================================
+USER MESSAGE 5
+============================================================
+For your knowledge, the text was previously classified as follows:
+Summary: This text outlines potential future regulatory changes and their potential impact on a cruise company's business and financial results. Key points include:
+
+1. **Climate Change Regulations**: Future climate change-related regulations, such as the European Union's Fit for 55 package, may require the company to reduce emissions, use low-carbon fuels, and connect to shore power. These regulations could increase operating costs, including fuel costs, and expose the company to climate change litigation.
+
+2. **Emission Trading Systems**: The EU's updated Emission Trading System will require the company to purchase carbon emission allowances starting in 2024, adding to operational expenses.
+
+3. **U.S. and Foreign Regulations**: Various U.S. and foreign regulations, such as the requirement for low sulfur fuels (IMO Sulfur Limit) and the carbon intensity indicator regulation, could increase operational costs, limit fuel supply, and necessitate significant investments in new equipment.
+
+4. **Environmental Scrutiny**: Growing environmental scrutiny and advocacy for stricter regulations on ship emissions could lead to changes in consumer behavior, negatively impacting the company's operations and financial results.
+
+5. **Reputational Risks**: Negative publicity and potential regulatory measures could affect consumer preferences, leading to reduced travel frequency and reputational costs.
+
+6. **Additional Regulations**: The company is subject to various international, national, state, and local laws and regulations concerning environmental impact, labor, health and safety, financial responsibility, and security, which could further increase operating costs and subject the company to ongoing scrutiny from regulatory authorities.
+
+Original text: However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has proposed a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power. The proposed legislation also includes updates to the European Union Emission Trading System which would impose requirements to purchase carbon emission allowances beginning in 2024. In addition, the U.S. and various state and foreign government or regulatory agencies have enacted, or may enact, environmental regulations or policies, such as requiring the use of low sulfur fuels (e.g., IMO Sulfur Limit) or the incoming carbon intensity indicator regulation, that have or could increase our direct cost to operate in certain markets, increase our cost of fuel, limit the supply of compliant fuel, cause us to incur significant expenses to purchase and/or develop new equipment and adversely impact the cruise vacation industry. If enacted, these regulations may individually or collectively have a material adverse effect on our business and results of operations due to increased costs associated with compliance and modified itineraries in the affected regions.
+There has also been growing environmental scrutiny of the environmental impact of the cruise vacation industry, and some environmental groups are advocating for more stringent regulation of ship emissions at berth and at sea. This negative publicity of the cruise industry and any related measures may lead to changes in consumer preferences, such as methods or frequency of travel, which could adversely impact our operations and financial results and subject us to reputational impacts and costs.
+Labor, health and safety, financial responsibility and other maritime regulations and measures could affect operations and increase operating costs. We are subject to
+various international, national, state and local laws, regulations and treaties that govern, among other things, discharge from our ships, safety standards applicable to our ships, treatment of disabled persons, health and sanitary standards applicable to our guests, security standards on board our ships and at the ship/port interface areas, and financial responsibilities to our guests. These issues are, and we believe will continue to be, an area of focus by the relevant authorities throughout the world.
+
+Classification: 1
+Please only respond with an acknowledgement of this information.
+
+============================================================
+ASSISTANT MESSAGE 6
+============================================================
+Acknowledged. The text has been classified as **1**, indicating it does reference climate litigation.
+
+============================================================
+USER MESSAGE 7
+============================================================
+Build a concept-specific breakdown of SPECIFICITY for climate litigation.
+Focus on anchors (parties/case/docket, forum/jurisdiction, statute/reg/policy, posture, dates, monetary amounts), climate linkage, falsifiability (checkable details), and contextual clarity (who/what/where/when/under which rule/seeking what).
+
+It is very impotant that you only fill in the following schema with details that are DIRECTLY RELATED to climate litigation. Many text chunks will include details about other climate related regulations, monetary incentives, etc. but ONLY IF the text provides the following details about CLIMATE LITIGATION ITSELF, should you fill them in. Otherwise, they should be given null or empty lists.Summary: This text outlines potential future regulatory changes and their potential impact on a cruise company's business and financial results. Key points include:
+
+1. **Climate Change Regulations**: Future climate change-related regulations, such as the European Union's Fit for 55 package, may require the company to reduce emissions, use low-carbon fuels, and connect to shore power. These regulations could increase operating costs, including fuel costs, and expose the company to climate change litigation.
+
+2. **Emission Trading Systems**: The EU's updated Emission Trading System will require the company to purchase carbon emission allowances starting in 2024, adding to operational expenses.
+
+3. **U.S. and Foreign Regulations**: Various U.S. and foreign regulations, such as the requirement for low sulfur fuels (IMO Sulfur Limit) and the carbon intensity indicator regulation, could increase operational costs, limit fuel supply, and necessitate significant investments in new equipment.
+
+4. **Environmental Scrutiny**: Growing environmental scrutiny and advocacy for stricter regulations on ship emissions could lead to changes in consumer behavior, negatively impacting the company's operations and financial results.
+
+5. **Reputational Risks**: Negative publicity and potential regulatory measures could affect consumer preferences, leading to reduced travel frequency and reputational costs.
+
+6. **Additional Regulations**: The company is subject to various international, national, state, and local laws and regulations concerning environmental impact, labor, health and safety, financial responsibility, and security, which could further increase operating costs and subject the company to ongoing scrutiny from regulatory authorities.
+
+Original text:
+However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has proposed a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power. The proposed legislation also includes updates to the European Union Emission Trading System which would impose requirements to purchase carbon emission allowances beginning in 2024. In addition, the U.S. and various state and foreign government or regulatory agencies have enacted, or may enact, environmental regulations or policies, such as requiring the use of low sulfur fuels (e.g., IMO Sulfur Limit) or the incoming carbon intensity indicator regulation, that have or could increase our direct cost to operate in certain markets, increase our cost of fuel, limit the supply of compliant fuel, cause us to incur significant expenses to purchase and/or develop new equipment and adversely impact the cruise vacation industry. If enacted, these regulations may individually or collectively have a material adverse effect on our business and results of operations due to increased costs associated with compliance and modified itineraries in the affected regions.
+There has also been growing environmental scrutiny of the environmental impact of the cruise vacation industry, and some environmental groups are advocating for more stringent regulation of ship emissions at berth and at sea. This negative publicity of the cruise industry and any related measures may lead to changes in consumer preferences, such as methods or frequency of travel, which could adversely impact our operations and financial results and subject us to reputational impacts and costs.
+Labor, health and safety, financial responsibility and other maritime regulations and measures could affect operations and increase operating costs. We are subject to
+various international, national, state and local laws, regulations and treaties that govern, among other things, discharge from our ships, safety standards applicable to our ships, treatment of disabled persons, health and sanitary standards applicable to our guests, security standards on board our ships and at the ship/port interface areas, and financial responsibilities to our guests. These issues are, and we believe will continue to be, an area of focus by the relevant authorities throughout the world.
+
+
+Return ONLY valid JSON with this exact schema and keys (no code fences, no extra text):
+
+{
+  "parties": [string],
+  "case_title_or_docket": string or null,
+  "forum_or_jurisdiction": string or null,
+  "statute_reg_policy": [string],
+  "procedural_posture": string or null,
+  "dates_or_timeframes": [string],
+  "monetary_or_quantified": [string],
+  "climate_linkage_summary": string,
+  "climate_linkage_quotes": [string],
+  "checkable_elements": [string],
+  "who": string or null,
+  "what": string or null,
+  "where": string or null,
+  "when": string or null,
+  "under_which_rule": string or null,
+  "sought_outcome": string or null,
+  "evidence_quotes": [string]
+}
+
+Rules:
+- Only consider these categories in relation to climate litigation. If there are dates, parties, monetary amounts, etc. that are not related to climate litigation, ignore them.
+- Populate every key. Use [] for unknown lists, and null for unknown single values.
+- Prefer short verbatim snippets from the text for any *quotes* arrays.
+- Do NOT invent details not supported by the text. Ignore specificity about non-climate topics.
+
+
+============================================================
+ASSISTANT MESSAGE 8
+============================================================
+{
+  "parties": ["our company", "European Union", "U.S. and various state and foreign government or regulatory agencies"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": ["European Union", "U.S. and various states"],
+  "statute_reg_policy": ["European Union's Fit for 55 package", "European Union Emission Trading System", "IMO Sulfur Limit", "carbon intensity indicator regulation"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["2024"],
+  "monetary_or_quantified": ["increase our operating costs", "increase our cost of fuel"],
+  "climate_linkage_summary": "exposure to climate change-related litigation due to future regulations requiring emission reductions, low-carbon fuel usage, and connectivity to shore power",
+  "climate_linkage_quotes": ["require us to reduce our emissions", "purchase carbon emission allowances", "require the use of low sulfur fuels", "increase the use of low carbon fuel onboard our vessels", "requirements to purchase carbon emission allowances"],
+  "checkable_elements": ["requirements to reduce emissions", "purchase of carbon emission allowances", "use of low carbon fuel", "connectivity to shore power"],
+  "who": "our company",
+  "what": "reduce emissions, pay for emissions, modify itineraries",
+  "where": "onboard our vessels, in certain markets",
+  "when": "future, starting 2024",
+  "under_which_rule": "European Union's Fit for 55 package, European Union Emission Trading System, IMO Sulfur Limit, carbon intensity indicator regulation",
+  "sought_outcome": "compliance with climate regulations",
+  "evidence_quotes": ["the European Union has proposed a series of significant carbon reforms", "the U.S. and various state and foreign government or regulatory agencies have enacted, or may enact, environmental regulations or policies"]
+}
+
+============================================================
+USER MESSAGE 9
+============================================================
+Given the summary, original text, CL classification, and the structured breakdown, choose ONE specificity label.
+Base your choice on:
+ - PRECISION of anchors (parties/case/docket, forum, statute/reg/policy, posture, dates, monetary/quantified).
+ - LINKAGE to climate claims (not generic legal/ESG talk).
+ - FALSIFIABILITY (checkable details: exact court, date, cited rule, quantified remedy, etc.).
+ - CONTEXTUAL CLARITY (who did what, where, when, under which rule, seeking what outcome).
+Ignore specificity about non-climate and non-litigation topics
+
+Return ONLY one of: not climate litigation, mention only, vague disclosure, basic disclosure, detailed disclosure, highly specific
+
+Summary: This text outlines potential future regulatory changes and their potential impact on a cruise company's business and financial results. Key points include:
+
+1. **Climate Change Regulations**: Future climate change-related regulations, such as the European Union's Fit for 55 package, may require the company to reduce emissions, use low-carbon fuels, and connect to shore power. These regulations could increase operating costs, including fuel costs, and expose the company to climate change litigation.
+
+2. **Emission Trading Systems**: The EU's updated Emission Trading System will require the company to purchase carbon emission allowances starting in 2024, adding to operational expenses.
+
+3. **U.S. and Foreign Regulations**: Various U.S. and foreign regulations, such as the requirement for low sulfur fuels (IMO Sulfur Limit) and the carbon intensity indicator regulation, could increase operational costs, limit fuel supply, and necessitate significant investments in new equipment.
+
+4. **Environmental Scrutiny**: Growing environmental scrutiny and advocacy for stricter regulations on ship emissions could lead to changes in consumer behavior, negatively impacting the company's operations and financial results.
+
+5. **Reputational Risks**: Negative publicity and potential regulatory measures could affect consumer preferences, leading to reduced travel frequency and reputational costs.
+
+6. **Additional Regulations**: The company is subject to various international, national, state, and local laws and regulations concerning environmental impact, labor, health and safety, financial responsibility, and security, which could further increase operating costs and subject the company to ongoing scrutiny from regulatory authorities.
+Original text: However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has proposed a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power. The proposed legislation also includes updates to the European Union Emission Trading System which would impose requirements to purchase carbon emission allowances beginning in 2024. In addition, the U.S. and various state and foreign government or regulatory agencies have enacted, or may enact, environmental regulations or policies, such as requiring the use of low sulfur fuels (e.g., IMO Sulfur Limit) or the incoming carbon intensity indicator regulation, that have or could increase our direct cost to operate in certain markets, increase our cost of fuel, limit the supply of compliant fuel, cause us to incur significant expenses to purchase and/or develop new equipment and adversely impact the cruise vacation industry. If enacted, these regulations may individually or collectively have a material adverse effect on our business and results of operations due to increased costs associated with compliance and modified itineraries in the affected regions.
+There has also been growing environmental scrutiny of the environmental impact of the cruise vacation industry, and some environmental groups are advocating for more stringent regulation of ship emissions at berth and at sea. This negative publicity of the cruise industry and any related measures may lead to changes in consumer preferences, such as methods or frequency of travel, which could adversely impact our operations and financial results and subject us to reputational impacts and costs.
+Labor, health and safety, financial responsibility and other maritime regulations and measures could affect operations and increase operating costs. We are subject to
+various international, national, state and local laws, regulations and treaties that govern, among other things, discharge from our ships, safety standards applicable to our ships, treatment of disabled persons, health and sanitary standards applicable to our guests, security standards on board our ships and at the ship/port interface areas, and financial responsibilities to our guests. These issues are, and we believe will continue to be, an area of focus by the relevant authorities throughout the world.
+Previously classified as climate litigation? 1
+Breakdown JSON: {
+  "parties": [
+    "our company",
+    "European Union",
+    "U.S. and various state and foreign government or regulatory agencies"
+  ],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": [
+    "European Union",
+    "U.S. and various states"
+  ],
+  "statute_reg_policy": [
+    "European Union's Fit for 55 package",
+    "European Union Emission Trading System",
+    "IMO Sulfur Limit",
+    "carbon intensity indicator regulation"
+  ],
+  "procedural_posture": null,
+  "dates_or_timeframes": [
+    "2024"
+  ],
+  "monetary_or_quantified": [
+    "increase our operating costs",
+    "increase our cost of fuel"
+  ],
+  "climate_linkage_summary": "exposure to climate change-related litigation due to future regulations requiring emission reductions, low-carbon fuel usage, and connectivity to shore power",
+  "climate_linkage_quotes": [
+    "require us to reduce our emissions",
+    "purchase carbon emission allowances",
+    "require the use of low sulfur fuels",
+    "increase the use of low carbon fuel onboard our vessels",
+    "requirements to purchase carbon emission allowances"
+  ],
+  "checkable_elements": [
+    "requirements to reduce emissions",
+    "purchase of carbon emission allowances",
+    "use of low carbon fuel",
+    "connectivity to shore power"
+  ],
+  "who": "our company",
+  "what": "reduce emissions, pay for emissions, modify itineraries",
+  "where": "onboard our vessels, in certain markets",
+  "when": "future, starting 2024",
+  "under_which_rule": "European Union's Fit for 55 package, European Union Emission Trading System, IMO Sulfur Limit, carbon intensity indicator regulation",
+  "sought_outcome": "compliance with climate regulations",
+  "evidence_quotes": [
+    "the European Union has proposed a series of significant carbon reforms",
+    "the U.S. and various state and foreign government or regulatory agencies have enacted, or may enact, environmental regulations or policies"
+  ]
+}
+
+============================================================
+ASSISTANT MESSAGE 10
+============================================================
+Based on the structured breakdown focusing on the specificity related to climate litigation, the appropriate label is **detailed disclosure**. The text provides specific details about future regulations that directly link to potential climate change litigation exposure, including exact rules and policies, timeframes, and quantified impacts on operations, which meets the criteria for detailed disclosure regarding climate litigation.

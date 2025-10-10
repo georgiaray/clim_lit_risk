@@ -1,0 +1,543 @@
+idx_1,idx_2,reasoning,result,winner_idx
+0,1,"Text 2 is more specific due to the inclusion of concrete regulatory details like the EU’s Fit for 55 package and the European Union Emission Trading System, along with specific dates (2024). Text 1 primarily focuses on broader risks and lacks this level of detail regarding specific climate-related regulations and their implications.
+
+FINAL: text 2","text 2
+",1
+0,2,"Text 2 is more specific due to the inclusion of concrete regulatory details like the “Fit for 55” package, the EU ETS, and the carbon intensity indicator regulation, along with specific dates (2024). Text 1 primarily focuses on general risks and uncertainties.
+
+FINAL: text 2","text 2
+",2
+0,3,"The text primarily details accounting adjustments and restructuring events, focusing on financial reporting rather than legal challenges related to climate change. While the discussion of currency translation losses and the Havana Docks litigation *could* have environmental implications, the core content doesn't directly address climate litigation as defined by the provided criteria. The disclosures are largely about accounting practices and financial performance, not legal claims concerning climate science or policy.
+
+FINAL: text 2","text 2
+",3
+0,4,"Text 2 represents a more specific and actionable assessment of climate litigation risk. While text 1 touches on climate change, it lacks the concrete details regarding ongoing lawsuits and potential liabilities that are central to the concept of climate litigation. The specific mention of ""Note 20"" and the number of lawsuits filed provides a level of detail absent in text 1.
+
+FINAL: text 2","text 2
+",4
+0,5,"The text demonstrates a significant risk of climate litigation due to the potential for future legislation impacting derivative use, coupled with increasing regulatory scrutiny and investor pressure related to environmental impacts. The document explicitly outlines vulnerabilities stemming from these factors, suggesting a plausible basis for legal action.
+
+FINAL: text 2","text 2
+",5
+0,6,"The text clearly identifies climate change lawsuits as a significant risk, fulfilling the definition of climate litigation. It details the nature of these lawsuits and their potential impact.
+
+FINAL: text 2","text 2
+",6
+0,7,"The text clearly outlines a significant and ongoing legal risk related to climate change impacts – specifically, lawsuits seeking damages for harms caused by extreme weather events. This directly aligns with the definition of climate litigation as “Litigation seeking damages for harms caused by climate change.” The presence of “close to two dozen lawsuits,” the “joint and several” liability clause, and the reference to Note 20 (quantified liabilities) provide a high degree of specificity and falsifiability. The text doesn’t stray into non-climate related topics.
+
+FINAL: text 2","text 2
+",7
+0,8,"The text presents a significant risk of future litigation due to evolving climate regulations and the potential for adverse financial impacts. It details specific regulatory changes (IRA, ACER), highlights regulatory uncertainty, and explicitly mentions increasing civil litigation related to climate change. The text directly addresses a failure to adequately disclose climate-related risks, aligning with the definition of climate litigation.
+
+FINAL: text 2","text 2
+",8
+0,9,"Text 2 is more specific because it provides more detailed information about the climate litigation, including the number of lawsuits, the parties involved, and the potential financial impact. Text 1, while providing some context about climate litigation, lacks specific details about the lawsuits themselves.
+
+FINAL: text 2",text 2,9
+0,10,"The text contains specific details regarding financial exposures – particularly unsettled commodity derivative positions and the potential for significant legal liabilities related to climate change and the Coal Act. The inclusion of monetary amounts ($6,741, $900, $77,662, etc.) and the specific nature of the legal claims (environmental violations, remediation) provide a level of detail that goes beyond a general “mention” of climate litigation. The accounting discrepancies and the lack of a reasonable estimate for future liabilities further strengthen the case for classifying this as a specific instance of climate litigation.
+
+FINAL: text 2","text 2
+",10
+0,11,"The text explicitly details a growing legal risk – close to two dozen lawsuits seeking damages related to climate change impacts – alongside the regulatory pressures of carbon pricing and ESG demands. It provides specific examples of the types of legal challenges (joint and several liability) and the parties involved (states, municipalities, property owners). The disclosure requirements are clearly outlined, necessitating a detailed assessment of potential financial exposure and a robust legal strategy.
+
+FINAL: text 2","text 2
+",11
+0,12,"The text demonstrates a clear and significant risk of climate litigation due to the evolving regulatory landscape and the company’s potential failure to adequately disclose these risks. The shift in policy, the introduction of the methane fee, and the invalidation of previous regulations all create a basis for legal action. The text is specific enough to identify the key regulatory drivers and the potential financial consequences.
+
+FINAL: text 2","text 2
+",12
+0,13,"Text 2
+
+FINAL: text 2","text 2
+",13
+0,14,"Text 2 demonstrates a higher degree of specificity regarding climate litigation. It identifies specific regulatory actions (EPA proposals, RGGI), ongoing legal challenges (Pennsylvania’s regulatory review), and the mechanisms of climate liability (emission allowances, lawsuits seeking damages). Text 1, while mentioning climate change, focuses more broadly on geopolitical risks and general regulatory changes, lacking the detailed legal and regulatory specifics crucial for classifying it as climate litigation.
+
+FINAL: text 2","text 2
+",14
+1,2,"Text 2 is more specific due to the inclusion of concrete regulatory details like the “Fit for 55” package, the EU ETS, and the carbon intensity indicator regulation. Text 1 primarily focuses on general risks and potential litigation exposure without providing specific regulatory anchors.
+
+FINAL: text 2","text 2
+",2
+1,3,"The text primarily details accounting adjustments and restructuring events, focusing on financial reporting and operational changes within a cruise company. While it touches upon potential environmental implications (carbon emissions, waste management), the core content doesn't involve legal actions directly concerning climate change science, policy, or law. The disclosures highlight complexities in accounting for asset sales, financing structures, and historical reporting, but lack specific climate-related claims or litigation.
+
+FINAL: text 2","text 2
+",3
+1,4,"Text 2
+
+FINAL: text 2
+","text 2
+",4
+1,5,"The text demonstrates a detailed disclosure of potential risks related to climate change, including legislative uncertainty, counterparty risk, and reputational concerns. It identifies specific regulatory pressures and investor activism as key drivers of these risks. While it doesn't present a specific legal claim, the level of detail regarding potential liabilities and the proactive identification of mitigation strategies strongly suggests a preparedness for potential climate litigation.
+
+FINAL: text 2","text 2
+",5
+1,6,"The text clearly identifies climate change lawsuits as a significant risk, making it a climate litigation disclosure. While the details are limited, the explicit mention of ""four climate change lawsuits"" and their connection to fossil fuel producers directly aligns with the definition of climate litigation.
+
+FINAL: text 2","text 2
+",6
+1,7,"The text explicitly details ongoing legal proceedings – close to two dozen lawsuits – seeking damages related to climate change impacts. This directly aligns with the definition of climate litigation as legal actions concerning climate change. The inclusion of “joint and several” liability and references to Note 20, indicating quantified financial risks, provide a level of specificity absent in the first text.
+
+FINAL: text 2","text 2
+",7
+1,8,"The text presents a significant risk profile related to climate change regulations and their potential impact on a natural gas company’s operations and financial performance. It details specific regulatory changes (Clean Power Plan, ACER, IRA) and the associated uncertainties, highlighting the potential for litigation. While it doesn't represent an active legal case, the described risks and potential liabilities align closely with the definition of climate litigation.
+
+FINAL: text 2","text 2
+",8
+1,9,"Text 2 is more specific because it explicitly mentions ""four climate change lawsuits"" and provides more context about the legal proceedings, whereas Text 1 only mentions ""climate change"" as a category of legal liabilities without providing specific details.
+
+FINAL: text 2",text 2,9
+1,10,"The text explicitly identifies “climate change” as a category of legal liabilities, alongside other financial and legal exposures. The inclusion of this specific claim, coupled with the potential for remediation costs related to the Coal Act, demonstrates a concrete legal risk directly tied to the company’s operations and their environmental impact. The details regarding unsettled derivative positions and the lack of a reasonable estimate for future liabilities further strengthen the case for classifying this as climate litigation.
+
+FINAL: text 2","text 2
+",10
+1,11,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete details about the specific regulatory mechanisms (emission allowances, carbon pricing), the types of lawsuits being filed (related to weather-related events), and the potential liability structure (joint and several liability). Text 1, in contrast, offers a more general overview of risks and regulatory pressures without delving into the specifics of legal proceedings or quantifiable financial impacts.
+
+FINAL: text 2","text 2
+",11
+1,12,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete details about regulatory changes (Clean Air Act, Affordable Clean Energy Rule, IRA methane fee), specific dates, monetary amounts, and the shifting policy landscape between administrations. Text 1 is largely focused on general risks and lacks the granular information necessary to assess potential legal exposure.
+
+FINAL: text 2","text 2
+",12
+1,13,"Text 2
+
+FINAL: Text 2","text 2
+",13
+1,14,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete details about specific regulatory proposals (EPA NSPS revisions, RGGI), ongoing legal challenges (Pennsylvania’s RGGI attempt and subsequent disapproval), and the mechanics of cap-and-trade programs. Text 1, in contrast, offers a more general overview of regulatory pressures and potential risks without delving into the specifics of the legal and regulatory landscape.
+
+FINAL: text 2","text 2
+",14
+2,3,"The text primarily details accounting adjustments and restructuring events, focusing on financial reporting rather than legal challenges related to climate change. While the discussion of currency translation losses and the Havana Docks litigation *could* have environmental implications, the core content doesn't directly address climate litigation as defined by the provided criteria.
+
+FINAL: text 2","text 2
+",3
+2,4,"Text 2
+
+FINAL: Text 2","text 2
+",4
+2,5,"The text primarily focuses on financial risks – derivative exposure, counterparty credit risk, and regulatory compliance – rather than direct legal challenges related to climate change. While the potential for litigation is acknowledged, the core narrative centers on operational and financial vulnerabilities stemming from regulatory shifts and market dynamics. The climate linkage is largely implicit, tied to the broader regulatory scrutiny and investor pressure.
+
+FINAL: text 2","text 2
+",5
+2,6,"Detailed disclosure.
+
+The text primarily focuses on tax risk and legal proceedings, with the climate change lawsuits representing a significant, but not central, element. While the lawsuits are mentioned, the core of the disclosure revolves around NOL carryforwards and potential tax challenges.
+
+FINAL: text 2","text 2
+",6
+2,7,"Text 2 exhibits a significantly higher degree of specificity regarding climate litigation. The text explicitly details a substantial number of ongoing lawsuits, identifies the parties involved (states and municipalities), and outlines the legal basis for these claims (liability for climate change-related damages).  The reference to “Note 20” provides a direct link to quantified financial liabilities, a crucial element for assessing the materiality of the risk. Text 1, in contrast, primarily focuses on general regulatory pressures and broader ESG considerations, lacking the concrete details of active litigation.
+
+FINAL: text 2","text 2
+",7
+2,8,"The text primarily focuses on the *potential* for regulatory action and its impact on a natural gas company’s business and financial performance, rather than detailing an existing legal challenge or actively seeking legal redress. While the discussion of civil litigation is present, it’s framed as a *risk* rather than a concrete legal action. The core of the disclosure revolves around anticipating and responding to evolving climate regulations.
+
+FINAL: text 2","text 2
+",8
+2,9,"Text 2 is more specific because it provides more detailed information about the climate litigation, including the number of lawsuits, the parties involved, and the potential financial impact.
+
+FINAL: text 2",text 2,9
+2,10,"The text explicitly identifies “climate change” as a category of legal liabilities, alongside other financial and legal exposures. The inclusion of this specific claim, coupled with the potential for remediation costs related to the Coal Act, demonstrates a direct and material connection to climate-related legal risks. The lack of detail regarding the specific allegations and potential outcomes, however, limits the level of specificity.
+
+FINAL: text 2","text 2
+",10
+2,11,"The text details specific regulatory risks (carbon pricing, emissions regulations), emerging legal liabilities (climate change lawsuits), and the growing importance of ESG disclosures – all directly related to climate litigation. It provides concrete examples of regulations and potential legal actions, going beyond general statements about environmental risk.
+
+FINAL: text 2","text 2
+",11
+2,12,"The text demonstrates a high level of specificity regarding climate litigation risk due to the detailed breakdown of regulatory changes (CAA, Clean Power Plan, Affordable Clean Energy Rule, IRA methane fee), the shifting administration policies, and the potential for adverse market impacts. The inclusion of specific monetary amounts (methane fee increases) and dates further strengthens the case for classifying it as climate litigation.
+
+FINAL: text 2","text 2
+",12
+2,13,"Text 2
+
+FINAL: Text 2","text 2
+",13
+2,14,"The text details specific regulatory actions (EPA proposals, RGGI), ongoing legal challenges (Pennsylvania’s RGGI attempt and subsequent disapproval), and the growing threat of climate liability lawsuits. These elements – the specific regulations, the legal battles, and the potential financial consequences – provide a high degree of detail related to climate litigation. The text doesn't stray into broader ESG discussions or general environmental disclosures.
+
+FINAL: text 2","text 2
+",14
+3,4,"Text 2
+
+FINAL: Text 2","text 2
+",4
+3,5,"The text primarily discusses financial risks – derivative exposure, counterparty credit risk, and regulatory scrutiny – rather than legal challenges directly concerning climate change. While the environmental concerns are significant, the core focus is on the potential for legislative changes to disrupt financial strategies and the resulting reputational and operational risks. The discussion of advocacy groups and divestment campaigns touches on climate-related pressure, but it’s framed within a broader context of investor relations and corporate governance.
+
+FINAL: text 2","text 2
+",5
+3,6,"The text clearly identifies climate change lawsuits as a significant risk, making it a climate litigation disclosure. While the primary focus is on tax and legal risks, the specific mention of ""four climate change lawsuits"" directly aligns with the definition of climate litigation.
+
+FINAL: text 2","text 2
+",6
+3,7,"Text 2 exhibits a significantly higher degree of specificity regarding climate litigation. The text explicitly details a substantial number of ongoing lawsuits, identifies the parties involved (states, municipalities, producers), and outlines the legal basis for the claims (liability for climate-related damages).  The reference to “Note 20 – Commitments and Contingent Liabilities” provides a tangible anchor for assessing potential financial exposure. Text 1, in contrast, focuses on accounting adjustments and broader ESG trends, lacking the concrete details of legal proceedings central to climate litigation.
+
+FINAL: text 2",text 2,7
+3,8,"The text primarily focuses on the *risks* associated with climate regulations and their potential impact on a natural gas company’s business and financial performance. While it mentions “civil litigation,” the core of the analysis revolves around regulatory uncertainty and the potential for adverse financial outcomes, rather than a specific legal challenge. The discussion of the IRA’s methane fee and the shifting regulatory landscape strongly suggests a vulnerability to legal action if the company fails to adequately prepare for these changes.
+
+FINAL: text 2","text 2
+",8
+3,9,"```json
+{
+  ""parties"": [
+    ""communities against fossil fuel producers"",
+    ""CNX""
+  ],
+  ""case_title_or_docket"": null,
+  ""forum_or_jurisdiction"": ""courts"",
+  ""statute_reg_policy"": [
+    ""climate change""
+  ],
+  ""procedural_posture"": ""party to a number of legal proceedings, party to four climate change lawsuits"",
+  ""dates_or_timeframes"": [
+    ""beginning to gain prevalence in the courts""
+  ],
+  ""monetary_or_quantified"": [
+    ""costly"",
+    ""potential that the costs... could have an adverse effect""
+  ],
+  ""climate_linkage_summary"": ""CNX is facing climate change lawsuits from communities against fossil fuel producers relating to climate change."",
+  ""climate_linkage_quotes"": [
+    ""four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change""
+  ],
+  ""checkable_elements"": [
+    ""purported class actions""
+  ],
+  ""who"": ""CNX, communities against fossil fuel producers"",
+  ""what"": ""climate change lawsuits"",
+  ""where"": ""courts"",
+  ""when"": ""beginning to gain prevalence"",
+  ""under_which_rule"": null,
+  ""sought_outcome"": null,
+  ""evidence_quotes"": []
+}
+```
+
+FINAL: text 2","text 2
+",9
+3,10,"The text contains specific details regarding financial reporting – particularly concerning commodity derivatives and interest rate swaps – and legal liabilities, specifically the “climate change” claim within the broader suite of lawsuits. While the environmental implications are present (linked to the company’s operations and the Coal Act), the core focus is on the accounting and legal disclosures themselves, rather than a direct legal challenge related to climate change science or policy. The lack of quantifiable estimates for future liabilities further limits the level of specificity.
+
+FINAL: text 2","text 2
+",10
+3,11,"```json
+{
+  ""parties"": [
+    ""CNX"",
+    ""various states and municipalities"",
+    ""owners of the properties through which CNX’s gathering systems pass"",
+    ""local municipalities""
+  ],
+  ""case_title_or_docket"": null,
+  ""forum_or_jurisdiction"": [
+    ""federal"",
+    ""state"",
+    ""local""
+  ],
+  ""statute_reg_policy"": [
+    ""GHG emissions regulations"",
+    ""carbon pricing mechanisms"",
+    ""environmental laws and regulations""
+  ],
+  ""procedural_posture"": ""seeking money damages for remedial measures"",
+  ""dates_or_timeframes"": [
+    ""close to two dozen lawsuits""
+  ],
+  ""monetary_or_quantified"": [
+    ""potential cost increases"",
+    ""money damages""
+  ],
+  ""climate_linkage_summary"": ""The text details a growing legal risk related to climate change liability, specifically lawsuits seeking damages for harms caused by climate change events and related remedial measures."",
+  ""climate_linkage_quotes"": [
+    ""rising sea levels and more frequent and severe flooding, storms and heatwaves"",
+    ""damages caused by climate change"",
+    ""joint and several or strict liability""
+  ],
+  ""checkable_elements"": [
+    ""close to two dozen lawsuits"",
+    ""seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change"",
+    ""potential financial exposure requiring legal counsel""
+  ],
+  ""who"": [
+    ""producers of oil, natural gas and coal"",
+    ""private parties""
+  ],
+  ""what"": [
+    ""money damages"",
+    ""remedial measures"",
+    ""compliance with environmental laws and regulations""
+  ],
+  ""where"": [
+    ""various states and municipalities"",
+    ""properties through which CNX’s gathering systems pass"",
+    ""local municipalities""
+  ],
+  ""when"": [
+    ""currently""
+  ],
+  ""under_which_rule"": [
+    ""joint and several or strict liability""
+  ],
+  ""sought_outcome"": [
+    ""eliminating or ameliorating damages caused by climate change""
+  ],
+  ""evidence_quotes"": []
+}
+```
+
+FINAL: text 2","text 2
+",11
+3,12,"Text 2
+
+FINAL: Text 2","text 2
+",12
+3,13,"Text 2
+
+FINAL: Text 2","text 2
+",13
+3,14,"Text 2 demonstrates a higher degree of specificity regarding climate litigation. It explicitly identifies the legal challenges (lawsuits seeking liability for climate change impacts), regulatory changes (EPA proposals, RGGI), and the potential for increased costs associated with compliance. Text 1, while discussing environmental disclosures, is more focused on accounting adjustments and operational changes, lacking the direct connection to legal and policy frameworks central to climate litigation.
+
+FINAL: text 2","text 2
+",14
+4,5,"The text primarily discusses risks related to derivative instruments and regulatory scrutiny stemming from environmental concerns. While it touches upon potential litigation, the core focus is on financial and operational vulnerabilities rather than specific legal actions. The discussion of legislative changes impacting derivatives and the potential for increased regulatory burdens directly relate to climate-related concerns, but the text lacks specific details about potential lawsuits or legal challenges.
+
+FINAL: text 2","text 2
+",5
+4,6,"The text clearly identifies climate change litigation as a significant risk due to the explicit mention of ""four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change."" While the disclosure is somewhat general, it directly addresses a key element of climate litigation.
+
+FINAL: text 2","text 2
+",6
+4,7,"Text 2 is significantly more specific than Text 1. Text 2 directly references “close to two dozen lawsuits,” identifies the parties involved (states and municipalities), specifies the nature of the claims (liability for weather-related damages), and alludes to the legal mechanism (""joint and several"" liability). Text 1, while mentioning lawsuits, lacks this level of detail and focuses more broadly on regulatory pressures and ESG considerations.
+
+FINAL: text 2","text 2
+",7
+4,8,"The text clearly outlines potential legal risks stemming from evolving climate regulations, specifically the introduction of a methane fee and the shift in policy under the Biden administration. It details the potential for litigation and the impact on the company’s operations and financial performance. While it doesn't present a specific lawsuit, the described risks are directly linked to climate change and could form the basis for future legal challenges.
+
+FINAL: text 2","text 2
+",8
+4,9,"Text 2 is more specific about climate litigation, mentioning ""four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change"" and providing some details about the potential financial impact of these lawsuits. However, the specificity is still somewhat limited, and the text could benefit from more detailed information about the lawsuits and the company's strategy for addressing them.
+
+FINAL: text 2",text 2,9
+4,10,"The text explicitly identifies “climate change” as a category of legal liabilities, alongside other financial and legal exposures. The disclosure of unsettled derivative positions and the potential for material future losses related to these claims, coupled with the Coal Act liability, demonstrates a high degree of specificity regarding climate-related risks. The lack of detailed information about the specific allegations and potential remediation costs further reinforces this classification.
+
+FINAL: text 2","text 2
+",10
+4,11,"Text 2 is significantly more specific than Text 1. Text 2 directly addresses the mechanisms of climate litigation (emission allowances, potential cost increases), the drivers of stakeholder pressure (ESG goals), and the specific legal risks (joint and several liability). Text 1 primarily focuses on general regulatory compliance and broader ESG concerns without delving into the specifics of climate-related legal proceedings.
+
+FINAL: text 2","text 2
+",11
+4,12,"Text 2 demonstrates a higher degree of specificity regarding climate litigation. While Text 1 mentions lawsuits and regulatory uncertainty, Text 2 provides concrete details about the regulatory history (Clean Air Act, Affordable Clean Energy Rule, EPA shifts), the specific methane fee structure within the Inflation Reduction Act, and the potential for legal challenges. This level of detail, including quantifiable monetary amounts and specific dates, aligns more closely with the definition of climate litigation as outlined in the prompt.
+
+FINAL: text 2","text 2
+",12
+4,13,"Text 2
+
+FINAL: Text 2","text 2
+",13
+4,14,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete details about specific regulatory proposals (EPA NSPS revisions), state-level initiatives (RGGI, Pennsylvania’s attempts to join), and the ongoing legal challenges surrounding these initiatives. Text 1, in contrast, offers a more general overview of regulatory uncertainty and potential costs, lacking the specific anchor points and verifiable details that characterize climate litigation.
+
+FINAL: text 2","text 2
+",14
+5,6,"The text clearly identifies climate change lawsuits as a significant risk, directly referencing ""four climate change lawsuits being pursued by communities against fossil fuel producers."" This constitutes a specific and verifiable climate litigation risk.
+
+FINAL: text 2","text 2
+",6
+5,7,"The text explicitly details ongoing legal action – close to two dozen lawsuits – seeking damages related to climate change impacts, specifically extreme weather events. This directly aligns with the definition of climate litigation as legal actions concerning climate change science, policy, or law, seeking monetary compensation for harms. The reference to “joint and several” liability and Note 20 further strengthens the connection to litigation risk.
+
+FINAL: text 2","text 2
+",7
+5,8,"The text presents a significant risk profile related to evolving climate regulations, particularly concerning greenhouse gas emissions and the potential for litigation. The discussion of shifting administrations, the IRA’s methane fee, and the ACER’s reversal demonstrates a volatile regulatory landscape and a heightened risk of adverse financial impacts. While the text doesn't detail a specific lawsuit, the identified risks align directly with the definition of climate litigation – specifically, the potential for legal challenges arising from inadequate disclosure of climate-related risks and the impact of regulatory changes.
+
+FINAL: text 2","text 2
+",8
+5,9,"Text 2 is more specific because it directly mentions climate change lawsuits and provides some details about the parties involved and the potential financial impact.
+
+FINAL: text 2",text 2,9
+5,10,"Text 2 demonstrates significantly greater specificity regarding climate litigation risk. While Text 1 touches upon environmental concerns, it lacks the direct and detailed identification of “climate change” as a specific category of legal liability, along with the associated potential for remediation costs and the lack of a reasonable estimate for future losses. Text 2 explicitly highlights this “climate change” claim within the legal liabilities section, providing a concrete anchor for climate litigation. The inclusion of the Coal Act, directly linked to environmental impacts and a long-term financial obligation, further strengthens the case for classifying Text 2 as climate litigation.
+
+FINAL: text 2","text 2
+",10
+5,11,"The text details specific legal risks – particularly the potential for lawsuits related to climate change impacts and the implications of “joint and several liability” – alongside regulatory and ESG pressures. It goes beyond a general discussion of climate risk by identifying the mechanisms (emission allowances, carbon pricing) and potential plaintiffs (state/municipalities, property owners). The reference to Note 20 provides a tangible point of reference for further investigation.
+
+FINAL: text 2","text 2
+",11
+5,12,"The text demonstrates a clear risk of climate litigation due to evolving regulations, particularly the methane fee under the Inflation Reduction Act, and the potential for future legal challenges to EPA actions. The shifting regulatory landscape and the associated financial risks are explicitly highlighted, indicating a vulnerability to claims related to inadequate disclosure of climate-related risks.
+
+FINAL: text 2","text 2
+",12
+5,13,"The rationale for choosing ""detailed disclosure"" is that the text provides specific examples of regulations (e.g., the EU's ""Fit for 55"" package and the Carbon Intensity Indicator (CII) regulation), mentions the potential for climate change-related litigation, and highlights the company's uncertainty surrounding future regulations and their potential financial impact.
+
+FINAL: text 2",text 2,13
+5,14,"The text details specific regulatory actions (EPA proposals, RGGI), ongoing legal challenges (Pennsylvania’s regulatory review), and the potential financial impacts (increased costs, allowance costs) directly related to climate change mitigation efforts. It identifies specific parties involved (EPA, Pennsylvania AG, General Assembly) and the precise nature of the legal and regulatory disputes. The text’s focus on quantifiable costs and specific regulatory frameworks elevates its specificity beyond a general discussion of climate risk.
+
+FINAL: text 2","text 2
+",14
+6,7,"Text 2 exhibits a significantly higher degree of specificity regarding climate litigation. The breakdown clearly identifies the parties involved (states and municipalities), the forum (federal, state, local), the relevant statutes and regulations (specifically referencing new GHG reduction laws), and the procedural posture (seeking money damages for remedial measures). Crucially, it details the nature of the climate-related harms (rising sea levels, flooding, etc.) and the legal basis for the lawsuits (holding producers liable). Text 1, while mentioning “climate change lawsuits,” lacks this granular detail and focuses primarily on broader legal and tax risks.
+
+FINAL: text 2","text 2
+",7
+6,8,"The text clearly outlines significant legal and environmental risks related to climate change policy and regulation, specifically focusing on the potential for increased costs and reduced asset value. It details a volatile regulatory landscape with shifting administrations and the introduction of new policies like the methane fee. The discussion of litigation and the potential for regulatory challenges directly aligns with the definition of climate litigation. While not a specific lawsuit, the text demonstrates a vulnerability to legal action related to climate risk disclosure and potential non-compliance.
+
+FINAL: text 2","text 2
+",8
+6,9,"```json
+{
+  ""parties"": [
+    ""communities against fossil fuel producers""
+  ],
+  ""case_title_or_docket"": null,
+  ""forum_or_jurisdiction"": ""courts"",
+  ""statute_reg_policy"": [
+    ""climate change""
+  ],
+  ""procedural_posture"": ""party to a number of legal proceedings"",
+  ""dates_or_timeframes"": [
+    ""beginning to gain prevalence in the courts""
+  ],
+  ""monetary_or_quantified"": [
+    ""costly"",
+    ""potential that the costs of defending litigation... could have an adverse effect""
+  ],
+  ""climate_linkage_summary"": ""CNX is facing climate change lawsuits from communities against fossil fuel producers relating to climate change."",
+  ""climate_linkage_quotes"": [
+    ""four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change""
+  ],
+  ""checkable_elements"": [
+    ""purported class actions""
+  ],
+  ""who"": ""CNX"",
+  ""what"": ""climate change lawsuits"",
+  ""where"": ""courts"",
+  ""when"": ""beginning to gain prevalence"",
+  ""under_which_rule"": null,
+  ""sought_outcome"": null,
+  ""evidence_quotes"": []
+}
+```
+
+The text explicitly identifies CNX as a defendant in ""four climate change lawsuits,"" directly addressing a legal action concerning climate change.  The language regarding ""communities against fossil fuel producers"" further solidifies the climate linkage. While details are lacking, the presence of these lawsuits clearly classifies the text as climate litigation.
+
+FINAL: text 2","text 2
+",9
+6,10,"The text explicitly identifies “climate change” as a category of legal liabilities, alongside other legal issues. The significant omission regarding the $77,662 in unsettled derivative liabilities and the lack of a reasonable estimate for future aggregate legal losses contribute to a lack of specificity. While the broader legal risks are acknowledged, the climate-specific disclosures are notably vague.
+
+FINAL: text 2","text 2
+",10
+6,11,"The text explicitly details a growing legal risk – close to two dozen lawsuits seeking damages related to climate change impacts, including potential liability under “joint and several or strict liability.” It also outlines the financial implications of regulatory changes and ESG pressures. While the summary touches on these areas, the original text provides more concrete details regarding the nature of the legal proceedings and the potential financial exposure.
+
+FINAL: text 2","text 2
+",11
+6,12,"Text 2 demonstrates a significantly higher level of specificity regarding climate litigation. While Text 1 mentions “climate change lawsuits” and “regulatory focus,” Text 2 provides detailed information about specific regulations (CAA, Affordable Clean Energy Rule, IRA), the timeline of regulatory shifts (Trump vs. Biden administrations), and quantifiable financial impacts (methane fee structure). The breakdown of parties involved (EPA, courts, administration) and the specific policy changes (IRA amendments) further enhance the level of detail.
+
+FINAL: text 2",text 2,12
+6,13,"The text primarily focuses on legal liabilities related to climate change lawsuits and long-term debt obligations. While the debt carries an indirect environmental implication, the core disclosure revolves around the legal risks associated with climate litigation. The specific details regarding the lawsuits (number, parties involved) and the financial risks (debt amounts) are clearly presented.
+
+FINAL: text 1","text 1
+",6
+6,14,"Text 2 demonstrates a higher degree of specificity regarding climate litigation. While text 1 mentions “climate change lawsuits” broadly, text 2 details the specific regulatory challenges (EPA proposals, RGGI, cap-and-trade programs), the legal battles (Pennsylvania’s regulatory review), and the potential financial consequences (increased costs for permitting, allowances). The breakdown also includes specific parties involved (EPA, Pennsylvania Attorney General, etc.) and quantifiable elements (number of allowances, potential cost increases).
+
+FINAL: text 2",text 2,14
+7,8,"The text provides a detailed analysis of evolving regulatory risks related to climate change, specifically focusing on the potential impact of regulations like the Inflation Reduction Act and the shifting policy landscape under different administrations. It outlines specific regulatory changes, their potential financial consequences, and the increasing likelihood of civil litigation. This level of detail, including the discussion of various regulatory frameworks and potential legal challenges, goes beyond a simple “mention” of climate litigation.
+
+FINAL: text 2","text 2
+",8
+7,9,"Text 2 is more specific because it provides more detailed information about the climate litigation, including the number of lawsuits, the parties involved, and the potential financial impact.
+
+FINAL: text 2",text 2,9
+7,10,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete monetary figures (e.g., $6,741, $77,662), specific dates (December 31, 2023, 2022), and details about the accounting treatment of derivatives and the Coal Act. Text 1, in contrast, offers a more general overview of regulatory pressures and ESG demands, lacking the granular financial and legal disclosures present in Text 2.
+
+FINAL: text 2","text 2
+",10
+7,11,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete details about the mechanics of carbon pricing programs (emission allowances, reduced availability, increasing costs), specific legal risks (joint and several liability, potential plaintiffs), and quantifiable elements (close to two dozen lawsuits). Text 1 primarily focuses on general regulatory pressures and ESG demands without delving into the specifics of the legal challenges or the financial implications.
+
+FINAL: text 2","text 2
+",11
+7,12,"The text exhibits a high degree of specificity regarding the evolving regulatory landscape surrounding greenhouse gas emissions, particularly the methane fee introduced by the Inflation Reduction Act. It details the historical context (Clean Air Act, repeal/replacement efforts), the current shift under the Biden administration, and the specific financial implications of the methane fee (escalating costs, reporting requirements). The text also explicitly links these regulatory changes to potential adverse impacts on the market for natural gas and securities, demonstrating a clear focus on climate litigation risks.
+
+FINAL: text 2","text 2
+",12
+7,13,"Text 2
+
+FINAL: Text 2","text 2
+",13
+7,14,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete details about proposed EPA regulations, specific state initiatives (RGGI and Pennsylvania’s attempt to join), and the mechanics of cap-and-trade programs. Text 1 primarily focuses on general trends and potential costs, lacking the specific anchor points (dates, regulations, legal challenges) that characterize climate litigation.
+
+FINAL: text 2","text 2
+",14
+8,9,"Text 2 is more specific because it provides more detailed information about the climate litigation, including the number of lawsuits, the parties involved, and the potential financial impact. The text also mentions specific legal proceedings and investigations, which adds to its specificity.
+
+FINAL: text 2",text 2,9
+8,10,"The text contains specific details regarding financial disclosures – particularly the accounting treatment of commodity derivatives and the existence of legal liabilities related to climate change. The inclusion of monetary amounts ($6,741, $900, $77,662, etc.) and specific regulatory references (FASB guidance, Coal Act) demonstrates a level of detail that goes beyond a general “mention” of climate litigation. The potential for material future losses related to the legal liabilities, coupled with the unsettled derivative positions, indicates a concrete risk that can be assessed and potentially litigated.
+
+FINAL: text 2","text 2
+",10
+8,11,"The text details specific legal risks – particularly the potential for lawsuits seeking damages related to climate change impacts – alongside regulatory and ESG pressures. It includes quantifiable elements like “close to two dozen lawsuits” and references “joint and several or strict liability,” which are crucial for assessing the potential financial exposure. The discussion of emission allowances and the increasing demand for corporate transparency provides a level of detail beyond a general discussion of climate risk.
+
+FINAL: text 2","text 2
+",11
+8,12,"Text 2 demonstrates a higher level of specificity regarding climate litigation risk. While text 1 identifies regulatory risks, text 2 explicitly details the shift in regulatory policy (Trump vs. Biden administrations), the specific regulations impacted (Clean Air Act, Affordable Clean Energy Rule, IRA methane fee), and the quantifiable financial consequences of the methane fee. This provides a more concrete basis for potential legal challenges and a clearer picture of the company’s exposure.
+
+FINAL: text 2",text 2,12
+8,13,"Text 2
+
+FINAL: Text 2","text 2
+",13
+8,14,"Text 2 demonstrates a higher degree of specificity regarding climate litigation. While text 1 mentions “climate litigation” and regulatory risks, text 2 provides concrete details about specific regulatory proposals (EPA NSPS revisions), state-level initiatives (RGGI, Pennsylvania’s regulatory challenges), and the emerging legal landscape of climate liability lawsuits. The breakdown includes specific dates, parties involved (EPA, Pennsylvania AG, General Assembly), and the nature of the legal challenges (appellate court proceedings). Text 1 is more general and focuses on broader regulatory and financial risks.
+
+FINAL: text 2",text 2,14
+9,10,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete details regarding monetary amounts ($6,741, $900, $77,662, etc.) related to derivative settlements, specific dates (December 31, 2023, 2022), and identifies the relevant statutes (FASB guidance on derivatives). Text 1, in contrast, offers only general statements about lack of control and potential risks, lacking the specific anchor points needed for a detailed assessment of climate litigation.
+
+FINAL: text 2","text 2
+",10
+9,11,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete details about the types of legal actions (climate change lawsuits seeking damages), the parties involved (states, municipalities, property owners), the potential legal frameworks (joint and several liability), and the specific harms alleged (weather-related events). Text 1, in contrast, is largely focused on general regulatory risks and lacks the specific details necessary to assess the litigation risk.
+
+FINAL: text 2","text 2
+",11
+9,12,"Text 2 exhibits a significantly higher level of specificity regarding climate litigation than Text 1. Text 2 directly references the EPA’s regulatory actions, the rollback and reversal under different administrations, the Biden administration’s shift, and the specific details of the Inflation Reduction Act’s methane fee. This level of detail, including dates, monetary amounts, and specific regulatory changes, aligns closely with the definition of climate litigation provided. Text 1, in contrast, is largely focused on general regulatory uncertainty and its potential market impact, lacking the concrete details necessary to qualify as a specific climate litigation disclosure.
+
+FINAL: text 2","text 2
+",12
+9,13,"Text 2
+
+FINAL: text 2
+","text 2
+",13
+9,14,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete details about specific regulatory proposals (EPA NSPS revisions), state-level initiatives (RGGI, Pennsylvania’s attempt to join), and ongoing legal challenges (Pennsylvania appellate courts). Text 1, in contrast, is largely focused on general risks and uncertainties related to environmental attributes and legal proceedings, lacking the specific anchors and verifiable details necessary for a truly detailed disclosure.
+
+FINAL: text 2","text 2
+",14
+10,11,"Text 2 is significantly more specific than Text 1. Text 2 directly addresses the legal risks associated with climate change litigation – specifically, the existence of numerous lawsuits seeking damages and the potential for “joint and several liability.” It details the mechanisms driving these risks (emission allowances, ESG pressures), and quantifies them with numbers (close to two dozen lawsuits). Text 1, in contrast, focuses primarily on financial accounting issues (derivative settlements, interest rate swaps) and lacks the specific legal and climate-related details present in Text 2.
+
+FINAL: text 2","text 2
+",11
+10,12,"Text 2 demonstrates a higher level of specificity regarding climate litigation. While text 1 mentions “climate change” as a legal liability, text 2 provides a detailed timeline of regulatory shifts (Clean Power Plan, Affordable Clean Energy Rule, IRA methane fee), specific monetary amounts ($900/ton methane, escalating fees), and identifies key parties (EPA, courts, administrations). This level of detail, including quantifiable data and a clear narrative of evolving policy, is crucial for assessing the potential for climate litigation.
+
+FINAL: text 2",text 2,12
+10,13,"The text clearly outlines legal liabilities directly related to climate change – specifically, four ongoing lawsuits. It also details significant financial risks stemming from long-term debt. While the financial disclosures aren't deeply specific, the explicit mention of “climate change lawsuits” and their potential impact firmly places this within the scope of climate litigation.
+
+FINAL: text 1","text 1
+",10
+10,14,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete details about proposed EPA regulations, specific state initiatives (RGGI and Pennsylvania’s attempt to join), and the ongoing legal challenges surrounding these initiatives. Text 1, in contrast, focuses primarily on financial disclosures – derivative accounting and interest rate swaps – with only a vague mention of “climate change” as a legal liability. Text 2 demonstrates a clearer linkage to climate litigation by detailing the regulatory and legal frameworks being challenged, including specific dates, parties involved, and the potential consequences of these challenges.
+
+FINAL: text 2","text 2
+",14
+11,12,"The text demonstrates a high degree of specificity regarding climate litigation risk due to the detailed historical record of regulatory changes (Clean Power Plan, Affordable Clean Energy Rule), the current shift under the Biden administration, and the introduction of the methane fee under the Inflation Reduction Act. The inclusion of specific monetary amounts associated with the methane fee and the timeline for its increases significantly elevates the level of detail.
+
+FINAL: text 2","text 2
+",12
+11,13,"The text explicitly details ongoing climate litigation involving CNX, alongside significant financial risks related to long-term debt. This level of specificity regarding legal exposure and financial vulnerability, coupled with the direct connection to climate change, surpasses the scope of a ""mention only"" or ""basic disclosure."" The inclusion of monetary amounts and the potential impact on financial performance elevates it beyond a simple overview.
+
+FINAL: text 1","text 1
+",11
+11,14,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete details about specific regulatory proposals (EPA revisions, RGGI), dates of proposed changes, and the ongoing legal challenges surrounding Pennsylvania’s attempt to join RGGI. Text 1, while discussing regulatory risk and ESG pressure, remains largely at a high level, lacking the specific anchor points and verifiable details that characterize Text 2.
+
+FINAL: text 2","text 2
+",14
+12,13,"Text 2
+
+FINAL: Text 2","text 2
+",13
+12,14,"Text 2 demonstrates a higher degree of specificity regarding climate litigation. It explicitly details the legal challenges (RGGI, lawsuits seeking liability), regulatory changes (EPA proposals, state mandates), and the potential financial consequences (emission allowance costs). Text 1 primarily focuses on broader regulatory uncertainty and market impacts, lacking the granular details necessary to classify it as a specific instance of climate litigation.
+
+FINAL: text 2","text 2
+",14
+13,14,"Text 2 exhibits a significantly higher degree of specificity compared to Text 1. Text 2 provides concrete details regarding specific regulatory proposals (EPA NSPS revisions), state-level initiatives (RGGI, Pennsylvania’s attempts to join), and the ongoing legal challenges surrounding these initiatives. It includes specific dates (September 2018, December 2021), identifies the Pennsylvania appellate courts involved, and details the mechanics of cap-and-trade programs. Text 1, in contrast, offers a more general overview of potential risks and liabilities without anchoring these risks to specific regulatory actions or legal proceedings.
+
+FINAL: text 2","text 2
+",14

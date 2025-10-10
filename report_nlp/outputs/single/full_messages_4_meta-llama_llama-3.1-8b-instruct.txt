@@ -1,0 +1,325 @@
+
+============================================================
+USER MESSAGE 1
+============================================================
+Summarize the following text: Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeks money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change. For further discussion of pending legal proceedings, see Note 20 - Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K.
+Environmental regulations can increase costs and introduce uncertainty that could adversely impact the market for natural gas with potential short and long-term liabilities.
+CNX is subject to various stringent federal, state, and local laws and regulations relating to the discharge of materials into, and protection of, the environment. These laws and regulations may impose numerous obligations that are applicable to us and our customers' operations. Failure to comply with these laws, regulations and related permit requirements may result in joint and several or strict liability or the assessment of administrative, civil and criminal penalties, the imposition of remedial obligations, and/or the issuance of injunctions limiting or preventing some or all of our operations. Private parties, including the owners of the properties through which CNX’s gathering systems pass, and some local municipalities may also have the right to pursue legal actions to enforce compliance, challenge governmental actions, as well as seek damages for non-compliance, with environmental laws and regulations or for personal injury or property damage. CNX may not be able to recover all or any of these costs from insurance. There is no assurance that changes in or additions to regulations and public policies regarding enforcement and the protection of the environment will not have a significant impact on our operations and profitability.
+Our operations also pose risks of environmental liability due to leakage, migration, releases or spills from our operations to surface or subsurface soils, and surface water or groundwater. Certain environmental laws impose strict as well as joint and 32
+several liability for costs required to investigate, remediate and restore sites where regulated substances have been disposed, stored or released, as well as fines and penalties for such releases.
+
+============================================================
+ASSISTANT MESSAGE 2
+============================================================
+As a legal and environmental disclosure expert, I can summarize the text as follows:
+
+The company, CNX, is facing increasing environmental, social, and governance (ESG) scrutiny from investors and stakeholders. This is reflected in the growing number of lawsuits filed by states and municipalities seeking to hold oil, gas, and coal producers liable for climate change-related damages. CNX is also subject to various federal, state, and local environmental laws and regulations, which can impose significant costs, liabilities, and uncertainties on the company.
+
+Specifically, CNX faces risks related to:
+
+1. Environmental regulations: Stricter regulations can increase costs and introduce uncertainty, potentially impacting the market for natural gas and resulting in short- and long-term liabilities.
+2. Compliance risks: Failure to comply with environmental laws and regulations can result in joint and several liability, administrative, civil, and criminal penalties, remedial obligations, and injunctions limiting or preventing operations.
+3. Private party actions: Property owners and local municipalities can pursue legal actions to enforce compliance, challenge government actions, and seek damages for non-compliance or personal injury/property damage.
+4. Environmental liability: CNX's operations pose risks of environmental liability due to leakage, migration, releases, or spills, which can result in strict and joint and several liability for costs, fines, and penalties.
+
+Overall, the text highlights the significant environmental and regulatory risks facing CNX, which can impact the company's operations, profitability, and financial stability.
+
+============================================================
+USER MESSAGE 3
+============================================================
+Please assess whether the following text is climate litigation.
+
+Previously, someone else extracted all of the sentences from several companies' annual reports that related to climate litigation. Now, we are interested in assessing the specificity of these disclosures.
+
+Now, we are just seeing if you agree with them.
+Climate litigation refers to legal actions that materially concern climate change science, policy, or law. These include, but are not limited to:
+- Lawsuits targeting false or misleading climate claims (e.g. greenwashing)
+- Legal actions over a company’s contribution to climate-related impacts
+- Efforts to force climate alignment through human rights or fiduciary duty arguments
+- Failure to disclose climate-related risks or impacts
+- Breaches of climate-related regulations
+- Litigation seeking damages for harms caused by climate change
+- Legal challenges to regulatory approvals on the basis of climate misalignment
+
+You will be given a summary of the text, as well as the original text.
+Summary: As a legal and environmental disclosure expert, I can summarize the text as follows:
+
+The company, CNX, is facing increasing environmental, social, and governance (ESG) scrutiny from investors and stakeholders. This is reflected in the growing number of lawsuits filed by states and municipalities seeking to hold oil, gas, and coal producers liable for climate change-related damages. CNX is also subject to various federal, state, and local environmental laws and regulations, which can impose significant costs, liabilities, and uncertainties on the company.
+
+Specifically, CNX faces risks related to:
+
+1. Environmental regulations: Stricter regulations can increase costs and introduce uncertainty, potentially impacting the market for natural gas and resulting in short- and long-term liabilities.
+2. Compliance risks: Failure to comply with environmental laws and regulations can result in joint and several liability, administrative, civil, and criminal penalties, remedial obligations, and injunctions limiting or preventing operations.
+3. Private party actions: Property owners and local municipalities can pursue legal actions to enforce compliance, challenge government actions, and seek damages for non-compliance or personal injury/property damage.
+4. Environmental liability: CNX's operations pose risks of environmental liability due to leakage, migration, releases, or spills, which can result in strict and joint and several liability for costs, fines, and penalties.
+
+Overall, the text highlights the significant environmental and regulatory risks facing CNX, which can impact the company's operations, profitability, and financial stability.
+
+Original text: Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeks money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change. For further discussion of pending legal proceedings, see Note 20 - Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K.
+Environmental regulations can increase costs and introduce uncertainty that could adversely impact the market for natural gas with potential short and long-term liabilities.
+CNX is subject to various stringent federal, state, and local laws and regulations relating to the discharge of materials into, and protection of, the environment. These laws and regulations may impose numerous obligations that are applicable to us and our customers' operations. Failure to comply with these laws, regulations and related permit requirements may result in joint and several or strict liability or the assessment of administrative, civil and criminal penalties, the imposition of remedial obligations, and/or the issuance of injunctions limiting or preventing some or all of our operations. Private parties, including the owners of the properties through which CNX’s gathering systems pass, and some local municipalities may also have the right to pursue legal actions to enforce compliance, challenge governmental actions, as well as seek damages for non-compliance, with environmental laws and regulations or for personal injury or property damage. CNX may not be able to recover all or any of these costs from insurance. There is no assurance that changes in or additions to regulations and public policies regarding enforcement and the protection of the environment will not have a significant impact on our operations and profitability.
+Our operations also pose risks of environmental liability due to leakage, migration, releases or spills from our operations to surface or subsurface soils, and surface water or groundwater. Certain environmental laws impose strict as well as joint and 32
+several liability for costs required to investigate, remediate and restore sites where regulated substances have been disposed, stored or released, as well as fines and penalties for such releases.
+
+============================================================
+ASSISTANT MESSAGE 4
+============================================================
+Based on the original text and the summary, I would assess that the text is partially related to climate litigation, but not entirely.
+
+The text mentions that there are lawsuits filed by states and municipalities seeking to hold oil, gas, and coal producers liable for climate change-related damages. This suggests that the text is related to climate litigation, specifically lawsuits targeting a company's contribution to climate-related impacts.
+
+However, the text also discusses broader environmental and regulatory risks facing CNX, including compliance risks, private party actions, and environmental liability. While these risks are related to climate change, they are not necessarily specific to climate litigation.
+
+To determine whether the text is climate litigation, I would look for specific language or references to climate change science, policy, or law, such as:
+
+* References to climate change mitigation or adaptation efforts
+* Discussions of climate-related regulations or policies
+* Language related to climate change impacts, such as rising sea levels or more frequent and severe weather events
+* Specific mentions of climate-related lawsuits or legal actions
+
+In this case, the text mentions climate change-related damages and lawsuits, but does not provide specific details about the climate change science, policy, or law underlying these lawsuits. Therefore, while the text is partially related to climate litigation, it is not a clear example of climate litigation.
+
+To better assess the text as climate litigation, I would need to see more specific language or references to climate change science, policy, or law.
+
+============================================================
+USER MESSAGE 5
+============================================================
+For your knowledge, the text was previously classified as follows:
+Summary: As a legal and environmental disclosure expert, I can summarize the text as follows:
+
+The company, CNX, is facing increasing environmental, social, and governance (ESG) scrutiny from investors and stakeholders. This is reflected in the growing number of lawsuits filed by states and municipalities seeking to hold oil, gas, and coal producers liable for climate change-related damages. CNX is also subject to various federal, state, and local environmental laws and regulations, which can impose significant costs, liabilities, and uncertainties on the company.
+
+Specifically, CNX faces risks related to:
+
+1. Environmental regulations: Stricter regulations can increase costs and introduce uncertainty, potentially impacting the market for natural gas and resulting in short- and long-term liabilities.
+2. Compliance risks: Failure to comply with environmental laws and regulations can result in joint and several liability, administrative, civil, and criminal penalties, remedial obligations, and injunctions limiting or preventing operations.
+3. Private party actions: Property owners and local municipalities can pursue legal actions to enforce compliance, challenge government actions, and seek damages for non-compliance or personal injury/property damage.
+4. Environmental liability: CNX's operations pose risks of environmental liability due to leakage, migration, releases, or spills, which can result in strict and joint and several liability for costs, fines, and penalties.
+
+Overall, the text highlights the significant environmental and regulatory risks facing CNX, which can impact the company's operations, profitability, and financial stability.
+
+Original text: Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeks money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change. For further discussion of pending legal proceedings, see Note 20 - Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K.
+Environmental regulations can increase costs and introduce uncertainty that could adversely impact the market for natural gas with potential short and long-term liabilities.
+CNX is subject to various stringent federal, state, and local laws and regulations relating to the discharge of materials into, and protection of, the environment. These laws and regulations may impose numerous obligations that are applicable to us and our customers' operations. Failure to comply with these laws, regulations and related permit requirements may result in joint and several or strict liability or the assessment of administrative, civil and criminal penalties, the imposition of remedial obligations, and/or the issuance of injunctions limiting or preventing some or all of our operations. Private parties, including the owners of the properties through which CNX’s gathering systems pass, and some local municipalities may also have the right to pursue legal actions to enforce compliance, challenge governmental actions, as well as seek damages for non-compliance, with environmental laws and regulations or for personal injury or property damage. CNX may not be able to recover all or any of these costs from insurance. There is no assurance that changes in or additions to regulations and public policies regarding enforcement and the protection of the environment will not have a significant impact on our operations and profitability.
+Our operations also pose risks of environmental liability due to leakage, migration, releases or spills from our operations to surface or subsurface soils, and surface water or groundwater. Certain environmental laws impose strict as well as joint and 32
+several liability for costs required to investigate, remediate and restore sites where regulated substances have been disposed, stored or released, as well as fines and penalties for such releases.
+
+Classification: 1
+Please only respond with an acknowledgement of this information.
+
+============================================================
+ASSISTANT MESSAGE 6
+============================================================
+I have taken note of the previous classification of the text as "1".
+
+============================================================
+USER MESSAGE 7
+============================================================
+Build a concept-specific breakdown of SPECIFICITY for climate litigation.
+Focus on anchors (parties/case/docket, forum/jurisdiction, statute/reg/policy, posture, dates, monetary amounts), climate linkage, falsifiability (checkable details), and contextual clarity (who/what/where/when/under which rule/seeking what).
+
+It is very impotant that you only fill in the following schema with details that are DIRECTLY RELATED to climate litigation. Many text chunks will include details about other climate related regulations, monetary incentives, etc. but ONLY IF the text provides the following details about CLIMATE LITIGATION ITSELF, should you fill them in. Otherwise, they should be given null or empty lists.Summary: As a legal and environmental disclosure expert, I can summarize the text as follows:
+
+The company, CNX, is facing increasing environmental, social, and governance (ESG) scrutiny from investors and stakeholders. This is reflected in the growing number of lawsuits filed by states and municipalities seeking to hold oil, gas, and coal producers liable for climate change-related damages. CNX is also subject to various federal, state, and local environmental laws and regulations, which can impose significant costs, liabilities, and uncertainties on the company.
+
+Specifically, CNX faces risks related to:
+
+1. Environmental regulations: Stricter regulations can increase costs and introduce uncertainty, potentially impacting the market for natural gas and resulting in short- and long-term liabilities.
+2. Compliance risks: Failure to comply with environmental laws and regulations can result in joint and several liability, administrative, civil, and criminal penalties, remedial obligations, and injunctions limiting or preventing operations.
+3. Private party actions: Property owners and local municipalities can pursue legal actions to enforce compliance, challenge government actions, and seek damages for non-compliance or personal injury/property damage.
+4. Environmental liability: CNX's operations pose risks of environmental liability due to leakage, migration, releases, or spills, which can result in strict and joint and several liability for costs, fines, and penalties.
+
+Overall, the text highlights the significant environmental and regulatory risks facing CNX, which can impact the company's operations, profitability, and financial stability.
+
+Original text:
+Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeks money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change. For further discussion of pending legal proceedings, see Note 20 - Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K.
+Environmental regulations can increase costs and introduce uncertainty that could adversely impact the market for natural gas with potential short and long-term liabilities.
+CNX is subject to various stringent federal, state, and local laws and regulations relating to the discharge of materials into, and protection of, the environment. These laws and regulations may impose numerous obligations that are applicable to us and our customers' operations. Failure to comply with these laws, regulations and related permit requirements may result in joint and several or strict liability or the assessment of administrative, civil and criminal penalties, the imposition of remedial obligations, and/or the issuance of injunctions limiting or preventing some or all of our operations. Private parties, including the owners of the properties through which CNX’s gathering systems pass, and some local municipalities may also have the right to pursue legal actions to enforce compliance, challenge governmental actions, as well as seek damages for non-compliance, with environmental laws and regulations or for personal injury or property damage. CNX may not be able to recover all or any of these costs from insurance. There is no assurance that changes in or additions to regulations and public policies regarding enforcement and the protection of the environment will not have a significant impact on our operations and profitability.
+Our operations also pose risks of environmental liability due to leakage, migration, releases or spills from our operations to surface or subsurface soils, and surface water or groundwater. Certain environmental laws impose strict as well as joint and 32
+several liability for costs required to investigate, remediate and restore sites where regulated substances have been disposed, stored or released, as well as fines and penalties for such releases.
+
+
+Return ONLY valid JSON with this exact schema and keys (no code fences, no extra text):
+
+{
+  "parties": [string],
+  "case_title_or_docket": string or null,
+  "forum_or_jurisdiction": string or null,
+  "statute_reg_policy": [string],
+  "procedural_posture": string or null,
+  "dates_or_timeframes": [string],
+  "monetary_or_quantified": [string],
+  "climate_linkage_summary": string,
+  "climate_linkage_quotes": [string],
+  "checkable_elements": [string],
+  "who": string or null,
+  "what": string or null,
+  "where": string or null,
+  "when": string or null,
+  "under_which_rule": string or null,
+  "sought_outcome": string or null,
+  "evidence_quotes": [string]
+}
+
+Rules:
+- Only consider these categories in relation to climate litigation. If there are dates, parties, monetary amounts, etc. that are not related to climate litigation, ignore them.
+- Populate every key. Use [] for unknown lists, and null for unknown single values.
+- Prefer short verbatim snippets from the text for any *quotes* arrays.
+- Do NOT invent details not supported by the text. Ignore specificity about non-climate topics.
+
+
+============================================================
+ASSISTANT MESSAGE 8
+============================================================
+{
+  "parties": ["states and municipalities", "oil, gas, and coal producers"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": ["climate change-related regulations", "environmental laws and regulations"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["currently", "pending"],
+  "monetary_or_quantified": ["money damages", "short and long-term liabilities"],
+  "climate_linkage_summary": "Lawsuits filed by states and municipalities seeking to hold oil, gas, and coal producers liable for climate change-related damages.",
+  "climate_linkage_quotes": ["the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves"],
+  "checkable_elements": ["number of lawsuits", "type of damages sought"],
+  "who": "states and municipalities",
+  "what": "hold oil, gas, and coal producers liable for climate change-related damages",
+  "where": null,
+  "when": null,
+  "under_which_rule": "climate change-related regulations",
+  "sought_outcome": "money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change",
+  "evidence_quotes": ["For further discussion of pending legal proceedings, see Note 20 - Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K."]
+
+============================================================
+USER MESSAGE 9
+============================================================
+The previous JSON output was invalid. Please return ONLY valid JSON that matches the required schema. Fix any syntax errors or missing keys. Do not include explanations, markdown formatting, or additional text.
+
+Previous output:
+{
+  "parties": ["states and municipalities", "oil, gas, and coal producers"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": ["climate change-related regulations", "environmental laws and regulations"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["currently", "pending"],
+  "monetary_or_quantified": ["money damages", "short and long-term liabilities"],
+  "climate_linkage_summary": "Lawsuits filed by states and municipalities seeking to hold oil, gas, and coal producers liable for climate change-related damages.",
+  "climate_linkage_quotes": ["the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves"],
+  "checkable_elements": ["number of lawsuits", "type of damages sought"],
+  "who": "states and municipalities",
+  "what": "hold oil, gas, and coal producers liable for climate change-related damages",
+  "where": null,
+  "when": null,
+  "under_which_rule": "climate change-related regulations",
+  "sought_outcome": "money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change",
+  "evidence_quotes": ["For further discussion of pending legal proceedings, see Note 20 - Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K."]
+
+============================================================
+ASSISTANT MESSAGE 10
+============================================================
+{
+  "parties": ["states and municipalities", "oil, gas, and coal producers"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": ["climate change-related regulations", "environmental laws and regulations"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["currently", "pending"],
+  "monetary_or_quantified": ["money damages", "short and long-term liabilities"],
+  "climate_linkage_summary": "Lawsuits filed by states and municipalities seeking to hold oil, gas, and coal producers liable for climate change-related damages.",
+  "climate_linkage_quotes": ["the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves"],
+  "checkable_elements": ["number of lawsuits", "type of damages sought"],
+  "who": "states and municipalities",
+  "what": "hold oil, gas, and coal producers liable for climate change-related damages",
+  "where": null,
+  "when": null,
+  "under_which_rule": "climate change-related regulations",
+  "sought_outcome": "money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change",
+  "evidence_quotes": ["For further discussion of pending legal proceedings, see Note 20 - Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K."],
+  "climate_linkage": null,
+  "falsifiability": null,
+  "contextual_clarity": null
+}
+
+============================================================
+USER MESSAGE 11
+============================================================
+Given the summary, original text, CL classification, and the structured breakdown, choose ONE specificity label.
+Base your choice on:
+ - PRECISION of anchors (parties/case/docket, forum, statute/reg/policy, posture, dates, monetary/quantified).
+ - LINKAGE to climate claims (not generic legal/ESG talk).
+ - FALSIFIABILITY (checkable details: exact court, date, cited rule, quantified remedy, etc.).
+ - CONTEXTUAL CLARITY (who did what, where, when, under which rule, seeking what outcome).
+Ignore specificity about non-climate and non-litigation topics
+
+Return ONLY one of: not climate litigation, mention only, vague disclosure, basic disclosure, detailed disclosure, highly specific
+
+Summary: As a legal and environmental disclosure expert, I can summarize the text as follows:
+
+The company, CNX, is facing increasing environmental, social, and governance (ESG) scrutiny from investors and stakeholders. This is reflected in the growing number of lawsuits filed by states and municipalities seeking to hold oil, gas, and coal producers liable for climate change-related damages. CNX is also subject to various federal, state, and local environmental laws and regulations, which can impose significant costs, liabilities, and uncertainties on the company.
+
+Specifically, CNX faces risks related to:
+
+1. Environmental regulations: Stricter regulations can increase costs and introduce uncertainty, potentially impacting the market for natural gas and resulting in short- and long-term liabilities.
+2. Compliance risks: Failure to comply with environmental laws and regulations can result in joint and several liability, administrative, civil, and criminal penalties, remedial obligations, and injunctions limiting or preventing operations.
+3. Private party actions: Property owners and local municipalities can pursue legal actions to enforce compliance, challenge government actions, and seek damages for non-compliance or personal injury/property damage.
+4. Environmental liability: CNX's operations pose risks of environmental liability due to leakage, migration, releases, or spills, which can result in strict and joint and several liability for costs, fines, and penalties.
+
+Overall, the text highlights the significant environmental and regulatory risks facing CNX, which can impact the company's operations, profitability, and financial stability.
+Original text: Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeks money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change. For further discussion of pending legal proceedings, see Note 20 - Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K.
+Environmental regulations can increase costs and introduce uncertainty that could adversely impact the market for natural gas with potential short and long-term liabilities.
+CNX is subject to various stringent federal, state, and local laws and regulations relating to the discharge of materials into, and protection of, the environment. These laws and regulations may impose numerous obligations that are applicable to us and our customers' operations. Failure to comply with these laws, regulations and related permit requirements may result in joint and several or strict liability or the assessment of administrative, civil and criminal penalties, the imposition of remedial obligations, and/or the issuance of injunctions limiting or preventing some or all of our operations. Private parties, including the owners of the properties through which CNX’s gathering systems pass, and some local municipalities may also have the right to pursue legal actions to enforce compliance, challenge governmental actions, as well as seek damages for non-compliance, with environmental laws and regulations or for personal injury or property damage. CNX may not be able to recover all or any of these costs from insurance. There is no assurance that changes in or additions to regulations and public policies regarding enforcement and the protection of the environment will not have a significant impact on our operations and profitability.
+Our operations also pose risks of environmental liability due to leakage, migration, releases or spills from our operations to surface or subsurface soils, and surface water or groundwater. Certain environmental laws impose strict as well as joint and 32
+several liability for costs required to investigate, remediate and restore sites where regulated substances have been disposed, stored or released, as well as fines and penalties for such releases.
+Previously classified as climate litigation? 1
+Breakdown JSON: {
+  "parties": [
+    "states and municipalities",
+    "oil, gas, and coal producers"
+  ],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": [
+    "climate change-related regulations",
+    "environmental laws and regulations"
+  ],
+  "procedural_posture": null,
+  "dates_or_timeframes": [
+    "currently",
+    "pending"
+  ],
+  "monetary_or_quantified": [
+    "money damages",
+    "short and long-term liabilities"
+  ],
+  "climate_linkage_summary": "Lawsuits filed by states and municipalities seeking to hold oil, gas, and coal producers liable for climate change-related damages.",
+  "climate_linkage_quotes": [
+    "the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves"
+  ],
+  "checkable_elements": [
+    "number of lawsuits",
+    "type of damages sought"
+  ],
+  "who": "states and municipalities",
+  "what": "hold oil, gas, and coal producers liable for climate change-related damages",
+  "where": null,
+  "when": null,
+  "under_which_rule": "climate change-related regulations",
+  "sought_outcome": "money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change",
+  "evidence_quotes": [
+    "For further discussion of pending legal proceedings, see Note 20 - Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K."
+  ],
+  "climate_linkage": null,
+  "falsifiability": null,
+  "contextual_clarity": null
+}
+
+============================================================
+ASSISTANT MESSAGE 12
+============================================================
+vague disclosure

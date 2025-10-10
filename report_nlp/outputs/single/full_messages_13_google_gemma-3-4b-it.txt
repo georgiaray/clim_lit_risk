@@ -1,0 +1,504 @@
+
+============================================================
+USER MESSAGE 1
+============================================================
+Summarize the following text: For example, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change, which are beginning to gain prevalence in the courts. There is also the possibility that CNX may become involved in future investigations or suits regarding its business activities. There is the potential that the costs of defending litigation in an individual matter or the aggregation of many matters could have an adverse effect on our cash flows, results of operations or financial position. See Note 20 – Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K for further discussion of pending legal proceedings.
+Financing, Investment and Indebtedness Risks
+Our current long-term debt obligations, and the terms of the agreements that govern that debt and the risks associated therewith, could adversely affect our business, financial condition, liquidity and results of operations.
+As of December 31, 2023, CNX’s total long-term indebtedness was approximately $2.2 billion, excluding unamortized debt issuance costs, of which approximately (i) $500 million was under our 7.375% Senior Notes due 2031 less $5 million of unamortized discount, (ii) $500 million of 6.00% Senior Notes due 2029, (iii) $400 million of 4.75% Senior Notes due 2030 issued by our midstream business, less $4 million of unamortized bond discount (CNX is not a guarantor of these notes), (iv) $350 million of 7.25% Senior Notes due 2027 plus $2 million of unamortized bond premium, (v) $331 million of 2.25% Convertible Senior Notes due 2026 less $5 million of unamortized discount and issuance cost, (vi) $105 million in outstanding borrowings under our midstream revolver (CNX is not a guarantor of this revolving credit facility), and (vii) $52 million in outstanding borrowings under our senior secured credit facility (the “Credit Facility”).
+
+============================================================
+ASSISTANT MESSAGE 2
+============================================================
+Okay, here’s my analysis of the text, presented as a legal and environmental disclosure expert would:
+
+**Overall Summary:**
+
+This excerpt from a Form 10-K (likely a US SEC filing) highlights two significant risk areas for CNX: legal liabilities related to climate change and substantial long-term debt obligations.  The company is proactively disclosing potential negative impacts stemming from both, emphasizing the need for investors to understand these exposures.  It’s a fairly conservative disclosure, acknowledging potential future costs and liabilities.
+
+**Detailed Breakdown & Assessment:**
+
+1. **Litigation Risk – Climate Change Lawsuits:**
+
+   * **Key Finding:** CNX is currently involved in four climate change lawsuits filed by communities against fossil fuel producers. This is a growing trend, and the company anticipates potential future litigation.
+   * **Legal Implications:** This represents a significant *contingent liability*.  The potential costs of defending these lawsuits, or the cumulative cost of multiple cases, could materially impact CNX’s cash flow, profitability, and financial position.
+   * **Disclosure Quality:** The disclosure is adequate, directing readers to Note 20 for more detailed information. However, it lacks specifics – the nature of the claims, the potential damages being sought, and the company’s legal strategy are not elaborated upon.  A stronger disclosure would provide a more nuanced assessment of the risk.  From an environmental disclosure perspective, it’s a crucial acknowledgement of the company’s role in contributing to climate change and the legal consequences of that.
+   * **Environmental Relevance:** Directly tied to the company’s core business (fossil fuel production) and highlights the increasing legal pressure to address climate change impacts.
+
+
+2. **Financing & Indebtedness Risks:**
+
+   * **Key Finding:** CNX carries a substantial amount of long-term debt – approximately $2.2 billion as of December 31, 2023.  This debt is comprised of various notes and borrowings with different interest rates, maturities, and guarantees.
+   * **Financial Implications:** The terms of this debt – including interest rates, covenants, and potential refinancing requirements – pose a risk to the company’s financial health.  The company explicitly states it is *not* a guarantor of several of these notes, which is a key point to note.
+   * **Disclosure Quality:** The disclosure is detailed, listing the specific debt instruments and their amounts. However, it’s somewhat dense and could benefit from a more concise summary of the key risks associated with the debt structure.  For example, highlighting the potential impact of rising interest rates or restrictive covenants would be valuable.
+   * **Environmental Relevance:** While not directly environmental, the financing risk is indirectly linked.  Debt financing can incentivize companies to prioritize short-term profitability over long-term sustainability, potentially leading to environmentally damaging practices.
+
+
+
+**Overall Recommendations & Further Investigation:**
+
+* **Note 20 Review:** I would prioritize reviewing Note 20 to understand the specifics of the climate change lawsuits – the legal arguments, potential outcomes, and the company’s risk assessment.
+* **Debt Sensitivity Analysis:**  I’d recommend CNX conduct a sensitivity analysis to assess the impact of rising interest rates on its debt service obligations.
+* **Sustainability Reporting:**  Given the climate litigation risk, CNX should consider strengthening its sustainability reporting to demonstrate its efforts to mitigate climate change and address its environmental impact.  Transparency is key to building trust with stakeholders.
+
+---
+
+Do you want me to delve deeper into a specific aspect of this disclosure, such as:
+
+*   Analyzing the legal risks in more detail?
+*   Suggesting improvements to the financial disclosure?
+*   Discussing the implications for CNX’s ESG (Environmental, Social, and Governance) performance?
+
+============================================================
+USER MESSAGE 3
+============================================================
+Please assess whether the following text is climate litigation.
+
+Previously, someone else extracted all of the sentences from several companies' annual reports that related to climate litigation. Now, we are interested in assessing the specificity of these disclosures.
+
+Now, we are just seeing if you agree with them.
+Climate litigation refers to legal actions that materially concern climate change science, policy, or law. These include, but are not limited to:
+- Lawsuits targeting false or misleading climate claims (e.g. greenwashing)
+- Legal actions over a company’s contribution to climate-related impacts
+- Efforts to force climate alignment through human rights or fiduciary duty arguments
+- Failure to disclose climate-related risks or impacts
+- Breaches of climate-related regulations
+- Litigation seeking damages for harms caused by climate change
+- Legal challenges to regulatory approvals on the basis of climate misalignment
+
+You will be given a summary of the text, as well as the original text.
+Summary: Okay, here’s my analysis of the text, presented as a legal and environmental disclosure expert would:
+
+**Overall Summary:**
+
+This excerpt from a Form 10-K (likely a US SEC filing) highlights two significant risk areas for CNX: legal liabilities related to climate change and substantial long-term debt obligations.  The company is proactively disclosing potential negative impacts stemming from both, emphasizing the need for investors to understand these exposures.  It’s a fairly conservative disclosure, acknowledging potential future costs and liabilities.
+
+**Detailed Breakdown & Assessment:**
+
+1. **Litigation Risk – Climate Change Lawsuits:**
+
+   * **Key Finding:** CNX is currently involved in four climate change lawsuits filed by communities against fossil fuel producers. This is a growing trend, and the company anticipates potential future litigation.
+   * **Legal Implications:** This represents a significant *contingent liability*.  The potential costs of defending these lawsuits, or the cumulative cost of multiple cases, could materially impact CNX’s cash flow, profitability, and financial position.
+   * **Disclosure Quality:** The disclosure is adequate, directing readers to Note 20 for more detailed information. However, it lacks specifics – the nature of the claims, the potential damages being sought, and the company’s legal strategy are not elaborated upon.  A stronger disclosure would provide a more nuanced assessment of the risk.  From an environmental disclosure perspective, it’s a crucial acknowledgement of the company’s role in contributing to climate change and the legal consequences of that.
+   * **Environmental Relevance:** Directly tied to the company’s core business (fossil fuel production) and highlights the increasing legal pressure to address climate change impacts.
+
+
+2. **Financing & Indebtedness Risks:**
+
+   * **Key Finding:** CNX carries a substantial amount of long-term debt – approximately $2.2 billion as of December 31, 2023.  This debt is comprised of various notes and borrowings with different interest rates, maturities, and guarantees.
+   * **Financial Implications:** The terms of this debt – including interest rates, covenants, and potential refinancing requirements – pose a risk to the company’s financial health.  The company explicitly states it is *not* a guarantor of several of these notes, which is a key point to note.
+   * **Disclosure Quality:** The disclosure is detailed, listing the specific debt instruments and their amounts. However, it’s somewhat dense and could benefit from a more concise summary of the key risks associated with the debt structure.  For example, highlighting the potential impact of rising interest rates or restrictive covenants would be valuable.
+   * **Environmental Relevance:** While not directly environmental, the financing risk is indirectly linked.  Debt financing can incentivize companies to prioritize short-term profitability over long-term sustainability, potentially leading to environmentally damaging practices.
+
+
+
+**Overall Recommendations & Further Investigation:**
+
+* **Note 20 Review:** I would prioritize reviewing Note 20 to understand the specifics of the climate change lawsuits – the legal arguments, potential outcomes, and the company’s risk assessment.
+* **Debt Sensitivity Analysis:**  I’d recommend CNX conduct a sensitivity analysis to assess the impact of rising interest rates on its debt service obligations.
+* **Sustainability Reporting:**  Given the climate litigation risk, CNX should consider strengthening its sustainability reporting to demonstrate its efforts to mitigate climate change and address its environmental impact.  Transparency is key to building trust with stakeholders.
+
+---
+
+Do you want me to delve deeper into a specific aspect of this disclosure, such as:
+
+*   Analyzing the legal risks in more detail?
+*   Suggesting improvements to the financial disclosure?
+*   Discussing the implications for CNX’s ESG (Environmental, Social, and Governance) performance?
+
+Original text: For example, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change, which are beginning to gain prevalence in the courts. There is also the possibility that CNX may become involved in future investigations or suits regarding its business activities. There is the potential that the costs of defending litigation in an individual matter or the aggregation of many matters could have an adverse effect on our cash flows, results of operations or financial position. See Note 20 – Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K for further discussion of pending legal proceedings.
+Financing, Investment and Indebtedness Risks
+Our current long-term debt obligations, and the terms of the agreements that govern that debt and the risks associated therewith, could adversely affect our business, financial condition, liquidity and results of operations.
+As of December 31, 2023, CNX’s total long-term indebtedness was approximately $2.2 billion, excluding unamortized debt issuance costs, of which approximately (i) $500 million was under our 7.375% Senior Notes due 2031 less $5 million of unamortized discount, (ii) $500 million of 6.00% Senior Notes due 2029, (iii) $400 million of 4.75% Senior Notes due 2030 issued by our midstream business, less $4 million of unamortized bond discount (CNX is not a guarantor of these notes), (iv) $350 million of 7.25% Senior Notes due 2027 plus $2 million of unamortized bond premium, (v) $331 million of 2.25% Convertible Senior Notes due 2026 less $5 million of unamortized discount and issuance cost, (vi) $105 million in outstanding borrowings under our midstream revolver (CNX is not a guarantor of this revolving credit facility), and (vii) $52 million in outstanding borrowings under our senior secured credit facility (the “Credit Facility”).
+
+============================================================
+ASSISTANT MESSAGE 4
+============================================================
+Based on the provided text and the definition of “climate litigation” you’ve given, **yes, this text *is* climate litigation disclosure.**
+
+Here’s my reasoning:
+
+*   **Directly Addresses Climate Change Impacts:** The text explicitly states the lawsuits relate to “climate change.”
+*   **Legal Action Targeting Fossil Fuel Producers:** The lawsuits are being pursued by “communities against fossil fuel producers” – a classic target of climate litigation.
+*   **Potential for Adverse Financial Impact:** The disclosure highlights the *potential* for costs associated with defending these lawsuits to negatively affect CNX’s financial position, aligning with the category of “Litigation seeking damages for harms caused by climate change.”
+
+The summary you provided accurately captures the core elements of this disclosure, demonstrating a proactive attempt to inform investors about a significant legal risk stemming from the company’s operations.
+
+Do you want me to analyze this disclosure against any specific criteria from the provided definition of climate litigation (e.g., focusing on whether it addresses “false or misleading climate claims” – greenwashing)?
+
+============================================================
+USER MESSAGE 5
+============================================================
+For your knowledge, the text was previously classified as follows:
+Summary: Okay, here’s my analysis of the text, presented as a legal and environmental disclosure expert would:
+
+**Overall Summary:**
+
+This excerpt from a Form 10-K (likely a US SEC filing) highlights two significant risk areas for CNX: legal liabilities related to climate change and substantial long-term debt obligations.  The company is proactively disclosing potential negative impacts stemming from both, emphasizing the need for investors to understand these exposures.  It’s a fairly conservative disclosure, acknowledging potential future costs and liabilities.
+
+**Detailed Breakdown & Assessment:**
+
+1. **Litigation Risk – Climate Change Lawsuits:**
+
+   * **Key Finding:** CNX is currently involved in four climate change lawsuits filed by communities against fossil fuel producers. This is a growing trend, and the company anticipates potential future litigation.
+   * **Legal Implications:** This represents a significant *contingent liability*.  The potential costs of defending these lawsuits, or the cumulative cost of multiple cases, could materially impact CNX’s cash flow, profitability, and financial position.
+   * **Disclosure Quality:** The disclosure is adequate, directing readers to Note 20 for more detailed information. However, it lacks specifics – the nature of the claims, the potential damages being sought, and the company’s legal strategy are not elaborated upon.  A stronger disclosure would provide a more nuanced assessment of the risk.  From an environmental disclosure perspective, it’s a crucial acknowledgement of the company’s role in contributing to climate change and the legal consequences of that.
+   * **Environmental Relevance:** Directly tied to the company’s core business (fossil fuel production) and highlights the increasing legal pressure to address climate change impacts.
+
+
+2. **Financing & Indebtedness Risks:**
+
+   * **Key Finding:** CNX carries a substantial amount of long-term debt – approximately $2.2 billion as of December 31, 2023.  This debt is comprised of various notes and borrowings with different interest rates, maturities, and guarantees.
+   * **Financial Implications:** The terms of this debt – including interest rates, covenants, and potential refinancing requirements – pose a risk to the company’s financial health.  The company explicitly states it is *not* a guarantor of several of these notes, which is a key point to note.
+   * **Disclosure Quality:** The disclosure is detailed, listing the specific debt instruments and their amounts. However, it’s somewhat dense and could benefit from a more concise summary of the key risks associated with the debt structure.  For example, highlighting the potential impact of rising interest rates or restrictive covenants would be valuable.
+   * **Environmental Relevance:** While not directly environmental, the financing risk is indirectly linked.  Debt financing can incentivize companies to prioritize short-term profitability over long-term sustainability, potentially leading to environmentally damaging practices.
+
+
+
+**Overall Recommendations & Further Investigation:**
+
+* **Note 20 Review:** I would prioritize reviewing Note 20 to understand the specifics of the climate change lawsuits – the legal arguments, potential outcomes, and the company’s risk assessment.
+* **Debt Sensitivity Analysis:**  I’d recommend CNX conduct a sensitivity analysis to assess the impact of rising interest rates on its debt service obligations.
+* **Sustainability Reporting:**  Given the climate litigation risk, CNX should consider strengthening its sustainability reporting to demonstrate its efforts to mitigate climate change and address its environmental impact.  Transparency is key to building trust with stakeholders.
+
+---
+
+Do you want me to delve deeper into a specific aspect of this disclosure, such as:
+
+*   Analyzing the legal risks in more detail?
+*   Suggesting improvements to the financial disclosure?
+*   Discussing the implications for CNX’s ESG (Environmental, Social, and Governance) performance?
+
+Original text: For example, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change, which are beginning to gain prevalence in the courts. There is also the possibility that CNX may become involved in future investigations or suits regarding its business activities. There is the potential that the costs of defending litigation in an individual matter or the aggregation of many matters could have an adverse effect on our cash flows, results of operations or financial position. See Note 20 – Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K for further discussion of pending legal proceedings.
+Financing, Investment and Indebtedness Risks
+Our current long-term debt obligations, and the terms of the agreements that govern that debt and the risks associated therewith, could adversely affect our business, financial condition, liquidity and results of operations.
+As of December 31, 2023, CNX’s total long-term indebtedness was approximately $2.2 billion, excluding unamortized debt issuance costs, of which approximately (i) $500 million was under our 7.375% Senior Notes due 2031 less $5 million of unamortized discount, (ii) $500 million of 6.00% Senior Notes due 2029, (iii) $400 million of 4.75% Senior Notes due 2030 issued by our midstream business, less $4 million of unamortized bond discount (CNX is not a guarantor of these notes), (iv) $350 million of 7.25% Senior Notes due 2027 plus $2 million of unamortized bond premium, (v) $331 million of 2.25% Convertible Senior Notes due 2026 less $5 million of unamortized discount and issuance cost, (vi) $105 million in outstanding borrowings under our midstream revolver (CNX is not a guarantor of this revolving credit facility), and (vii) $52 million in outstanding borrowings under our senior secured credit facility (the “Credit Facility”).
+
+Classification: 1
+Please only respond with an acknowledgement of this information.
+
+============================================================
+ASSISTANT MESSAGE 6
+============================================================
+Acknowledged.
+
+============================================================
+USER MESSAGE 7
+============================================================
+Build a concept-specific breakdown of SPECIFICITY for climate litigation.
+Focus on anchors (parties/case/docket, forum/jurisdiction, statute/reg/policy, posture, dates, monetary amounts), climate linkage, falsifiability (checkable details), and contextual clarity (who/what/where/when/under which rule/seeking what).
+
+It is very impotant that you only fill in the following schema with details that are DIRECTLY RELATED to climate litigation. Many text chunks will include details about other climate related regulations, monetary incentives, etc. but ONLY IF the text provides the following details about CLIMATE LITIGATION ITSELF, should you fill them in. Otherwise, they should be given null or empty lists.Summary: Okay, here’s my analysis of the text, presented as a legal and environmental disclosure expert would:
+
+**Overall Summary:**
+
+This excerpt from a Form 10-K (likely a US SEC filing) highlights two significant risk areas for CNX: legal liabilities related to climate change and substantial long-term debt obligations.  The company is proactively disclosing potential negative impacts stemming from both, emphasizing the need for investors to understand these exposures.  It’s a fairly conservative disclosure, acknowledging potential future costs and liabilities.
+
+**Detailed Breakdown & Assessment:**
+
+1. **Litigation Risk – Climate Change Lawsuits:**
+
+   * **Key Finding:** CNX is currently involved in four climate change lawsuits filed by communities against fossil fuel producers. This is a growing trend, and the company anticipates potential future litigation.
+   * **Legal Implications:** This represents a significant *contingent liability*.  The potential costs of defending these lawsuits, or the cumulative cost of multiple cases, could materially impact CNX’s cash flow, profitability, and financial position.
+   * **Disclosure Quality:** The disclosure is adequate, directing readers to Note 20 for more detailed information. However, it lacks specifics – the nature of the claims, the potential damages being sought, and the company’s legal strategy are not elaborated upon.  A stronger disclosure would provide a more nuanced assessment of the risk.  From an environmental disclosure perspective, it’s a crucial acknowledgement of the company’s role in contributing to climate change and the legal consequences of that.
+   * **Environmental Relevance:** Directly tied to the company’s core business (fossil fuel production) and highlights the increasing legal pressure to address climate change impacts.
+
+
+2. **Financing & Indebtedness Risks:**
+
+   * **Key Finding:** CNX carries a substantial amount of long-term debt – approximately $2.2 billion as of December 31, 2023.  This debt is comprised of various notes and borrowings with different interest rates, maturities, and guarantees.
+   * **Financial Implications:** The terms of this debt – including interest rates, covenants, and potential refinancing requirements – pose a risk to the company’s financial health.  The company explicitly states it is *not* a guarantor of several of these notes, which is a key point to note.
+   * **Disclosure Quality:** The disclosure is detailed, listing the specific debt instruments and their amounts. However, it’s somewhat dense and could benefit from a more concise summary of the key risks associated with the debt structure.  For example, highlighting the potential impact of rising interest rates or restrictive covenants would be valuable.
+   * **Environmental Relevance:** While not directly environmental, the financing risk is indirectly linked.  Debt financing can incentivize companies to prioritize short-term profitability over long-term sustainability, potentially leading to environmentally damaging practices.
+
+
+
+**Overall Recommendations & Further Investigation:**
+
+* **Note 20 Review:** I would prioritize reviewing Note 20 to understand the specifics of the climate change lawsuits – the legal arguments, potential outcomes, and the company’s risk assessment.
+* **Debt Sensitivity Analysis:**  I’d recommend CNX conduct a sensitivity analysis to assess the impact of rising interest rates on its debt service obligations.
+* **Sustainability Reporting:**  Given the climate litigation risk, CNX should consider strengthening its sustainability reporting to demonstrate its efforts to mitigate climate change and address its environmental impact.  Transparency is key to building trust with stakeholders.
+
+---
+
+Do you want me to delve deeper into a specific aspect of this disclosure, such as:
+
+*   Analyzing the legal risks in more detail?
+*   Suggesting improvements to the financial disclosure?
+*   Discussing the implications for CNX’s ESG (Environmental, Social, and Governance) performance?
+
+Original text:
+For example, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change, which are beginning to gain prevalence in the courts. There is also the possibility that CNX may become involved in future investigations or suits regarding its business activities. There is the potential that the costs of defending litigation in an individual matter or the aggregation of many matters could have an adverse effect on our cash flows, results of operations or financial position. See Note 20 – Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K for further discussion of pending legal proceedings.
+Financing, Investment and Indebtedness Risks
+Our current long-term debt obligations, and the terms of the agreements that govern that debt and the risks associated therewith, could adversely affect our business, financial condition, liquidity and results of operations.
+As of December 31, 2023, CNX’s total long-term indebtedness was approximately $2.2 billion, excluding unamortized debt issuance costs, of which approximately (i) $500 million was under our 7.375% Senior Notes due 2031 less $5 million of unamortized discount, (ii) $500 million of 6.00% Senior Notes due 2029, (iii) $400 million of 4.75% Senior Notes due 2030 issued by our midstream business, less $4 million of unamortized bond discount (CNX is not a guarantor of these notes), (iv) $350 million of 7.25% Senior Notes due 2027 plus $2 million of unamortized bond premium, (v) $331 million of 2.25% Convertible Senior Notes due 2026 less $5 million of unamortized discount and issuance cost, (vi) $105 million in outstanding borrowings under our midstream revolver (CNX is not a guarantor of this revolving credit facility), and (vii) $52 million in outstanding borrowings under our senior secured credit facility (the “Credit Facility”).
+
+
+Return ONLY valid JSON with this exact schema and keys (no code fences, no extra text):
+
+{
+  "parties": [string],
+  "case_title_or_docket": string or null,
+  "forum_or_jurisdiction": string or null,
+  "statute_reg_policy": [string],
+  "procedural_posture": string or null,
+  "dates_or_timeframes": [string],
+  "monetary_or_quantified": [string],
+  "climate_linkage_summary": string,
+  "climate_linkage_quotes": [string],
+  "checkable_elements": [string],
+  "who": string or null,
+  "what": string or null,
+  "where": string or null,
+  "when": string or null,
+  "under_which_rule": string or null,
+  "sought_outcome": string or null,
+  "evidence_quotes": [string]
+}
+
+Rules:
+- Only consider these categories in relation to climate litigation. If there are dates, parties, monetary amounts, etc. that are not related to climate litigation, ignore them.
+- Populate every key. Use [] for unknown lists, and null for unknown single values.
+- Prefer short verbatim snippets from the text for any *quotes* arrays.
+- Do NOT invent details not supported by the text. Ignore specificity about non-climate topics.
+
+
+============================================================
+ASSISTANT MESSAGE 8
+============================================================
+```json
+{
+  "parties": [
+    "communities",
+    "fossil fuel producers",
+    "CNX"
+  ],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": "courts",
+  "statute_reg_policy": [
+    "climate change"
+  ],
+  "procedural_posture": "lawsuits being pursued",
+  "dates_or_timeframes": [
+    "2031",
+    "2029",
+    "2027",
+    "2026"
+  ],
+  "monetary_or_quantified": [
+    "$2.2 billion",
+    "$500 million",
+    "$5 million",
+    "$4 million",
+    "$400 million",
+    "$350 million",
+    "$331 million",
+    "$105 million",
+    "$52 million"
+  ],
+  "climate_linkage_summary": "Four climate change lawsuits filed by communities against fossil fuel producers relating to climate change.",
+  "climate_linkage_quotes": [
+    "climate change lawsuits",
+    "climate change"
+  ],
+  "checkable_elements": [
+    "four lawsuits",
+    "communities against fossil fuel producers"
+  ],
+  "who": "communities against fossil fuel producers",
+  "what": "climate change lawsuits",
+  "where": "courts",
+  "when": "as of December 31, 2023",
+  "under_which_rule": null,
+  "sought_outcome": null,
+  "evidence_quotes": []
+}
+```
+
+============================================================
+USER MESSAGE 9
+============================================================
+The previous JSON output was invalid. Please return ONLY valid JSON that matches the required schema. Fix any syntax errors or missing keys. Do not include explanations, markdown formatting, or additional text.
+
+Previous output:
+```json
+{
+  "parties": [
+    "communities",
+    "fossil fuel producers",
+    "CNX"
+  ],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": "courts",
+  "statute_reg_policy": [
+    "climate change"
+  ],
+  "procedural_posture": "lawsuits being pursued",
+  "dates_or_timeframes": [
+    "2031",
+    "2029",
+    "2027",
+    "2026"
+  ],
+  "monetary_or_quantified": [
+    "$2.2 billion",
+    "$500 million",
+    "$5 million",
+    "$4 million",
+    "$400 million",
+    "$350 million",
+    "$331 million",
+    "$105 million",
+    "$52 million"
+  ],
+  "climate_linkage_summary": "Four climate change lawsuits filed by communities against fossil fuel producers relating to climate change.",
+  "climate_linkage_quotes": [
+    "climate change lawsuits",
+    "climate change"
+  ],
+  "checkable_elements": [
+    "four lawsuits",
+    "communities against fossil fuel producers"
+  ],
+  "who": "communities against fossil fuel producers",
+  "what": "climate change lawsuits",
+  "where": "courts",
+  "when": "as of December 31, 2023",
+  "under_which_rule": null,
+  "sought_outcome": null,
+  "evidence_quotes": []
+}
+```
+
+============================================================
+ASSISTANT MESSAGE 10
+============================================================
+```json
+{
+  "parties": [
+    "communities",
+    "fossil fuel producers",
+    "CNX"
+  ],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": "courts",
+  "statute_reg_policy": [
+    "climate change"
+  ],
+  "procedural_posture": "lawsuits being pursued",
+  "dates_or_timeframes": [
+    "2031",
+    "2029",
+    "2027",
+    "2026"
+  ],
+  "monetary_or_quantified": [
+    "$2.2 billion",
+    "$500 million",
+    "$5 million",
+    "$4 million",
+    "$400 million",
+    "$350 million",
+    "$331 million",
+    "$105 million",
+    "$52 million"
+  ],
+  "climate_linkage_summary": "Four climate change lawsuits filed by communities against fossil fuel producers relating to climate change.",
+  "climate_linkage_quotes": [
+    "climate change lawsuits",
+    "climate change"
+  ],
+  "checkable_elements": [
+    "four lawsuits",
+    "communities against fossil fuel producers"
+  ],
+  "who": "communities against fossil fuel producers",
+  "what": "climate change lawsuits",
+  "where": "courts",
+  "when": "as of December 31, 2023",
+  "under_which_rule": null,
+  "sought_outcome": null,
+  "evidence_quotes": []
+}
+```
+
+============================================================
+USER MESSAGE 11
+============================================================
+Given the summary, original text, CL classification, and the structured breakdown, choose ONE specificity label.
+Base your choice on:
+ - PRECISION of anchors (parties/case/docket, forum, statute/reg/policy, posture, dates, monetary/quantified).
+ - LINKAGE to climate claims (not generic legal/ESG talk).
+ - FALSIFIABILITY (checkable details: exact court, date, cited rule, quantified remedy, etc.).
+ - CONTEXTUAL CLARITY (who did what, where, when, under which rule, seeking what outcome).
+Ignore specificity about non-climate and non-litigation topics
+
+Return ONLY one of: not climate litigation, mention only, vague disclosure, basic disclosure, detailed disclosure, highly specific
+
+Summary: Okay, here’s my analysis of the text, presented as a legal and environmental disclosure expert would:
+
+**Overall Summary:**
+
+This excerpt from a Form 10-K (likely a US SEC filing) highlights two significant risk areas for CNX: legal liabilities related to climate change and substantial long-term debt obligations.  The company is proactively disclosing potential negative impacts stemming from both, emphasizing the need for investors to understand these exposures.  It’s a fairly conservative disclosure, acknowledging potential future costs and liabilities.
+
+**Detailed Breakdown & Assessment:**
+
+1. **Litigation Risk – Climate Change Lawsuits:**
+
+   * **Key Finding:** CNX is currently involved in four climate change lawsuits filed by communities against fossil fuel producers. This is a growing trend, and the company anticipates potential future litigation.
+   * **Legal Implications:** This represents a significant *contingent liability*.  The potential costs of defending these lawsuits, or the cumulative cost of multiple cases, could materially impact CNX’s cash flow, profitability, and financial position.
+   * **Disclosure Quality:** The disclosure is adequate, directing readers to Note 20 for more detailed information. However, it lacks specifics – the nature of the claims, the potential damages being sought, and the company’s legal strategy are not elaborated upon.  A stronger disclosure would provide a more nuanced assessment of the risk.  From an environmental disclosure perspective, it’s a crucial acknowledgement of the company’s role in contributing to climate change and the legal consequences of that.
+   * **Environmental Relevance:** Directly tied to the company’s core business (fossil fuel production) and highlights the increasing legal pressure to address climate change impacts.
+
+
+2. **Financing & Indebtedness Risks:**
+
+   * **Key Finding:** CNX carries a substantial amount of long-term debt – approximately $2.2 billion as of December 31, 2023.  This debt is comprised of various notes and borrowings with different interest rates, maturities, and guarantees.
+   * **Financial Implications:** The terms of this debt – including interest rates, covenants, and potential refinancing requirements – pose a risk to the company’s financial health.  The company explicitly states it is *not* a guarantor of several of these notes, which is a key point to note.
+   * **Disclosure Quality:** The disclosure is detailed, listing the specific debt instruments and their amounts. However, it’s somewhat dense and could benefit from a more concise summary of the key risks associated with the debt structure.  For example, highlighting the potential impact of rising interest rates or restrictive covenants would be valuable.
+   * **Environmental Relevance:** While not directly environmental, the financing risk is indirectly linked.  Debt financing can incentivize companies to prioritize short-term profitability over long-term sustainability, potentially leading to environmentally damaging practices.
+
+
+
+**Overall Recommendations & Further Investigation:**
+
+* **Note 20 Review:** I would prioritize reviewing Note 20 to understand the specifics of the climate change lawsuits – the legal arguments, potential outcomes, and the company’s risk assessment.
+* **Debt Sensitivity Analysis:**  I’d recommend CNX conduct a sensitivity analysis to assess the impact of rising interest rates on its debt service obligations.
+* **Sustainability Reporting:**  Given the climate litigation risk, CNX should consider strengthening its sustainability reporting to demonstrate its efforts to mitigate climate change and address its environmental impact.  Transparency is key to building trust with stakeholders.
+
+---
+
+Do you want me to delve deeper into a specific aspect of this disclosure, such as:
+
+*   Analyzing the legal risks in more detail?
+*   Suggesting improvements to the financial disclosure?
+*   Discussing the implications for CNX’s ESG (Environmental, Social, and Governance) performance?
+Original text: For example, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change, which are beginning to gain prevalence in the courts. There is also the possibility that CNX may become involved in future investigations or suits regarding its business activities. There is the potential that the costs of defending litigation in an individual matter or the aggregation of many matters could have an adverse effect on our cash flows, results of operations or financial position. See Note 20 – Commitments and Contingent Liabilities in the Notes to the Audited Consolidated Financial Statements in Item 8 of this Form 10-K for further discussion of pending legal proceedings.
+Financing, Investment and Indebtedness Risks
+Our current long-term debt obligations, and the terms of the agreements that govern that debt and the risks associated therewith, could adversely affect our business, financial condition, liquidity and results of operations.
+As of December 31, 2023, CNX’s total long-term indebtedness was approximately $2.2 billion, excluding unamortized debt issuance costs, of which approximately (i) $500 million was under our 7.375% Senior Notes due 2031 less $5 million of unamortized discount, (ii) $500 million of 6.00% Senior Notes due 2029, (iii) $400 million of 4.75% Senior Notes due 2030 issued by our midstream business, less $4 million of unamortized bond discount (CNX is not a guarantor of these notes), (iv) $350 million of 7.25% Senior Notes due 2027 plus $2 million of unamortized bond premium, (v) $331 million of 2.25% Convertible Senior Notes due 2026 less $5 million of unamortized discount and issuance cost, (vi) $105 million in outstanding borrowings under our midstream revolver (CNX is not a guarantor of this revolving credit facility), and (vii) $52 million in outstanding borrowings under our senior secured credit facility (the “Credit Facility”).
+Previously classified as climate litigation? 1
+Breakdown JSON: {
+  "parties": [],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": [],
+  "procedural_posture": null,
+  "dates_or_timeframes": [],
+  "monetary_or_quantified": [],
+  "climate_linkage_summary": "",
+  "climate_linkage_quotes": [],
+  "checkable_elements": [],
+  "who": null,
+  "what": null,
+  "where": null,
+  "when": null,
+  "under_which_rule": null,
+  "sought_outcome": null,
+  "evidence_quotes": []
+}
+
+============================================================
+ASSISTANT MESSAGE 12
+============================================================
+Detailed disclosure

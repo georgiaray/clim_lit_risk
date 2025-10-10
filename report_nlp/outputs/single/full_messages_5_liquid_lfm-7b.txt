@@ -1,0 +1,353 @@
+
+============================================================
+USER MESSAGE 1
+============================================================
+Summarize the following text: Future legislation regarding derivatives could have an adverse effect on our ability to use derivative instruments to reduce the effect of commodity price risks associated with our business.
+In addition, such transactions may expose us to the risk of financial loss in certain circumstances, including instances in which: •
+our production is less than expected; 24 •
+market prices for natural gas rise significantly in excess of our derivative hedge price resulting in significant cash payments to our hedge counterparties; •
+we are unable to find available counterparties in the future with which to enter into hedges and counterparties able to enter into basis hedge contracts; •
+the creditworthiness of our counterparties or their guarantors is substantially impaired; and •
+counterparties have credit limits that may constrain our ability to hedge additional volumes.
+Negative public perception regarding our Company or industry could have an adverse effect on our operations, financial results or stock price.
+Negative public perception regarding our industry resulting from, among other things, operational incidents or concerns raised by advocacy groups, related to environmental, health, or community impacts has resulted in increased regulatory scrutiny, which has resulted in additional laws, regulations, guidelines and enforcement interpretations, at the federal or state level. These actions may cause operational delays or restrictions, increased operating costs, additional regulatory burdens and an increased risk of litigation that may negatively impact our future financial results or our stock price. Moreover, governmental authorities exercise considerable discretion in the timing and scope of permit issuance and the public may engage in the permitting process, including through intervention in the courts. This could cause the permits CNX needs to conduct our operations to be withheld, delayed, or burdened by requirements that restrict our ability to profitably conduct our business.
+In addition, in recent years increasing attention has been given to corporate activities related to environmental issues in public discourse and the investment community. A number of advocacy groups, both domestically and internationally, have campaigned for the investment community, including investment advisors, sovereign wealth funds, public pension funds, universities, and other groups, to promote change at public companies, including through investment and voting practices. These activities include increasing attention and demands for action related to climate change and energy transition matters, such as promoting the use of substitutes to fossil fuel products and encouraging the divestment of fossil fuel equities, as well as pressuring lenders and other financial services companies to limit or curtail activities with fossil fuel companies.
+
+============================================================
+ASSISTANT MESSAGE 2
+============================================================
+This text discusses potential future legislative changes in derivatives and their impact on a company's ability to manage commodity price risks through derivative instruments. Key risks include:
+
+1. **Derivative Legislation Impact**: Future laws could limit the use of derivatives to hedge against commodity price risks, particularly for natural gas.
+2. **Financial Risks**: The company faces risks of financial loss due to:
+   - Lower production than expected.
+   - Significant increases in natural gas prices beyond the hedge price, leading to large cash payments.
+   - Difficulty finding counterparties for hedging.
+   - Counterparty creditworthiness issues and limited credit lines.
+3. **Public Perception Risks**: Negative public perception of the company or the industry can harm operations, financial results, and stock price due to:
+   - Operational incidents or advocacy group concerns about environmental, health, or community impacts.
+   - Increased regulatory scrutiny leading to additional laws, regulations, and operational constraints.
+   - Potential permit delays or restrictions due to governmental discretion and public involvement.
+4. **Environmental and Corporate Responsibility Pressures**: Growing public and investor focus on environmental issues, particularly climate change and energy transition, is leading to:
+   - Advocacy for divestment from fossil fuels.
+   - Pressure on investment advisors, sovereign funds, and other entities to limit interactions with fossil fuel companies.
+
+Overall, the text highlights the multifaceted risks that could affect the company's financial stability, operational flexibility, and public image due to potential legislative changes and societal pressures.
+
+============================================================
+USER MESSAGE 3
+============================================================
+Please assess whether the following text is climate litigation.
+
+Previously, someone else extracted all of the sentences from several companies' annual reports that related to climate litigation. Now, we are interested in assessing the specificity of these disclosures.
+
+Now, we are just seeing if you agree with them.
+Climate litigation refers to legal actions that materially concern climate change science, policy, or law. These include, but are not limited to:
+- Lawsuits targeting false or misleading climate claims (e.g. greenwashing)
+- Legal actions over a company’s contribution to climate-related impacts
+- Efforts to force climate alignment through human rights or fiduciary duty arguments
+- Failure to disclose climate-related risks or impacts
+- Breaches of climate-related regulations
+- Litigation seeking damages for harms caused by climate change
+- Legal challenges to regulatory approvals on the basis of climate misalignment
+
+You will be given a summary of the text, as well as the original text.
+Summary: This text discusses potential future legislative changes in derivatives and their impact on a company's ability to manage commodity price risks through derivative instruments. Key risks include:
+
+1. **Derivative Legislation Impact**: Future laws could limit the use of derivatives to hedge against commodity price risks, particularly for natural gas.
+2. **Financial Risks**: The company faces risks of financial loss due to:
+   - Lower production than expected.
+   - Significant increases in natural gas prices beyond the hedge price, leading to large cash payments.
+   - Difficulty finding counterparties for hedging.
+   - Counterparty creditworthiness issues and limited credit lines.
+3. **Public Perception Risks**: Negative public perception of the company or the industry can harm operations, financial results, and stock price due to:
+   - Operational incidents or advocacy group concerns about environmental, health, or community impacts.
+   - Increased regulatory scrutiny leading to additional laws, regulations, and operational constraints.
+   - Potential permit delays or restrictions due to governmental discretion and public involvement.
+4. **Environmental and Corporate Responsibility Pressures**: Growing public and investor focus on environmental issues, particularly climate change and energy transition, is leading to:
+   - Advocacy for divestment from fossil fuels.
+   - Pressure on investment advisors, sovereign funds, and other entities to limit interactions with fossil fuel companies.
+
+Overall, the text highlights the multifaceted risks that could affect the company's financial stability, operational flexibility, and public image due to potential legislative changes and societal pressures.
+
+Original text: Future legislation regarding derivatives could have an adverse effect on our ability to use derivative instruments to reduce the effect of commodity price risks associated with our business.
+In addition, such transactions may expose us to the risk of financial loss in certain circumstances, including instances in which: •
+our production is less than expected; 24 •
+market prices for natural gas rise significantly in excess of our derivative hedge price resulting in significant cash payments to our hedge counterparties; •
+we are unable to find available counterparties in the future with which to enter into hedges and counterparties able to enter into basis hedge contracts; •
+the creditworthiness of our counterparties or their guarantors is substantially impaired; and •
+counterparties have credit limits that may constrain our ability to hedge additional volumes.
+Negative public perception regarding our Company or industry could have an adverse effect on our operations, financial results or stock price.
+Negative public perception regarding our industry resulting from, among other things, operational incidents or concerns raised by advocacy groups, related to environmental, health, or community impacts has resulted in increased regulatory scrutiny, which has resulted in additional laws, regulations, guidelines and enforcement interpretations, at the federal or state level. These actions may cause operational delays or restrictions, increased operating costs, additional regulatory burdens and an increased risk of litigation that may negatively impact our future financial results or our stock price. Moreover, governmental authorities exercise considerable discretion in the timing and scope of permit issuance and the public may engage in the permitting process, including through intervention in the courts. This could cause the permits CNX needs to conduct our operations to be withheld, delayed, or burdened by requirements that restrict our ability to profitably conduct our business.
+In addition, in recent years increasing attention has been given to corporate activities related to environmental issues in public discourse and the investment community. A number of advocacy groups, both domestically and internationally, have campaigned for the investment community, including investment advisors, sovereign wealth funds, public pension funds, universities, and other groups, to promote change at public companies, including through investment and voting practices. These activities include increasing attention and demands for action related to climate change and energy transition matters, such as promoting the use of substitutes to fossil fuel products and encouraging the divestment of fossil fuel equities, as well as pressuring lenders and other financial services companies to limit or curtail activities with fossil fuel companies.
+
+============================================================
+ASSISTANT MESSAGE 4
+============================================================
+Based on the provided texts and the definition of climate litigation, the original text **does not specifically address climate litigation**. Here's why:
+
+1. **Focus on Derivatives and Financial Risks**: The primary focus of the text is on potential legislative changes affecting the use of derivatives for managing commodity price risks, particularly for natural gas. It discusses financial risks and operational challenges but does not directly address legal actions related to climate change.
+
+2. **Indirect References to Climate**: While the text mentions "operational incidents or concerns raised by advocacy groups, related to environmental, health, or community impacts," these references are indirect and do not explicitly detail legal actions or claims related to climate change.
+
+3. **Lack of Specific Climate Litigation Elements**: The text does not mention:
+   - Lawsuits targeting false or misleading climate claims.
+   - Legal actions over a company’s contribution to climate-related impacts.
+   - Efforts to force climate alignment through human rights or fiduciary duty arguments.
+   - Failure to disclose climate-related risks.
+   - Breaches of climate-related regulations.
+   - Litigation seeking damages for climate-related harms.
+   - Legal challenges to regulatory approvals based on climate misalignment.
+
+Given these points, the text does not specifically pertain to climate litigation as defined. It primarily deals with broader financial and operational risks, including those related to environmental concerns, but does not delve into specific legal actions or claims concerning climate change.
+
+============================================================
+USER MESSAGE 5
+============================================================
+For your knowledge, the text was previously classified as follows:
+Summary: This text discusses potential future legislative changes in derivatives and their impact on a company's ability to manage commodity price risks through derivative instruments. Key risks include:
+
+1. **Derivative Legislation Impact**: Future laws could limit the use of derivatives to hedge against commodity price risks, particularly for natural gas.
+2. **Financial Risks**: The company faces risks of financial loss due to:
+   - Lower production than expected.
+   - Significant increases in natural gas prices beyond the hedge price, leading to large cash payments.
+   - Difficulty finding counterparties for hedging.
+   - Counterparty creditworthiness issues and limited credit lines.
+3. **Public Perception Risks**: Negative public perception of the company or the industry can harm operations, financial results, and stock price due to:
+   - Operational incidents or advocacy group concerns about environmental, health, or community impacts.
+   - Increased regulatory scrutiny leading to additional laws, regulations, and operational constraints.
+   - Potential permit delays or restrictions due to governmental discretion and public involvement.
+4. **Environmental and Corporate Responsibility Pressures**: Growing public and investor focus on environmental issues, particularly climate change and energy transition, is leading to:
+   - Advocacy for divestment from fossil fuels.
+   - Pressure on investment advisors, sovereign funds, and other entities to limit interactions with fossil fuel companies.
+
+Overall, the text highlights the multifaceted risks that could affect the company's financial stability, operational flexibility, and public image due to potential legislative changes and societal pressures.
+
+Original text: Future legislation regarding derivatives could have an adverse effect on our ability to use derivative instruments to reduce the effect of commodity price risks associated with our business.
+In addition, such transactions may expose us to the risk of financial loss in certain circumstances, including instances in which: •
+our production is less than expected; 24 •
+market prices for natural gas rise significantly in excess of our derivative hedge price resulting in significant cash payments to our hedge counterparties; •
+we are unable to find available counterparties in the future with which to enter into hedges and counterparties able to enter into basis hedge contracts; •
+the creditworthiness of our counterparties or their guarantors is substantially impaired; and •
+counterparties have credit limits that may constrain our ability to hedge additional volumes.
+Negative public perception regarding our Company or industry could have an adverse effect on our operations, financial results or stock price.
+Negative public perception regarding our industry resulting from, among other things, operational incidents or concerns raised by advocacy groups, related to environmental, health, or community impacts has resulted in increased regulatory scrutiny, which has resulted in additional laws, regulations, guidelines and enforcement interpretations, at the federal or state level. These actions may cause operational delays or restrictions, increased operating costs, additional regulatory burdens and an increased risk of litigation that may negatively impact our future financial results or our stock price. Moreover, governmental authorities exercise considerable discretion in the timing and scope of permit issuance and the public may engage in the permitting process, including through intervention in the courts. This could cause the permits CNX needs to conduct our operations to be withheld, delayed, or burdened by requirements that restrict our ability to profitably conduct our business.
+In addition, in recent years increasing attention has been given to corporate activities related to environmental issues in public discourse and the investment community. A number of advocacy groups, both domestically and internationally, have campaigned for the investment community, including investment advisors, sovereign wealth funds, public pension funds, universities, and other groups, to promote change at public companies, including through investment and voting practices. These activities include increasing attention and demands for action related to climate change and energy transition matters, such as promoting the use of substitutes to fossil fuel products and encouraging the divestment of fossil fuel equities, as well as pressuring lenders and other financial services companies to limit or curtail activities with fossil fuel companies.
+
+Classification: 1
+Please only respond with an acknowledgement of this information.
+
+============================================================
+ASSISTANT MESSAGE 6
+============================================================
+Acknowledged. The text has been classified as **1**, indicating it primarily discusses risks related to derivative legislation, financial losses, and public perception, with indirect references to environmental concerns but not specifically addressing climate litigation.
+
+============================================================
+USER MESSAGE 7
+============================================================
+Build a concept-specific breakdown of SPECIFICITY for climate litigation.
+Focus on anchors (parties/case/docket, forum/jurisdiction, statute/reg/policy, posture, dates, monetary amounts), climate linkage, falsifiability (checkable details), and contextual clarity (who/what/where/when/under which rule/seeking what).
+
+It is very impotant that you only fill in the following schema with details that are DIRECTLY RELATED to climate litigation. Many text chunks will include details about other climate related regulations, monetary incentives, etc. but ONLY IF the text provides the following details about CLIMATE LITIGATION ITSELF, should you fill them in. Otherwise, they should be given null or empty lists.Summary: This text discusses potential future legislative changes in derivatives and their impact on a company's ability to manage commodity price risks through derivative instruments. Key risks include:
+
+1. **Derivative Legislation Impact**: Future laws could limit the use of derivatives to hedge against commodity price risks, particularly for natural gas.
+2. **Financial Risks**: The company faces risks of financial loss due to:
+   - Lower production than expected.
+   - Significant increases in natural gas prices beyond the hedge price, leading to large cash payments.
+   - Difficulty finding counterparties for hedging.
+   - Counterparty creditworthiness issues and limited credit lines.
+3. **Public Perception Risks**: Negative public perception of the company or the industry can harm operations, financial results, and stock price due to:
+   - Operational incidents or advocacy group concerns about environmental, health, or community impacts.
+   - Increased regulatory scrutiny leading to additional laws, regulations, and operational constraints.
+   - Potential permit delays or restrictions due to governmental discretion and public involvement.
+4. **Environmental and Corporate Responsibility Pressures**: Growing public and investor focus on environmental issues, particularly climate change and energy transition, is leading to:
+   - Advocacy for divestment from fossil fuels.
+   - Pressure on investment advisors, sovereign funds, and other entities to limit interactions with fossil fuel companies.
+
+Overall, the text highlights the multifaceted risks that could affect the company's financial stability, operational flexibility, and public image due to potential legislative changes and societal pressures.
+
+Original text:
+Future legislation regarding derivatives could have an adverse effect on our ability to use derivative instruments to reduce the effect of commodity price risks associated with our business.
+In addition, such transactions may expose us to the risk of financial loss in certain circumstances, including instances in which: •
+our production is less than expected; 24 •
+market prices for natural gas rise significantly in excess of our derivative hedge price resulting in significant cash payments to our hedge counterparties; •
+we are unable to find available counterparties in the future with which to enter into hedges and counterparties able to enter into basis hedge contracts; •
+the creditworthiness of our counterparties or their guarantors is substantially impaired; and •
+counterparties have credit limits that may constrain our ability to hedge additional volumes.
+Negative public perception regarding our Company or industry could have an adverse effect on our operations, financial results or stock price.
+Negative public perception regarding our industry resulting from, among other things, operational incidents or concerns raised by advocacy groups, related to environmental, health, or community impacts has resulted in increased regulatory scrutiny, which has resulted in additional laws, regulations, guidelines and enforcement interpretations, at the federal or state level. These actions may cause operational delays or restrictions, increased operating costs, additional regulatory burdens and an increased risk of litigation that may negatively impact our future financial results or our stock price. Moreover, governmental authorities exercise considerable discretion in the timing and scope of permit issuance and the public may engage in the permitting process, including through intervention in the courts. This could cause the permits CNX needs to conduct our operations to be withheld, delayed, or burdened by requirements that restrict our ability to profitably conduct our business.
+In addition, in recent years increasing attention has been given to corporate activities related to environmental issues in public discourse and the investment community. A number of advocacy groups, both domestically and internationally, have campaigned for the investment community, including investment advisors, sovereign wealth funds, public pension funds, universities, and other groups, to promote change at public companies, including through investment and voting practices. These activities include increasing attention and demands for action related to climate change and energy transition matters, such as promoting the use of substitutes to fossil fuel products and encouraging the divestment of fossil fuel equities, as well as pressuring lenders and other financial services companies to limit or curtail activities with fossil fuel companies.
+
+
+Return ONLY valid JSON with this exact schema and keys (no code fences, no extra text):
+
+{
+  "parties": [string],
+  "case_title_or_docket": string or null,
+  "forum_or_jurisdiction": string or null,
+  "statute_reg_policy": [string],
+  "procedural_posture": string or null,
+  "dates_or_timeframes": [string],
+  "monetary_or_quantified": [string],
+  "climate_linkage_summary": string,
+  "climate_linkage_quotes": [string],
+  "checkable_elements": [string],
+  "who": string or null,
+  "what": string or null,
+  "where": string or null,
+  "when": string or null,
+  "under_which_rule": string or null,
+  "sought_outcome": string or null,
+  "evidence_quotes": [string]
+}
+
+Rules:
+- Only consider these categories in relation to climate litigation. If there are dates, parties, monetary amounts, etc. that are not related to climate litigation, ignore them.
+- Populate every key. Use [] for unknown lists, and null for unknown single values.
+- Prefer short verbatim snippets from the text for any *quotes* arrays.
+- Do NOT invent details not supported by the text. Ignore specificity about non-climate topics.
+
+
+============================================================
+ASSISTANT MESSAGE 8
+============================================================
+```json
+{
+  "parties": ["our Company", "advocacy groups", "investment advisors", "sovereign funds", "public pension funds", "universities"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": ["additional laws, regulations, guidelines and enforcement interpretations"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["in recent years"],
+  "monetary_or_quantified": ["significant cash payments", "without specific monetary value"],
+  "climate_linkage_summary": "Increased regulatory scrutiny and public pressure related to climate change and energy transition.",
+  "climate_linkage_quotes": ["promoting the use of substitutes to fossil fuel products", "encouraging the divestment of fossil fuel equities", "pressuring lenders and other financial services companies to limit or curtail activities with fossil fuel companies"],
+  "checkable_elements": ["regulatory scrutiny", "operational delays or restrictions", "increased operating costs", "additional regulatory burdens"],
+  "who": "advocacy groups, investment advisors, sovereign funds, public pension funds, universities",
+  "what": "campaigning for change in public companies regarding climate change and energy transition",
+  "where": "domestically and internationally",
+  "when": "in recent years",
+  "under_which_rule": "increasing attention and demands",
+  "sought_outcome": "change at public companies",
+  "evidence_quotes": ["promoting the use of substitutes to fossil fuel products", "encouraging the divestment of fossil fuel equities"]
+}
+```
+
+============================================================
+USER MESSAGE 9
+============================================================
+The previous JSON output was invalid. Please return ONLY valid JSON that matches the required schema. Fix any syntax errors or missing keys. Do not include explanations, markdown formatting, or additional text.
+
+Previous output:
+```json
+{
+  "parties": ["our Company", "advocacy groups", "investment advisors", "sovereign funds", "public pension funds", "universities"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": ["additional laws, regulations, guidelines and enforcement interpretations"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["in recent years"],
+  "monetary_or_quantified": ["significant cash payments", "without specific monetary value"],
+  "climate_linkage_summary": "Increased regulatory scrutiny and public pressure related to climate change and energy transition.",
+  "climate_linkage_quotes": ["promoting the use of substitutes to fossil fuel products", "encouraging the divestment of fossil fuel equities", "pressuring lenders and other financial services companies to limit or curtail activities with fossil fuel companies"],
+  "checkable_elements": ["regulatory scrutiny", "operational delays or restrictions", "increased operating costs", "additional regulatory burdens"],
+  "who": "advocacy groups, investment advisors, sovereign funds, public pension funds, universities",
+  "what": "campaigning for change in public companies regarding climate change and energy transition",
+  "where": "domestically and internationally",
+  "when": "in recent years",
+  "under_which_rule": "increasing attention and demands",
+  "sought_outcome": "change at public companies",
+  "evidence_quotes": ["promoting the use of substitutes to fossil fuel products", "encouraging the divestment of fossil fuel equities"]
+}
+```
+
+============================================================
+ASSISTANT MESSAGE 10
+============================================================
+```json
+{
+  "parties": ["our Company", "advocacy groups", "investment advisors", "sovereign funds", "public pension funds", "universities"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": ["federal or state laws, regulations, guidelines, and enforcement interpretations related to climate change"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["recently"],
+  "monetary_or_quantified": ["increased operating costs", "without specific monetary details"],
+  "climate_linkage_summary": "Increased regulatory scrutiny and public pressure due to climate change and energy transition.",
+  "climate_linkage_quotes": ["promoting the use of substitutes to fossil fuels", "divestment of fossil fuel equities", "pressuring for climate-aligned activities"],
+  "checkable_elements": ["regulatory scrutiny leading to operational impacts", "increased costs", "regulatory burdens"],
+  "who": "advocacy groups, financial entities pressuring companies",
+  "what": "campaigning for climate action and divestment",
+  "where": "publicly and within companies' operations",
+  "when": "recently",
+  "under_which_rule": "public pressure and advocacy",
+  "sought_outcome": "climate-aligned corporate behavior",
+  "evidence_quotes": ["promoting substitutes to fossil fuels", "divestment from fossil fuels"]
+}
+```
+
+============================================================
+USER MESSAGE 11
+============================================================
+Given the summary, original text, CL classification, and the structured breakdown, choose ONE specificity label.
+Base your choice on:
+ - PRECISION of anchors (parties/case/docket, forum, statute/reg/policy, posture, dates, monetary/quantified).
+ - LINKAGE to climate claims (not generic legal/ESG talk).
+ - FALSIFIABILITY (checkable details: exact court, date, cited rule, quantified remedy, etc.).
+ - CONTEXTUAL CLARITY (who did what, where, when, under which rule, seeking what outcome).
+Ignore specificity about non-climate and non-litigation topics
+
+Return ONLY one of: not climate litigation, mention only, vague disclosure, basic disclosure, detailed disclosure, highly specific
+
+Summary: This text discusses potential future legislative changes in derivatives and their impact on a company's ability to manage commodity price risks through derivative instruments. Key risks include:
+
+1. **Derivative Legislation Impact**: Future laws could limit the use of derivatives to hedge against commodity price risks, particularly for natural gas.
+2. **Financial Risks**: The company faces risks of financial loss due to:
+   - Lower production than expected.
+   - Significant increases in natural gas prices beyond the hedge price, leading to large cash payments.
+   - Difficulty finding counterparties for hedging.
+   - Counterparty creditworthiness issues and limited credit lines.
+3. **Public Perception Risks**: Negative public perception of the company or the industry can harm operations, financial results, and stock price due to:
+   - Operational incidents or advocacy group concerns about environmental, health, or community impacts.
+   - Increased regulatory scrutiny leading to additional laws, regulations, and operational constraints.
+   - Potential permit delays or restrictions due to governmental discretion and public involvement.
+4. **Environmental and Corporate Responsibility Pressures**: Growing public and investor focus on environmental issues, particularly climate change and energy transition, is leading to:
+   - Advocacy for divestment from fossil fuels.
+   - Pressure on investment advisors, sovereign funds, and other entities to limit interactions with fossil fuel companies.
+
+Overall, the text highlights the multifaceted risks that could affect the company's financial stability, operational flexibility, and public image due to potential legislative changes and societal pressures.
+Original text: Future legislation regarding derivatives could have an adverse effect on our ability to use derivative instruments to reduce the effect of commodity price risks associated with our business.
+In addition, such transactions may expose us to the risk of financial loss in certain circumstances, including instances in which: •
+our production is less than expected; 24 •
+market prices for natural gas rise significantly in excess of our derivative hedge price resulting in significant cash payments to our hedge counterparties; •
+we are unable to find available counterparties in the future with which to enter into hedges and counterparties able to enter into basis hedge contracts; •
+the creditworthiness of our counterparties or their guarantors is substantially impaired; and •
+counterparties have credit limits that may constrain our ability to hedge additional volumes.
+Negative public perception regarding our Company or industry could have an adverse effect on our operations, financial results or stock price.
+Negative public perception regarding our industry resulting from, among other things, operational incidents or concerns raised by advocacy groups, related to environmental, health, or community impacts has resulted in increased regulatory scrutiny, which has resulted in additional laws, regulations, guidelines and enforcement interpretations, at the federal or state level. These actions may cause operational delays or restrictions, increased operating costs, additional regulatory burdens and an increased risk of litigation that may negatively impact our future financial results or our stock price. Moreover, governmental authorities exercise considerable discretion in the timing and scope of permit issuance and the public may engage in the permitting process, including through intervention in the courts. This could cause the permits CNX needs to conduct our operations to be withheld, delayed, or burdened by requirements that restrict our ability to profitably conduct our business.
+In addition, in recent years increasing attention has been given to corporate activities related to environmental issues in public discourse and the investment community. A number of advocacy groups, both domestically and internationally, have campaigned for the investment community, including investment advisors, sovereign wealth funds, public pension funds, universities, and other groups, to promote change at public companies, including through investment and voting practices. These activities include increasing attention and demands for action related to climate change and energy transition matters, such as promoting the use of substitutes to fossil fuel products and encouraging the divestment of fossil fuel equities, as well as pressuring lenders and other financial services companies to limit or curtail activities with fossil fuel companies.
+Previously classified as climate litigation? 1
+Breakdown JSON: {
+  "parties": [],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": [],
+  "procedural_posture": null,
+  "dates_or_timeframes": [],
+  "monetary_or_quantified": [],
+  "climate_linkage_summary": "",
+  "climate_linkage_quotes": [],
+  "checkable_elements": [],
+  "who": null,
+  "what": null,
+  "where": null,
+  "when": null,
+  "under_which_rule": null,
+  "sought_outcome": null,
+  "evidence_quotes": []
+}
+
+============================================================
+ASSISTANT MESSAGE 12
+============================================================
+Based on the provided breakdown and analysis, the specificity label for this text regarding climate litigation would be **vague disclosure**. The text discusses potential impacts of legislative changes and societal pressures broadly, without specific details about climate litigation cases, statutes, or exact outcomes sought, which are necessary for a more precise classification.

@@ -1,0 +1,219 @@
+
+============================================================
+USER MESSAGE 1
+============================================================
+Summarize the following text: Any such regulation that may be implemented, as well as uncertainty concerning such regulation and public policy pressures, could adversely impact the market for natural gas, as well as for our securities.
+The issue of global climate change continues to attract considerable public and scientific attention, with underlying concern about the impacts of human activity, especially the emissions of greenhouse gases (“GHGs”) such as carbon dioxide (“CO 2
+”) and methane into the environment and is increasingly the subject of civil litigation and regulatory focus. The regulatory focus has resulted in varying regulatory requirements between governmental administrations.
+The EPA, in 2013, and under the Climate Action Plan, elected to regulate GHGs under the Clean Air Act (“CAA”) to limit emissions of CO 2
+from natural gas-fired power plants. In April 2017, the EPA announced that it was initiating a review of the Clean Power Plan consistent with President Trump’s Executive Order 13783, and in October 2017 published a proposed rule to formally repeal the Clean Power Plan. On August 20, 2018, the EPA issued the proposed “Affordable Clean Energy Rule.” On June 19, 2019, the EPA issued the final Affordable Clean Energy Rule, replacing the Clean Power Plan. The 29
+Affordable Clean Energy Rule was vacated by the United States Court of Appeals for the D.C. Circuit on the last day of the Trump administration in January 2021. Accordingly, the Biden administration is taking a different direction than the Trump administration regarding these regulatory actions. For example, the Biden administration re-entered the United States in the Paris Climate Accord, and the EPA adopted a new Climate Adaptation Action Plan in October of 2021. Additionally, in 2022, President Biden signed the Inflation Reduction Act (IRA) which could accelerate the transition to a lower carbon economy. The IRA provides incentives for the development of renewable energy, clean hydrogen, clean fuels and supporting infrastructure and carbon capture and sequestration. In addition, the IRA amends the federal Clean Air Act to impose a fee on the emission of methane from sources required to report their GHG emissions to the EPA, including those sources in natural gas production and gathering. The methane emissions charge would be imposed on emissions above specified limits and would start in calendar year 2024 at $900 per ton of methane, increase to $1,200 in 2025, and be set at $1,500 for 2026 and each year after.
+
+============================================================
+ASSISTANT MESSAGE 2
+============================================================
+The text discusses the potential impact of changing regulatory policies on the natural gas market and securities. It highlights the growing concern over global climate change and the focus on reducing greenhouse gas emissions (GHGs), such as carbon dioxide (CO2) and methane. The text mentions the EPA's past and current actions related to regulating GHG emissions from natural gas-fired power plants, including the Clean Air Act, the Clean Power Plan, and the Affordable Clean Energy Rule. The Biden administration's approach to these regulatory actions has been different, with re-entry into the Paris Climate Accord, a new Climate Adaptation Action Plan, and the Inflation Reduction Act (IRA) providing incentives for renewable energy and imposing a fee on methane emissions from natural gas production and gathering. The methane emissions charge will start in 2024 at $900 per ton, increasing to $1,500 in 2026 and beyond. These regulatory changes could impact the natural gas market and securities.
+
+============================================================
+USER MESSAGE 3
+============================================================
+Please assess whether the following text is climate litigation.
+
+Previously, someone else extracted all of the sentences from several companies' annual reports that related to climate litigation. Now, we are interested in assessing the specificity of these disclosures.
+
+Now, we are just seeing if you agree with them.
+Climate litigation refers to legal actions that materially concern climate change science, policy, or law. These include, but are not limited to:
+- Lawsuits targeting false or misleading climate claims (e.g. greenwashing)
+- Legal actions over a company’s contribution to climate-related impacts
+- Efforts to force climate alignment through human rights or fiduciary duty arguments
+- Failure to disclose climate-related risks or impacts
+- Breaches of climate-related regulations
+- Litigation seeking damages for harms caused by climate change
+- Legal challenges to regulatory approvals on the basis of climate misalignment
+
+You will be given a summary of the text, as well as the original text.
+Summary: The text discusses the potential impact of changing regulatory policies on the natural gas market and securities. It highlights the growing concern over global climate change and the focus on reducing greenhouse gas emissions (GHGs), such as carbon dioxide (CO2) and methane. The text mentions the EPA's past and current actions related to regulating GHG emissions from natural gas-fired power plants, including the Clean Air Act, the Clean Power Plan, and the Affordable Clean Energy Rule. The Biden administration's approach to these regulatory actions has been different, with re-entry into the Paris Climate Accord, a new Climate Adaptation Action Plan, and the Inflation Reduction Act (IRA) providing incentives for renewable energy and imposing a fee on methane emissions from natural gas production and gathering. The methane emissions charge will start in 2024 at $900 per ton, increasing to $1,500 in 2026 and beyond. These regulatory changes could impact the natural gas market and securities.
+
+Original text: Any such regulation that may be implemented, as well as uncertainty concerning such regulation and public policy pressures, could adversely impact the market for natural gas, as well as for our securities.
+The issue of global climate change continues to attract considerable public and scientific attention, with underlying concern about the impacts of human activity, especially the emissions of greenhouse gases (“GHGs”) such as carbon dioxide (“CO 2
+”) and methane into the environment and is increasingly the subject of civil litigation and regulatory focus. The regulatory focus has resulted in varying regulatory requirements between governmental administrations.
+The EPA, in 2013, and under the Climate Action Plan, elected to regulate GHGs under the Clean Air Act (“CAA”) to limit emissions of CO 2
+from natural gas-fired power plants. In April 2017, the EPA announced that it was initiating a review of the Clean Power Plan consistent with President Trump’s Executive Order 13783, and in October 2017 published a proposed rule to formally repeal the Clean Power Plan. On August 20, 2018, the EPA issued the proposed “Affordable Clean Energy Rule.” On June 19, 2019, the EPA issued the final Affordable Clean Energy Rule, replacing the Clean Power Plan. The 29
+Affordable Clean Energy Rule was vacated by the United States Court of Appeals for the D.C. Circuit on the last day of the Trump administration in January 2021. Accordingly, the Biden administration is taking a different direction than the Trump administration regarding these regulatory actions. For example, the Biden administration re-entered the United States in the Paris Climate Accord, and the EPA adopted a new Climate Adaptation Action Plan in October of 2021. Additionally, in 2022, President Biden signed the Inflation Reduction Act (IRA) which could accelerate the transition to a lower carbon economy. The IRA provides incentives for the development of renewable energy, clean hydrogen, clean fuels and supporting infrastructure and carbon capture and sequestration. In addition, the IRA amends the federal Clean Air Act to impose a fee on the emission of methane from sources required to report their GHG emissions to the EPA, including those sources in natural gas production and gathering. The methane emissions charge would be imposed on emissions above specified limits and would start in calendar year 2024 at $900 per ton of methane, increase to $1,200 in 2025, and be set at $1,500 for 2026 and each year after.
+
+============================================================
+ASSISTANT MESSAGE 4
+============================================================
+Based on the provided summary and original text, the text does not specifically discuss climate litigation. Instead, it focuses on the potential impact of changing regulatory policies on the natural gas market and securities due to the growing concern over global climate change and the focus on reducing greenhouse gas emissions. The text mentions the EPA's past and current actions related to regulating GHG emissions from natural gas-fired power plants, as well as the Biden administration's approach to these regulatory actions. However, it does not mention any specific legal actions or lawsuits related to climate change.
+
+============================================================
+USER MESSAGE 5
+============================================================
+For your knowledge, the text was previously classified as follows:
+Summary: The text discusses the potential impact of changing regulatory policies on the natural gas market and securities. It highlights the growing concern over global climate change and the focus on reducing greenhouse gas emissions (GHGs), such as carbon dioxide (CO2) and methane. The text mentions the EPA's past and current actions related to regulating GHG emissions from natural gas-fired power plants, including the Clean Air Act, the Clean Power Plan, and the Affordable Clean Energy Rule. The Biden administration's approach to these regulatory actions has been different, with re-entry into the Paris Climate Accord, a new Climate Adaptation Action Plan, and the Inflation Reduction Act (IRA) providing incentives for renewable energy and imposing a fee on methane emissions from natural gas production and gathering. The methane emissions charge will start in 2024 at $900 per ton, increasing to $1,500 in 2026 and beyond. These regulatory changes could impact the natural gas market and securities.
+
+Original text: Any such regulation that may be implemented, as well as uncertainty concerning such regulation and public policy pressures, could adversely impact the market for natural gas, as well as for our securities.
+The issue of global climate change continues to attract considerable public and scientific attention, with underlying concern about the impacts of human activity, especially the emissions of greenhouse gases (“GHGs”) such as carbon dioxide (“CO 2
+”) and methane into the environment and is increasingly the subject of civil litigation and regulatory focus. The regulatory focus has resulted in varying regulatory requirements between governmental administrations.
+The EPA, in 2013, and under the Climate Action Plan, elected to regulate GHGs under the Clean Air Act (“CAA”) to limit emissions of CO 2
+from natural gas-fired power plants. In April 2017, the EPA announced that it was initiating a review of the Clean Power Plan consistent with President Trump’s Executive Order 13783, and in October 2017 published a proposed rule to formally repeal the Clean Power Plan. On August 20, 2018, the EPA issued the proposed “Affordable Clean Energy Rule.” On June 19, 2019, the EPA issued the final Affordable Clean Energy Rule, replacing the Clean Power Plan. The 29
+Affordable Clean Energy Rule was vacated by the United States Court of Appeals for the D.C. Circuit on the last day of the Trump administration in January 2021. Accordingly, the Biden administration is taking a different direction than the Trump administration regarding these regulatory actions. For example, the Biden administration re-entered the United States in the Paris Climate Accord, and the EPA adopted a new Climate Adaptation Action Plan in October of 2021. Additionally, in 2022, President Biden signed the Inflation Reduction Act (IRA) which could accelerate the transition to a lower carbon economy. The IRA provides incentives for the development of renewable energy, clean hydrogen, clean fuels and supporting infrastructure and carbon capture and sequestration. In addition, the IRA amends the federal Clean Air Act to impose a fee on the emission of methane from sources required to report their GHG emissions to the EPA, including those sources in natural gas production and gathering. The methane emissions charge would be imposed on emissions above specified limits and would start in calendar year 2024 at $900 per ton of methane, increase to $1,200 in 2025, and be set at $1,500 for 2026 and each year after.
+
+Classification: 1
+Please only respond with an acknowledgement of this information.
+
+============================================================
+ASSISTANT MESSAGE 6
+============================================================
+I acknowledge the information provided about the classification of the text. Thank you for sharing it.
+
+============================================================
+USER MESSAGE 7
+============================================================
+Build a concept-specific breakdown of SPECIFICITY for climate litigation.
+Focus on anchors (parties/case/docket, forum/jurisdiction, statute/reg/policy, posture, dates, monetary amounts), climate linkage, falsifiability (checkable details), and contextual clarity (who/what/where/when/under which rule/seeking what).
+
+It is very impotant that you only fill in the following schema with details that are DIRECTLY RELATED to climate litigation. Many text chunks will include details about other climate related regulations, monetary incentives, etc. but ONLY IF the text provides the following details about CLIMATE LITIGATION ITSELF, should you fill them in. Otherwise, they should be given null or empty lists.Summary: The text discusses the potential impact of changing regulatory policies on the natural gas market and securities. It highlights the growing concern over global climate change and the focus on reducing greenhouse gas emissions (GHGs), such as carbon dioxide (CO2) and methane. The text mentions the EPA's past and current actions related to regulating GHG emissions from natural gas-fired power plants, including the Clean Air Act, the Clean Power Plan, and the Affordable Clean Energy Rule. The Biden administration's approach to these regulatory actions has been different, with re-entry into the Paris Climate Accord, a new Climate Adaptation Action Plan, and the Inflation Reduction Act (IRA) providing incentives for renewable energy and imposing a fee on methane emissions from natural gas production and gathering. The methane emissions charge will start in 2024 at $900 per ton, increasing to $1,500 in 2026 and beyond. These regulatory changes could impact the natural gas market and securities.
+
+Original text:
+Any such regulation that may be implemented, as well as uncertainty concerning such regulation and public policy pressures, could adversely impact the market for natural gas, as well as for our securities.
+The issue of global climate change continues to attract considerable public and scientific attention, with underlying concern about the impacts of human activity, especially the emissions of greenhouse gases (“GHGs”) such as carbon dioxide (“CO 2
+”) and methane into the environment and is increasingly the subject of civil litigation and regulatory focus. The regulatory focus has resulted in varying regulatory requirements between governmental administrations.
+The EPA, in 2013, and under the Climate Action Plan, elected to regulate GHGs under the Clean Air Act (“CAA”) to limit emissions of CO 2
+from natural gas-fired power plants. In April 2017, the EPA announced that it was initiating a review of the Clean Power Plan consistent with President Trump’s Executive Order 13783, and in October 2017 published a proposed rule to formally repeal the Clean Power Plan. On August 20, 2018, the EPA issued the proposed “Affordable Clean Energy Rule.” On June 19, 2019, the EPA issued the final Affordable Clean Energy Rule, replacing the Clean Power Plan. The 29
+Affordable Clean Energy Rule was vacated by the United States Court of Appeals for the D.C. Circuit on the last day of the Trump administration in January 2021. Accordingly, the Biden administration is taking a different direction than the Trump administration regarding these regulatory actions. For example, the Biden administration re-entered the United States in the Paris Climate Accord, and the EPA adopted a new Climate Adaptation Action Plan in October of 2021. Additionally, in 2022, President Biden signed the Inflation Reduction Act (IRA) which could accelerate the transition to a lower carbon economy. The IRA provides incentives for the development of renewable energy, clean hydrogen, clean fuels and supporting infrastructure and carbon capture and sequestration. In addition, the IRA amends the federal Clean Air Act to impose a fee on the emission of methane from sources required to report their GHG emissions to the EPA, including those sources in natural gas production and gathering. The methane emissions charge would be imposed on emissions above specified limits and would start in calendar year 2024 at $900 per ton of methane, increase to $1,200 in 2025, and be set at $1,500 for 2026 and each year after.
+
+
+Return ONLY valid JSON with this exact schema and keys (no code fences, no extra text):
+
+{
+  "parties": [string],
+  "case_title_or_docket": string or null,
+  "forum_or_jurisdiction": string or null,
+  "statute_reg_policy": [string],
+  "procedural_posture": string or null,
+  "dates_or_timeframes": [string],
+  "monetary_or_quantified": [string],
+  "climate_linkage_summary": string,
+  "climate_linkage_quotes": [string],
+  "checkable_elements": [string],
+  "who": string or null,
+  "what": string or null,
+  "where": string or null,
+  "when": string or null,
+  "under_which_rule": string or null,
+  "sought_outcome": string or null,
+  "evidence_quotes": [string]
+}
+
+Rules:
+- Only consider these categories in relation to climate litigation. If there are dates, parties, monetary amounts, etc. that are not related to climate litigation, ignore them.
+- Populate every key. Use [] for unknown lists, and null for unknown single values.
+- Prefer short verbatim snippets from the text for any *quotes* arrays.
+- Do NOT invent details not supported by the text. Ignore specificity about non-climate topics.
+
+
+============================================================
+ASSISTANT MESSAGE 8
+============================================================
+{
+  "parties": ["United States Court of Appeals for the D.C. Circuit", "Biden administration", "Trump administration"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": "United States Court of Appeals for the D.C. Circuit",
+  "statute_reg_policy": ["Clean Air Act", "Climate Action Plan", "Clean Power Plan", "Affordable Clean Energy Rule", "Paris Climate Accord", "Inflation Reduction Act (IRA)"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["2013", "April 2017", "October 2017", "August 20, 2018", "June 19, 2019", "January 2021", "October 2021", "2022", "2024", "2025", "2026"],
+  "monetary_or_quantified": ["$900 per ton of methane", "$1,200 in 2025", "$1,500 for 2026 and each year after"],
+  "climate_linkage_summary": "The text discusses the potential impact of changing regulatory policies on the natural gas market and securities due to the growing concern over global climate change and the focus on reducing greenhouse gas emissions.",
+  "climate_linkage_quotes": ["The issue of global climate change continues to attract considerable public and scientific attention.", "The regulatory focus has resulted in varying regulatory requirements between governmental administrations."],
+  "checkable_elements": ["EPA's past and current actions related to regulating GHG emissions from natural gas-fired power plants", "Biden administration's approach to these regulatory actions"],
+  "who": null,
+  "what": null,
+  "where": null,
+  "when": null,
+  "under_which_rule": null,
+  "sought_outcome": null,
+  "evidence_quotes": ["The Affordable Clean Energy Rule was vacated by the United States Court of Appeals for the D.C. Circuit on the last day of the Trump administration in January 2021.", "The Biden administration re-entered the United States in the Paris Climate Accord, and the EPA adopted a new Climate Adaptation Action Plan in October of 2021."]
+}
+
+============================================================
+USER MESSAGE 9
+============================================================
+Given the summary, original text, CL classification, and the structured breakdown, choose ONE specificity label.
+Base your choice on:
+ - PRECISION of anchors (parties/case/docket, forum, statute/reg/policy, posture, dates, monetary/quantified).
+ - LINKAGE to climate claims (not generic legal/ESG talk).
+ - FALSIFIABILITY (checkable details: exact court, date, cited rule, quantified remedy, etc.).
+ - CONTEXTUAL CLARITY (who did what, where, when, under which rule, seeking what outcome).
+Ignore specificity about non-climate and non-litigation topics
+
+Return ONLY one of: not climate litigation, mention only, vague disclosure, basic disclosure, detailed disclosure, highly specific
+
+Summary: The text discusses the potential impact of changing regulatory policies on the natural gas market and securities. It highlights the growing concern over global climate change and the focus on reducing greenhouse gas emissions (GHGs), such as carbon dioxide (CO2) and methane. The text mentions the EPA's past and current actions related to regulating GHG emissions from natural gas-fired power plants, including the Clean Air Act, the Clean Power Plan, and the Affordable Clean Energy Rule. The Biden administration's approach to these regulatory actions has been different, with re-entry into the Paris Climate Accord, a new Climate Adaptation Action Plan, and the Inflation Reduction Act (IRA) providing incentives for renewable energy and imposing a fee on methane emissions from natural gas production and gathering. The methane emissions charge will start in 2024 at $900 per ton, increasing to $1,500 in 2026 and beyond. These regulatory changes could impact the natural gas market and securities.
+Original text: Any such regulation that may be implemented, as well as uncertainty concerning such regulation and public policy pressures, could adversely impact the market for natural gas, as well as for our securities.
+The issue of global climate change continues to attract considerable public and scientific attention, with underlying concern about the impacts of human activity, especially the emissions of greenhouse gases (“GHGs”) such as carbon dioxide (“CO 2
+”) and methane into the environment and is increasingly the subject of civil litigation and regulatory focus. The regulatory focus has resulted in varying regulatory requirements between governmental administrations.
+The EPA, in 2013, and under the Climate Action Plan, elected to regulate GHGs under the Clean Air Act (“CAA”) to limit emissions of CO 2
+from natural gas-fired power plants. In April 2017, the EPA announced that it was initiating a review of the Clean Power Plan consistent with President Trump’s Executive Order 13783, and in October 2017 published a proposed rule to formally repeal the Clean Power Plan. On August 20, 2018, the EPA issued the proposed “Affordable Clean Energy Rule.” On June 19, 2019, the EPA issued the final Affordable Clean Energy Rule, replacing the Clean Power Plan. The 29
+Affordable Clean Energy Rule was vacated by the United States Court of Appeals for the D.C. Circuit on the last day of the Trump administration in January 2021. Accordingly, the Biden administration is taking a different direction than the Trump administration regarding these regulatory actions. For example, the Biden administration re-entered the United States in the Paris Climate Accord, and the EPA adopted a new Climate Adaptation Action Plan in October of 2021. Additionally, in 2022, President Biden signed the Inflation Reduction Act (IRA) which could accelerate the transition to a lower carbon economy. The IRA provides incentives for the development of renewable energy, clean hydrogen, clean fuels and supporting infrastructure and carbon capture and sequestration. In addition, the IRA amends the federal Clean Air Act to impose a fee on the emission of methane from sources required to report their GHG emissions to the EPA, including those sources in natural gas production and gathering. The methane emissions charge would be imposed on emissions above specified limits and would start in calendar year 2024 at $900 per ton of methane, increase to $1,200 in 2025, and be set at $1,500 for 2026 and each year after.
+Previously classified as climate litigation? 1
+Breakdown JSON: {
+  "parties": [
+    "United States Court of Appeals for the D.C. Circuit",
+    "Biden administration",
+    "Trump administration"
+  ],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": "United States Court of Appeals for the D.C. Circuit",
+  "statute_reg_policy": [
+    "Clean Air Act",
+    "Climate Action Plan",
+    "Clean Power Plan",
+    "Affordable Clean Energy Rule",
+    "Paris Climate Accord",
+    "Inflation Reduction Act (IRA)"
+  ],
+  "procedural_posture": null,
+  "dates_or_timeframes": [
+    "2013",
+    "April 2017",
+    "October 2017",
+    "August 20, 2018",
+    "June 19, 2019",
+    "January 2021",
+    "October 2021",
+    "2022",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "monetary_or_quantified": [
+    "$900 per ton of methane",
+    "$1,200 in 2025",
+    "$1,500 for 2026 and each year after"
+  ],
+  "climate_linkage_summary": "The text discusses the potential impact of changing regulatory policies on the natural gas market and securities due to the growing concern over global climate change and the focus on reducing greenhouse gas emissions.",
+  "climate_linkage_quotes": [
+    "The issue of global climate change continues to attract considerable public and scientific attention.",
+    "The regulatory focus has resulted in varying regulatory requirements between governmental administrations."
+  ],
+  "checkable_elements": [
+    "EPA's past and current actions related to regulating GHG emissions from natural gas-fired power plants",
+    "Biden administration's approach to these regulatory actions"
+  ],
+  "who": null,
+  "what": null,
+  "where": null,
+  "when": null,
+  "under_which_rule": null,
+  "sought_outcome": null,
+  "evidence_quotes": [
+    "The Affordable Clean Energy Rule was vacated by the United States Court of Appeals for the D.C. Circuit on the last day of the Trump administration in January 2021.",
+    "The Biden administration re-entered the United States in the Paris Climate Accord, and the EPA adopted a new Climate Adaptation Action Plan in October of 2021."
+  ]
+}
+
+============================================================
+ASSISTANT MESSAGE 10
+============================================================
+detailed disclosure

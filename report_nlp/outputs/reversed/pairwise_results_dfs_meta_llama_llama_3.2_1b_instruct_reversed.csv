@@ -1,0 +1,430 @@
+idx_1,idx_2,reasoning,result,model
+1,0,"The structured breakdown provides a clear and detailed description of the potential climate litigation risks faced by the company. The breakdown highlights specific anchors, such as the parties involved (U.S. travelers and the company), the statute/regulatory policy (climate change-related regulations and Fit for 55 package), and the procedural posture (potential for litigation). The breakdown also provides quotes from the text that directly link to climate change-related litigation, such as ""may increase our exposure, if any, to climate change-related litigation"".
+
+The breakdown demonstrates a high level of specificity and detail, making it a detailed disclosure of climate litigation risks.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+2,0,"Based on the structured breakdown, I would choose ""detailed disclosure"" as the specificity label. The breakdown provides a detailed list of specific risks and regulations related to climate change and litigation, including the potential for increased exposure to climate change-related litigation, mandatory disclosure and reporting requirements, and the need to modify itineraries and purchase emission allowances. This level of specificity suggests that the text provides a detailed and nuanced understanding of the potential impacts of climate change-related regulations on the company's business operations.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+3,0,"Based on the breakdown, I choose ""detailed disclosure"" as the specificity label. The breakdown provides a detailed and specific description of the climate litigation, including the parties involved, the case title or docket, the forum or jurisdiction, the statute or policy, the procedural posture, the dates or timeframes, the monetary or quantified amounts, the climate linkage summary, the climate linkage quotes, the checkable elements, the who, the what, the where, the when, the under which rule, the sought outcome, and the evidence quotes.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+4,0,"The structured breakdown provides specific details about the company's exposure to climate-related litigation, including the potential for litigation, climate change-related regulations, and the need to modify itineraries and purchase emission allowances. The breakdown also highlights the company's vulnerability to disruptions and increased costs due to changes in foreign travel policies and climate change-related regulations.
+
+The breakdown is highly specific, providing verbatim snippets from the text, such as ""may increase our exposure, if any, to climate change-related litigation"" and ""climate change-related litigation"". The breakdown also includes checkable elements, such as the company's exposure to climate change-related litigation, which is a direct consequence of the regulations.
+
+The breakdown is detailed and provides a clear understanding of the company's climate-related litigation exposure. Therefore, I choose the label ""detailed disclosure"".
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+5,0,"Based on the provided breakdowns, I would choose to assess the original text as ""climate litigation"" and the text 2 as ""climate litigation"".
+
+The original text explicitly mentions climate change-related regulations, climate-related litigation, and climate-related litigation, which are all specific types of climate litigation. Additionally, the text provides specific details about climate-related regulations, such as the Fit for 55 package and the carbon intensity indicator regulation, which are also specific to climate litigation.
+
+The breakdown for text 2 also meets the criteria for climate litigation, as it mentions climate change-related regulations, climate-related litigation, and climate-related litigation.
+
+Therefore, I would classify the original text as climate litigation, and text 2 as climate litigation.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+6,0,"The breakdown of Text 2 provides a more detailed and specific description of the climate-related risks and uncertainties faced by the company, including the potential for litigation related to climate change. The text also provides more specific information about the regulatory environment, such as the Fit for 55 package and the IMO Sulfur Limit, which is not present in Text 1.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+7,0,"Based on the breakdown, I choose ""detailed disclosure"" as the specificity label. The text provides a detailed description of the potential risks and impacts of climate change-related regulations on the company's business operations, including specific examples of regulations and their potential effects. The text also highlights the potential for litigation related to climate change, which is a key aspect of climate litigation.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+8,0,"Text 1 is more specific than Text 2 because it provides more details about the potential impact of climate change-related regulatory activity on the company's business, including specific regulations such as the European Union's Fit for 55 package and the IMO Sulfur Limit. Text 2, on the other hand, provides more general information about the company's concerns regarding climate change regulations and their potential impact on the natural gas industry.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+9,0,FINAL: text 1,text 1,meta-llama/llama-3.2-1b-instruct
+10,0,"The breakdown of specificity for climate litigation in Text 2 is more detailed and specific than in Text 1, with clear references to climate change-related regulations, litigation, and potential impacts on the company's business operations. The text provides more concrete examples of climate change-related regulations, such as the Fit for 55 package and the carbon intensity indicator regulation, and highlights the potential for litigation related to climate change.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+11,0,"Based on the breakdown, I would choose ""detailed disclosure"" as the specificity label. The breakdown provides a detailed and specific analysis of the text, including the parties involved, the regulatory framework, the potential risks and consequences, and the specific climate-related litigation details.
+
+The breakdown highlights the following specific details:
+
+* Parties involved: U.S. travelers, the company
+* Case title or docket: None specified
+* Forum or jurisdiction: None specified
+* Statute or regulation policy: Climate change-related regulations, Fit for 55 package
+* Procedural posture: Potential for litigation
+* Dates or timeframes: None specified
+* Monetary or quantified: None specified
+* Climate linkage summary: Climate change-related litigation
+* Climate linkage quotes: May increase our exposure, if any, to climate change-related litigation
+* Checkable elements: None specified
+* Who: The company
+* What: Climate change-related litigation
+* Where: None specified
+* When: None specified
+* Under which rule: None specified
+* Sought outcome: None specified
+* Evidence quotes: May increase our exposure, if any, to climate change-related litigation
+
+These details provide a detailed and specific analysis of the text, making it clear that the text is discussing climate change-related litigation and the potential risks and consequences for the company.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+12,0,"The structured breakdown of Text 2 provides a detailed and specific description of the potential impact of climate change-related regulations on the company's business operations, including the specific regulations, potential litigation, and quantified monetary amounts. This level of specificity is characteristic of detailed disclosure in climate litigation.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+13,0,"Text 1 is more specific about climate litigation, mentioning specific lawsuits and regulatory actions, whereas Text 2 is more focused on the company's concerns about climate change regulations and their potential impact on the business.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+14,0,"Text 1 is more specific than Text 2 because it provides more details about the climate litigation, such as the parties involved, the type of lawsuit, and the potential impact on the company's business. Text 2, on the other hand, is more focused on the regulatory environment and the potential impact of climate change on the company's business, but it does not provide specific details about climate litigation.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+2,1,"The text does not provide specific details about climate litigation, such as a clear case title or docket, a specific court or jurisdiction, or a quantified remedy. The text primarily discusses the potential impacts of climate change-related regulatory activity on the company's business and financial results, but does not explicitly state that the company is facing a lawsuit or legal action related to climate change.
+
+FINAL: neither",neither,meta-llama/llama-3.2-1b-instruct
+3,1,"The text does not provide specific details about climate litigation, such as a clear case title or docket, a specific court or jurisdiction, or a quantified remedy. The climate-related risks mentioned are more related to regulatory compliance and risk management, rather than a specific lawsuit or litigation.
+
+FINAL: neither",neither,meta-llama/llama-3.2-1b-instruct
+4,1,"Text 1 has a more detailed breakdown of the regulatory landscape and the potential impact of climate change on the oil and gas industry, including specific mentions of EPA proposed revisions, state-level regulations, and lawsuits filed against oil and gas producers. Text 2, on the other hand, provides more general information about CNX's involvement in climate change lawsuits, but lacks specific details about the lawsuits themselves.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+5,1,FINAL: text 1,text 1,meta-llama/llama-3.2-1b-instruct
+6,1,"The text does not provide specific details about climate litigation, such as a clear case title, parties, or dates. The climate-related risks mentioned are more general and related to regulatory compliance and risk management, rather than specific lawsuits or litigation.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+7,1,FINAL: text 1,text 1,meta-llama/llama-3.2-1b-instruct
+8,1,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, such as the number of lawsuits (four), the parties involved (CNX, communities, and fossil fuel producers), and the forum (courts). Additionally, Text 2 mentions that the lawsuits are ""beginning to gain prevalence in the courts"", which suggests a higher level of specificity and detail.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+9,1,"The text does not provide specific details about climate litigation, such as a clear case title or docket, a specific court or jurisdiction, or a quantified remedy. The climate linkage is general and does not specify a particular claim or action. Therefore, the text does not meet the criteria for climate litigation.
+
+FINAL: neither",neither,meta-llama/llama-3.2-1b-instruct
+10,1,"The text does not provide specific details about climate litigation, but rather mentions climate-related risks and regulatory activities. The breakdown of specificity does not reveal any direct connection to climate litigation.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+11,1,"The provided text does not meet the criteria for climate litigation as it does not explicitly mention lawsuits or legal actions related to climate change. The text primarily discusses potential regulatory risks and compliance issues, but these are not directly related to climate litigation.
+
+FINAL: neither",neither,meta-llama/llama-3.2-1b-instruct
+12,1,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, such as the number of lawsuits, the parties involved, and the forum. Text 1 only mentions the possibility of climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+13,1,"The text does not provide specific details about climate litigation, such as a clear case title or docket, a specific court or jurisdiction, or a quantified remedy. The climate-related risks mentioned are more related to regulatory compliance and risk management, rather than direct climate litigation.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+14,1,"Text 1 has more specific details about the climate litigation, including the number of lawsuits (four) and the fact that they are being pursued by communities against fossil fuel producers. Text 2 also mentions four climate change lawsuits, but lacks the specificity of Text 1 in terms of the parties involved and the context of the lawsuits.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+3,2,"Text 2 provides more specific details about the climate litigation, including the number of lawsuits (four), the parties involved (CNX, communities, and fossil fuel producers), and the forum (courts). Additionally, Text 2 mentions the potential risks and costs associated with defending litigation, which provides more context about the climate litigation.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+4,2,"The breakdown provides a detailed and specific description of the climate litigation risks faced by the cruise industry, including the potential for increased exposure to climate change-related litigation, increased operating costs, and negative publicity. The use of specific regulatory frameworks, such as the Fit for 55 package and the European Union Emission Trading System, adds to the specificity of the disclosure.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+5,2,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, including the number of lawsuits, the parties involved, and the potential impact on the company's financial position. Text 1, on the other hand, only mentions a loss contingency related to the Havana Docks litigation without providing any further details.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+6,2,"The breakdown provides a detailed and specific description of the climate litigation risks faced by the cruise industry, including the potential for increased exposure to climate change-related litigation, increased operating costs, and negative publicity. The use of specific regulatory frameworks, such as the Fit for 55 package and the European Union Emission Trading System, adds to the precision of the disclosure.
+
+The climate linkage is clear and direct, with the text explicitly stating that the company may increase its exposure to climate change-related litigation and that the regulations may have a material adverse effect on its business and financial results.
+
+The falsifiability of the disclosure is also high, with specific dates and regulatory frameworks mentioned, such as the 2024 deadline for purchasing carbon emission allowances.
+
+Finally, the contextual clarity is excellent, with the text clearly stating who is at risk (the cruise industry), what the risks are (climate change-related litigation), and where the risks are occurring (in the affected regions).
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+7,2,"Text 2 is more specific than Text 1 because it provides more precise information about the climate litigation, including the number of lawsuits, the parties involved, and the potential impact on the company's financial position. Text 1, on the other hand, is more general and only mentions the potential risks and challenges related to climate change.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+8,2,"The structured breakdown of Text 2 provides a clear and detailed description of the potential risks and impacts of climate change-related regulatory activity on the cruise industry, including specific regulations, dates, and monetary implications. The breakdown highlights the potential for increased exposure to climate change-related litigation, which is a key aspect of climate litigation. The use of verbatim quotes from the text, such as ""may increase our exposure, if any, to climate change-related litigation"", adds to the specificity and clarity of the breakdown.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+9,2,"Text 2 is more specific than Text 1 because it provides more detailed information about the climate litigation, including the parties involved, the forum, and the procedural posture. Text 2 also mentions specific lawsuits and the potential costs of defending them, which adds to its specificity.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+10,2,"The structured breakdown provides a clear and detailed overview of the climate-related risks and liabilities faced by the company. The anchors, such as the parties involved (cruise industry and environmental groups), the statute/reg policy (Fit for 55 package, European Union Emission Trading System, IMO Sulfur Limit, and carbon intensity indicator regulation), and the dates (2024), are all directly related to climate litigation. The climate linkage summary and quotes also provide a clear indication of the company's exposure to climate change-related litigation. Overall, the breakdown provides a highly specific and detailed view of the company's climate-related risks and liabilities.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+11,2,"Based on the breakdown, I choose ""detailed disclosure"" as the specificity label. The text provides a detailed breakdown of the potential risks and impacts of climate change-related regulatory activity on the cruise industry, including specific examples of regulations, laws, and policies that may affect the company's business and financial results. The text also highlights the potential for increased exposure to climate change-related litigation, which is a key aspect of climate litigation.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+12,2,"The structured breakdown provides a detailed and specific assessment of the climate litigation details in both texts. The breakdown for Text 1 is more comprehensive, with a clear linkage to climate claims, falsifiability, and contextual clarity. The breakdown for Text 2 is more concise, but still provides a good overview of the climate litigation details.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+13,2,"Based on the breakdown, I choose ""detailed disclosure"" as the specificity label. The text provides a detailed description of the potential risks and impacts of climate change-related regulatory activity on the cruise industry, including specific examples of regulations and their potential effects. The text also provides a clear and concise summary of the potential risks, making it a detailed disclosure of climate litigation.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+14,2,"Based on the provided breakdown, I choose:
+
+FINAL: text 1
+
+The text 1 provides a detailed breakdown of the potential impact of climate change-related regulatory activity on the cruise industry, including increased costs, exposure to climate change-related litigation, and reputational impacts. The text also mentions specific regulations, such as the European Union's Fit for 55 package and the IMO Sulfur Limit, which are directly related to climate change. The text provides a clear and detailed analysis of the potential consequences of climate change-related regulatory activity on the cruise industry, making it a highly specific example of climate litigation.",neither,meta-llama/llama-3.2-1b-instruct
+4,3,"The breakdown provides a detailed and specific description of the climate litigation, including the parties involved, the case title or docket, the forum or jurisdiction, the statute or regulation, the procedural posture, the dates or timeframes, and the monetary or quantified amounts. The climate linkage is clearly established through the mention of ""Havana Docks litigation"" and ""climate change"". The falsifiability is also high, as the text provides specific details such as the dates and the parties involved. The contextual clarity is also high, as the text provides a clear description of who is involved, what is being sought, and under which rule.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+5,3,"Based on the provided breakdown, I would choose the following specificity label:
+
+FINAL: detailed disclosure
+
+The text provides a detailed breakdown of the disclosures made by the company in its financial statements, including the specific details of the contingent consideration, contractual accretion requirements, gain and loss recognition, and loss contingency. The text also provides context and explanations for the disclosures, which further supports the notion that the text is a detailed disclosure.",neither,meta-llama/llama-3.2-1b-instruct
+6,3,"Text 1 has more specific details about climate litigation, including the mention of specific regulations, laws, and policies related to climate change, such as the Clean Air Act and the Paris Climate Accord. Additionally, Text 1 provides more context about the procedural posture and the sought outcome of the litigation. In contrast, Text 2 provides more general information about climate litigation and does not offer the same level of specificity as Text 1.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+7,3,"Based on the provided text, I would choose the following specificity label:
+
+FALSIFIABILITY (checkable details: exact court, date, cited rule, quantified remedy, etc.)
+
+The text provides specific details about the accounting treatment for the contingent consideration related to Silversea Cruises, including the exact court, date, and rule cited, which are not generic or vague. For example, the text states that the adjustment was made to exclude the impact of contractual accretion requirements associated with a put option held by a noncontrolling interest, which is a specific and checkable detail. Similarly, the text mentions the net gain recognized in the first quarter of 2021, which is a quantified detail.
+
+Therefore, I would choose the following JSON:
+
+{
+  ""parties"": [
+    ""Havana Docks litigation"",
+    ""Heritage Cruise Holding Ltd."",
+    ""Silversea Cruises Group Ltd."",
+    ""Pullmantur""
+  ],
+  ""case_title_or_docket"": ""Havana Docks litigation"",
+  ""forum_or_jurisdiction"": null,
+  ""statute_reg_policy"": null,
+  ""procedural_posture"": ""loss contingency recorded"",
+  ""dates_or_timeframes"": [
+    ""July 9, 2020"",
+    ""first quarter of 2021""
+  ],
+  ""monetary_or_quantified"": null,
+  ""climate_linkage_summary"": ""ongoing litigation related to the Havana Docks project"",
+  ""climate_linkage_quotes"": [
+    ""Havana Docks litigation""
+  ],
+  ""checkable_elements"": [
+    {
+      ""court"": ""US District Court"",
+      ""date"": ""2020-07-09"",
+      ""cited_rule"": ""Federal Acquisition Regulation (FAR) 41.101"",
+      ""quantified_revenue"": ""$10,000""
+    },
+    {
+      ""court"": ""US District Court"",
+      ""date"": ""2021-01-01"",
+      ""cited_rule"": ""Federal Acquisition Regulation (FAR) 41.101"",
+      ""quantified_revenue"": ""$5,000""
+    }
+  ],
+  ""who"": ""we"",
+  ""what"": ""related legal fees and costs"",
+  ""where"": null,
+  ""when"": null,
+  ""under_which_rule"": null,
+  ""sought_outcome"": null,
+  ""evidence_quotes"": []
+}
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+8,3,"The structured breakdown provides a clear and detailed picture of the climate litigation, including the parties involved, the case title or docket, and the dates and monetary amounts. The linkage to climate claims is evident, as the litigation is related to the ongoing Havana Docks project and the company's loss contingency recorded in connection with it. The falsifiability of the details is also high, as the text provides specific dates and parties involved. The contextual clarity is also clear, as the text provides information on who did what, where, when, and under which rule.
+
+FINAL: text 1",text 2,meta-llama/llama-3.2-1b-instruct
+9,3,"Based on the provided text, I would choose the following specificity label:
+
+FINAL: detailed disclosure
+
+The text provides a detailed breakdown of the accounting adjustments and disclosures made by the company, including the change in the fair value of a contingent consideration, the gain recognized in the first quarter of 2021, and the loss contingency recorded in connection with ongoing litigation. The text also provides specific details about the parties involved, the dates and amounts involved, and the climate linkage and falsifiability of the disclosures.",text 1,meta-llama/llama-3.2-1b-instruct
+10,3,"The breakdown provides a detailed description of the loss contingency recorded in connection with the ongoing Havana Docks litigation, including related legal fees and costs. This level of specificity is characteristic of a detailed disclosure, as it provides a clear and detailed description of the litigation and its potential impact on the company's financial position.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+11,3,"Based on the breakdown, I choose ""detailed disclosure"" as the specificity label. The breakdown provides a detailed and specific description of the climate litigation, including the parties involved, the case title or docket, the forum or jurisdiction, the procedural posture, and the dates or timeframes. The breakdown also highlights the linkage to climate claims, falsifiability, and contextual clarity, making it a detailed and specific description of the climate litigation.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+12,3,"The structured breakdown provides a detailed and specific assessment of the climate litigation details in the two texts. The breakdown highlights the precise information related to climate litigation, including the parties involved, the case title or docket, the forum or jurisdiction, the statute or regulation, the procedural posture, the dates or timeframes, the monetary or quantified amounts, the climate linkage summary, the climate linkage quotes, the checkable elements, the who, the what, the where, the when, the under which rule, the sought outcome, and the evidence quotes.
+
+The breakdown demonstrates a high level of specificity and accuracy in assessing the climate litigation details in both texts. The use of verbatim snippets from the text for the climate linkage quotes and the checkable elements adds to the precision of the breakdown.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+13,3,"Based on the provided text, I would choose the following specificity label:
+
+FINAL: climate litigation
+
+The text mentions specific details about climate-related issues, such as the change in the fair value of a contingent consideration related to Silversea Cruises, the gain recognized in the first quarter of 2021 related to the sale of the Azamara brand, and the ongoing Havana Docks litigation. These details are specific to climate litigation and are not related to other topics.",text 1,meta-llama/llama-3.2-1b-instruct
+14,3,"The breakdown provides a detailed and specific description of the climate litigation related to the Havana Docks project, including the parties involved, the procedural posture, and the dates and monetary amounts. The use of verbatim quotes from the original text adds to the specificity of the breakdown. The focus on the loss contingency recorded in connection with the ongoing litigation provides a clear link to climate change.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+5,4,"The chosen label, **climate_linkage_summary**, is the most specific and directly related to climate claims, as it explicitly mentions ""climate change"" and ""damages caused by climate change"" in the original text.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+6,4,"The breakdown provides a clear and specific description of the climate litigation, including the parties involved, the case title or docket, and the climate linkage summary. The use of verbatim quotes from the original text adds to the specificity of the breakdown.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+7,4,"The chosen label, **climate_linkage_summary**, is the most specific and directly related to climate claims, as it summarizes the climate linkage in the original text.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+8,4,"The chosen label, climate_linkage_summary, is the most specific and directly related to climate claims, as it explicitly mentions ""climate change"" and ""damages caused by climate change"" in the original text.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+9,4,FINAL: text 1,text 1,meta-llama/llama-3.2-1b-instruct
+10,4,"The breakdown provides a clear and concise summary of the climate litigation details, including the parties involved, the case title or docket, and the climate linkage. The use of verbatim snippets from the text, such as ""climate change"" and ""damages caused by climate change"", adds specificity to the breakdown.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+11,4,"The chosen label, **climate_linkage_summary**, is the most specific and directly related to climate claims, as it explicitly mentions ""climate change"" and ""damages caused by climate change"" in the original text.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+12,4,"The chosen label, **climate_linkage_summary**, is the most specific and directly related to climate claims, as it explicitly mentions ""climate change"" and ""damages caused by climate change"" in the original text.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+13,4,FINAL: text 1,text 1,meta-llama/llama-3.2-1b-instruct
+14,4,"The chosen label is highly specific because it directly references the climate change issue at hand, which is a key aspect of climate litigation. The label also accurately reflects the content of the original text, which explicitly mentions climate change and its consequences.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+6,5,"Text 1 is more specific because it provides more detailed information about the regulatory actions related to climate change, including the Clean Air Act, the Paris Climate Accord, and the Inflation Reduction Act. It also mentions specific dates, monetary amounts, and the parties involved.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+7,5,"Based on the breakdown, I choose ""detailed disclosure"" as the specificity label. The breakdown provides a detailed list of specific parties, case title, forum, statute, procedural posture, dates, monetary amounts, climate linkage summary, climate linkage quotes, checkable elements, who, what, where, when, under which rule, sought outcome, and evidence quotes. This level of detail suggests that the text provides a comprehensive and specific disclosure of climate litigation-related information.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+8,5,"The structured breakdown of Text 1 provides a detailed and specific description of the climate-related risks and challenges facing the company, including the potential for increased regulatory scrutiny and litigation related to environmental, health, and community impacts. The breakdown includes specific details such as the parties involved, the statute and regulation policies, and the checkable elements that support the climate linkage. This level of specificity is characteristic of a detailed disclosure.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+9,5,"Based on the breakdown, I choose ""detailed disclosure"" as the specificity label. The text provides a detailed description of the potential risks and challenges facing the company, including specific examples of how climate change and energy transition matters could impact the company's operations and financial performance. The text also mentions specific regulatory scrutiny and litigation related to environmental, health, and community impacts, which provides a high level of specificity.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+10,5,"The structured breakdown provides a detailed analysis of the potential risks and challenges facing the company, including climate-related risks and challenges. The breakdown highlights specific details such as the potential for negative public perception, increased regulatory scrutiny, and permitting issues, which are directly related to climate litigation.
+
+The breakdown also provides a clear linkage to climate claims, including the mention of climate change and energy transition matters, and the potential for increased demands for action and harm to the company's reputation and financial performance.
+
+Overall, the breakdown provides a highly specific analysis of the potential risks and challenges facing the company, particularly in relation to their use of derivatives and their environmental impact.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+11,5,"Based on the structured breakdown, I would choose ""detailed disclosure"" as the specificity label. The breakdown provides a detailed list of specific parties, case titles, forum, statute, procedural posture, dates, monetary amounts, climate linkage, checkable elements, and sought outcome, which indicates a high level of specificity.
+
+Rationale: The breakdown provides a comprehensive list of specific details related to climate litigation, including parties, case titles, forum, statute, procedural posture, dates, monetary amounts, climate linkage, checkable elements, and sought outcome. This level of specificity is characteristic of a detailed disclosure.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+12,5,FINAL: text 1,text 1,meta-llama/llama-3.2-1b-instruct
+13,5,"Based on the breakdown, I choose ""detailed disclosure"" as the specificity label. The breakdown provides a detailed list of specific parties, case titles, forum, statute/reg policy, procedural posture, dates, monetary amounts, climate linkage summary, climate linkage quotes, checkable elements, who, what, where, when, under which rule, sought outcome, and evidence quotes. This level of detail suggests that the text provides a comprehensive and specific disclosure of climate-related risks and challenges facing the company.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+14,5,"The breakdown provides a detailed analysis of the potential risks and challenges facing the company, including climate-related issues. The anchors, such as the parties involved (CNX, investment advisors, sovereign wealth funds, etc.), the dates (24, recent years), and the monetary amounts (significant cash payments, additional volumes), are all directly related to climate litigation. The climate linkage is clear, with the company facing negative public perception, increased regulatory scrutiny, and potential litigation related to environmental, health, and community impacts. The checkable elements, such as the creditworthiness of counterparties and the impact of permit issuance, are also relevant to climate litigation. Overall, the breakdown provides a highly specific and detailed analysis of the company's climate-related risks and challenges.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+7,6,"The breakdown highlights the specific mention of climate change lawsuits in the original text, which is directly related to climate change science, policy, or law. This specificity is evident in the climate linkage summary, which states that climate change lawsuits are gaining prevalence in the courts and could have a significant impact on the company's operations and financial position.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+8,6,"The breakdown highlights the specific mention of climate change lawsuits in the original text, which is directly related to climate litigation. The summary and quotes from the text also reinforce this linkage.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+9,6,"The breakdown highlights the specific mention of climate change lawsuits in the original text, which is directly related to climate change science, policy, or law. This is the most specific and relevant information provided in the text.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+10,6,"The breakdown provides a clear and concise summary of the climate-related information in the original text. The climate linkage summary is the most specific and relevant detail, as it directly relates to climate change lawsuits and their potential impact on the company's operations and financial position.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+11,6,FINAL: text 1,text 1,meta-llama/llama-3.2-1b-instruct
+12,6,"The climate linkage summary is the most specific and directly related to climate litigation, as it explicitly mentions climate change lawsuits and their potential impact on the company's operations and financial position.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+13,6,"The breakdown for Text 2 highlights the specific mention of climate change lawsuits, which is directly related to climate change science, policy, or law. The text provides a clear summary of the climate change lawsuits, including the parties involved, the nature of the lawsuits, and the potential impact on the company's operations and financial position.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+14,6,"The breakdown provides a clear and specific description of the climate change lawsuits, including the parties involved, the procedural posture, and the potential impact on the company's operations and financial position. The use of verbatim quotes from the original text adds to the specificity of the breakdown.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+8,7,"The breakdown of Text 2 provides a detailed and specific description of the climate litigation, including the parties involved, the case title or docket, the forum or jurisdiction, the statute or regulation, the procedural posture, the dates or timeframes, the monetary or quantified amounts, the climate linkage summary, the climate linkage quotes, the checkable elements, the who, the what, the where, the when, the under which rule, the sought outcome, and the evidence quotes. This level of specificity is not present in Text 1, which only mentions the general impact of climate change regulations on the company's business.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+9,7,"Based on the breakdown, I would choose ""detailed disclosure"" as the specificity label. The original text provides a detailed description of the climate litigation, including the number of lawsuits, the parties involved, the procedural posture, and the sought outcome. The text also provides specific quotes and references to support the climate linkage. The summary text, on the other hand, is more general and does not provide the same level of detail.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+10,7,"The text provides a detailed breakdown of the company's potential risks and challenges related to climate change and energy transition, including specific examples of regulatory scrutiny, public perception, and potential litigation. However, the text does not provide exact details on the parties involved, case title or docket, or specific dates.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+11,7,"Based on the breakdown, I would choose ""detailed disclosure"" as the specificity label. The text provides a detailed breakdown of the climate litigation, including specific parties, case title or docket, forum or jurisdiction, statute or regulation, procedural posture, dates, monetary or quantified amounts, climate linkage summary, climate linkage quotes, checkable elements, who, what, where, when, under which rule, sought outcome, and evidence quotes. This level of detail suggests a high level of specificity and clarity in the disclosure of climate litigation.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+12,7,"The structured breakdown of Text 2 provides a detailed and specific description of the climate litigation, including the parties involved, the case title or docket, the forum or jurisdiction, the statute or regulation, the procedural posture, the dates or timeframes, the monetary or quantified amounts, the climate linkage summary, the climate linkage quotes, the checkable elements, the who, the what, the where, the when, the under which rule, the sought outcome, and the evidence quotes.
+
+The specificity of this breakdown is high, as it provides verbatim quotes and specific details about the climate litigation, including the exact number of lawsuits filed and the potential remedies sought. This level of specificity is consistent with a detailed disclosure of climate litigation.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+13,7,"Based on the breakdown, I would choose ""detailed disclosure"" as the specificity label for Text 2. The text provides a detailed description of the lawsuits filed against producers of oil, natural gas, and coal, including the specific consequences of climate change that they are seeking to hold liable, as well as the potential remedies sought by the plaintiffs. This level of detail suggests a high level of specificity and clarity in the disclosure of climate litigation risks.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+14,7,"Text 1 is more specific than Text 2 because it provides more detailed information about the climate change lawsuits, including the fact that CNX is a defendant in four such lawsuits and that they are being pursued by communities against fossil fuel producers. In contrast, Text 2 does not provide any specific information about climate litigation, but rather discusses general risks and challenges related to environmental issues.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+9,8,"The structured breakdown for Text 1 is more specific than Text 2, as it provides more detailed information about the parties involved, the specific regulations and rules mentioned, and the potential outcomes of the litigation. Specifically, Text 1 mentions ""four climate change lawsuits"" and ""climate change lawsuits being pursued by communities against fossil fuel producers"", which provides more concrete information about the climate litigation. In contrast, Text 2 only mentions ""civil litigation and regulatory focus"" and does not provide any specific details about the parties involved or the regulations at issue.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+10,8,"Based on the breakdown, I would choose ""basic disclosure"" as the specificity label. The text provides some general information about the company's concerns related to climate change regulations, but it does not provide specific details about the litigation itself, such as the parties involved, the case title or docket, or the dates of the litigation.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+11,8,"Based on the breakdown, I choose ""detailed disclosure"" as the specificity label. The breakdown provides a high level of detail about the parties involved, the regulatory framework, and the dates and events related to climate change regulations. The anchors are precise, and the climate linkage is clear. The falsifiability is also high, as the text mentions specific regulations and rules. The contextual clarity is also high, as the text provides information about who is involved, where, and when.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+12,8,"Text 2 is more specific than Text 1 because it provides more detailed information about the potential risks and challenges related to climate change, including specific regulations and policies that may impact the company's business and financial results. Additionally, Text 2 mentions the potential for increased exposure to climate change-related litigation, which is a more specific and concrete risk than the general mention of climate change-related risks in Text 1.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+13,8,"Based on the analysis, I would choose:
+
+FINAL: text 1
+
+The text 1 is more specific and directly related to climate litigation, as it mentions ""climate change lawsuits"" and ""climate-related impacts"" in the context of the EPA's regulation of greenhouse gas emissions. The text also mentions ""civil litigation and regulatory focus"" and ""regulatory requirements between governmental administrations"", which are all relevant to climate litigation. Additionally, the text mentions the Inflation Reduction Act (IRA) and the Paris Climate Accord, which are both climate-related legislation.",text 1,meta-llama/llama-3.2-1b-instruct
+14,8,"Based on the provided breakdown, I choose:
+
+FINAL: text 1
+
+The text 1 is more specific and directly related to climate litigation, as it mentions ""climate-related litigation"" and ""regulatory focus on global climate change"", which are key aspects of climate litigation. The text also mentions specific regulations and court cases, such as the Clean Power Plan, Affordable Clean Energy Rule, and the Paris Climate Accord, which are all relevant to climate litigation.",neither,meta-llama/llama-3.2-1b-instruct
+10,9,"The breakdown of Text 2 provides a more detailed and specific description of the climate litigation, including the parties involved, the case title or docket, the forum or jurisdiction, and the statute or policy at issue. The text also provides more specific information about the procedural posture, dates, monetary amounts, and sought outcome.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+11,9,"Based on the breakdown, I would choose ""detailed disclosure"" as the specificity label. The text provides a detailed breakdown of the parties involved, the case title or docket, the forum or jurisdiction, the statute or regulation, the procedural posture, and the climate linkage summary. The text also provides quotes and checkable elements that support the climate linkage. The level of detail and specificity in the text suggests that it is a detailed disclosure of climate litigation.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+12,9,"Based on the provided text, I would choose ""climate litigation"" as the most specific label.
+
+The text explicitly mentions ""climate change lawsuits"" and ""climate change"" as the basis for regulatory approvals, indicating that the text is directly related to climate litigation. Additionally, the text mentions the ""four climate change lawsuits"" being pursued by communities against fossil fuel producers, which further supports the conclusion that the text is climate litigation.
+
+The other options are not as directly related to climate litigation:
+
+* ""Vague disclosure"" refers to the lack of specificity about the text, which is not relevant to climate litigation.
+* ""Basic disclosure"" refers to the general mention of environmental attributes and regulatory requirements, which is not specific to climate litigation.
+* ""Detailed disclosure"" is not explicitly mentioned in the text, and the text does not provide any specific details about climate litigation.
+* ""Highly specific"" is not applicable, as the text does not provide any specific details about climate litigation.
+
+Therefore, the final answer is:
+
+FINAL: climate litigation",text 1,meta-llama/llama-3.2-1b-instruct
+13,9,"Based on the breakdown, I would choose ""detailed disclosure"" as the specificity label for Text 2. The text provides a detailed description of the company's involvement in legal proceedings and investigations, including the specific number of climate change lawsuits it is party to, the potential costs of defending these actions, and the potential impact on its cash flows and financial position. This level of detail suggests a high level of specificity and clarity in the disclosure.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+14,9,"The breakdown of Text 2 provides a detailed description of the legal proceedings and investigations that CNX is involved in, including the specific climate change lawsuits being pursued by communities against fossil fuel producers. This level of detail is characteristic of climate litigation, which often involves specific claims, parties, and outcomes.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+11,10,"The text provides some specific details about climate-related claims, such as the number of lawsuits filed against oil, gas, and coal producers and the types of claims being pursued. However, the details are not precise or verifiable, and the text does not provide enough information to determine the outcome of these lawsuits or the specific remedies being sought.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+12,10,"Text 1 is more specific than Text 2 because it provides more details about the potential risks and challenges related to climate change, including the increasing global regulatory focus on climate change and emissions, and the potential impact on the company's business and financial results. In contrast, Text 2 only mentions climate change as one of the various lawsuits and claims that the company is facing, without providing any further details.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+13,10,"The text provides some specific details about climate-related claims, such as the mention of climate change, environmental violations, and remediation. However, the details are not precise or verifiable, and the text does not provide a clear understanding of the specific claims or the parties involved.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+14,10,"The text provides some specific details about climate-related claims, such as the number of lawsuits filed and the types of claims being pursued. However, the details are not precise or verifiable, and the text does not provide enough information to determine the outcome of the lawsuits or the specific rules being applied.
+
+FINAL: text 2",neither,meta-llama/llama-3.2-1b-instruct
+12,11,"The structured breakdown provides a detailed and specific assessment of the climate litigation details in both texts. The breakdown highlights the precise anchors, climate linkage, falsifiability, and contextual clarity in both texts, demonstrating a high level of specificity.
+
+The detailed disclosure label is chosen because the breakdown provides a comprehensive and detailed analysis of the climate litigation details in both texts, including specific parties, case titles, forums, statutes, procedural postures, dates, monetary amounts, climate linkage summaries, and checkable elements.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+13,11,"Based on the breakdowns, I would choose ""text 2"" as the more specific text.
+
+The text 2 provides a detailed breakdown of the climate litigation, including the number of lawsuits, the types of cases, the climate-related risks, and the potential consequences. It also highlights the increasing focus on environmental sustainability and climate change, which is a key aspect of climate litigation.
+
+In contrast, text 1 provides a more general summary of the climate litigation, but it does not provide as much detail as text 2. While it mentions the number of lawsuits and the types of cases, it does not provide as much context or specificity about the climate-related risks and consequences.
+
+Therefore, I would choose ""text 2"" as the more specific text.",text 1,meta-llama/llama-3.2-1b-instruct
+14,11,"Text 1 is more specific than Text 2 because it provides more detailed information about the climate change lawsuits, including the number of lawsuits (four) and the fact that they are being pursued by communities against fossil fuel producers. In contrast, Text 2 only mentions that there are ""close to two dozen lawsuits"" filed on behalf of various states and municipalities, but does not provide further details.
+
+FINAL: text 1",text 1,meta-llama/llama-3.2-1b-instruct
+13,12,"The detailed disclosure label is chosen because the text provides a high level of specificity about the regulatory actions taken by the US government, including the Clean Air Act, the Paris Climate Accord, and the Inflation Reduction Act, as well as specific dates and monetary amounts. The text also clearly links these regulatory actions to climate change and the natural gas market, providing a high level of contextual clarity.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+14,12,"The breakdown provides a detailed and specific description of the regulatory actions taken by the EPA and the Inflation Reduction Act, including the specific dates, parties involved, and monetary amounts. This level of specificity is characteristic of detailed disclosure in climate litigation.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct
+14,13,"The breakdown of Text 2 is more detailed and specific in relation to climate litigation, as it provides exact dates, parties, and monetary amounts related to climate change lawsuits. The use of verbatim quotes from the original text, such as ""climate change"" and ""climate-related impacts"", also adds to the specificity of the breakdown.
+
+FINAL: text 2",text 2,meta-llama/llama-3.2-1b-instruct

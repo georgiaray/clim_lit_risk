@@ -1,0 +1,319 @@
+
+============================================================
+USER MESSAGE 1
+============================================================
+Summarize the following text: In the event we declare a dividend, we will need to repay amounts deferred under the export credit facilities.
+Compliance and Regulatory Risks
+Changes in U.S. or other countries’ foreign travel policy have affected, and may continue to affect our results of operations.
+Changes in U.S. and other countries' foreign policy have in the past and could in the future result in the imposition of travel restrictions or travel bans on persons to certain countries or result in the imposition of travel advisories, warnings, rules, regulations or legislation exposing us to penalties or claims of monetary damages. In addition, some countries have previously adopted restrictions against U.S. travelers. The timing and scope of these changes and regulations can be unpredictable, and they could cause us to cancel scheduled sailings, possibly on short notice, or could result in litigation against us. This, in turn, could decrease our revenue, increase our operating costs and otherwise impair our profitability.
+Factors associated with climate change, including an increasing global regulatory focus, could adversely affect our business.
+There is increasing global regulatory focus on climate change, greenhouse gas and other emissions. These regulatory efforts, both internationally and in the U.S., are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business. However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has proposed and enacted parts of a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power. Part of the reforms that were enacted includes updates to the European Union Emission Trading System that imposes requirements on us to purchase carbon emission allowances for our qualified emissions beginning in 2024.
+In addition, the U.S.
+
+============================================================
+ASSISTANT MESSAGE 2
+============================================================
+This text discusses several key risks and factors impacting a company's operations, primarily focusing on compliance, regulatory, and environmental aspects. Here's a summary broken down by the main points:
+
+1. **Dividend Declaration and Export Credit Facilities**: If a dividend is declared, the company must repay any deferred amounts under export credit facilities. This indicates a financial obligation tied to specific government-backed loans used for exports.
+
+2. **Compliance and Regulatory Risks**:
+   - **Travel Policy Changes**: Variations in U.S. and international foreign travel policies can impact the company's operations, potentially leading to cancellations, penalties, or litigation due to travel restrictions or advisories.
+   - **Unpredictability**: The timing and extent of these changes are unpredictable, posing significant risks to the company's revenue and profitability.
+
+3. **Climate Change and Environmental Regulations**:
+   - **Increasing Regulatory Focus**: There's a growing global emphasis on addressing climate change, with regulatory efforts still developing both internationally and domestically.
+   - **Potential Impacts**: Future climate change regulations could force the company to reduce emissions, potentially increasing operating costs (e.g., fuel costs). Specific examples include the European Union's Fit for 55 package, which mandates higher use of low-carbon fuels and connectivity to shore power, and updates to the EU Emission Trading System requiring the purchase of carbon emission allowances starting in 2024.
+   
+4. **Additional Considerations**: The text hints at further U.S.-specific regulations not detailed here, suggesting ongoing vigilance is necessary regarding environmental compliance and its financial implications.
+
+Overall, the text highlights significant risks related to travel policies, climate change regulations, and their potential financial impacts on the company's operations and profitability.
+
+============================================================
+USER MESSAGE 3
+============================================================
+Please assess whether the following text is climate litigation.
+
+Previously, someone else extracted all of the sentences from several companies' annual reports that related to climate litigation. Now, we are interested in assessing the specificity of these disclosures.
+
+Now, we are just seeing if you agree with them.
+Climate litigation refers to legal actions that materially concern climate change science, policy, or law. These include, but are not limited to:
+- Lawsuits targeting false or misleading climate claims (e.g. greenwashing)
+- Legal actions over a company’s contribution to climate-related impacts
+- Efforts to force climate alignment through human rights or fiduciary duty arguments
+- Failure to disclose climate-related risks or impacts
+- Breaches of climate-related regulations
+- Litigation seeking damages for harms caused by climate change
+- Legal challenges to regulatory approvals on the basis of climate misalignment
+
+You will be given a summary of the text, as well as the original text.
+Summary: This text discusses several key risks and factors impacting a company's operations, primarily focusing on compliance, regulatory, and environmental aspects. Here's a summary broken down by the main points:
+
+1. **Dividend Declaration and Export Credit Facilities**: If a dividend is declared, the company must repay any deferred amounts under export credit facilities. This indicates a financial obligation tied to specific government-backed loans used for exports.
+
+2. **Compliance and Regulatory Risks**:
+   - **Travel Policy Changes**: Variations in U.S. and international foreign travel policies can impact the company's operations, potentially leading to cancellations, penalties, or litigation due to travel restrictions or advisories.
+   - **Unpredictability**: The timing and extent of these changes are unpredictable, posing significant risks to the company's revenue and profitability.
+
+3. **Climate Change and Environmental Regulations**:
+   - **Increasing Regulatory Focus**: There's a growing global emphasis on addressing climate change, with regulatory efforts still developing both internationally and domestically.
+   - **Potential Impacts**: Future climate change regulations could force the company to reduce emissions, potentially increasing operating costs (e.g., fuel costs). Specific examples include the European Union's Fit for 55 package, which mandates higher use of low-carbon fuels and connectivity to shore power, and updates to the EU Emission Trading System requiring the purchase of carbon emission allowances starting in 2024.
+   
+4. **Additional Considerations**: The text hints at further U.S.-specific regulations not detailed here, suggesting ongoing vigilance is necessary regarding environmental compliance and its financial implications.
+
+Overall, the text highlights significant risks related to travel policies, climate change regulations, and their potential financial impacts on the company's operations and profitability.
+
+Original text: In the event we declare a dividend, we will need to repay amounts deferred under the export credit facilities.
+Compliance and Regulatory Risks
+Changes in U.S. or other countries’ foreign travel policy have affected, and may continue to affect our results of operations.
+Changes in U.S. and other countries' foreign policy have in the past and could in the future result in the imposition of travel restrictions or travel bans on persons to certain countries or result in the imposition of travel advisories, warnings, rules, regulations or legislation exposing us to penalties or claims of monetary damages. In addition, some countries have previously adopted restrictions against U.S. travelers. The timing and scope of these changes and regulations can be unpredictable, and they could cause us to cancel scheduled sailings, possibly on short notice, or could result in litigation against us. This, in turn, could decrease our revenue, increase our operating costs and otherwise impair our profitability.
+Factors associated with climate change, including an increasing global regulatory focus, could adversely affect our business.
+There is increasing global regulatory focus on climate change, greenhouse gas and other emissions. These regulatory efforts, both internationally and in the U.S., are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business. However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has proposed and enacted parts of a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power. Part of the reforms that were enacted includes updates to the European Union Emission Trading System that imposes requirements on us to purchase carbon emission allowances for our qualified emissions beginning in 2024.
+In addition, the U.S.
+
+============================================================
+ASSISTANT MESSAGE 4
+============================================================
+Based on the provided texts and the definition of climate litigation, the summary text does **not** explicitly detail specific instances or examples of climate litigation. Instead, it broadly discusses potential risks and regulatory impacts related to climate change on a company's operations. 
+
+Key points from the summary that relate to climate change but do not constitute specific climate litigation claims include:
+- The increasing regulatory focus on climate change and potential future impacts on the company's business.
+- The need to comply with evolving climate regulations, such as the EU's Fit for 55 package and the Emission Trading System, which may increase operating costs and necessitate changes in operations (e.g., using low-carbon fuels).
+
+While these points indicate that climate change regulations could lead to litigation if the company fails to comply, the summary itself does not describe any actual litigation or legal actions taken or faced by the company. Therefore, based on the provided texts, this summary does not specifically address climate litigation.
+
+============================================================
+USER MESSAGE 5
+============================================================
+For your knowledge, the text was previously classified as follows:
+Summary: This text discusses several key risks and factors impacting a company's operations, primarily focusing on compliance, regulatory, and environmental aspects. Here's a summary broken down by the main points:
+
+1. **Dividend Declaration and Export Credit Facilities**: If a dividend is declared, the company must repay any deferred amounts under export credit facilities. This indicates a financial obligation tied to specific government-backed loans used for exports.
+
+2. **Compliance and Regulatory Risks**:
+   - **Travel Policy Changes**: Variations in U.S. and international foreign travel policies can impact the company's operations, potentially leading to cancellations, penalties, or litigation due to travel restrictions or advisories.
+   - **Unpredictability**: The timing and extent of these changes are unpredictable, posing significant risks to the company's revenue and profitability.
+
+3. **Climate Change and Environmental Regulations**:
+   - **Increasing Regulatory Focus**: There's a growing global emphasis on addressing climate change, with regulatory efforts still developing both internationally and domestically.
+   - **Potential Impacts**: Future climate change regulations could force the company to reduce emissions, potentially increasing operating costs (e.g., fuel costs). Specific examples include the European Union's Fit for 55 package, which mandates higher use of low-carbon fuels and connectivity to shore power, and updates to the EU Emission Trading System requiring the purchase of carbon emission allowances starting in 2024.
+   
+4. **Additional Considerations**: The text hints at further U.S.-specific regulations not detailed here, suggesting ongoing vigilance is necessary regarding environmental compliance and its financial implications.
+
+Overall, the text highlights significant risks related to travel policies, climate change regulations, and their potential financial impacts on the company's operations and profitability.
+
+Original text: In the event we declare a dividend, we will need to repay amounts deferred under the export credit facilities.
+Compliance and Regulatory Risks
+Changes in U.S. or other countries’ foreign travel policy have affected, and may continue to affect our results of operations.
+Changes in U.S. and other countries' foreign policy have in the past and could in the future result in the imposition of travel restrictions or travel bans on persons to certain countries or result in the imposition of travel advisories, warnings, rules, regulations or legislation exposing us to penalties or claims of monetary damages. In addition, some countries have previously adopted restrictions against U.S. travelers. The timing and scope of these changes and regulations can be unpredictable, and they could cause us to cancel scheduled sailings, possibly on short notice, or could result in litigation against us. This, in turn, could decrease our revenue, increase our operating costs and otherwise impair our profitability.
+Factors associated with climate change, including an increasing global regulatory focus, could adversely affect our business.
+There is increasing global regulatory focus on climate change, greenhouse gas and other emissions. These regulatory efforts, both internationally and in the U.S., are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business. However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has proposed and enacted parts of a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power. Part of the reforms that were enacted includes updates to the European Union Emission Trading System that imposes requirements on us to purchase carbon emission allowances for our qualified emissions beginning in 2024.
+In addition, the U.S.
+
+Classification: 1
+Please only respond with an acknowledgement of this information.
+
+============================================================
+ASSISTANT MESSAGE 6
+============================================================
+Acknowledged. The classification provided aligns with the analysis that the text discusses risks and potential impacts related to climate change and environmental regulations, but does not specifically detail climate litigation. Thus, it is classified as **1**, indicating it does not specifically address climate litigation.
+
+============================================================
+USER MESSAGE 7
+============================================================
+Build a concept-specific breakdown of SPECIFICITY for climate litigation.
+Focus on anchors (parties/case/docket, forum/jurisdiction, statute/reg/policy, posture, dates, monetary amounts), climate linkage, falsifiability (checkable details), and contextual clarity (who/what/where/when/under which rule/seeking what).
+
+It is very impotant that you only fill in the following schema with details that are DIRECTLY RELATED to climate litigation. Many text chunks will include details about other climate related regulations, monetary incentives, etc. but ONLY IF the text provides the following details about CLIMATE LITIGATION ITSELF, should you fill them in. Otherwise, they should be given null or empty lists.Summary: This text discusses several key risks and factors impacting a company's operations, primarily focusing on compliance, regulatory, and environmental aspects. Here's a summary broken down by the main points:
+
+1. **Dividend Declaration and Export Credit Facilities**: If a dividend is declared, the company must repay any deferred amounts under export credit facilities. This indicates a financial obligation tied to specific government-backed loans used for exports.
+
+2. **Compliance and Regulatory Risks**:
+   - **Travel Policy Changes**: Variations in U.S. and international foreign travel policies can impact the company's operations, potentially leading to cancellations, penalties, or litigation due to travel restrictions or advisories.
+   - **Unpredictability**: The timing and extent of these changes are unpredictable, posing significant risks to the company's revenue and profitability.
+
+3. **Climate Change and Environmental Regulations**:
+   - **Increasing Regulatory Focus**: There's a growing global emphasis on addressing climate change, with regulatory efforts still developing both internationally and domestically.
+   - **Potential Impacts**: Future climate change regulations could force the company to reduce emissions, potentially increasing operating costs (e.g., fuel costs). Specific examples include the European Union's Fit for 55 package, which mandates higher use of low-carbon fuels and connectivity to shore power, and updates to the EU Emission Trading System requiring the purchase of carbon emission allowances starting in 2024.
+   
+4. **Additional Considerations**: The text hints at further U.S.-specific regulations not detailed here, suggesting ongoing vigilance is necessary regarding environmental compliance and its financial implications.
+
+Overall, the text highlights significant risks related to travel policies, climate change regulations, and their potential financial impacts on the company's operations and profitability.
+
+Original text:
+In the event we declare a dividend, we will need to repay amounts deferred under the export credit facilities.
+Compliance and Regulatory Risks
+Changes in U.S. or other countries’ foreign travel policy have affected, and may continue to affect our results of operations.
+Changes in U.S. and other countries' foreign policy have in the past and could in the future result in the imposition of travel restrictions or travel bans on persons to certain countries or result in the imposition of travel advisories, warnings, rules, regulations or legislation exposing us to penalties or claims of monetary damages. In addition, some countries have previously adopted restrictions against U.S. travelers. The timing and scope of these changes and regulations can be unpredictable, and they could cause us to cancel scheduled sailings, possibly on short notice, or could result in litigation against us. This, in turn, could decrease our revenue, increase our operating costs and otherwise impair our profitability.
+Factors associated with climate change, including an increasing global regulatory focus, could adversely affect our business.
+There is increasing global regulatory focus on climate change, greenhouse gas and other emissions. These regulatory efforts, both internationally and in the U.S., are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business. However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has proposed and enacted parts of a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power. Part of the reforms that were enacted includes updates to the European Union Emission Trading System that imposes requirements on us to purchase carbon emission allowances for our qualified emissions beginning in 2024.
+In addition, the U.S.
+
+
+Return ONLY valid JSON with this exact schema and keys (no code fences, no extra text):
+
+{
+  "parties": [string],
+  "case_title_or_docket": string or null,
+  "forum_or_jurisdiction": string or null,
+  "statute_reg_policy": [string],
+  "procedural_posture": string or null,
+  "dates_or_timeframes": [string],
+  "monetary_or_quantified": [string],
+  "climate_linkage_summary": string,
+  "climate_linkage_quotes": [string],
+  "checkable_elements": [string],
+  "who": string or null,
+  "what": string or null,
+  "where": string or null,
+  "when": string or null,
+  "under_which_rule": string or null,
+  "sought_outcome": string or null,
+  "evidence_quotes": [string]
+}
+
+Rules:
+- Only consider these categories in relation to climate litigation. If there are dates, parties, monetary amounts, etc. that are not related to climate litigation, ignore them.
+- Populate every key. Use [] for unknown lists, and null for unknown single values.
+- Prefer short verbatim snippets from the text for any *quotes* arrays.
+- Do NOT invent details not supported by the text. Ignore specificity about non-climate topics.
+
+
+============================================================
+ASSISTANT MESSAGE 8
+============================================================
+```json
+{
+  "parties": ["we", "the European Union"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": "European Union",
+  "statute_reg_policy": ["Fit for 55 package", "EU Emission Trading System"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["2024"],
+  "monetary_or_quantified": ["require us to increase the use of low carbon fuel", "require us to purchase carbon emission allowances"],
+  "climate_linkage_summary": "Future climate change regulations and EU carbon reforms may require reducing emissions, using low-carbon fuels, and purchasing carbon allowances, increasing operating costs and exposure to litigation.",
+  "climate_linkage_quotes": ["require us to increase the use of low carbon fuel onboard our vessels", "requires us to purchase carbon emission allowances for our qualified emissions beginning in 2024"],
+  "checkable_elements": "regulatory requirements to reduce emissions and purchase carbon allowances",
+  "who": "us (the company)",
+  "what": "reduce emissions, use low-carbon fuels, purchase carbon emission allowances",
+  "where": "onboard our vessels",
+  "when": "beginning in 2024",
+  "under_which_rule": "Fit for 55 package, EU Emission Trading System",
+  "sought_outcome": "Compliance with new emissions reduction and purchasing requirements",
+  "evidence_quotes": ["parts of a series of significant carbon reforms under its Fit for 55 package", "updates to the European Union Emission Trading System"]
+}
+```
+
+============================================================
+USER MESSAGE 9
+============================================================
+The previous JSON output was invalid. Please return ONLY valid JSON that matches the required schema. Fix any syntax errors or missing keys. Do not include explanations, markdown formatting, or additional text.
+
+Previous output:
+```json
+{
+  "parties": ["we", "the European Union"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": "European Union",
+  "statute_reg_policy": ["Fit for 55 package", "EU Emission Trading System"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["2024"],
+  "monetary_or_quantified": ["require us to increase the use of low carbon fuel", "require us to purchase carbon emission allowances"],
+  "climate_linkage_summary": "Future climate change regulations and EU carbon reforms may require reducing emissions, using low-carbon fuels, and purchasing carbon allowances, increasing operating costs and exposure to litigation.",
+  "climate_linkage_quotes": ["require us to increase the use of low carbon fuel onboard our vessels", "requires us to purchase carbon emission allowances for our qualified emissions beginning in 2024"],
+  "checkable_elements": "regulatory requirements to reduce emissions and purchase carbon allowances",
+  "who": "us (the company)",
+  "what": "reduce emissions, use low-carbon fuels, purchase carbon emission allowances",
+  "where": "onboard our vessels",
+  "when": "beginning in 2024",
+  "under_which_rule": "Fit for 55 package, EU Emission Trading System",
+  "sought_outcome": "Compliance with new emissions reduction and purchasing requirements",
+  "evidence_quotes": ["parts of a series of significant carbon reforms under its Fit for 55 package", "updates to the European Union Emission Trading System"]
+}
+```
+
+============================================================
+ASSISTANT MESSAGE 10
+============================================================
+```json
+{
+  "parties": ["we", "European Union"],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": "European Union",
+  "statute_reg_policy": ["Fit for 55 package", "EU Emission Trading System"],
+  "procedural_posture": null,
+  "dates_or_timeframes": ["2024"],
+  "monetary_or_quantified": ["increase the use of low carbon fuel", "purchase carbon emission allowances"],
+  "climate_linkage_summary": "Future regulations may require emissions reduction and low-carbon fuel usage, increasing costs and litigation risk.",
+  "climate_linkage_quotes": ["require us to increase the use of low carbon fuel onboard our vessels", "requires us to purchase carbon emission allowances for our qualified emissions beginning in 2024"],
+  "checkable_elements": "regulatory requirements for emissions reduction and carbon allowance purchases",
+  "who": "we (the company)",
+  "what": "reduce emissions, use low-carbon fuels",
+  "where": "onboard vessels",
+  "when": "beginning in 2024",
+  "under_which_rule": "Fit for 55 package, EU Emission Trading System",
+  "sought_outcome": "Compliance with emissions reduction and carbon allowance purchase mandates",
+  "evidence_quotes": ["require us to increase the use of low carbon fuel onboard our vessels", "requires us to purchase carbon emission allowances for our qualified emissions"]
+}
+```
+
+============================================================
+USER MESSAGE 11
+============================================================
+Given the summary, original text, CL classification, and the structured breakdown, choose ONE specificity label.
+Base your choice on:
+ - PRECISION of anchors (parties/case/docket, forum, statute/reg/policy, posture, dates, monetary/quantified).
+ - LINKAGE to climate claims (not generic legal/ESG talk).
+ - FALSIFIABILITY (checkable details: exact court, date, cited rule, quantified remedy, etc.).
+ - CONTEXTUAL CLARITY (who did what, where, when, under which rule, seeking what outcome).
+Ignore specificity about non-climate and non-litigation topics
+
+Return ONLY one of: not climate litigation, mention only, vague disclosure, basic disclosure, detailed disclosure, highly specific
+
+Summary: This text discusses several key risks and factors impacting a company's operations, primarily focusing on compliance, regulatory, and environmental aspects. Here's a summary broken down by the main points:
+
+1. **Dividend Declaration and Export Credit Facilities**: If a dividend is declared, the company must repay any deferred amounts under export credit facilities. This indicates a financial obligation tied to specific government-backed loans used for exports.
+
+2. **Compliance and Regulatory Risks**:
+   - **Travel Policy Changes**: Variations in U.S. and international foreign travel policies can impact the company's operations, potentially leading to cancellations, penalties, or litigation due to travel restrictions or advisories.
+   - **Unpredictability**: The timing and extent of these changes are unpredictable, posing significant risks to the company's revenue and profitability.
+
+3. **Climate Change and Environmental Regulations**:
+   - **Increasing Regulatory Focus**: There's a growing global emphasis on addressing climate change, with regulatory efforts still developing both internationally and domestically.
+   - **Potential Impacts**: Future climate change regulations could force the company to reduce emissions, potentially increasing operating costs (e.g., fuel costs). Specific examples include the European Union's Fit for 55 package, which mandates higher use of low-carbon fuels and connectivity to shore power, and updates to the EU Emission Trading System requiring the purchase of carbon emission allowances starting in 2024.
+   
+4. **Additional Considerations**: The text hints at further U.S.-specific regulations not detailed here, suggesting ongoing vigilance is necessary regarding environmental compliance and its financial implications.
+
+Overall, the text highlights significant risks related to travel policies, climate change regulations, and their potential financial impacts on the company's operations and profitability.
+Original text: In the event we declare a dividend, we will need to repay amounts deferred under the export credit facilities.
+Compliance and Regulatory Risks
+Changes in U.S. or other countries’ foreign travel policy have affected, and may continue to affect our results of operations.
+Changes in U.S. and other countries' foreign policy have in the past and could in the future result in the imposition of travel restrictions or travel bans on persons to certain countries or result in the imposition of travel advisories, warnings, rules, regulations or legislation exposing us to penalties or claims of monetary damages. In addition, some countries have previously adopted restrictions against U.S. travelers. The timing and scope of these changes and regulations can be unpredictable, and they could cause us to cancel scheduled sailings, possibly on short notice, or could result in litigation against us. This, in turn, could decrease our revenue, increase our operating costs and otherwise impair our profitability.
+Factors associated with climate change, including an increasing global regulatory focus, could adversely affect our business.
+There is increasing global regulatory focus on climate change, greenhouse gas and other emissions. These regulatory efforts, both internationally and in the U.S., are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business. However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation. Such activity may also impact us by increasing our operating costs, including fuel costs. For example, the European Union has proposed and enacted parts of a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals, which would require us, among other things, to increase the use of low carbon fuel onboard our vessels as well as connectivity to shore power. Part of the reforms that were enacted includes updates to the European Union Emission Trading System that imposes requirements on us to purchase carbon emission allowances for our qualified emissions beginning in 2024.
+In addition, the U.S.
+Previously classified as climate litigation? 1
+Breakdown JSON: {
+  "parties": [],
+  "case_title_or_docket": null,
+  "forum_or_jurisdiction": null,
+  "statute_reg_policy": [],
+  "procedural_posture": null,
+  "dates_or_timeframes": [],
+  "monetary_or_quantified": [],
+  "climate_linkage_summary": "",
+  "climate_linkage_quotes": [],
+  "checkable_elements": [],
+  "who": null,
+  "what": null,
+  "where": null,
+  "when": null,
+  "under_which_rule": null,
+  "sought_outcome": null,
+  "evidence_quotes": []
+}
+
+============================================================
+ASSISTANT MESSAGE 12
+============================================================
+Based on the provided breakdown and analysis, the specificity label for the given text regarding climate litigation would be **detailed disclosure**. The text provides specific examples of climate-related regulations (Fit for 55 package, EU Emission Trading System), exact requirements (increase use of low-carbon fuels, purchase carbon emission allowances starting 2024), and the direct impact on the company's operations (modifying itineraries, potential litigation), making it a detailed disclosure of climate litigation risks.

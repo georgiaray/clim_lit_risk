@@ -1,0 +1,318 @@
+idx_1,idx_2,reasoning,result,model
+1,0,"The text provides a general overview of potential impacts and regulatory challenges without specific details on climate litigation cases, making the specificity label **vague disclosure** the most fitting choice.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+2,0,"The text provides a general discussion on potential impacts and regulatory challenges without specific details on climate litigation cases, making the specificity label **vague disclosure** the most fitting choice.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+3,0,"The text provides a general discussion on potential impacts and regulatory challenges without specific details on climate litigation cases, making the disclosure vague regarding specific litigation details.
+
+FINAL: vague disclosure",neither,liquid/lfm-7b
+4,0,"The text provides a general overview of potential impacts and regulatory challenges without specific details on climate litigation cases, making the specificity label **vague disclosure** the most fitting choice.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+5,0,"Text 1 provides more specific details about climate litigation, including the parties involved, the forum, and the specific claims being made. In contrast, Text 2 does not provide specific details about climate litigation, but rather discusses regulatory changes and risks related to climate change.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+6,0,"Text 1 provides more specific details about climate litigation, including the potential for climate change-related litigation and the impact of regulatory activity on the company's business and financial results. In contrast, Text 2 does not specifically describe climate litigation, focusing instead on regulatory changes and their potential impact on the natural gas industry.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+7,0,"The text provides a general overview of potential impacts and regulatory challenges without specific details on climate litigation cases, making the specificity label **vague disclosure** the most fitting choice.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+8,0,"Text 1 provides more specific details about climate litigation, including the number of lawsuits, the parties involved, and the specific climate change-related impacts being litigated. In contrast, Text 2 does not specifically describe climate litigation, instead focusing on regulatory changes and risks related to climate change.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+9,0,"Text 1 is more specific in its climate litigation details, as it mentions potential exposure to climate change-related litigation due to future regulations, whereas Text 2 does not specifically describe climate litigation but rather focuses on regulatory changes and their potential impact on the natural gas industry.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+10,0,"The text provides a general discussion on potential impacts and regulatory challenges without specific details on climate litigation cases, making the specificity label **vague disclosure** the most fitting.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+11,0,"The text provides a general overview of potential impacts and regulatory challenges without specific details on climate litigation cases, making the specificity label **vague disclosure** the most fitting choice.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+12,0,"The text provides a general discussion on potential impacts and regulatory challenges without specific details on climate litigation cases, making the specificity label **vague disclosure** the most fitting choice.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+13,0,"Text 1 is more specific in its climate litigation details, as it mentions ""four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change,"" providing a clear and specific example of climate litigation. In contrast, Text 2 does not specifically describe climate litigation but rather focuses on regulatory changes and risks related to climate change.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+14,0,"Text 1 provides more specific details about climate litigation, including the number of lawsuits, the parties involved, and the potential financial impact, whereas Text 2 focuses more on regulatory changes and their potential impact on the natural gas industry without specifically discussing climate litigation.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+2,1,"The text provides specific details about future climate regulations and their direct implications for the company's operations, including quantified requirements and potential litigation, which constitutes a detailed disclosure of climate litigation risks.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+3,1,"The text provides specific details about potential future climate regulations and their direct implications for the company's operations, including specific actions required and potential litigation risks, which qualifies it as a detailed disclosure of climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+4,1,"Rationale: The text explicitly mentions specific climate change regulations and their direct implications for the company's operations, including required actions and potential litigation, which aligns with the definition of detailed disclosure regarding climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+5,1,"The text provides specific details about upcoming regulatory changes related to climate change that directly impact the company's operations and potentially expose it to litigation, thus qualifying as a detailed disclosure of climate litigation risks.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+6,1,"The text provides specific details about upcoming regulatory changes and their direct implications for the company's operations, including potential litigation, which qualifies as a detailed disclosure of climate litigation risks.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+7,1,"The text provides specific details about upcoming regulatory changes related to climate change that directly impact the company's operations and potentially expose it to litigation, thus qualifying as a detailed disclosure of climate litigation risks.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+8,1,"Rationale: The text explicitly mentions specific climate change regulations and their direct implications for the company's operations, including required actions and potential litigation, which qualifies as a detailed disclosure of climate litigation risks.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+9,1,"The text provides specific details about upcoming regulatory changes and their direct implications for the company's operations, including potential litigation, which qualifies as a detailed disclosure of climate litigation specifics.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+10,1,"The text provides specific details about potential future climate regulations and their direct implications for the company's operations, including specific actions required and potential litigation risks, which qualifies it as a detailed disclosure regarding climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+11,1,"The text provides specific details about upcoming regulatory changes and their direct implications for the company's operations, including potential litigation due to climate change regulations. This level of detail regarding climate litigation claims makes it a detailed disclosure.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+12,1,"Rationale: The text explicitly mentions specific climate change regulations and their direct implications for the company's operations, including required actions and potential litigation, which qualifies as a detailed disclosure of climate litigation risks.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+13,1,"The text provides specific details about potential future climate regulations and their direct implications for the company's operations, including specific actions required and potential litigation risks, which qualifies it as a detailed disclosure of climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+14,1,"The breakdown provides specific details about potential future climate regulations and their direct implications for the company's operations, including specific actions required and potential litigation risks, which aligns with the definition of detailed disclosure regarding climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+3,2,"The breakdown provides specific details about future climate regulations and their direct impact on the company's operations, explicitly linking to potential climate change litigation exposure. This level of detail regarding the regulations and their implications for climate litigation qualifies as a **detailed disclosure**.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+4,2,"The structured breakdown provides specific and checkable details directly related to climate litigation, including future regulations, compliance requirements, and quantified operational impacts, making it a detailed disclosure about climate litigation.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+5,2,"The breakdown provides specific details about future climate regulations and their direct impact on the company's operations, explicitly mentioning the potential for climate change litigation. This level of detail regarding the regulations and their implications for climate litigation makes the disclosure **detailed**.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+6,2,"The breakdown provides specific details about future climate regulations and their direct impact on the company's operations, explicitly linking to potential climate change litigation exposure. This level of detail regarding the regulations and their implications for litigation qualifies as **detailed disclosure**.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+7,2,"Rationale: The breakdown provides specific details about future climate regulations and their direct impact on the company's operations, explicitly linking to the potential for climate change litigation. This level of detail regarding checkable elements such as specific regulations, timeframes, and quantified operational impacts aligns with the definition of **detailed disclosure** in the context of climate litigation.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+8,2,"The breakdown provides specific details about future climate regulations directly impacting the company's operations and linking to potential climate change litigation, making it a case of **detailed disclosure**.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+9,2,"The breakdown provides specific details about future climate regulations and their direct impact on the company's operations, explicitly linking to potential climate change litigation exposure. This level of detail regarding the regulations and their implications for litigation qualifies as **detailed disclosure**.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+10,2,"The structured breakdown provides specific and checkable details directly related to climate litigation, including future regulations, compliance costs, and quantified impacts, which aligns with the criteria for detailed disclosure. 
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+11,2,"The breakdown provides specific and checkable details directly related to climate litigation, such as future regulations requiring emission reductions and low-carbon fuel usage, which explicitly link to the potential for climate change litigation exposure. 
+
+FINAL: text 1",text 1,liquid/lfm-7b
+12,2,"Rationale: The breakdown specifies clear anchors directly related to climate litigation, including future regulations, quantified impacts, and specific actions required, which provides detailed information pertinent to climate litigation claims. 
+
+FINAL: text 2",text 2,liquid/lfm-7b
+13,2,"The breakdown provides specific details about future climate regulations and their direct impact on the company's operations, explicitly linking to potential climate change litigation exposure. This level of detail regarding checkable elements such as specific regulations, timeframes, and quantified operational impacts aligns with the criteria for **detailed disclosure** in the context of climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+14,2,"The breakdown provides specific and checkable details directly related to climate litigation, such as future regulations requiring emission reductions and low-carbon fuel usage, which explicitly link to the potential for climate change litigation exposure. This level of detail regarding specific rules, timeframes, and quantified operational impacts meets the criteria for detailed disclosure in the context of climate litigation.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+4,3,"Text 1 provides more specific details about climate litigation, including the mention of lawsuits and claims related to climate change, environmental violations, and governmental regulations. Although the details are not extensive, they are more directly related to climate litigation than the information provided in Text 2, which focuses more on the general risks associated with legislative changes and public perception.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+5,3,"The disclosure mentions a loss contingency related to litigation without specifying the nature of the litigation's connection to climate change, thus lacking the precision required for a climate litigation classification. 
+
+FINAL: text 1",text 1,liquid/lfm-7b
+6,3,"The disclosure mentions a loss contingency related to litigation without specifying the nature of the litigation's connection to climate change, thus lacking the precision required for a detailed climate litigation classification. 
+
+FINAL: text 1",text 1,liquid/lfm-7b
+7,3,"Text 1 provides more specific details about climate litigation, including the parties involved, the nature of the claims, and the sought outcomes, directly related to climate change impacts. In contrast, Text 2 does not specifically address climate litigation but rather discusses broader financial and operational risks, including those related to environmental concerns.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+8,3,"The disclosure mentions a loss contingency related to litigation without specifying the nature of the litigation's connection to climate change, thus lacking the precision required for a climate litigation classification. 
+
+FINAL: text 1",text 1,liquid/lfm-7b
+9,3,"The disclosure mentions a loss contingency related to litigation without specifying the nature of the litigation's connection to climate change, thus lacking the precision required for a detailed climate litigation classification. 
+
+FINAL: text 1",text 1,liquid/lfm-7b
+10,3,"The disclosure indicates a loss contingency related to litigation without specifying the nature of the climate-related claims or providing precise details about the litigation itself, thus it lacks the specificity required to confidently classify it as climate litigation.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+11,3,"The disclosure mentions a loss contingency related to litigation without specifying the nature of the litigation's connection to climate change, thus lacking the precision required for a detailed climate litigation classification. 
+
+FINAL: text 1",text 1,liquid/lfm-7b
+12,3,"The disclosure mentions a loss contingency related to litigation but lacks specific details pertinent to climate litigation such as the nature of the climate claim, the parties involved, the forum, specific dates beyond the litigation's ongoing status, or quantified financial impacts directly tied to climate change. Therefore, it does not meet the precision required for a detailed or highly specific classification.
+
+FINAL: vague disclosure",neither,liquid/lfm-7b
+13,3,"The disclosure mentions a loss contingency related to litigation without specifying the nature of the litigation's connection to climate change, thus lacking the precision required for a detailed climate litigation classification. 
+
+Rationale: The mention of ""loss contingency"" and its relation to ""Havana Docks litigation"" suggests a potential climate-related context, but without explicit details linking it directly to climate change issues, the disclosure remains vague in the context of climate litigation specificity.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+14,3,"The disclosure mentions a loss contingency related to litigation without specifying the nature of the litigation's connection to climate change, thus lacking the precision required for a detailed climate litigation classification. 
+
+FINAL: text 1",text 1,liquid/lfm-7b
+5,4,"Text 1 provides more specific details about climate litigation, including the number of lawsuits filed, the parties involved, and the specific climate-related damages being sought. In contrast, Text 2 only mentions climate change as one of the various matters related to lawsuits and claims, without providing specific details about the litigation itself.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+6,4,"Rationale: The text provides specific and checkable details about lawsuits against oil, gas, and coal producers by states and municipalities for damages related to climate change impacts, which aligns with the definition of climate litigation. It mentions specific parties, sought outcomes (damages for remedial measures), and the legal context (environmental laws and regulations), offering a clear picture of the litigation's nature and scope.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+7,4,"Rationale: The text provides specific and checkable details about climate change litigation, including the parties involved (states, municipalities, oil, gas, and coal producers), the nature of the claims (damages for climate change impacts), the sought outcomes (monetary damages for remedial measures), and the legal basis (environmental laws and regulations). This level of detail aligns with the definition of **detailed disclosure** in the context of climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+8,4,"Text 1 provides more specific details about climate litigation, including the number of lawsuits filed, the parties involved, and the specific climate change-related impacts being sought as damages. In contrast, Text 2 mentions climate change within the context of contingent liabilities but lacks specific details about climate litigation itself.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+9,4,"The text provides specific and checkable details about lawsuits against oil, gas, and coal producers for climate change impacts, directly linking to climate litigation with quantified outcomes sought and legal bases. 
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+10,4,"Rationale: The breakdown specifies detailed information about lawsuits against oil, gas, and coal producers for climate change impacts, including monetary amounts sought and the legal basis under environmental laws, which aligns with the definition of detailed disclosure regarding climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+11,4,"Text 1 is more specific in its climate litigation details, providing a clear linkage to climate change through the mention of greenhouse gas emissions and the regulatory focus on climate change. It also offers more precise anchors, such as the EPA's actions under the Clean Air Act and the Affordable Clean Energy Rule, along with specific dates and monetary amounts related to the Inflation Reduction Act. In contrast, Text 2, while mentioning climate change, does so in a broader context of environmental violations and does not provide the same level of specificity regarding climate litigation.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+12,4,"Rationale: The text provides specific details about lawsuits against oil, gas, and coal producers for climate change impacts, including the parties involved, the nature of damages sought, and the legal grounds under environmental laws, which aligns with detailed disclosure of climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+13,4,"Text 1 provides more specific details about climate litigation, including the mention of ""four climate change lawsuits"" and the parties involved (""communities against fossil fuel producers""), which directly aligns with the definition of climate litigation. In contrast, Text 2 only mentions ""climate change"" within a broader list of potential lawsuits and claims without providing specific details about climate litigation itself.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+14,4,"Rationale: The breakdown provides specific details about lawsuits against oil, gas, and coal producers for climate-related damages, including parties, sought outcomes, and legal basis, which aligns with the definition of detailed disclosure regarding climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+6,5,"Text 2 is more specific in its climate litigation details, providing information on parties involved, specific statutes and policies, procedural posture, and exact dates, as well as a clear summary of the climate linkage and sought outcomes. 
+
+FINAL: text 2",text 2,liquid/lfm-7b
+7,5,"Text 1 and Text 2 both discuss climate litigation, but Text 1 provides more specific details about the lawsuits, such as the parties involved, the nature of the claims, and the sought outcomes. Text 2, while providing some details about the lawsuits, focuses more on the broader context of regulatory changes and state initiatives.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+8,5,"Text 1 provides more specific details about climate litigation, including the number of lawsuits, the parties involved, and the specific climate-related damages being sought. In contrast, Text 2, while providing some details about climate litigation, does not offer the same level of specificity as Text 1.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+9,5,"The text broadly discusses potential legislative impacts and societal pressures without specific references to climate litigation cases or detailed legal actions, making the specificity label **vague disclosure**.
+
+FINAL: vague disclosure",neither,liquid/lfm-7b
+10,5,"Text 1 and Text 2 both provide detailed information about climate litigation, but Text 1 offers slightly more specific details about the lawsuits, such as the number of lawsuits and the specific climate-related damages being sought. Text 2, on the other hand, provides more context about the regulatory environment and the industry's response to climate change concerns.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+11,5,"Text 2 is more specific in its climate litigation details, providing information on parties involved, specific statutes and policies, procedural posture, exact dates, and quantified monetary impacts related to climate litigation. 
+
+FINAL: text 2",text 2,liquid/lfm-7b
+12,5,"Text 2 provides more specific details about climate litigation, including the parties involved, the forum/jurisdiction, the relevant statutes/policies, and the procedural posture. In contrast, Text 1 does not provide any specific details about climate litigation, and the breakdown for Text 1 is mostly empty or null.
+
+FINAL: text 2",text 2,liquid/lfm-7b
+13,5,"Text 2 provides more specific details about climate litigation, including the parties involved, the forum/jurisdiction, and the specific statutes/policies relevant to the lawsuits. Text 1, while mentioning climate change lawsuits, lacks the level of detail provided in Text 2.
+
+FINAL: text 2",text 2,liquid/lfm-7b
+14,5,"Text 1 provides more specific details about the climate litigation, including the number of lawsuits (four climate change lawsuits), the parties involved (communities against fossil fuel producers), and the potential impact on the company's financial position. In contrast, Text 2 provides a broader overview of the legal and environmental challenges facing the oil and natural gas industry, including climate litigation, but lacks specific details about the lawsuits themselves.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+7,6,"Text 1 is more specific in its climate litigation details, providing information about lawsuits filed by states and municipalities against oil, gas, and coal producers, seeking damages for remedial measures to address climate change impacts. This specificity in parties, claims, and sought outcomes makes Text 1 more detailed in its disclosure of climate litigation.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+8,6,"Text 1 provides more specific details about climate litigation, including the number of lawsuits, the parties involved, and the specific climate change-related impacts being litigated. In contrast, Text 2 does not specifically address climate litigation but rather discusses regulatory risks and potential impacts related to climate change.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+9,6,"Text 1 is more specific in its climate litigation details, providing a clearer linkage to climate change regulations and their potential impacts on the company's operations, including specific examples of regulatory requirements and the potential for litigation. Text 2, while mentioning climate change regulations, does not provide the same level of specificity regarding climate litigation.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+10,6,"The breakdown provides specific details about the climate litigation, including the number of lawsuits, the parties involved, and the nature of the claims, making it a detailed disclosure. 
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+11,6,"Text 1 is more specific in its discussion of climate litigation, providing details on the EPA's regulatory actions, the Clean Power Plan, and the Affordable Clean Energy Rule, as well as the Biden administration's climate policies and the Inflation Reduction Act. In contrast, Text 2 does not specifically address climate litigation, instead focusing on the potential impacts of climate change regulations on the company's operations.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+12,6,"Text 1 does not specifically address climate litigation, whereas Text 2, although not directly detailing climate litigation, provides more context and specificity about climate-related regulations and their potential impacts on the company's operations. However, neither text directly addresses climate litigation with the required specificity.
+
+FINAL: neither",neither,liquid/lfm-7b
+13,6,"Text 1 provides more specific details about climate litigation, including the number of lawsuits and the parties involved, whereas Text 2 does not specifically mention climate litigation but rather discusses regulatory risks and potential impacts on the company's operations.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+14,6,"The breakdown provides specific details about the climate litigation, including the number of lawsuits, the parties involved, and the nature of the claims, making it a detailed disclosure about climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+8,7,"Rationale: The breakdown specifies checkable elements such as the number of lawsuits, parties involved, damages sought, and the specific climate-related impacts, indicating detailed information directly relevant to climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+9,7,"The breakdown provides specific and checkable details directly related to climate litigation, including lawsuits filed, damages sought, and regulatory compliance issues, making it a detailed disclosure of climate litigation specifics.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+10,7,"The breakdown provides specific and checkable details directly related to climate litigation, such as the number of lawsuits, parties involved, damages sought, and regulatory context, making it a detailed disclosure about climate litigation.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+11,7,"Rationale: The breakdown specifically mentions ""approximately two dozen lawsuits"" with clear details on who is suing, what they are seeking (monetary damages for climate change impacts), and the context of these claims being related to climate change, which meets the criteria for detailed disclosure in the context of climate litigation.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+12,7,"Text 2 provides more specific details about climate litigation, including the parties involved, the nature of the claims, and the sought outcomes, whereas Text 1 does not provide any specific details about climate litigation. Text 2's breakdown includes more specific information about the lawsuits, such as the consequences of weather-related events and the damages sought for remedial measures.
+
+FINAL: text 2",text 2,liquid/lfm-7b
+13,7,"The breakdown provides specific and checkable details directly related to climate litigation, such as the number of lawsuits, parties involved, damages sought, and regulatory context, making it a detailed disclosure about climate litigation.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+14,7,"The breakdown provides specific and checkable details directly related to climate litigation, such as the number of lawsuits, parties involved, damages sought, and regulatory context, making it highly specific to climate litigation claims.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+9,8,"The text provides specific details about regulatory actions, legislative changes, and their timelines directly impacting the natural gas industry due to climate change concerns, making it detailed disclosure regarding climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+10,8,"The text provides specific information about regulatory actions, legislative changes, and their potential impacts on the company's operations, all directly related to climate change and GHG emissions, which are key elements of climate litigation. This level of detail about the litigation's context and potential outcomes makes it a detailed disclosure.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+11,8,"Rationale: The text provides specific information about regulatory actions, legislative changes, and timelines directly impacting the natural gas industry due to climate change and GHG emissions, which are key elements of climate litigation. This level of detail allows for falsifiability and contextual clarity regarding climate litigation claims.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+12,8,"Rationale: The text provides specific information about regulatory actions, legislative changes, and their timelines directly impacting the natural gas industry due to climate change and GHG emissions, which are key elements of climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+13,8,"Text 1 provides more specific details about climate litigation, including the number of lawsuits (four climate change lawsuits) and the parties involved (communities against fossil fuel producers), whereas Text 2, although discussing climate litigation, does not provide as specific details about the lawsuits themselves. 
+
+FINAL: text 1",text 1,liquid/lfm-7b
+14,8,"The breakdown provides specific details about regulatory actions, legislative changes, and their impacts on the natural gas industry, which are directly related to climate litigation. This level of detail indicates a high specificity regarding climate litigation aspects.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+10,9,"The breakdown provides specific and checkable details about the climate change lawsuits, including the number of lawsuits, the parties involved, and the financial impact, directly relating to climate litigation. This level of detail meets the criteria for **detailed disclosure**.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+11,9,"The breakdown provides specific and checkable details directly related to climate litigation, including the number of lawsuits, the parties involved, and the nature of the claims, which meets the criteria for **detailed disclosure**.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+12,9,"The breakdown provides specific details about the climate change lawsuits, including the number of lawsuits, the parties involved, and the nature of the claims, which directly relates to climate litigation. This level of detail about the litigation itself meets the criteria for **detailed disclosure**.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+13,9,"The breakdown provides specific and checkable details about the climate change lawsuits, including the number of lawsuits, the parties involved, and the financial impact of defending these lawsuits, which directly relates to climate litigation and offers detailed information on this specific topic.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+14,9,"The breakdown provides specific and checkable details about the climate change lawsuits, including the number of lawsuits, the parties involved, and the nature of the claims, which directly relates to climate litigation. This level of detail indicates a high specificity regarding the litigation aspects.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+11,10,"Text 2 is more specific about climate litigation details. It provides information about the parties involved, the nature of the damages sought, and the legal consequences of non-compliance, all directly related to climate claims.
+
+FINAL: text 2",text 2,liquid/lfm-7b
+12,10,"Rationale: The breakdown provides specific financial details and context directly related to climate change litigation, including monetary amounts, specific claims, and accrual of estimated losses, which aligns with the definition of detailed disclosure for climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+13,10,"Rationale: The breakdown provides specific monetary figures, details on the nature of the claims (including climate change), and checkable elements such as accrued estimated losses, indicating a high level of specificity regarding climate litigation.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+14,10,"Rationale: The breakdown provides specific financial details and context directly related to climate litigation, including monetary amounts, nature of claims, and accrual of estimated losses, indicating a high level of specificity regarding climate litigation aspects.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+12,11,"The text provides specific details about climate-related lawsuits, including the parties involved, the nature of damages sought, and the environmental regulations under which these lawsuits are filed, making it a detailed disclosure of climate litigation activities.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+13,11,"Text 1 is more specific because it directly mentions ""four climate change lawsuits"" being pursued by communities against fossil fuel producers, providing a clear and checkable detail about the litigation, its parties, and its current status. In contrast, Text 2 does not specifically address climate litigation but rather discusses broader themes related to climate change, regulatory changes, and their potential impacts on the natural gas market and related securities.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+14,11,"The text provides specific and checkable details directly related to climate litigation, including details about lawsuits, damages sought, and environmental regulations impacting the natural gas industry. This level of specificity meets the criteria for **detailed disclosure**.
+
+FINAL: detailed disclosure",text 1,liquid/lfm-7b
+13,12,"Text 1 is more specific in its climate litigation details, mentioning ""four climate change lawsuits"" and providing some context about the parties involved and the nature of the litigation. In contrast, Text 2 does not provide any specific details about climate litigation, and the breakdown JSON indicates that there is no clear climate linkage or checkable elements related to climate litigation.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+14,12,"The breakdown provides specific details directly related to climate litigation, including exact dates, parties involved in regulatory actions, statutes and policies under which regulations were made or challenged, and quantified monetary amounts for future methane emissions fees. This level of detail indicates a high specificity regarding climate litigation aspects.
+
+FINAL: text 1",text 1,liquid/lfm-7b
+14,13,"Text 1 and Text 2 both discuss climate litigation, but Text 2 provides more context about the lawsuits, including the parties involved and the fact that they are beginning to gain prevalence in the courts. However, both texts lack specific details about the lawsuits, such as the court, dates, or sought outcomes.
+
+FINAL: neither",neither,liquid/lfm-7b

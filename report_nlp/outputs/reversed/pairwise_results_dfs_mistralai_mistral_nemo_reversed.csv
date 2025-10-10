@@ -1,0 +1,312 @@
+idx_1,idx_2,reasoning,result,model
+1,0,"Text 1 provides more specific details about climate litigation, including the parties involved (CNX and communities), the type of lawsuits (climate change lawsuits), and the procedural posture (lawsuits being pursued). Although the details are still limited, Text 1 provides more concrete information about climate litigation compared to Text 2, which does not mention any specific climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+2,0,"**Rationale:** While the text mentions potential exposure to climate change-related litigation due to increasing global regulatory focus, it lacks specific details about any ongoing or anticipated litigation, such as the parties involved, the specific regulations or policies at issue, or the forum where any litigation might occur. The text also does not provide any dates, monetary amounts, or other quantifiable information related to climate litigation.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+3,0,"The text mentions potential exposure to climate change-related litigation in the future due to increasing global regulatory focus on climate change and emissions. However, it does not provide any specific details about the nature of the litigation, the parties involved, the forum, or any other concrete information. Therefore, it is considered a vague disclosure.
+
+FINAL: text 2",neither,mistralai/mistral-nemo
+4,0,"The text mentions potential exposure to climate change-related litigation in the future due to increasing global regulatory focus on climate change and emissions. However, it lacks specific details about any ongoing or planned litigation, such as the parties involved, the specific legal claims, the forums where these cases are being heard, or the exact monetary amounts sought. The text also does not provide enough contextual clarity about who is suing whom, where, and under which specific rules. Therefore, it is considered a vague disclosure.
+
+FINAL: text 2",text 2,mistralai/mistral-nemo
+5,0,"Text 1 provides more specific details about climate litigation, including the number of lawsuits, the parties involved, and the potential impact on the company's financial position. In contrast, Text 2 does not mention any specific climate litigation, but rather discusses regulatory actions and policy changes related to climate change.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+6,0,"**Rationale:** The text mentions potential exposure to ""climate change-related litigation"" in the future due to increasing global regulatory focus on climate change and emissions. However, it lacks specific details about any ongoing or anticipated litigation, such as the parties involved, the forum or jurisdiction, the specific statute or policy at issue, the procedural posture, dates, monetary amounts, or the sought outcome. The climate linkage is present but vague, and there are no checkable elements or contextual clarity regarding who, what, where, when, under which rule, or seeking what outcome. Therefore, the disclosure is vague.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+7,0,"The text mentions potential exposure to climate change-related litigation in the future due to increasing global regulatory focus on climate change and emissions. However, it lacks specific details about any ongoing or upcoming lawsuits, the nature of the litigation, or the parties involved. It also does not provide any dates, monetary amounts, or specific regulations that would be at the heart of such litigation. Therefore, while it acknowledges the possibility of climate change-related litigation, it does not provide enough specific details to be considered a detailed or highly specific disclosure.
+
+FINAL: text 2",neither,mistralai/mistral-nemo
+8,0,"**Rationale:** While the text mentions potential exposure to climate change-related litigation, it does not provide specific details about any ongoing or planned litigation. It only discusses the possibility of such litigation in the future due to increasing regulatory focus on climate change. There are no specific parties, case details, or even a clear indication of when this litigation might occur.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+9,0,"**Rationale:** The text mentions potential exposure to climate change-related litigation due to increasing global regulatory focus on climate change and emissions. However, it lacks specific details about the nature of the litigation, the parties involved, the forum, the relevant statutes or policies, the procedural posture, specific dates, or the sought outcome. The disclosure is too general and lacks checkable details to be considered detailed or highly specific.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+10,0,"The text mentions potential exposure to climate change-related litigation in the future due to increasing global regulatory focus on climate change and emissions. However, it lacks specific details about the nature of the litigation, the parties involved, the forum or jurisdiction, the relevant statutes or regulations, the procedural posture, or the sought outcome. The text also does not provide any checkable elements or falsifiable details related to climate litigation. Therefore, it can be considered a vague disclosure of potential climate change-related litigation.
+
+FINAL: text 2", text 2,mistralai/mistral-nemo
+11,0,"Text 1 is more specific than Text 2 in terms of climate litigation details. Text 1 mentions ""civil litigation and regulatory focus"" related to climate change, while Text 2 only mentions ""civil litigation"" in a general sense. Additionally, Text 1 provides more specific details about the regulatory actions taken by the EPA, including the Clean Power Plan and the Affordable Clean Energy Rule.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+12,0,"**Rationale:** The text mentions potential exposure to climate change-related litigation due to increasing global regulatory focus on climate change and emissions. However, it lacks specific details about any ongoing or anticipated litigation, such as the parties involved, the forum or jurisdiction, the specific statute or policy at issue, the procedural posture, or the sought outcome. The text also does not provide any dates, monetary amounts, or checkable details related to climate litigation. Therefore, while it acknowledges the potential for climate change-related litigation, it does not provide sufficient specificity to classify it as anything more than a vague disclosure.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+13,0,"**Rationale:** While the text mentions potential exposure to climate change-related litigation, it lacks specific details about the nature of the litigation, the parties involved, the forum, or any specific regulations or policies at play. It also does not provide any dates, monetary amounts, or clear evidence of climate linkage. Therefore, the disclosure is vague and lacks the precision needed for a detailed or highly specific label.
+
+**FINAL:** text 2",text 2,mistralai/mistral-nemo
+14,0,"**Rationale:** The text mentions potential exposure to climate change-related litigation in the future due to increasing regulatory focus, but it lacks specific details about any ongoing or impending litigation. It does not provide any anchors like case titles, docket numbers, forums, or specific regulations, and it does not offer enough contextual clarity or falsifiable details to warrant a higher specificity label.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+2,1,"**Rationale:** Both texts discuss potential impacts of climate change regulations and mention the possibility of increased litigation exposure. However, neither text provides specific details about any ongoing or anticipated climate litigation. They lack concrete information about parties involved, specific cases, forums, dates, or monetary amounts related to climate litigation. While Text 2 provides slightly more detail about a specific regulatory requirement (purchasing carbon emission allowances in 2024 under the EU ETS), it still does not link this to any specific litigation.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+3,1,"Text 1 is more specific in its climate litigation details, mentioning ""climate change-related litigation"" and providing some context about the potential impact of climate change regulations on the company's business. Text 2, on the other hand, only mentions ""four climate change lawsuits"" without providing any specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+4,1,"**Rationale:** Both texts discuss climate change and its potential impacts on business operations, but neither provides specific details about ongoing or anticipated climate litigation. Text 1 mentions lawsuits against fossil fuel producers, but lacks specific details about the cases, parties involved, or the legal claims. Text 2 discusses potential impacts of climate change regulations and increasing litigation exposure, but does not mention any specific legal actions or details about climate litigation.
+
+**FINAL:** neither",neither,mistralai/mistral-nemo
+5,1,"**Rationale:** Both texts lack specific details about climate litigation, such as parties involved, case titles, forums, or procedural postures. They mention potential impacts of climate change regulations and increasing litigation exposure but do not provide concrete details about any ongoing or anticipated climate litigation. While Text 2 provides more specific details about climate regulations and their impacts, it still does not discuss any specific climate litigation.
+
+**FINAL:** neither",neither,mistralai/mistral-nemo
+6,1,"Text 1 provides more specific details about the climate litigation, including the number of lawsuits, the parties involved, and the sought outcome. In contrast, Text 2 only mentions ""four climate change lawsuits"" without providing any specific details. Therefore, Text 1 is more specific.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+7,1,"Rationale: Both texts lack specific details about climate litigation, such as case titles, docket numbers, specific regulations breached, or any concrete details about ongoing or anticipated lawsuits. While they mention potential impacts of climate change regulations and increasing litigation exposure, they do not provide enough specific details to be considered detailed or highly specific disclosures of climate litigation.
+
+FINAL: neither",neither,mistralai/mistral-nemo
+8,1,"**Rationale:** Both texts discuss potential legal, environmental, and regulatory risks, but neither provides specific details about ongoing or anticipated climate litigation. While Text 2 mentions potential impacts of climate change regulations and increasing litigation exposure, it lacks concrete details about any legal actions. Text 1, on the other hand, does not even hint at any climate litigation.
+
+**FINAL:** neither",neither,mistralai/mistral-nemo
+9,1,"**Rationale:** Text 2 discusses potential impacts of climate change regulations and increasing litigation exposure but lacks specific details about any ongoing or anticipated climate litigation. It mentions the European Union Emission Trading System and carbon emission allowance requirements starting in 2024, but these are regulatory requirements rather than specific climate litigation details.
+
+**FINAL:** text 2",text 2,mistralai/mistral-nemo
+10,1,"Text 1 provides more specific details about climate litigation, including the parties involved, the consequences of weather-related events, and the sought outcome of money damages for remedial measures. In contrast, Text 2 only mentions ""four climate change lawsuits"" without providing any specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+11,1,"**Rationale:** Text 2 discusses potential impacts of climate change regulations and increasing litigation exposure but lacks specific details about any ongoing or anticipated climate litigation. It does not mention any specific parties, case titles, forums, or procedural postures, and the dates and monetary amounts are general and not tied to any specific litigation. While there is climate linkage, it is not concrete enough to pinpoint any legal actions.
+
+**FINAL:** text 2",text 2,mistralai/mistral-nemo
+12,1,"Rationale: Both texts discuss potential impacts of climate change regulations and mention increasing litigation exposure, but neither provides specific details about any ongoing or anticipated climate litigation. Text 1 discusses regulatory actions related to GHG emissions, while Text 2 mentions potential impacts of climate change regulations and increasing litigation exposure. However, neither text provides concrete details about any legal actions, parties involved, or specific climate claims.
+
+FINAL: neither",neither,mistralai/mistral-nemo
+13,1,"Text 2 provides more specific information about climate litigation, including the number of lawsuits and the parties involved, whereas Text 1 only mentions climate change as one of the matters related to lawsuits and claims without providing further details. 
+
+FINAL: text 2",text 2,mistralai/mistral-nemo
+14,1,"**Rationale:** Both texts discuss climate change regulations and potential impacts, but neither provides specific details about ongoing or anticipated climate litigation. Text 1 mentions lawsuits but does not link them to climate change, while Text 2 discusses regulatory impacts but lacks specific litigation details.
+
+**FINAL:** neither",neither,mistralai/mistral-nemo
+3,2,"**Rationale:** The text mentions ""climate change-related litigation"" but provides no specific details about any ongoing or potential litigation. It only discusses the potential impact of regulatory activity on the company's business and operations. Therefore, the disclosure is vague and lacks precision regarding climate litigation.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+4,2,"**Rationale:** The text mentions ""may increase our exposure, if any, to climate change-related litigation,"" but it does not provide any specific details about actual or pending litigation. It lacks information about the parties involved, the specific legal claims, the forums where these cases are being heard, or the exact monetary amounts sought. Therefore, while it hints at potential climate litigation, it remains vague and lacks the specificity required for a detailed or highly specific disclosure.
+
+**FINAL:** text 1", text 1,mistralai/mistral-nemo
+5,2,"The text mentions ""climate change-related litigation"" but provides no specific details about any ongoing or potential litigation. It only discusses the potential increase in exposure to such litigation due to regulatory activity. Therefore, it is a vague disclosure. FINAL: text 2",text 2,mistralai/mistral-nemo
+6,2,"**Rationale:** The text mentions ""climate change-related litigation"" but provides no specific details about any actual litigation, such as the parties involved, the forum or jurisdiction, the specific statute or policy at issue, the procedural posture, dates, monetary amounts, or the sought outcome. The climate linkage is present but vague, and there are no checkable elements or contextual clarity regarding who did what, where, when, under which rule, or seeking what outcome.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+7,2,"The text only briefly mentions the potential increase in exposure to climate change-related litigation due to future regulatory activity, without providing any specific details about actual or pending lawsuits. It lacks anchors such as parties, case titles, forums, statutes, dates, or monetary amounts, making it vague and unspecific in relation to climate litigation. Therefore, it can be classified as a vague disclosure.
+
+FINAL: text 2",text 2,mistralai/mistral-nemo
+8,2,"Text 1 provides more specific details about climate litigation, including the number of lawsuits and the parties involved, whereas Text 2 does not mention any specific climate litigation. Although Text 2 mentions potential impacts of climate change regulations and increasing litigation exposure, it lacks concrete details about any legal actions.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+9,2,"**Rationale:** The text only briefly mentions ""climate change-related litigation"" without providing any specific details about the cases, parties involved, or the nature of the litigation. It lacks precision in anchors, climate linkage details, falsifiability, and contextual clarity.
+
+**FINAL:** text 1", text 1,mistralai/mistral-nemo
+10,2,"**Rationale:** The text mentions ""climate change-related litigation"" but provides no specific details about any ongoing or potential litigation. It only discusses the possibility of increased exposure to such litigation due to future regulatory activity. There are no specific anchors (parties, case/docket, forum/jurisdiction, statute/reg/policy, dates, monetary amounts), and no falsifiable details or contextual clarity regarding climate litigation.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+11,2,"**Rationale:** The text mentions ""may increase our exposure, if any, to climate change-related litigation,"" but it does not provide any specific details about actual or pending lawsuits. It lacks anchors such as parties, case titles, forums, statutes, dates, or monetary amounts related to climate litigation. The climate linkage is present but vague, and there are no checkable elements or contextual clarity regarding climate litigation.
+
+**FINAL:** text 1",neither,mistralai/mistral-nemo
+12,2,"Text 1 provides more specific details about climate litigation, including the parties involved, the type of lawsuits, and the potential financial liabilities. In contrast, Text 2 does not mention any specific climate litigation, but rather discusses the potential impacts of climate change regulations on the company's business.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+13,2,"Rationale: The text mentions ""may increase our exposure, if any, to climate change-related litigation,"" but it does not provide any specific details about actual or pending litigation. It is a vague disclosure that does not provide enough information to be considered a detailed or specific climate litigation disclosure.
+
+FINAL: text 1",neither,mistralai/mistral-nemo
+14,2,"**Rationale:** The text only briefly mentions ""climate change-related litigation"" without providing any specific details about the parties involved, the nature of the claims, or the regulatory context. It lacks the precision of anchors, climate linkage quotes, and checkable elements required for a more specific disclosure.
+
+**FINAL:** text 2", text 2,mistralai/mistral-nemo
+4,3,"The text does not provide specific details about climate litigation, such as parties involved, case titles, or procedural postures. It only mentions the potential for climate change-related litigation in a general sense, without providing any concrete information.
+
+FINAL: neither",neither,mistralai/mistral-nemo
+5,3,"**Rationale:** While the text mentions a ""loss contingency"" related to the Havana Docks litigation, it lacks specific details about the climate-related aspects of the case. There are no references to climate change, climate-related impacts, or any climate-specific regulations. The text is too vague to provide any meaningful insight into the climate litigation details.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+6,3,"The text does not provide specific details about climate litigation, such as parties involved, case titles, or procedural postures. It only mentions the potential exposure to climate change-related litigation due to increasing global regulatory focus on climate change and emissions. This lack of specificity makes it a vague disclosure.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+7,3,"Both texts are classified as vague disclosure, but Text 1 provides slightly more specific information about climate change-related litigation, such as the potential increase in exposure to climate change-related litigation and the mention of specific regulations like the European Union Emission Trading System.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+8,3,"**Rationale:** Neither text provides specific details about climate litigation. Text 1 discusses regulatory risks related to climate change but does not mention any specific climate-related lawsuits. Text 2 mentions a loss contingency related to the Havana Docks litigation but does not provide any details about the climate-related aspects of the case. Therefore, neither text can be considered to have a detailed or highly specific disclosure of climate litigation.
+
+**FINAL:** neither",neither,mistralai/mistral-nemo
+9,3,"**Rationale:** Both texts lack specific details about climate litigation. Text 1 mentions ""climate change lawsuits"" but provides no specific details, while Text 2 does not mention climate litigation at all. Therefore, neither text provides highly specific or even detailed disclosure of climate litigation.
+
+**FINAL:** neither",neither,mistralai/mistral-nemo
+10,3,"Text 1 is more specific than Text 2 because it provides more details about the climate litigation, such as the parties involved, the type of lawsuits, and the specific weather-related events being targeted. Text 2, on the other hand, only mentions the possibility of climate change-related litigation in a general sense, without providing any specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+11,3,"The text mentions climate change-related litigation, but it does not provide any specific details about the litigation, such as parties involved, jurisdiction, or procedural posture. The text only mentions that the company may be exposed to climate change-related litigation due to increasing global regulatory focus on climate change and emissions.
+
+FINAL: neither",neither,mistralai/mistral-nemo
+12,3,"Text 1 is more specific than Text 2 because it provides more details about the lawsuits, such as the parties involved, the specific weather-related events, and the sought outcome. Text 2, on the other hand, only mentions the potential for climate change-related litigation without providing any specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+13,3,"**Rationale:** Text 2 does not provide any specific details about climate litigation. It only mentions a ""loss contingency"" related to the ongoing Havana Docks litigation without any climate linkage or specific details. Therefore, it is considered a vague disclosure.
+
+FINAL: text 2",neither,mistralai/mistral-nemo
+14,3,"The text does not provide specific details about climate litigation, such as parties involved, case titles, or procedural postures. It only mentions the potential exposure to climate change-related litigation due to increasing global regulatory focus on climate change and emissions.
+
+FINAL: neither",neither,mistralai/mistral-nemo
+5,4,"**Rationale:** Both texts discuss potential risks and challenges related to climate change and environmental regulations. However, Text 1 focuses more on derivatives legislation risks and negative public perception, while Text 2 emphasizes the growing importance of ESG goals and legal liabilities related to climate change. Text 1 does not explicitly mention climate litigation, while Text 2 does, albeit vaguely.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+6,4,"**Rationale:** Both texts discuss climate change-related lawsuits, but neither provides sufficient specificity about the cases. Text 1 mentions ""four climate change lawsuits"" without details, while Text 2 discusses ""close to two dozen lawsuits"" but lacks specific details about the cases. Neither text provides enough information to identify the parties involved, the specific legal claims, the forums where these cases are being heard, or the exact monetary amounts sought. Therefore, both texts are vague disclosures regarding climate litigation.
+
+**FINAL:** neither",neither,mistralai/mistral-nemo
+7,4,"**Rationale:** Both texts discuss lawsuits related to climate change, but they lack specific details about the cases, such as the names of the parties involved, the specific legal claims, the forums where these cases are being heard, or the exact monetary amounts sought. Text 1 provides more specific details about the number of lawsuits and the types of weather events, but neither text provides enough contextual clarity about who is suing whom, where, and under which specific rules.
+
+**FINAL:** text 1",text 1,mistralai/mistral-nemo
+8,4,"Text 1 is more specific than Text 2 because it provides more details about the climate change lawsuits, such as the number of lawsuits (four) and the fact that they are being pursued by communities against fossil fuel producers. In contrast, Text 2 only mentions that there are ""close to two dozen lawsuits"" filed on behalf of various states and municipalities, but does not provide any further details.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+9,4,"Text 1 is not climate litigation, while Text 2 is. Text 2 provides more specific details about climate change lawsuits, such as the parties involved and the nature of the claims. Therefore, Text 2 is more specific.
+
+FINAL: text 2",text 2,mistralai/mistral-nemo
+10,4,"Text 1 provides more specific details about climate litigation, such as the number of lawsuits filed (close to two dozen) and the specific weather-related events being targeted (rising sea levels, more frequent and severe flooding, storms, and heatwaves). In contrast, Text 2 lacks these specific details and only mentions that there are ongoing lawsuits against oil, natural gas, and coal producers.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+11,4,"Text 1 is more specific than Text 2 in terms of climate litigation details. Text 1 provides more context about the regulatory focus on climate change, the EPA's regulations, and the potential impacts on the company's business. Although Text 2 mentions climate change lawsuits, it lacks specific details about the lawsuits, such as case titles, docket numbers, or forums.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+12,4,"**Rationale:** Both texts discuss regulatory actions and potential liabilities related to climate change, but neither provides specific details about any climate litigation. Text 1 discusses regulatory actions taken by the EPA under different administrations, while Text 2 mentions ongoing lawsuits against fossil fuel producers. However, neither text provides specific details about the cases, such as the names of the parties involved, the specific legal claims, the forums where these cases are being heard, or the exact monetary amounts sought. Therefore, neither text can be considered highly specific in terms of climate litigation disclosure.
+
+**FINAL:** neither",neither,mistralai/mistral-nemo
+13,4,"Text 2 provides more specific details about climate litigation, such as the parties involved, the nature of the claims, and the sought outcome, whereas Text 1 only mentions climate change as one of the matters related to lawsuits and claims without providing any further details.
+
+FINAL: text 2",text 2,mistralai/mistral-nemo
+14,4,"Text 1 does not relate to climate litigation, while Text 2 provides some basic information about climate change lawsuits. Therefore, Text 2 is more specific in terms of climate litigation details.
+
+FINAL: text 2",text 2,mistralai/mistral-nemo
+6,5,"The text briefly mentions environmental issues and climate change in the context of public discourse and investment community attention, but it does not provide specific details about any climate litigation. It lacks anchors (parties, case details, etc.), climate linkage specifics, falsifiable elements, or contextual clarity regarding climate litigation. Therefore, it is only a mention of climate change without providing any litigation details.
+
+FINAL: text 2",neither,mistralai/mistral-nemo
+7,5,"**Rationale:** The text briefly mentions environmental concerns and climate change in public discourse and investment community, but it does not provide specific details about any climate litigation, legal actions, or regulatory challenges related to climate change. It mainly discusses potential risks and challenges stemming from future legislation and public perception related to derivatives and environmental concerns.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+8,5,"The specificity of climate litigation details in Text 2 is similar to Text 1, with both texts lacking specific details about the cases, such as the parties involved, the forum, the relevant statutes or policies, the procedural posture, specific dates, or the sought outcome. However, Text 2 provides slightly more context about the lawsuits, mentioning that they are ""beginning to gain prevalence in the courts"" and that CNX may become involved in future investigations or suits.
+
+FINAL: neither",neither,mistralai/mistral-nemo
+9,5,"**Rationale:** The text briefly mentions growing attention to climate change and environmental issues, but it does not provide specific details about any climate litigation, such as parties involved, specific cases, or legal actions. It is more of a general mention rather than a detailed disclosure.
+
+**FINAL:** text 1",neither,mistralai/mistral-nemo
+10,5,"**Rationale:** The text mentions growing attention to climate change and energy transition matters, but it does not discuss any specific lawsuits, legal actions, or regulatory challenges related to climate change. It also does not provide any details about parties involved, specific regulations, or a timeline for these events.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+11,5,"**Rationale:** The text briefly mentions growing attention to climate change and energy transition matters, but it does not provide specific details about any climate litigation, such as parties involved, case details, or specific legal claims. It only discusses potential impacts on the company's operations and financial results.
+
+**FINAL:** text 1",text 1,mistralai/mistral-nemo
+12,5,"The text mentions environmental issues and climate change, but it does not provide specific details about any climate litigation, such as parties involved, case details, or specific regulations. It primarily discusses potential risks and challenges related to derivatives and public perception. Therefore, it falls under 'mention only'.
+
+FINAL: text 2",neither,mistralai/mistral-nemo
+13,5,"Text 2 is more specific than Text 1 because it provides more details about the climate litigation, such as the number of lawsuits (four), the parties involved (CNX and communities), and the potential impact on CNX's business. Although the specificity is still limited, Text 2 provides more concrete information about the climate litigation than Text 1.
+
+FINAL: text 2",text 2,mistralai/mistral-nemo
+14,5,"The text provides some information about climate change lawsuits, but it lacks specific details about the cases, such as the court, dates, or specific claims. The text also mentions the potential for future investigations or suits, but it does not provide any concrete information about these potential actions.
+
+FINAL: text 2",text 2,mistralai/mistral-nemo
+7,6,"Text 2 provides more specific details about climate litigation, including the number of lawsuits, the parties involved, and the sought outcome. In contrast, Text 1 only mentions the possibility of climate change-related litigation without providing any specific details.
+
+FINAL: text 2",text 2,mistralai/mistral-nemo
+8,6,"Text 1 provides more specific details about climate litigation, including the number of lawsuits (four climate change lawsuits) and the parties involved (CNX and communities). In contrast, Text 2 mentions close to two dozen lawsuits but lacks specific details about the parties, case titles, or docket numbers. Therefore, Text 1 is more specific in its disclosure of climate litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+9,6,"**Rationale:** Both texts mention climate change lawsuits, but they lack specific details about the cases, such as the parties involved, the forum or jurisdiction, the specific statute or policy at issue, the procedural posture, dates, monetary amounts, or the sought outcome. While Text 1 provides a bit more context about the climate change lawsuits, neither text provides enough specific details to be considered detailed or highly specific climate litigation disclosures.
+
+**FINAL:** text 1",text 1,mistralai/mistral-nemo
+10,6,"Rationale: Both texts lack specific details about climate litigation, such as the parties involved, the specific claims, the forum or jurisdiction, the relevant statutes or regulations, the procedural posture, dates, monetary amounts, or the sought outcome. While they both mention climate change lawsuits, they do not provide enough detail to classify them as detailed or highly specific disclosures. Therefore, both texts can be considered vague disclosures.
+
+FINAL: neither",neither,mistralai/mistral-nemo
+11,6,"**Rationale:** While Text 2 mentions climate change lawsuits, it lacks specific details about the cases, such as the parties involved, the forum or jurisdiction, the specific statute or policy at issue, the procedural posture, dates, monetary amounts, or the sought outcome. The climate linkage is present but vague, and there are no checkable elements or contextual clarity regarding who did what, where, when, or under which rule.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+12,6,"Rationale: Both texts lack specific details about climate litigation, such as case titles, docket numbers, specific regulations or policies at issue, procedural postures, dates, monetary amounts, or the sought outcome. While they mention climate change lawsuits, they do not provide enough detail to assess the specificity of the climate litigation disclosures.
+
+FINAL: neither",neither,mistralai/mistral-nemo
+13,6,"**Rationale:** Both texts mention climate change lawsuits, but neither provides specific details about the cases, such as the parties involved, the forum or jurisdiction, the specific statute or policy at issue, the procedural posture, dates, monetary amounts, or the sought outcome. While Text 1 provides a bit more context about the climate change lawsuits, neither text provides enough detail to assess the specificity of climate litigation disclosures.
+
+**FINAL:** neither",neither,mistralai/mistral-nemo
+14,6,"**Rationale:** Both texts mention climate change lawsuits, but neither provides specific details about the cases, such as the parties involved, the forum or jurisdiction, the specific statute or policy at issue, the procedural posture, dates, monetary amounts, or the sought outcome. While Text 1 provides more details about the nature of the lawsuits and their climate linkage, neither text provides enough specificity to be considered anything more than a vague disclosure.
+
+**FINAL:** neither",neither,mistralai/mistral-nemo
+8,7,"Text 1 is more specific than Text 2 because it provides more details about the climate litigation, such as the parties involved (CNX and communities), the procedural posture (plaintiffs pursuing defendants), and the climate linkage (lawsuits brought by communities against fossil fuel producers for their role in climate change). In contrast, Text 2 does not provide any specific details about climate litigation, only mentioning the possibility of increased exposure to climate change-related litigation.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+9,7,"The rationale for choosing ""vague disclosure"" is that the text mentions climate change-related litigation, but does not provide any specific details about the litigation, such as parties involved, jurisdiction, or procedural posture.
+
+FINAL: neither",neither,mistralai/mistral-nemo
+10,7,"The text in Text 2 provides specific details about ongoing lawsuits related to climate change, mentioning the number of lawsuits, the types of weather events, and the sought outcome. While it lacks specific case details, it offers enough information to be considered a detailed disclosure of climate litigation. Text 1, on the other hand, only briefly mentions climate change in the context of lawsuits and claims, without providing specific details.
+
+FINAL: text 2",neither,mistralai/mistral-nemo
+11,7,"Text 1 is more specific than Text 2 because it provides more details about climate change regulations, such as the Clean Air Act, and mentions specific dates and events related to climate change policy. Text 2, on the other hand, only mentions ""climate change-related litigation"" without providing any specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+12,7,"Text 1 is more specific than Text 2 because it provides more details about the lawsuits, such as the parties involved, the specific claims, and the potential outcomes. Text 2, on the other hand, only mentions the possibility of climate change-related litigation without providing any specific details.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+13,7,"**Rationale:** While the text does not provide specific case details, it offers a clear and detailed description of ongoing lawsuits related to climate change, including the number of lawsuits, the types of weather events, and the sought outcome. This level of detail is sufficient to consider it a detailed disclosure of climate litigation.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+14,7,"The first text does not relate to climate litigation, while the second text mentions climate change-related litigation but lacks specific details. However, the second text is more specific in the context of climate litigation due to its mention of climate change-related litigation, even though it is still a vague disclosure.
+
+FINAL: text 2",text 2,mistralai/mistral-nemo
+9,8,"**Rationale:** Both texts discuss climate change and its potential impacts on businesses, but neither provides specific details about ongoing or potential climate-related lawsuits targeting the company or its industry. Text 1 mentions ""climate change lawsuits"" but lacks specific details, while Text 2 does not mention any climate litigation at all. Both texts focus more on regulatory risks and uncertainties related to climate change.
+
+**FINAL:** neither",neither,mistralai/mistral-nemo
+10,8,"Text 1 provides more specific details about climate litigation, including the parties involved, the type of lawsuits, and the sought outcome. In contrast, Text 2 only mentions ""four climate change lawsuits"" without providing any additional details.
+
+FINAL: text 1",text 1,mistralai/mistral-nemo
+11,8,"**Rationale:** Both texts discuss climate change and its potential impacts on the companies' operations and financial condition. However, neither text provides specific details about ongoing or potential climate-related lawsuits targeting the companies or their industries. Text 1 mentions ""lawsuits filed on behalf of various states and municipalities seeking to hold producers... liable for the consequences of certain weather-related events,"" but it lacks specific details about the cases, parties involved, or the legal claims being made. Text 2 discusses regulatory risks and uncertainties related to climate change but does not mention any specific lawsuits. Therefore, neither text provides a detailed or specific disclosure of climate litigation.
+
+**FINAL:** neither",neither,mistralai/mistral-nemo
+12,8,"**Rationale:** The text discusses regulatory risks and uncertainties related to climate change, but it does not provide specific details about any ongoing or potential climate-related lawsuits targeting the company or its industry. While it mentions ""litigation"" in the context of climate change, it does not provide enough specific details to classify it as a detailed or highly specific disclosure of climate litigation.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+13,8,"**Rationale:** The text discusses potential legal, environmental, and regulatory risks that could impact a business, particularly one involved in the natural gas industry. While it mentions ""litigation"" in the context of climate change, it does not provide specific details about any ongoing or potential climate-related lawsuits targeting the company or its industry. The disclosure is more focused on regulatory risks and uncertainties related to climate change, rather than specific climate litigation.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+14,8,"Text 1 does not relate to climate litigation, while Text 2 mentions climate change lawsuits but lacks specific details. However, since Text 2 does mention climate litigation, it is more specific than Text 1.
+
+FINAL: text 2",text 2,mistralai/mistral-nemo
+10,9,"**Rationale:** Both texts mention climate change lawsuits but lack specific details about the cases, such as the parties involved, the forum, the relevant statutes or policies, the procedural posture, specific dates, or the sought outcome. Therefore, neither text provides highly specific or detailed disclosure about climate litigation.
+
+**FINAL:** neither",neither,mistralai/mistral-nemo
+11,9,"**Rationale:** Both texts discuss climate change lawsuits but lack specific details about the cases, such as the parties involved, the forum, the relevant statutes or policies, the procedural posture, specific dates, or the sought outcome. While Text 2 is more explicit in mentioning ""climate change lawsuits,"" neither text provides enough specific details to be considered detailed or highly specific.
+
+**FINAL:** text 1 and text 2",neither,mistralai/mistral-nemo
+12,9,"The text does not provide any specific details about climate litigation, such as parties involved, case titles, or procedural postures. It only mentions general risks and challenges related to environmental concerns and public perception, without linking them to specific climate litigation.
+
+FINAL: neither",neither,mistralai/mistral-nemo
+13,9,"**Rationale:** Both texts mention climate change lawsuits but lack specific details about the cases, such as the parties involved, the forum, the relevant statutes or policies, the procedural posture, specific dates, or the sought outcome. Text 1 provides slightly more detail about the number of lawsuits and their growing prevalence, but neither text provides enough specific details to be considered detailed or highly specific.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+14,9,"The text does not provide any specific details about climate litigation, but it mentions the potential risks and challenges related to environmental concerns and climate change. The breakdown JSON also does not contain any specific information about climate litigation.
+
+FINAL: neither",neither,mistralai/mistral-nemo
+11,10,"Rationale: The text mentions ""climate change"" in the context of lawsuits and claims, but it lacks specific details about the nature of these lawsuits, the parties involved, or the specific climate-related allegations. It does not provide enough information to understand the climate litigation's details, making it a vague disclosure.
+
+FINAL: text 2",neither,mistralai/mistral-nemo
+12,10,"**Rationale:** The text only briefly mentions ""climate change"" as one of the matters related to lawsuits and claims, but it does not provide any specific details about the climate-related litigation. It does not mention any specific parties, cases, or regulations related to climate change. Therefore, the text is too vague to be considered a detailed or specific disclosure of climate litigation.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+13,10,"Text 2 provides more specific details about climate litigation, including the parties involved, the type of lawsuits, and the sought outcome. Although the details are still limited, Text 2 offers more concrete information about climate litigation compared to Text 1.
+
+FINAL: text 2",text 2,mistralai/mistral-nemo
+14,10,"**Rationale:** The text mentions ""climate change"" in the context of lawsuits and claims, but it lacks specific details about the nature of these claims, the parties involved, or any falsifiable details. It is a vague disclosure because it does not provide enough information to understand the climate-related litigation.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+12,11,"The text mentions lawsuits but lacks specific details about the cases, such as the names of the parties involved, the specific legal claims, the courts where the cases are being heard, or the precise remedies sought. Additionally, there are no dates or timeframes provided for the lawsuits, making it difficult to assess their current status or potential impacts on the companies involved. Therefore, the text provides a vague disclosure of climate litigation.
+
+FINAL: text 2",neither,mistralai/mistral-nemo
+13,11,"Rationale: Both texts mention climate change lawsuits, but neither provides sufficient details to identify specific cases, parties involved, or the precise nature of the claims. Text 1 is slightly more specific in mentioning four lawsuits, while text 2 provides a rough estimate of 'close to two dozen' lawsuits. However, neither text provides enough detail to consider the disclosures as highly specific or detailed.
+
+FINAL: Neither",neither,mistralai/mistral-nemo
+14,11,"Text 1 does not mention climate litigation at all, while Text 2 mentions ""litigation"" in the context of climate change but does not provide specific details about any ongoing or potential climate-related lawsuits. However, Text 2 provides more context and information about climate change regulations and their potential impact on the company.
+
+FINAL: text 2",text 2,mistralai/mistral-nemo
+13,12,"**Rationale:** Text 2 discusses regulatory actions related to GHG emissions and climate change but lacks specific details about any climate litigation. It does not mention any specific parties involved in litigation, case titles, forums, or the posture of any litigation. The text primarily focuses on regulatory actions and policy changes, with only vague references to climate litigation.
+
+**FINAL:** text 2",neither,mistralai/mistral-nemo
+14,12,"The text discusses regulatory actions related to GHG emissions and climate change but lacks specific details about any climate litigation. It does not mention any specific parties involved in litigation, case titles, forums, or postures. Additionally, it does not connect these regulatory actions to any specific climate claim or argument, nor does it provide information about who is seeking what outcome under which rule. Therefore, it is a vague disclosure of climate-related regulations rather than a detailed disclosure of climate litigation.",neither,mistralai/mistral-nemo
+14,13,"**Rationale:** The text provides some details about climate change lawsuits involving CNX, but it lacks specific anchors like case titles, docket numbers, forums, or cited statutes. It also does not provide enough contextual clarity or falsifiable details to warrant a higher specificity label.
+
+**FINAL:** text 2", text 2,mistralai/mistral-nemo

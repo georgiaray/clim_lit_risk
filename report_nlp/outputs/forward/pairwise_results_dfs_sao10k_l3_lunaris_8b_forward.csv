@@ -1,0 +1,418 @@
+idx_1,idx_2,reasoning,result,winner_idx
+0,1,"The text contains specific references to climate-related regulations like the EU's Fit for 55 package and the EU Emission Trading System, along with potential future litigation risks stemming from these regulations. It identifies specific regulatory requirements and timelines, demonstrating a level of detail beyond a general discussion of ESG risks.
+
+FINAL: text 1","text 1
+",0.0
+0,2,"The text provides a detailed discussion of potential future regulatory impacts on the company’s operations, specifically focusing on climate change regulations like the Fit for 55 package and the carbon intensity indicator. It outlines specific regulatory requirements (emission reductions, carbon allowances, fuel changes) and potential consequences (increased costs, modified itineraries). The breakdown of specifics – identifying the relevant regulations, the potential for litigation, and the affected parties – demonstrates a high level of detail.
+
+FINAL: text 1","text 1
+",0.0
+0,3,"The provided text details financial adjustments and accounting entries, primarily related to acquisitions, sales, and legal expenses. While it mentions a “loss contingency” linked to litigation, it lacks specifics regarding the nature of the climate-related claims, the legal arguments involved, or any quantifiable damages sought. The disclosures are presented as accounting entries rather than a description of a legal action or a climate-specific legal challenge.
+
+FINAL: text 2","text 2
+",3.0
+0,4,"The breakdown JSON provides a detailed level of specificity, accurately identifying the parties involved (states, municipalities, and CNX), the relevant statute (environmental laws and regulations), and the specific climate-related claims (lawsuits for damages from weather events). It also includes a quantifiable element – the number of lawsuits – and a clear summary of the climate linkage. The checkable elements are also well-defined.
+
+FINAL: text 2","text 2
+",4.0
+0,5,"The text primarily outlines risks related to regulatory changes, public perception, and permitting processes – all concerning environmental and operational challenges, but lacking specific legal claims or disputes directly tied to climate change litigation. While it touches upon climate change as a driver of these risks, it doesn't detail any lawsuits, legal challenges, or regulatory actions specifically targeting the company for its climate impact.
+
+FINAL: text 2","text 2
+",5.0
+0,6,"The breakdown JSON provides specific details regarding the climate litigation aspects of the text, including the parties involved, the nature of the claims (climate change lawsuits), and the increasing prevalence of these cases. The inclusion of “four climate change lawsuits” and the identification of “communities against fossil fuel producers” offers a level of precision beyond a simple “mention” or “vague disclosure.”
+
+FINAL: text 2","text 2
+",6.0
+0,7,"The text provides a detailed breakdown of potential climate litigation risks, specifically referencing ongoing lawsuits seeking damages for climate change impacts and outlining the company’s exposure to environmental regulations. It identifies specific parties involved (states, municipalities, producers), the nature of the legal claims (seeking money damages for climate-related harms), and the relevant legal framework (environmental laws and GHG emissions regulations). The text also includes a specific number of lawsuits (close to two dozen) and details the types of events driving these claims (rising sea levels, flooding, etc.).
+
+FINAL: text 2","text 2
+",7.0
+0,8,"The text details a company’s exposure to various climate-related regulations and potential legal risks stemming from these regulations. It specifically mentions the EPA’s actions, the Inflation Reduction Act, and the potential for decreased demand for natural gas due to these changes. The breakdown of specific statutes, regulations, and dates provides a level of detail beyond a general discussion of climate risk.
+
+FINAL: text 2","text 2
+",8.0
+0,9,"The breakdown JSON provides a good level of detail regarding the climate litigation aspects of the text, specifically identifying the parties involved (CNX and communities), the nature of the legal proceedings (climate change lawsuits), and a timeframe (""beginning to gain prevalence in the courts""). While some elements like forum and statute/reg policy are null, the core climate-related information is present and reasonably specific. The inclusion of the exact number of lawsuits (four) adds a degree of falsifiability.
+
+FINAL: text 2","text 2
+",9.0
+0,10,"The text primarily details financial disclosures – derivative settlements, interest rate swaps, and litigation accruals – without specific details about legal actions directly related to climate change. While “climate change” is mentioned as a topic within the broader litigation category, the disclosure lacks the specific anchors (parties, case details, statutes, quantifiable damages) required for a “detailed disclosure” or “highly specific” assessment. It’s a basic disclosure of potential legal exposure, but not a focused climate litigation disclosure.
+
+FINAL: text 2","text 2
+",10.0
+0,11,"The text provides a detailed breakdown of the legal and environmental risks associated with climate change and regulations impacting the oil and gas industry, specifically highlighting lawsuits seeking damages for climate-related events. It identifies specific regulations (emissions trading, ESG goals, environmental laws), parties involved (states, municipalities, producers), and potential outcomes (money damages). The information is quite specific regarding the types of legal actions and the underlying climate concerns.
+
+FINAL: text 2","text 2
+",11.0
+0,12,"The text outlines a general overview of climate-related regulations and their potential impact, focusing on policy changes and regulatory actions. It identifies key players (EPA, administrations) and specific regulations (Clean Air Act, IRA), but it doesn't delve into any particular legal disputes or lawsuits. The information is descriptive rather than detailed and lacks the specific anchors (dates, parties, monetary amounts) needed for a highly specific assessment.
+
+FINAL: text 2","text 2
+",12.0
+0,13,"The text provides a detailed breakdown of potential legal risks related to climate change lawsuits and debt obligations. It identifies specific parties involved (CNX and communities), quantifies the financial exposure (approximately $2.2 billion in debt), and outlines the nature of the legal proceedings (four climate change lawsuits). The text also includes specific dates (as of December 31, 2023) and references specific debt instruments. This level of detail aligns with the criteria for “detailed disclosure.”
+
+FINAL: text 2","text 2
+",13.0
+0,14,"The text clearly outlines legal challenges related to climate change, specifically lawsuits seeking damages for climate-related harms. It identifies the parties involved (states and municipalities vs. oil/gas producers), the legal basis (climate change damages), and the potential remedies (money damages). The inclusion of specific examples like RGGI and the EPA’s proposed regulations adds a layer of detail.
+
+FINAL: text 2","text 2
+",14.0
+1,2,"The text provides a detailed analysis of potential future climate-related regulatory impacts on a cruise company, outlining specific regulations like the Fit for 55 package and the EU Emission Trading System, alongside other environmental policies. It identifies potential costs, operational changes, and reputational risks. The breakdown of specific regulations, potential dates (2024), and the link to climate change are sufficiently detailed to warrant the ""detailed disclosure"" label.
+
+FINAL: text 2","text 2
+",2.0
+1,3,"The breakdown provides some specific details regarding parties and dates (e.g., July 9, 2020, first quarter of 2021), and identifies a specific legal matter – the Havana Docks litigation. However, it lacks details about the climate-related aspects of the litigation, the specific regulations implicated, or any quantifiable damages or legal arguments related to climate change. The summary focuses on financial adjustments rather than legal claims.
+
+FINAL: text 2","text 2
+",3.0
+1,4,"The text provides a detailed breakdown of climate litigation risks, specifically highlighting ongoing lawsuits against fossil fuel producers for climate-related damages. It identifies the parties involved (states, municipalities, CNX), the legal basis (environmental laws), the nature of the claims (damages for weather events), and the potential outcomes (money damages, remedial measures). The inclusion of the number of lawsuits and specific examples of climate-related events (rising sea levels, flooding) demonstrates a high level of specificity.
+
+FINAL: text 2","text 2
+",4.0
+1,5,"The text primarily outlines risks related to regulatory changes, public perception, and permitting processes, all of which are broadly related to environmental concerns but lack specific legal claims or disputes. It describes potential consequences and challenges rather than detailing any active litigation or legal action.
+
+FINAL: text 2","text 2
+",5.0
+1,6,"The breakdown JSON provides a detailed level of specificity regarding the climate litigation aspects of the text, including identifying the parties involved, the nature of the legal claims (climate change lawsuits), and the relevant regulatory context (climate change). It also includes specific details about the number of lawsuits and the groups involved, which enhances the falsifiability of the disclosure.
+
+FINAL: text 2","text 2
+",6.0
+1,7,"The text contains specific references to ongoing lawsuits seeking to hold oil and gas producers liable for climate change-related damages, alongside details about the regulatory framework driving these legal actions. It identifies specific parties involved (states, municipalities, CNX), the types of regulations at play (GHG emissions, environmental laws), and the nature of the legal claims (seeking money damages for remedial measures). This level of detail, including the number of lawsuits and the specific events cited (rising sea levels, flooding), surpasses a simple mention of climate risk and aligns with the criteria for climate litigation.
+
+FINAL: text 2","text 2
+",7.0
+1,8,"The text details the company’s exposure to various climate-related regulatory risks, including EPA regulations, the Inflation Reduction Act, and the Paris Climate Accord. It outlines specific regulations like the Clean Power Plan, methane emission fees, and PSD permits, along with associated dates and policy changes. While it doesn't describe any specific legal actions or lawsuits, the level of detail regarding the regulatory framework and potential impacts aligns with the criteria for a “detailed disclosure” regarding climate litigation.
+
+FINAL: text 2","text 2
+",8.0
+1,9,"The breakdown JSON provides a good level of detail regarding the climate litigation aspects of the text, specifically identifying the parties involved (CNX and communities), the nature of the legal action (climate change lawsuits), and a timeframe (""beginning to gain prevalence in the courts""). While some elements like forum and statute/reg policy are null, the core climate-related information is present and reasonably specific. The inclusion of the exact number of lawsuits (four) adds a degree of falsifiability.
+
+FINAL: text 2","text 2
+",9.0
+1,10,"The text primarily details financial disclosures, including derivative settlements, interest rate swaps, and litigation accruals. While “climate change” is mentioned as a topic within the broader litigation category, the disclosure lacks specific details about legal claims directly related to climate impacts, policy challenges, or regulatory disputes. It’s a general reference within a larger suite of legal risks, not a focused climate litigation disclosure.
+
+FINAL: text 2","text 2
+",10.0
+1,11,"The text details legal risks associated with climate change, specifically lawsuits seeking damages for climate-related weather events and the potential for increased regulatory burdens. It identifies specific regulations (EU’s Fit for 55 package, EU Emission Trading System) and the parties involved (states, municipalities, oil/gas producers). The existence of “close to two dozen lawsuits” provides a level of falsifiability. The disclosure is highly specific in outlining the legal framework and potential liabilities.
+
+FINAL: text 2","text 2
+",11.0
+1,12,"The text outlines a general overview of climate policy developments and their potential impact, focusing on regulatory changes and policy shifts rather than specific legal actions or disputes. It identifies key regulations and actors involved but lacks the precision and detail required for a ""detailed disclosure"" or ""highly specific"" classification. It doesn't present a concrete legal case or a clearly defined legal challenge.
+
+FINAL: text 2","text 2
+",12.0
+1,13,"The text provides specific details regarding ongoing climate litigation involving CNX, including the number of lawsuits, the parties involved, and the potential financial impact. It also includes quantifiable monetary figures related to the debt obligations. This level of detail aligns with the criteria for “highly specific” disclosure.
+
+FINAL: text 2","text 2
+",13.0
+1,14,"The text details a series of potential legal challenges related to climate change, specifically lawsuits seeking damages for climate-related harms. It identifies the parties involved (states and municipalities vs. oil and gas producers), the legal basis (climate change damages), and the potential outcomes (money damages). The inclusion of specific examples like the RGGI regulation and the lawsuits themselves, along with the proposed EPA rules, demonstrates a level of detail and specificity that goes beyond a general discussion of regulatory risks.
+
+FINAL: text 2","text 2
+",14.0
+2,3,"The breakdown provides some limited details regarding parties and a specific date (July 9, 2020) related to the Havana Docks litigation. However, it lacks specifics about the nature of the litigation, the legal claims involved, or any potential climate-related connection. The information is presented in a very general way, focusing on accounting adjustments rather than legal proceedings.
+
+FINAL: text 2","text 2
+",3.0
+2,4,"The breakdown JSON provides a detailed level of specificity regarding the climate litigation aspects of the text. It identifies the parties involved (states, municipalities, and CNX), the relevant statutes (environmental laws and regulations), the procedural posture (lawsuits seeking damages), and quantifiable elements like the number of lawsuits and the type of damages sought. The climate linkage is clearly articulated through the description of the lawsuits targeting climate change-related events. The checkable elements – the number of lawsuits and the specific events – offer a degree of falsifiability. The contextual clarity is also strong, outlining who is being held liable and for what.
+
+FINAL: text 2","text 2
+",4.0
+2,5,"Text 1 is more specific than Text 2 because it provides more details about the potential climate change-related regulations and their impact on the company's business and financial results. Text 1 also mentions specific regulations, such as the European Union's Fit for 55 package and the IMO Sulfur Limit, which provides more context and clarity. In contrast, Text 2 does not provide any specific details about climate litigation and only mentions a loss contingency related to the Havana Docks litigation, which is not directly related to climate change.
+
+FINAL: text 1",text 1,2.0
+2,6,"The breakdown JSON provides a good level of detail regarding the climate litigation aspects of the text, including the parties involved, the nature of the claims (climate change lawsuits), and some key elements that could be checked for further specificity. While it’s not *highly* specific (e.g., lacking docket numbers or precise court names), it captures the core elements of climate litigation as defined in the prompt. The summary also accurately reflects the climate litigation component.
+
+FINAL: text 2","text 2
+",6.0
+2,7,"The text contains specific details related to ongoing climate litigation, including the number of lawsuits, the parties involved (states, municipalities, producers, CNX), the legal basis (environmental regulations, GHG emissions), and the sought outcome (money damages). The inclusion of specific weather-related events mentioned in the lawsuits adds to the falsifiability of the disclosure. The text clearly outlines the legal posture and the climate linkage.
+
+FINAL: text 2","text 2
+",7.0
+2,8,"The text provides a detailed breakdown of potential climate-related regulatory risks, including specific regulations (Clean Air Act, Paris Accord, IRA), dates, and the potential impact on the company’s operations. It identifies specific EPA actions and legislative developments. While it doesn't present a legal case or litigation, the level of detail regarding the regulatory landscape and potential consequences aligns with the criteria for a “detailed disclosure” regarding climate litigation risks.
+
+FINAL: text 2","text 2
+",8.0
+2,9,"The breakdown JSON provides a good level of detail regarding the climate litigation aspects of the text, specifically identifying the parties involved (CNX and communities), the nature of the legal proceedings (climate change lawsuits), and a key detail about the lawsuits being pursued by communities against fossil fuel producers. The inclusion of “beginning to gain prevalence in the courts” offers a degree of temporal context. While more specific details (like court names or specific regulations) are absent, the level of detail surpasses that of a “basic disclosure” or “mention only” classification.
+
+FINAL: text 2","text 2
+",9.0
+2,10,"The text primarily details financial disclosures, including derivative settlements and interest rate swaps. While it mentions “climate change” as a subject of ongoing litigation, this is presented as a general category of claims alongside other legal matters (personal injury, environmental violations, etc.) without specific details about the climate-related aspects of those lawsuits. The disclosures lack the precision and specific details (parties, dates, statutes, quantifiable impacts) required to classify it as a detailed or highly specific climate litigation disclosure.
+
+FINAL: text 2","text 2
+",10.0
+2,11,"The breakdown JSON accurately captures the key details related to climate litigation within the text, focusing on lawsuits seeking damages for climate change-related events. It includes specific parties involved, relevant statutes and regulations, a procedural posture (seeking damages), and verifiable elements like the number of lawsuits and specific weather events. The climate linkage summary and quotes directly relate to the core climate litigation criteria.
+
+FINAL: text 2","text 2
+",11.0
+2,12,"The text outlines a general landscape of climate regulations and their potential impacts, referencing various policies and administrations. However, it doesn't delve into specific legal actions, lawsuits, or quantifiable damages – key elements that would elevate the disclosure to a more detailed or highly specific level. It primarily describes the *context* of climate policy rather than a particular legal dispute.
+
+FINAL: text 2","text 2
+",12.0
+2,13,"The text provides a detailed disclosure of potential climate-related litigation risks facing CNX, including the number of lawsuits, the parties involved, and the potential financial impact. It includes specific monetary figures related to the company’s debt and the potential costs of defending those lawsuits. The breakdown of anchors (parties, dates, monetary amounts) and the clear climate linkage make this a highly specific disclosure of climate litigation.
+
+FINAL: text 2","text 2
+",13.0
+2,14,"The text clearly outlines potential legal challenges related to climate change, specifically lawsuits seeking damages for climate-related harms. It identifies the parties involved (states and municipalities versus oil/gas producers), the legal basis (climate change damages), and the desired outcome (money damages). The inclusion of specific examples like RGGI and the EPA’s proposed regulations, along with the number of pending lawsuits, demonstrates a level of detail that goes beyond a general discussion of environmental regulations. The text also includes specific climate linkages (sea-level rise, flooding, etc.).
+
+FINAL: text 2","text 2
+",14.0
+3,4,"Text 2 is more specific in its climate litigation assessment. While both texts touch upon legal proceedings, Text 2 provides concrete details regarding the nature of the lawsuits (seeking damages for climate change-related events), the parties involved (states and municipalities), and the specific types of harms being addressed (rising sea levels, flooding, etc.). Text 1’s description of the Havana Docks litigation is vague and lacks the specific climate linkage present in Text 2. The breakdown JSON for Text 2 also demonstrates greater precision in identifying relevant parties, statutes, and checkable elements related to climate litigation.
+
+FINAL: text 2","text 2
+",4.0
+3,5,"The text primarily outlines risks and challenges related to regulatory changes, public perception, and environmental pressures facing the company. While it touches upon climate change and the actions of advocacy groups, it lacks the specific legal claims, parties involved, or quantifiable impacts characteristic of climate litigation. The disclosures are largely focused on operational and financial risks rather than legal disputes.
+
+FINAL: text 2","text 2
+",5.0
+3,6,"The breakdown JSON provides a good level of detail regarding the climate litigation aspects of the text, including the parties involved, the nature of the legal claims (climate change lawsuits), and the specific context of the lawsuits (communities vs. fossil fuel producers). The inclusion of “climate change” as a statute/reg/policy is relevant. While not extremely precise (e.g., lacking specific court names or dates), it’s significantly more specific than a “mention only” or “vague disclosure” assessment. The inclusion of “checkable elements” further strengthens the level of specificity.
+
+FINAL: text 2","text 2
+",6.0
+3,7,"The text contains specific details related to climate litigation through the mention of ongoing lawsuits seeking to hold oil and gas producers liable for climate change-related damages. The breakdown accurately identifies these lawsuits, the parties involved (states, municipalities, producers), and the nature of the claims (seeking money damages for remedial measures). The inclusion of specific events like “rising sea levels and more frequent and severe flooding” adds to the falsifiability of the disclosure.
+
+FINAL: text 2","text 2
+",7.0
+3,8,"The text provides a detailed breakdown of climate-related regulatory risks, including specific regulations (Clean Air Act, Paris Accord, IRA), dates of implementation and proposed changes, and the potential impacts on the company’s operations. It identifies specific legal frameworks and policy developments that are directly relevant to climate litigation and risk assessment. While not a specific legal action, the level of detail regarding the regulatory landscape elevates it beyond a basic disclosure.
+
+FINAL: text 2","text 2
+",8.0
+3,9,"The breakdown provides a reasonably detailed disclosure of the climate litigation aspects within the text. It identifies the key parties involved (CNX and communities), specifies the nature of the litigation (four climate change lawsuits), and highlights the context (pursued by communities against fossil fuel producers). The inclusion of the phrase ""beginning to gain prevalence in the courts"" adds a degree of falsifiability by suggesting a trend. While more specific details (e.g., court names, specific regulations) are absent, the level of detail surpasses that of a basic disclosure.
+
+FINAL: text 2","text 2
+",9.0
+3,10,"Text 2 is more specific in its climate litigation assessment. While both texts identify a lawsuit related to “climate change,” Text 2 explicitly states that CNX is subject to lawsuits and claims *related* to climate change within the broader context of other legal matters (personal injury, environmental, etc.). Text 1 simply notes “climate change” as one of the topics of lawsuits and claims without further elaboration. The breakdown JSON for Text 2 also includes a climate linkage summary and quotes, demonstrating a more focused attempt to identify climate litigation elements.
+
+FINAL: text 2","text 2
+",10.0
+3,11,"The text presents a detailed analysis of legal and environmental risks associated with the oil and gas industry, specifically focusing on climate change litigation. It identifies multiple lawsuits seeking damages, the potential for increased costs due to regulations, and the growing pressure for corporate transparency. The breakdown of specificity highlights key parties involved, relevant statutes, and the nature of the legal claims. This level of detail aligns closely with the definition of climate litigation provided.
+
+FINAL: text 2","text 2
+",11.0
+3,12,"The text primarily describes the evolving regulatory landscape concerning climate change and its potential impacts on the natural gas market. While it references several key pieces of legislation and regulatory actions, it lacks the specific details – such as case names, docket numbers, precise dates of rulings, or quantified damages – that would characterize it as highly specific or detailed climate litigation. The information is presented as a general overview of policy developments rather than a description of a particular legal dispute.
+
+FINAL: text 2","text 2
+",12.0
+3,13,"The text provides a detailed breakdown of specific legal risks related to climate litigation, including the number of lawsuits, the parties involved, and the potential financial impact. It identifies specific debt obligations and their connection to climate-related legal challenges. The inclusion of monetary amounts and dates strengthens the specificity.
+
+FINAL: text 2","text 2
+",13.0
+3,14,"The text contains specific details related to climate litigation, including the existence of lawsuits seeking damages for climate change-related harms, regulatory challenges, and the implementation of emission reduction programs. The breakdown provides information on the parties involved (states, municipalities, and oil/gas producers), the forum (Pennsylvania appellate courts), the relevant regulations (RGGI, EPA standards), and the sought outcome (money damages). The inclusion of specific dates (September 2018, December 2021) and quantifiable elements (nearly two dozen lawsuits, seeking money damages) enhances the specificity.
+
+FINAL: text 2","text 2
+",14.0
+4,5,"The text primarily outlines risks and challenges related to regulatory changes, public perception, and permitting processes – all within the context of a company’s operations and financial performance. While it touches upon environmental concerns and the pressure from advocacy groups, it lacks the specific legal claims, parties involved, or quantifiable damages characteristic of climate litigation. The discussion is largely focused on potential operational and financial consequences rather than legal disputes.
+
+FINAL: text 2","text 2
+",5.0
+4,6,"The breakdown JSON provides a detailed level of specificity regarding the climate litigation aspects of the text. It identifies the parties involved (CNX and communities), the relevant statute (climate change), and specific elements of the lawsuits (relating to natural gas royalties and climate change impacts). The inclusion of “beginning to gain prevalence in the courts” offers a timeframe, and the list of checkable elements provides a solid foundation for further investigation. The summary accurately reflects the core climate litigation claims.
+
+FINAL: text 2","text 2
+",6.0
+4,7,"Text 2 is more specific than Text 1. Text 2 provides concrete details about the lawsuits – “currently close to two dozen lawsuits” – and specifically identifies the types of weather-related events being cited as the basis for liability (“rising sea levels and more frequent and severe flooding, storms and heatwaves”). Text 1 only mentions “close to two dozen lawsuits” without specifying the events. It also lacks the same level of detail regarding the legal arguments and the parties involved.
+
+FINAL: text 2","text 2
+",7.0
+4,8,"Text 2 is a more detailed disclosure regarding climate litigation. While both texts touch upon climate-related risks, Text 2 provides a more specific breakdown of relevant regulations (Clean Air Act, Paris Accord, IRA), dates of key events (2013, 2017, 2019, 2021, 2022, 2024), and specific regulatory frameworks (PSD permits, BACT standards). Text 1 primarily focuses on general environmental liability and broader ESG concerns, lacking the granular detail regarding specific legal and policy developments central to climate litigation.
+
+FINAL: text 2","text 2
+",8.0
+4,9,"The breakdown provides a reasonably detailed disclosure of the climate litigation aspects within the text. It identifies the key parties involved (CNX and communities), the specific nature of the legal action (four climate change lawsuits), and the context of the lawsuits (pursued against fossil fuel producers). While the forum and specific dates are absent, the inclusion of checkable elements like the number of lawsuits and the relationship to climate change enhances the specificity. The climate linkage summary is also quite clear.
+
+FINAL: text 2","text 2
+",9.0
+4,10,"The text provides a general statement that CNX is subject to lawsuits and claims *including* climate change, but lacks specific details about the nature of those claims, the legal actions involved, or any quantifiable impacts. It’s a vague disclosure of a potential risk rather than a detailed account of climate litigation.
+
+FINAL: text 2","text 2
+",10.0
+4,11,"Text 2 is a more detailed disclosure of the climate litigation aspects within the provided text. While both texts touch upon the same core issue – lawsuits related to climate change – Text 2 provides a more granular breakdown of the parties involved (including specific governmental entities and the companies being sued), the nature of the legal actions (seeking money damages for remedial measures), and the specific climate-related events at the heart of the litigation (rising sea levels, flooding, etc.). Text 1 primarily focuses on the broader regulatory context and potential liabilities, lacking the specific details regarding the legal proceedings themselves.
+
+FINAL: text 2","text 2
+",11.0
+4,12,"The text outlines a general landscape of climate policy changes and their potential impacts, focusing on regulatory shifts and policy developments rather than specific legal actions or disputes. While it identifies relevant statutes and dates, it lacks the precision and checkability required for a ""detailed"" or ""highly specific"" classification. The information is presented at a high level, describing trends and potential consequences without delving into the specifics of any particular litigation.
+
+FINAL: text 2","text 2
+",12.0
+4,13,"Text 1 provides more specific details about climate litigation, including the number of lawsuits, the parties involved, and the specific weather-related events being litigated. In contrast, Text 2 only mentions potential litigation and regulatory compliance without providing specific details.
+
+FINAL: text 1",text 1,4.0
+4,14,"Text 2 is a more detailed disclosure regarding climate litigation. It provides specific details about the EPA’s proposed revisions, the RGGI initiative in Pennsylvania, and the legal challenges surrounding it. The breakdown includes specific dates (September 2018, August 2019, August 2020, December 2021), identifies the parties involved (states, municipalities, oil/gas producers), and outlines the procedural posture (pending legal challenges). The climate linkage is clearly articulated through references to specific weather-related events and the pursuit of damages. The falsifiability is enhanced by the mention of specific regulatory initiatives and legal proceedings.
+
+FINAL: text 2","text 2
+",14.0
+5,6,"The breakdown JSON provides a good level of detail regarding the climate litigation aspects of the text, including the parties involved, the nature of the claims (climate change lawsuits), and the increasing prevalence of these cases. The inclusion of specific details like ""four climate change lawsuits"" and ""communities against fossil fuel producers"" elevates the specificity beyond a basic disclosure. While the text doesn't offer precise dates, court names, or quantified damages, it does provide sufficient anchors to classify it as more than just a vague mention of climate risks.
+
+FINAL: text 2","text 2
+",6.0
+5,7,"Text 2 is more specific because it provides more detailed information about the potential climate-related litigation, including the specific regulations that may increase the company's exposure to litigation (EU's Fit for 55 package and EU Emission Trading System). Although it does not provide exact dates, parties, or monetary amounts, it provides more context about the potential litigation and its connection to climate change regulations.
+
+FINAL: text 2",text 2,7.0
+5,8,"The breakdown JSON provides a detailed level of specificity, identifying specific regulations (Clean Air Act, Paris Accord, IRA), dates, and policy changes related to climate change. It also lists specific EPA programs like PSD and Title V permits. This level of detail aligns with the criteria for a ""detailed disclosure"" label, as it includes verifiable elements and a clear understanding of the relevant legal and regulatory framework.
+
+FINAL: text 2","text 2
+",8.0
+5,9,"The breakdown JSON provides a good level of detail regarding the climate litigation aspects of the text, including specific parties involved (CNX and communities), the nature of the legal action (climate change lawsuits), and a timeframe (""beginning to gain prevalence in the courts""). The inclusion of specific details like ""pursued by communities against fossil fuel producers relating to climate change"" enhances the falsifiability of the disclosure. While not *highly* specific (e.g., lacking court names or specific legal claims), it surpasses a basic disclosure by providing more concrete information about the litigation.
+
+FINAL: text 2","text 2
+",9.0
+5,10,"The text primarily details financial disclosures, including derivative settlements, interest rate swaps, and litigation accruals. While it mentions ""climate change"" as a subject of ongoing lawsuits, the disclosures lack specific details about legal claims, parties involved, or the nature of the climate-related legal action. It’s a vague reference within a broader set of legal claims.
+
+FINAL: text 2","text 2
+",10.0
+5,11,"Text 1 does not contain any climate litigation details, while Text 2 provides some basic information about climate-related regulatory actions and policy shifts. However, neither text provides highly specific or detailed information about climate litigation.
+
+FINAL: neither",neither,
+5,12,"The text outlines a general overview of climate policy developments and their potential impact, focusing on regulatory changes and policy shifts rather than specific legal actions or disputes. It identifies key players (EPA, administrations) and relevant legislation (Clean Air Act, IRA), but lacks the detailed information needed to be considered highly specific or detailed. The climate linkage is present, but the disclosure remains at a broad level.
+
+FINAL: text 2","text 2
+",12.0
+5,13,"The text provides a detailed breakdown of specific legal risks related to climate litigation, including the number of lawsuits, the parties involved, and the potential financial impact. It identifies specific debt obligations and the possibility of future litigation. The information is anchored to concrete details like monetary amounts and dates.
+
+FINAL: text 2","text 2
+",13.0
+5,14,"Rationale: The breakdown provides specific details regarding the parties involved (states and municipalities, oil/gas producers), the legal posture (lawsuits seeking damages), dates (close to two dozen lawsuits), and a clear climate linkage (liability for climate-related damages). The inclusion of specific examples of climate impacts (rising sea levels, flooding) enhances the falsifiability of the claims. The level of detail regarding the regulatory context (EPA revisions, RGGI, cap-and-trade) and the procedural aspects (appellate court challenges) demonstrates a higher degree of specificity than the initial summary.
+
+FINAL: text 2","text 2
+",14.0
+6,7,"The provided text contains a significant discussion of ongoing legal proceedings related to climate change, specifically lawsuits seeking damages from fossil fuel producers. The text explicitly identifies ""close to two dozen lawsuits"" and details the nature of the claims – holding producers liable for the consequences of weather-related events linked to climate change. This aligns directly with the definition of climate litigation provided. The breakdown JSON accurately captures these details, including the parties involved, the legal basis (environmental regulations), and the sought outcome (money damages). The level of specificity regarding the legal claims and the identified parties surpasses that of the other text.
+
+FINAL: text 2","text 2
+",7.0
+6,8,"The breakdown JSON provides a detailed level of specificity, identifying key statutes, regulations, and dates related to climate change litigation and policy. It accurately extracts relevant information about the EPA’s actions and the Inflation Reduction Act, demonstrating a strong understanding of the legal and regulatory landscape surrounding climate change. The inclusion of specific regulations like the Clean Air Act and the Paris Climate Accord, along with the dates of key events, contributes to a high degree of precision.
+
+FINAL: text 2","text 2
+",8.0
+6,9,"The breakdown JSON provides a good level of detail regarding the climate litigation aspects of the text, specifically identifying the parties involved (CNX and communities), the nature of the legal action (four climate change lawsuits), and the context (pursued against fossil fuel producers). The inclusion of “beginning to gain prevalence in the courts” offers a degree of temporal specificity. While more precise details (e.g., specific court names, dates, or legal claims) are absent, the level of detail surpasses that of a “basic disclosure.”
+
+FINAL: text 2","text 2
+",9.0
+6,10,"The text primarily details financial reporting items – derivative settlements, interest rate swaps, and litigation accruals – without specific details about the nature of the climate-related lawsuits or the legal arguments involved. While “climate change” is mentioned as a category of claims, the disclosure lacks the precision required for a “detailed disclosure.” It’s a basic disclosure of potential legal liabilities, but doesn’t pinpoint the climate-specific aspects of those liabilities.
+
+FINAL: text 2","text 2
+",10.0
+6,11,"The breakdown for Text 2 demonstrates a significantly higher level of specificity regarding climate litigation. It identifies specific parties involved (states, municipalities, oil/gas producers), the type of legal action (lawsuits seeking damages for climate-related weather events), the relevant statutes/regulations (climate change laws), and even provides examples of the specific events being litigated (rising sea levels, flooding). The inclusion of “checkable elements” like the number of lawsuits further enhances the detail. Text 1, in contrast, primarily focuses on general legal and tax risks, with only a vague mention of “climate change lawsuits” lacking specific details.
+
+FINAL: text 2","text 2
+",11.0
+6,12,"The text outlines a series of regulatory developments and policy shifts related to climate change, primarily focusing on EPA actions and the Inflation Reduction Act. It identifies key players (EPA, administrations) and relevant legislation (Clean Air Act, IRA). However, it lacks the precision needed for a ""detailed disclosure"" – there are no specific court cases, docket numbers, or precise monetary amounts associated with the described regulations. The information is presented at a high level, describing trends rather than specific legal actions.
+
+FINAL: text 2","text 2
+",12.0
+6,13,"The breakdown JSON provides a detailed level of specificity, including specific monetary amounts, dates, and parties involved in the climate litigation. It clearly identifies the climate-related lawsuits and the potential financial impact. The inclusion of the number of lawsuits and the specific debt obligations strengthens the assessment.
+
+FINAL: text 2","text 2
+",13.0
+6,14,"Text 2 is more specific in its climate litigation details. While Text 1 mentions “climate change lawsuits” in a general sense, Text 2 provides specific details about the lawsuits, including the parties involved (states and municipalities), the type of damages sought (money for remedial measures), and the specific climate-related events being challenged (rising sea levels, flooding, etc.). Text 1 lacks this level of granularity regarding the litigation itself.
+
+FINAL: text 2","text 2
+",14.0
+7,8,"The text provides a detailed overview of the legal and regulatory risks associated with climate change, specifically focusing on EPA regulations, legislative actions like the Inflation Reduction Act, and the potential impact on the natural gas industry. It identifies specific regulations (Clean Air Act, PSD permits, BACT standards) and timelines (2013, 2017, 2019, 2021, 2022, 2024) related to greenhouse gas emissions. The discussion explicitly links these risks to potential litigation and policy changes. The level of detail regarding the regulatory framework and its potential consequences strongly suggests a focus on climate litigation risks.
+
+FINAL: text 2","text 2
+",8.0
+7,9,"The breakdown provides a detailed level of specificity, accurately identifying the key parties involved (CNX and communities), the specific nature of the legal proceedings (four climate change lawsuits), and the context of these lawsuits (pursued against fossil fuel producers relating to climate change). The inclusion of the phrase ""beginning to gain prevalence in the courts"" offers a degree of falsifiability by suggesting a trend. The breakdown effectively captures the core elements of the climate litigation disclosure.
+
+FINAL: text 2","text 2
+",9.0
+7,10,"The disclosure primarily focuses on financial reporting elements – derivative settlements, interest rate swaps, and litigation accruals – rather than detailing specific climate litigation claims with defined parties, dates, or legal strategies. While “climate change” is mentioned as a subject of litigation, the text lacks the specificity required to classify it as detailed climate litigation.
+
+FINAL: text 2","text 2
+",10.0
+7,11,"The breakdown demonstrates a high degree of specificity regarding the climate litigation aspects of the text. It clearly identifies the parties involved (states, municipalities, producers), the relevant legal framework (climate change laws and regulations), the procedural posture (lawsuits seeking damages), and specific climate-related events (rising sea levels, flooding). The inclusion of the number of lawsuits and the quoted evidence further strengthens the level of detail.
+
+FINAL: text 2","text 2
+",11.0
+7,12,"The text outlines a general landscape of climate policy changes and their potential impact, focusing on regulatory shifts and policy developments rather than specific legal actions or disputes. While it references relevant regulations and administrations, it lacks the precision and checkability required for a ""detailed disclosure"" or ""highly specific"" classification. The information is presented at a high level, describing trends and potential consequences without delving into the specifics of any particular litigation or legal challenge.
+
+FINAL: text 2","text 2
+",12.0
+7,13,"The text provides specific details regarding ongoing climate litigation involving CNX, including the number of lawsuits, the parties involved, and the potential financial impact. It also includes quantifiable monetary figures related to the company’s debt. The breakdown of specificity accurately captures these elements.
+
+FINAL: text 2","text 2
+",13.0
+7,14,"The text provides a detailed breakdown of climate litigation, specifically focusing on lawsuits seeking damages for climate change-related harms. It identifies the parties involved (states, municipalities, and oil/gas producers), the legal basis (environmental laws and regulations), the procedural posture (ongoing lawsuits), and the sought outcome (money damages). The text also includes specific examples of climate-related events (rising sea levels, flooding) and the timeframe (nearly two dozen lawsuits). The level of detail regarding the legal arguments and potential remedies is substantial.
+
+FINAL: text 2","text 2
+",14.0
+8,9,"The breakdown for Text 2 provides a significantly more specific assessment of the climate litigation aspects within the provided text. It identifies specific parties involved (CNX and communities), explicitly mentions the number of climate lawsuits (four), and highlights the core subject matter – lawsuits against fossil fuel producers related to climate change. The breakdown also includes checkable elements, offering a level of detail absent in the summary or the initial breakdown of Text 1. Text 1 primarily discusses general regulatory risks and doesn’t delve into the specifics of any particular climate litigation.
+
+FINAL: text 2","text 2
+",9.0
+8,10,"The text primarily details financial disclosures, including derivative settlements, interest rate swaps, and litigation accruals. While it mentions ""climate change"" as a subject of litigation, the specifics are vague – it simply states CNX is involved in lawsuits related to climate change without providing details about the legal claims, parties involved, or the nature of the disputes. The disclosures lack the precision and specific details required to classify it as climate litigation.
+
+FINAL: text 2","text 2
+",10.0
+8,11,"The breakdown for Text 2 demonstrates a significantly higher level of specificity regarding climate litigation. It identifies specific statutes (Clean Air Act, Paris Climate Accord, IRA), procedural postures (seeking money damages), and verifiable elements like the number of lawsuits and specific weather events driving the legal claims. The climate linkage quotes are also more concrete. Text 1, while mentioning litigation, primarily focuses on broader regulatory and environmental risks without detailing specific legal actions or parties involved.
+
+FINAL: text 2","text 2
+",11.0
+8,12,"The text outlines a series of regulatory developments and policy changes related to climate change, primarily focusing on the EPA's actions and the impact of the Inflation Reduction Act. While it identifies key regulations and timelines, it doesn't delve into specific legal disputes, lawsuits, or quantifiable damages associated with climate change. The information is presented at a high level, describing the *what* and *when* of regulatory shifts rather than the *who*, *where*, and *how* of potential legal challenges.
+
+FINAL: text 2","text 2
+",12.0
+8,13,"The text provides specific details regarding ongoing climate litigation involving CNX, including the number of lawsuits, the parties involved, and the potential financial impact. It also includes quantifiable monetary figures related to the company's debt. This level of detail aligns with the criteria for a ""detailed disclosure"" assessment.
+
+FINAL: text 2","text 2
+",13.0
+8,14,"Text 2 is more specific than Text 1. Text 2 provides concrete details about specific regulations (EPA proposals, RGGI), dates (2018, 2019, 2020, 2021, 2024), and the nature of the legal challenges (suits seeking damages for weather-related events). Text 1, while mentioning litigation, is more general in its discussion of regulatory risks and lacks the specific anchors and details characteristic of a climate litigation disclosure.
+
+FINAL: text 2","text 2
+",14.0
+9,10,"The text primarily details financial reporting, including derivative settlements and interest rate swaps. While it mentions ""climate change"" as a subject of ongoing litigation, the disclosure lacks specific details about the nature of those lawsuits – the parties involved, the legal claims, the jurisdiction, or any quantifiable damages sought. It simply states that CNX is subject to lawsuits *related* to climate change. This is a general statement and doesn't meet the criteria for a more detailed or highly specific disclosure.
+
+FINAL: text 2","text 2
+",10.0
+9,11,"The text provides a detailed breakdown of legal risks associated with climate change, specifically focusing on lawsuits seeking damages for climate-related weather events and the impact of environmental regulations. It identifies specific parties involved (states, municipalities, oil/gas producers), outlines the procedural posture (seeking damages), and references specific climate impacts (rising sea levels, flooding). The inclusion of the number of lawsuits (close to two dozen) and the types of weather events involved demonstrates a high level of specificity.
+
+FINAL: text 2","text 2
+",11.0
+9,12,"The text outlines a series of regulatory developments and policy shifts related to climate change, primarily focusing on EPA actions and the Inflation Reduction Act. While it identifies key players (EPA, administrations) and specific regulations (Clean Air Act, methane fee), it lacks the granular details – such as specific court cases, precise dates of rulings, or quantified damages – that would characterize a highly specific disclosure. The information is presented at a relatively high level of abstraction, describing trends and potential impacts rather than detailing particular legal actions.
+
+FINAL: text 2","text 2
+",12.0
+9,13,"The text provides a detailed disclosure of climate litigation risks, specifically outlining the involvement of CNX in four climate change lawsuits and the potential financial impact of defending those actions. It includes specific monetary figures related to debt obligations and quantifies the potential adverse effects on cash flows. The breakdown of anchors (parties, dates, monetary amounts) and the clear climate linkage make this a highly specific disclosure of climate litigation.
+
+FINAL: text 1","text 1
+",9.0
+9,14,"The text contains specific details regarding ongoing legal challenges related to climate change, including lawsuits seeking damages for climate-related harms and regulatory disputes. The inclusion of specific states involved (Pennsylvania), proposed regulations (RGGI), and the number of lawsuits filed (nearly two dozen) provides a level of detail that goes beyond a general mention of climate litigation. The breakdown of parties, potential outcomes (money damages), and the specific types of climate impacts (sea-level rise, flooding) further strengthens the case for classifying this as climate litigation.
+
+FINAL: text 2","text 2
+",14.0
+10,11,"Text 2 is a more specific disclosure of climate litigation details. While both texts touch upon environmental concerns, Text 2 directly identifies lawsuits seeking damages for climate change-related weather events, mentions the number of such lawsuits (close to two dozen), and specifies the types of events involved (rising sea levels, flooding, etc.). Text 1 only broadly mentions ""climate change"" as one of the issues in ongoing lawsuits, lacking the specific details and anchors present in Text 2.
+
+FINAL: text 2","text 2
+",11.0
+10,12,"The text primarily outlines a regulatory landscape and policy changes related to climate change, focusing on governmental actions and potential market impacts. While it references relevant legislation and regulations, it lacks the specific details – such as case names, court dates, or precise monetary amounts – necessary to qualify as a highly specific disclosure of climate litigation. It’s a general overview of the context, rather than a detailed account of a legal dispute.
+
+FINAL: text 2","text 2
+",12.0
+10,13,"The text provides a detailed disclosure of potential climate litigation risks facing CNX. It identifies specific lawsuits, the parties involved, and the potential financial impact (costs of defense, aggregate losses). The inclusion of monetary amounts ($2.2 billion in debt, specific note values) and the timeframe (as of December 31, 2023) significantly increases the specificity. The text clearly links these risks to climate change.
+
+FINAL: text 2","text 2
+",13.0
+10,14,"Text 1 provides more specific details about climate litigation, including the number of lawsuits, the parties involved, and the potential costs of defending litigation. In contrast, Text 2 does not provide specific details about climate litigation, but rather discusses climate-related regulations and policy changes.
+
+FINAL: text 1",text 1,10.0
+11,12,"The text outlines a general landscape of climate policy changes and their potential impact, focusing on regulatory shifts and policy incentives. It identifies key actors (EPA, administrations) and regulations (Clean Air Act, IRA), but lacks the granular details – specific court cases, precise dates of rulings, or quantified damages – necessary for a highly specific or detailed assessment. The information is presented at a relatively high level of abstraction.
+
+FINAL: text 2","text 2
+",12.0
+11,13,"The text provides a detailed breakdown of specific legal risks related to climate change litigation involving CNX. It identifies the parties involved, the nature of the lawsuits (climate change related), the monetary amounts associated with potential liabilities, and the forum (courts). The information is directly tied to climate litigation as defined in the prompt.
+
+FINAL: text 1","text 1
+",11.0
+11,14,"The text contains specific details regarding legal challenges related to climate change, particularly through proposed EPA regulations, state-level initiatives like RGGI, and ongoing lawsuits seeking damages for climate-related harms. The inclusion of specific dates (2018, 2019, 2020, December 2021), parties (EPA, Pennsylvania Attorney General, Pennsylvania General Assembly), and the nature of the legal actions (seeking money damages, challenges to regulatory approvals) demonstrates a high level of specificity. The text clearly links these actions to climate change impacts.
+
+FINAL: text 1","text 1
+",11.0
+12,13,"The text provides a detailed disclosure of specific legal risks related to climate change litigation involving CNX. It identifies the parties involved (CNX and communities), the nature of the legal actions (four climate change lawsuits), the potential financial impact (costs of defending litigation, totaling approximately $2.2 billion in debt), and the timeframe (as of December 31, 2023). The text also includes specific monetary amounts associated with the debt obligations. This level of detail aligns with the criteria for a ""detailed disclosure.""
+
+FINAL: text 2","text 2
+",13.0
+12,14,"Text 2
+
+FINAL: text 2
+
+Rationale: Text 2 provides a more detailed and specific breakdown of climate litigation elements compared to Text 1. While Text 1 discusses regulatory developments and potential impacts, Text 2 explicitly identifies lawsuits seeking damages for climate change-related harms, details the specific regulatory programs (RGGI, cap-and-trade) and the parties involved (states, municipalities, oil/gas producers), and includes quantifiable elements like the number of lawsuits and the seeking of money damages. Text 1 lacks this level of specificity regarding legal actions and provides a broader, less anchored description of climate-related developments.","text 2
+",14.0
+13,14,"The text contains specific details related to climate litigation, primarily through the mention of lawsuits seeking damages for climate change-related harms and regulatory challenges. The breakdown identifies specific parties (states and municipalities, oil/gas producers), a relevant statute (lawsuits for climate damages), and quantifiable elements (money damages sought). The text also includes specific dates and a description of the legal challenges.
+
+FINAL: text 2","text 2
+",14.0

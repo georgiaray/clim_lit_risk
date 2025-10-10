@@ -1,0 +1,258 @@
+
+============================================================
+USER MESSAGE 1
+============================================================
+Summarize the following text: Thereafter in September 2018, the EPA proposed revisions to the 2016 New Source Performance Standards for the oil and natural gas industry. Additional revisions were proposed in August 2019 and August 2020. As these proposed rules and any replacements or updates thereto are adopted, changed, rescinded or modified, these rules may result in increased costs for permitting, equipping, and monitoring methane emissions or otherwise restrict operations or increase the costs thereof.
+Additionally, some states have issued mandates to reduce emissions of GHGs, primarily through the planned development of GHG emission inventories and potential cap-and-trade programs. For example, Pennsylvania has taken steps to bring Pennsylvania into an eleven -state consortium of Northeastern and Mid-Atlantic States - the Regional Greenhouse Gas Initiative (RGGI) -- that sets price and declining limits on CO2 emissions from power plants. In December 2021, the Pennsylvania Attorney General approved a proposed regulation which would allow Pennsylvania to join RGGI; however, the Pennsylvania 31
+General Assembly issued a concurrent regulatory review resolution process disapproving the proposed regulation.
+The regulation is currently subject to challenges pending in Pennsylvania appellate courts. Most of these types of programs require major sources of emissions or major producers of fuels to acquire and subsequently surrender emission allowances, with the number of allowances available being reduced each year until a target goal is achieved. The cost of these allowances could increase over time. While new laws and regulations that are aimed at reducing GHG emissions will increase demand for natural gas, they may also result in increased costs for permitting, equipping, monitoring and reporting GHGs associated with natural gas production and use.
+In addition, spurred by increasing concerns regarding climate change, the oil and gas industry face growing demand for corporate transparency and a demonstrated commitment to sustainability goals. Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change.
+
+============================================================
+ASSISTANT MESSAGE 2
+============================================================
+Here is a summary of the text:
+
+The oil and natural gas industry is facing increasing regulatory pressures and changing market demands. The EPA has proposed revisions to the 2016 New Source Performance Standards, which could lead to increased costs for permitting, equipping, and monitoring methane emissions. Additionally, some states have implemented or proposed cap-and-trade programs, such as the Regional Greenhouse Gas Initiative (RGGI), which could lead to increased costs for emission allowances. The industry is also under pressure to demonstrate corporate transparency and sustainability goals, with growing demand for Environmental, Social, and Governance (ESG) reporting. Furthermore, the industry is facing lawsuits from states and municipalities seeking to hold producers liable for climate-related damages, such as rising sea levels and extreme weather events. Overall, the industry is facing a complex and evolving regulatory landscape that could lead to increased costs and operational challenges.
+
+============================================================
+USER MESSAGE 3
+============================================================
+Please assess whether the following text is climate litigation.
+
+Previously, someone else extracted all of the sentences from several companies' annual reports that related to climate litigation. Now, we are interested in assessing the specificity of these disclosures.
+
+Now, we are just seeing if you agree with them.
+Climate litigation refers to legal actions that materially concern climate change science, policy, or law. These include, but are not limited to:
+- Lawsuits targeting false or misleading climate claims (e.g. greenwashing)
+- Legal actions over a company’s contribution to climate-related impacts
+- Efforts to force climate alignment through human rights or fiduciary duty arguments
+- Failure to disclose climate-related risks or impacts
+- Breaches of climate-related regulations
+- Litigation seeking damages for harms caused by climate change
+- Legal challenges to regulatory approvals on the basis of climate misalignment
+
+You will be given a summary of the text, as well as the original text.
+Summary: Here is a summary of the text:
+
+The oil and natural gas industry is facing increasing regulatory pressures and changing market demands. The EPA has proposed revisions to the 2016 New Source Performance Standards, which could lead to increased costs for permitting, equipping, and monitoring methane emissions. Additionally, some states have implemented or proposed cap-and-trade programs, such as the Regional Greenhouse Gas Initiative (RGGI), which could lead to increased costs for emission allowances. The industry is also under pressure to demonstrate corporate transparency and sustainability goals, with growing demand for Environmental, Social, and Governance (ESG) reporting. Furthermore, the industry is facing lawsuits from states and municipalities seeking to hold producers liable for climate-related damages, such as rising sea levels and extreme weather events. Overall, the industry is facing a complex and evolving regulatory landscape that could lead to increased costs and operational challenges.
+
+Original text: Thereafter in September 2018, the EPA proposed revisions to the 2016 New Source Performance Standards for the oil and natural gas industry. Additional revisions were proposed in August 2019 and August 2020. As these proposed rules and any replacements or updates thereto are adopted, changed, rescinded or modified, these rules may result in increased costs for permitting, equipping, and monitoring methane emissions or otherwise restrict operations or increase the costs thereof.
+Additionally, some states have issued mandates to reduce emissions of GHGs, primarily through the planned development of GHG emission inventories and potential cap-and-trade programs. For example, Pennsylvania has taken steps to bring Pennsylvania into an eleven -state consortium of Northeastern and Mid-Atlantic States - the Regional Greenhouse Gas Initiative (RGGI) -- that sets price and declining limits on CO2 emissions from power plants. In December 2021, the Pennsylvania Attorney General approved a proposed regulation which would allow Pennsylvania to join RGGI; however, the Pennsylvania 31
+General Assembly issued a concurrent regulatory review resolution process disapproving the proposed regulation.
+The regulation is currently subject to challenges pending in Pennsylvania appellate courts. Most of these types of programs require major sources of emissions or major producers of fuels to acquire and subsequently surrender emission allowances, with the number of allowances available being reduced each year until a target goal is achieved. The cost of these allowances could increase over time. While new laws and regulations that are aimed at reducing GHG emissions will increase demand for natural gas, they may also result in increased costs for permitting, equipping, monitoring and reporting GHGs associated with natural gas production and use.
+In addition, spurred by increasing concerns regarding climate change, the oil and gas industry face growing demand for corporate transparency and a demonstrated commitment to sustainability goals. Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change.
+
+============================================================
+ASSISTANT MESSAGE 4
+============================================================
+Based on the provided text, I would assess that the original text is not entirely climate litigation, but rather a discussion of regulatory pressures and market demands related to climate change.
+
+While the text mentions lawsuits filed on behalf of states and municipalities seeking to hold producers liable for climate-related damages, the language used is more focused on the regulatory and market implications of these lawsuits, rather than the litigation itself. The text does not provide specific details about the claims, defenses, or outcomes of these lawsuits, which are key characteristics of climate litigation.
+
+In contrast, climate litigation typically involves specific claims, such as:
+
+* Failure to disclose climate-related risks or impacts
+* Breaches of climate-related regulations
+* Litigation seeking damages for harms caused by climate change
+* Legal challenges to regulatory approvals on the basis of climate misalignment
+
+The original text does not provide enough detail to categorize the lawsuits as climate litigation. Instead, it appears to be a discussion of the broader regulatory and market context in which these lawsuits are taking place.
+
+============================================================
+USER MESSAGE 5
+============================================================
+For your knowledge, the text was previously classified as follows:
+Summary: Here is a summary of the text:
+
+The oil and natural gas industry is facing increasing regulatory pressures and changing market demands. The EPA has proposed revisions to the 2016 New Source Performance Standards, which could lead to increased costs for permitting, equipping, and monitoring methane emissions. Additionally, some states have implemented or proposed cap-and-trade programs, such as the Regional Greenhouse Gas Initiative (RGGI), which could lead to increased costs for emission allowances. The industry is also under pressure to demonstrate corporate transparency and sustainability goals, with growing demand for Environmental, Social, and Governance (ESG) reporting. Furthermore, the industry is facing lawsuits from states and municipalities seeking to hold producers liable for climate-related damages, such as rising sea levels and extreme weather events. Overall, the industry is facing a complex and evolving regulatory landscape that could lead to increased costs and operational challenges.
+
+Original text: Thereafter in September 2018, the EPA proposed revisions to the 2016 New Source Performance Standards for the oil and natural gas industry. Additional revisions were proposed in August 2019 and August 2020. As these proposed rules and any replacements or updates thereto are adopted, changed, rescinded or modified, these rules may result in increased costs for permitting, equipping, and monitoring methane emissions or otherwise restrict operations or increase the costs thereof.
+Additionally, some states have issued mandates to reduce emissions of GHGs, primarily through the planned development of GHG emission inventories and potential cap-and-trade programs. For example, Pennsylvania has taken steps to bring Pennsylvania into an eleven -state consortium of Northeastern and Mid-Atlantic States - the Regional Greenhouse Gas Initiative (RGGI) -- that sets price and declining limits on CO2 emissions from power plants. In December 2021, the Pennsylvania Attorney General approved a proposed regulation which would allow Pennsylvania to join RGGI; however, the Pennsylvania 31
+General Assembly issued a concurrent regulatory review resolution process disapproving the proposed regulation.
+The regulation is currently subject to challenges pending in Pennsylvania appellate courts. Most of these types of programs require major sources of emissions or major producers of fuels to acquire and subsequently surrender emission allowances, with the number of allowances available being reduced each year until a target goal is achieved. The cost of these allowances could increase over time. While new laws and regulations that are aimed at reducing GHG emissions will increase demand for natural gas, they may also result in increased costs for permitting, equipping, monitoring and reporting GHGs associated with natural gas production and use.
+In addition, spurred by increasing concerns regarding climate change, the oil and gas industry face growing demand for corporate transparency and a demonstrated commitment to sustainability goals. Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change.
+
+Classification: 1
+Please only respond with an acknowledgement of this information.
+
+============================================================
+ASSISTANT MESSAGE 6
+============================================================
+I have taken note of the original classification of the text as climate litigation, specifically lawsuits filed on behalf of states and municipalities seeking to hold producers of oil, natural gas, and coal liable for climate-related damages.
+
+============================================================
+USER MESSAGE 7
+============================================================
+Build a concept-specific breakdown of SPECIFICITY for climate litigation.
+Focus on anchors (parties/case/docket, forum/jurisdiction, statute/reg/policy, posture, dates, monetary amounts), climate linkage, falsifiability (checkable details), and contextual clarity (who/what/where/when/under which rule/seeking what).
+
+It is very impotant that you only fill in the following schema with details that are DIRECTLY RELATED to climate litigation. Many text chunks will include details about other climate related regulations, monetary incentives, etc. but ONLY IF the text provides the following details about CLIMATE LITIGATION ITSELF, should you fill them in. Otherwise, they should be given null or empty lists.Summary: Here is a summary of the text:
+
+The oil and natural gas industry is facing increasing regulatory pressures and changing market demands. The EPA has proposed revisions to the 2016 New Source Performance Standards, which could lead to increased costs for permitting, equipping, and monitoring methane emissions. Additionally, some states have implemented or proposed cap-and-trade programs, such as the Regional Greenhouse Gas Initiative (RGGI), which could lead to increased costs for emission allowances. The industry is also under pressure to demonstrate corporate transparency and sustainability goals, with growing demand for Environmental, Social, and Governance (ESG) reporting. Furthermore, the industry is facing lawsuits from states and municipalities seeking to hold producers liable for climate-related damages, such as rising sea levels and extreme weather events. Overall, the industry is facing a complex and evolving regulatory landscape that could lead to increased costs and operational challenges.
+
+Original text:
+Thereafter in September 2018, the EPA proposed revisions to the 2016 New Source Performance Standards for the oil and natural gas industry. Additional revisions were proposed in August 2019 and August 2020. As these proposed rules and any replacements or updates thereto are adopted, changed, rescinded or modified, these rules may result in increased costs for permitting, equipping, and monitoring methane emissions or otherwise restrict operations or increase the costs thereof.
+Additionally, some states have issued mandates to reduce emissions of GHGs, primarily through the planned development of GHG emission inventories and potential cap-and-trade programs. For example, Pennsylvania has taken steps to bring Pennsylvania into an eleven -state consortium of Northeastern and Mid-Atlantic States - the Regional Greenhouse Gas Initiative (RGGI) -- that sets price and declining limits on CO2 emissions from power plants. In December 2021, the Pennsylvania Attorney General approved a proposed regulation which would allow Pennsylvania to join RGGI; however, the Pennsylvania 31
+General Assembly issued a concurrent regulatory review resolution process disapproving the proposed regulation.
+The regulation is currently subject to challenges pending in Pennsylvania appellate courts. Most of these types of programs require major sources of emissions or major producers of fuels to acquire and subsequently surrender emission allowances, with the number of allowances available being reduced each year until a target goal is achieved. The cost of these allowances could increase over time. While new laws and regulations that are aimed at reducing GHG emissions will increase demand for natural gas, they may also result in increased costs for permitting, equipping, monitoring and reporting GHGs associated with natural gas production and use.
+In addition, spurred by increasing concerns regarding climate change, the oil and gas industry face growing demand for corporate transparency and a demonstrated commitment to sustainability goals. Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change.
+
+
+Return ONLY valid JSON with this exact schema and keys (no code fences, no extra text):
+
+{
+  "parties": [string],
+  "case_title_or_docket": string or null,
+  "forum_or_jurisdiction": string or null,
+  "statute_reg_policy": [string],
+  "procedural_posture": string or null,
+  "dates_or_timeframes": [string],
+  "monetary_or_quantified": [string],
+  "climate_linkage_summary": string,
+  "climate_linkage_quotes": [string],
+  "checkable_elements": [string],
+  "who": string or null,
+  "what": string or null,
+  "where": string or null,
+  "when": string or null,
+  "under_which_rule": string or null,
+  "sought_outcome": string or null,
+  "evidence_quotes": [string]
+}
+
+Rules:
+- Only consider these categories in relation to climate litigation. If there are dates, parties, monetary amounts, etc. that are not related to climate litigation, ignore them.
+- Populate every key. Use [] for unknown lists, and null for unknown single values.
+- Prefer short verbatim snippets from the text for any *quotes* arrays.
+- Do NOT invent details not supported by the text. Ignore specificity about non-climate topics.
+
+
+============================================================
+ASSISTANT MESSAGE 8
+============================================================
+{
+  "parties": ["states and municipalities", "various states and municipalities", "Pennsylvania"],
+  "case_title_or_docket": ["null"],
+  "forum_or_jurisdiction": ["Pennsylvania appellate courts"],
+  "statute_reg_policy": ["null"],
+  "procedural_posture": ["seeking to hold producers liable for climate-related damages"],
+  "dates_or_timeframes": ["September 2018", "August 2019", "August 2020", "December 2021"],
+  "monetary_or_quantified": ["money damages"],
+  "climate_linkage_summary": "climate-related damages, such as rising sea levels and extreme weather events",
+  "climate_linkage_quotes": ["climate change", "climate-related impacts"],
+  "checkable_elements": ["emission allowances", "GHG emission inventories"],
+  "who": ["producers of oil, natural gas and coal"],
+  "what": ["liability for climate-related damages"],
+  "where": ["Pennsylvania"],
+  "when": ["September 2018", "August 2019", "August 2020", "December 2021"],
+  "under_which_rule": ["null"],
+  "sought_outcome": ["money damages for remedial measures"],
+  "evidence_quotes": ["climate change", "climate-related impacts"]
+}
+
+============================================================
+USER MESSAGE 9
+============================================================
+Given the summary, original text, CL classification, and the structured breakdown, choose ONE specificity label.
+Base your choice on:
+ - PRECISION of anchors (parties/case/docket, forum, statute/reg/policy, posture, dates, monetary/quantified).
+ - LINKAGE to climate claims (not generic legal/ESG talk).
+ - FALSIFIABILITY (checkable details: exact court, date, cited rule, quantified remedy, etc.).
+ - CONTEXTUAL CLARITY (who did what, where, when, under which rule, seeking what outcome).
+Ignore specificity about non-climate and non-litigation topics
+
+Return ONLY one of: not climate litigation, mention only, vague disclosure, basic disclosure, detailed disclosure, highly specific
+
+Summary: Here is a summary of the text:
+
+The oil and natural gas industry is facing increasing regulatory pressures and changing market demands. The EPA has proposed revisions to the 2016 New Source Performance Standards, which could lead to increased costs for permitting, equipping, and monitoring methane emissions. Additionally, some states have implemented or proposed cap-and-trade programs, such as the Regional Greenhouse Gas Initiative (RGGI), which could lead to increased costs for emission allowances. The industry is also under pressure to demonstrate corporate transparency and sustainability goals, with growing demand for Environmental, Social, and Governance (ESG) reporting. Furthermore, the industry is facing lawsuits from states and municipalities seeking to hold producers liable for climate-related damages, such as rising sea levels and extreme weather events. Overall, the industry is facing a complex and evolving regulatory landscape that could lead to increased costs and operational challenges.
+Original text: Thereafter in September 2018, the EPA proposed revisions to the 2016 New Source Performance Standards for the oil and natural gas industry. Additional revisions were proposed in August 2019 and August 2020. As these proposed rules and any replacements or updates thereto are adopted, changed, rescinded or modified, these rules may result in increased costs for permitting, equipping, and monitoring methane emissions or otherwise restrict operations or increase the costs thereof.
+Additionally, some states have issued mandates to reduce emissions of GHGs, primarily through the planned development of GHG emission inventories and potential cap-and-trade programs. For example, Pennsylvania has taken steps to bring Pennsylvania into an eleven -state consortium of Northeastern and Mid-Atlantic States - the Regional Greenhouse Gas Initiative (RGGI) -- that sets price and declining limits on CO2 emissions from power plants. In December 2021, the Pennsylvania Attorney General approved a proposed regulation which would allow Pennsylvania to join RGGI; however, the Pennsylvania 31
+General Assembly issued a concurrent regulatory review resolution process disapproving the proposed regulation.
+The regulation is currently subject to challenges pending in Pennsylvania appellate courts. Most of these types of programs require major sources of emissions or major producers of fuels to acquire and subsequently surrender emission allowances, with the number of allowances available being reduced each year until a target goal is achieved. The cost of these allowances could increase over time. While new laws and regulations that are aimed at reducing GHG emissions will increase demand for natural gas, they may also result in increased costs for permitting, equipping, monitoring and reporting GHGs associated with natural gas production and use.
+In addition, spurred by increasing concerns regarding climate change, the oil and gas industry face growing demand for corporate transparency and a demonstrated commitment to sustainability goals. Environmental, social and governance (ESG) goals and programs, which typically include extralegal targets related to environmental stewardship, social responsibility, and corporate governance, have become an increasing focus of investors and stakeholders across the industry.
+Finally, there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events, like rising sea levels and more frequent and severe flooding, storms and heatwaves, and seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change.
+Previously classified as climate litigation? 1
+Breakdown JSON: {
+  "parties": [
+    "states and municipalities",
+    "various states and municipalities",
+    "Pennsylvania"
+  ],
+  "case_title_or_docket": [
+    "null"
+  ],
+  "forum_or_jurisdiction": [
+    "Pennsylvania appellate courts"
+  ],
+  "statute_reg_policy": [
+    "null"
+  ],
+  "procedural_posture": [
+    "seeking to hold producers liable for climate-related damages"
+  ],
+  "dates_or_timeframes": [
+    "September 2018",
+    "August 2019",
+    "August 2020",
+    "December 2021"
+  ],
+  "monetary_or_quantified": [
+    "money damages"
+  ],
+  "climate_linkage_summary": "climate-related damages, such as rising sea levels and extreme weather events",
+  "climate_linkage_quotes": [
+    "climate change",
+    "climate-related impacts"
+  ],
+  "checkable_elements": [
+    "emission allowances",
+    "GHG emission inventories"
+  ],
+  "who": [
+    "producers of oil, natural gas and coal"
+  ],
+  "what": [
+    "liability for climate-related damages"
+  ],
+  "where": [
+    "Pennsylvania"
+  ],
+  "when": [
+    "September 2018",
+    "August 2019",
+    "August 2020",
+    "December 2021"
+  ],
+  "under_which_rule": [
+    "null"
+  ],
+  "sought_outcome": [
+    "money damages for remedial measures"
+  ],
+  "evidence_quotes": [
+    "climate change",
+    "climate-related impacts"
+  ]
+}
+
+============================================================
+ASSISTANT MESSAGE 10
+============================================================
+I choose: **detailed disclosure**
+
+The breakdown provides a high level of specificity, including:
+
+* Specific parties involved (states and municipalities, Pennsylvania)
+* Specific dates (September 2018, August 2019, August 2020, December 2021)
+* Specific regulatory context (Pennsylvania appellate courts, EPA revisions to the 2016 New Source Performance Standards)
+* Specific climate-related claims (climate-related damages, liability for climate-related damages)
+* Specific checkable elements (emission allowances, GHG emission inventories)
+* Specific sought outcome (money damages for remedial measures)
+
+This level of specificity suggests that the text provides a detailed and concrete description of a specific climate litigation case or issue, rather than a general or vague discussion of climate-related topics.

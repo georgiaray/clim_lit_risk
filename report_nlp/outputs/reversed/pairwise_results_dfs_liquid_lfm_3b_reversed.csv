@@ -1,0 +1,1144 @@
+idx_1,idx_2,reasoning,result,model
+1,0,"Text 1 is not climate litigation, while Text 2 is climate litigation. Text 2 provides more specific information about climate-related claims, including the statute (1992 Coal Industry Retiree Health Benefit Act) and the nature of the claims (related to climate change, environmental violations, and employment disputes). Although the details are not highly specific, they are more relevant to climate litigation than Text 1.
+
+FINAL: text 2",text 2,liquid/lfm-3b
+2,0,"============================================================
+Rationale: The text provides specific details about potential climate change-related litigation, including the parties involved (EU regulatory agencies, the company, U.S. travelers), the regulatory framework (EU's Fit for 55 package, IMO Sulfur Limit, CII), the timeframe (future, 2030 emission goals), and the potential outcomes (penalties, claims of monetary damages, increased operating costs). It also mentions checkable elements like specific EU regulations and quantified remedies. The linkage to climate litigation is clear and not generic.
+
+FINAL: highly specific
+
+============================================================
+",neither,liquid/lfm-3b
+3,0,"The provided text offers a detailed disclosure of specific climate change-related risks and potential litigation, including precise regulatory examples and anticipated legal outcomes. It mentions specific EU regulations and their implications for the company, providing checkable details such as the Fit for 55 package mandates and requirements for emission allowances and low-carbon fuels. The language is precise and contextual, linking regulatory actions directly to potential litigation and financial impacts.
+
+FINAL: detailed disclosure",neither,liquid/lfm-3b
+4,0,"============================================================
+Rationale: The breakdown provides specific details about the parties involved (company, EU, U.S. travelers), the exact case title or docket (not specified but implied through regulatory references), the forum (EU courts, U.S. courts), statute/reg/policy (EU's Fit for 55 package, IMO Sulfur Limit, CII), procedural posture (potential litigation), dates/timeframes (in the future, 2030 emission goals), monetary/quantified elements (penalties, increased operating costs, significant expenses), climate linkage summary (potential litigation due to emission reduction regulations), checkable elements (specific EU regulations), who (EU agencies, U.S. travelers, company), what (emission reductions, emission allowances, low-carbon fuels), where (EU, U.S.), when (in the future, 2030), under which rule (EU regulations), and sought outcome (to avoid litigation, reduce emissions). This level of detail meets the criteria for 'detailed disclosure'.
+
+FINAL: detailed disclosure
+```json
+{
+  ""classification"": ""detailed disclosure""
+}
+```",neither,liquid/lfm-3b
+5,0,"The provided text includes specific details about climate change-related litigation, including the parties involved (EU regulatory agencies, the company, U.S. travelers), the forum (EU courts, U.S. courts), and specific regulatory requirements (EU's Fit for 55 package, IMO Sulfur Limit, CII). It also provides checkable elements such as the mandates for emission reductions and the requirement to purchase emission allowances. The language is precise and directly linked to legal actions and regulatory compliance issues.
+
+FINAL: detailed disclosure",neither,liquid/lfm-3b
+6,0,"============================================================
+Rationale:
+The breakdown provides specific details about the parties involved (company, EU, U.S. travelers), the exact case title or docket elements (EU's Fit for 55 package, IMO Sulfur Limit, CII), the forum (EU courts, U.S. courts), statute/reg/policy (EU's Fit for 55 package, IMO Sulfur Limit, CII), procedural posture (potential litigation), dates/timeframes (in the future, 2030 emission goals), monetary/quantified elements (penalties or claims of monetary damages, increased operating costs, significant expenses), climate linkage (evolving regulations requiring emission reductions and compliance), checkable elements (EU regulations), who (EU agencies, U.S. travelers, company), what (emission reductions, purchase of emission allowances, use of low-carbon fuels), where (EU, U.S.), when (in the future, 2030), under which rule (EU's Fit for 55 package, IMO Sulfur Limit, CII), and sought outcome (to avoid litigation, reduce emissions, comply with new regulations). This level of detail meets the criteria for detailed disclosure.
+
+FINAL: detailed disclosure
+```json
+{
+  ""parties"": [
+    ""company"",
+    ""U.S. travelers"",
+    ""EU""
+  ],
+  ""case_title_or_docket"": null,
+  ""forum_or_jurisdiction"": ""EU courts, U.S. courts"",
+  ""statute_reg_policy"": [
+    ""EU's Fit for 55 package"",
+    ""IMO Sulfur Limit"",
+    ""CII (Carbon Intensity Indicator)""
+  ],
+  ""procedural_posture"": ""potential litigation"",
+  ""dates_or_timeframes"": [
+    ""in the future"",
+    ""2030 emission goals""
+  ],
+  ""monetary_or_quantified"": [
+    ""penalties or claims of monetary damages"",
+    ""increased operating costs"",
+    ""significant expenses to purchase and/or develop new equipment""
+  ],
+  ""climate_linkage_summary"": ""The company faces potential climate change-related litigation due to evolving regulations requiring emission reductions and compliance with new environmental standards."",
+  ""climate_linkage_quotes"": [
+    ""These regulatory efforts, both internationally, regionally and nationally, are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business."",
+    ""However, such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions, modify our itineraries and may increase our exposure, if any, to climate change-related litigation.""
+  ],
+  ""checkable_elements"": [
+    ""EU's Fit for 55 package mandates emission reductions"",
+    ""EU requires purchase of emission allowances"",
+    ""EU mandates use of low-carbon fuels"",
+    ""EU's CII regulation requires carbon intensity reporting""
+  ],
+  ""who"": ""EU regulatory agencies, U.S. travelers, company"",
+  ""what"": ""emission reductions, purchase of emission allowances, use of low-carbon fuels, compliance with CII"",
+  ""where"": ""EU, U.S."",
+  ""when"": ""in the future, 2030"",
+  ""under_which_rule"": ""EU's Fit for 55 package, IMO Sulfur Limit, CII"",
+  ""sought_outcome"": ""to avoid litigation, reduce emissions, comply with new regulations"",
+  ""evidence_quotes"": [
+    ""These regulatory efforts, both internationally, regionally and nationally, are still developing, including the international alignment of such efforts, and we cannot yet determine what the final regulatory programs or their impact will be on our business.""
+  ]
+}
+```
+",neither,liquid/lfm-3b
+7,0,"============================================================
+Rationale: The breakdown provides specific details about the parties involved (company, EU, U.S. travelers), the exact case title or docket (not specified but implied through the mention of potential litigation), the forum (EU courts, U.S. courts), statute/reg/policy (EU's Fit for 55 package, IMO Sulfur Limit, CII), procedural posture (potential litigation), dates/timeframes (in the future, 2030 emission goals), monetary/quantified elements (penalties or claims of monetary damages, increased operating costs), climate linkage summary (potential climate change-related litigation), climate linkage quotes (direct references to litigation risk), checkable elements (specific EU regulations), who (EU agencies, U.S. travelers, company), what (emission reductions, purchase of emission allowances), where (EU, U.S.), when (in the future, 2030), under which rule (EU regulations), and sought outcome (to avoid litigation). This level of detail meets the criteria for 'detailed disclosure'.
+
+FINAL: detailed disclosure
+```json
+{
+  ""classification"": ""detailed disclosure""
+}
+```
+
+============================================================
+TEXT 2:
+============================================================
+The provided text for Text 2 also meets the criteria for 'detailed disclosure' due to the following reasons:
+
+1. **Specific Parties**: The text mentions ""company"", ""U.S. travelers"", and ""EU"" as parties involved.
+2. **Specific Case Title or Docket**: While not explicitly stated, the reference to ""potential litigation"" implies a specific case or docket could be identified.
+3. **Forum or Jurisdiction**: The text specifies ""EU courts"" and ""U.S. courts"" as potential forums.
+4. **Statute/Reg/Policy**: It lists ""EU's Fit for 55 package"", ""IMO Sulfur Limit"", and ""CII (Carbon Intensity Indicator)"" as relevant regulations.
+5. **Procedural Posture**: The text indicates ""potential litigation"" as a procedural posture.
+6. **Dates/Timeframes**: It provides ""in the future"" and ""2030 emission goals"" as relevant timeframes.
+7. **Monetary/Quantified**: The text mentions ""penalties or claims of monetary damages"", ""increased operating costs"", and ""significant expenses to purchase and/or develop new equipment"".
+8. **Climate Linkage Summary**: It clearly states the company faces ""potential climate change-related litigation"".
+9. **Climate Linkage Quotes**: The text includes direct quotes linking climate change regulations to potential litigation.
+10. **Checkable Elements**: Specific EU regulations are listed as checkable elements.
+11. **Who**: The text identifies ""EU regulatory agencies"", ""U.S. travelers"", and ""company"" as who are involved.
+12. **What**: It specifies ""emission reductions"", ""purchase of emission allowances"", ""use of low-carbon fuels"", and ""compliance with CII"".
+13. **Where**: The text specifies ""EU"" and ""U.S."" as where the regulations and potential litigation occur.
+14. **When**: It mentions ""in the future"" and ""2030"" as when these events could occur.
+15. **Under Which Rule**: The text identifies ""EU's Fit for 55 package"", ""IMO Sulfur Limit"", and ""CII"" as the rules under which the company must operate.
+16. **Sought Outcome**: The company seeks to ""avoid litigation"", ""reduce emissions"", and ""comply with new regulations"".
+17. **Evidence Quotes**: The text provides quotes that support the claim of potential litigation risk.
+
+Given this detailed analysis, Text 2 is classified as 'detailed disclosure'.
+
+FINAL: text 2
+",text 2,liquid/lfm-3b
+8,0,"The breakdown provides specific details about the parties involved (company, EU, U.S. travelers), the legal and regulatory framework (EU's Fit for 55 package, IMO Sulfur Limit, CII), the potential litigation risks (potential penalties or claims of monetary damages, required emission reductions), and the checkable elements (EU mandates, specific regulations). The linkage to climate litigation is clear through the mention of emission reductions and compliance with new environmental standards as potential triggers for litigation.
+
+FINAL: detailed disclosure",neither,liquid/lfm-3b
+9,0,"Rationale: The breakdown provides specific details directly related to climate litigation, including the parties involved (company, EU, U.S. travelers), specific legal actions (potential litigation, emission reductions, compliance with new regulations), and checkable elements (EU's Fit for 55 package, IMO Sulfur Limit, CII). The text explicitly mentions litigation as a potential outcome of climate change regulations, and provides precise details about the regulations and the company's anticipated responses.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+10,0,"The classification is 'detailed disclosure' because the text provides specific details about climate change-related litigation risks, including the exact regulations (EU's Fit for 55 package, IMO Sulfur Limit, CII), potential legal actions (litigation against the company), and quantified outcomes (penalties or claims of monetary damages, increased operating costs). The linkage to climate litigation is clear and checkable through the specific regulatory references and potential legal actions mentioned.
+
+FINAL: text 2",neither,liquid/lfm-3b
+11,0,"============================================================
+Rationale: The text provides specific details about climate change-related litigation risks, including the parties involved (EU regulatory agencies, U.S. travelers, the company), the specific regulations (EU's Fit for 55 package, IMO Sulfur Limit, CII), the procedural posture (potential litigation), and the context (future regulatory developments impacting operations). It also mentions quantifiable elements like penalties, increased operating costs, and specific regulatory requirements.
+
+FINAL: highly specific
+
+============================================================
+",neither,liquid/lfm-3b
+12,0,"The breakdown includes precise details directly related to climate litigation, such as specific regulatory actions (EU's Fit for 55 package), dates (2030 emission goals), monetary amounts (penalties or claims of monetary damages, significant expenses), and clear links to climate change (emission reductions, purchase of emission allowances, use of low-carbon fuels). The context is clearly tied to legal actions and potential litigation outcomes.
+
+FINAL: detailed disclosure",neither,liquid/lfm-3b
+13,0,FINAL: text 1,text 1,liquid/lfm-3b
+14,0,"============================================================
+Rationale: The breakdown provides specific details about the parties involved (company, EU, U.S. travelers), the exact legal and regulatory frameworks (EU's Fit for 55 package, IMO Sulfur Limit, CII), the potential litigation outcomes (penalties or claims of monetary damages, increased operating costs), and the timeframe (future, 2030 emission goals). It also specifies the context (climate change-related litigation due to evolving regulations) and includes checkable elements (EU mandates, emission allowances, low-carbon fuels). The specificity is high because it connects climate change regulations directly to potential litigation outcomes and provides concrete examples and legal references.
+
+FINAL: highly specific
+
+============================================================
+",neither,liquid/lfm-3b
+2,1,"{""specificity_label"": ""basic disclosure""}
+
+The text provides a general risk assessment related to climate change regulations and potential litigation but does not specify any particular cases, dates, monetary amounts, or legal actions. It mentions potential litigation broadly in the context of compliance with new emissions regulations without providing specific details that would qualify as detailed or highly specific disclosure. Therefore, the classification is basic disclosure.
+
+FINAL: basic disclosure",neither,liquid/lfm-3b
+3,1,"{""specificity_label"": ""basic disclosure""}
+
+The text provides a general overview of potential regulatory risks and compliance issues related to climate change, including the possibility of litigation due to non-compliance with new emissions regulations. However, it does not provide specific details about any actual litigation cases, legal actions, or quantifiable outcomes. The language used is indicative of potential risks but lacks the precision and checkable details required for a highly specific classification of climate litigation.
+
+FINAL: basic disclosure
+
+The text mentions potential litigation but does not specify any actual cases or provide checkable details such as dates, monetary amounts, or exact legal claims. Therefore, it is a basic disclosure of potential risks without detailed specificity.",text 1,liquid/lfm-3b
+4,1,"{""specificity_label"": ""basic disclosure""}
+
+The provided text mentions potential litigation in the context of compliance with climate change regulations but does not provide specific details about any actual legal cases or litigation outcomes. It discusses the risk of litigation as a consequence of regulatory changes and compliance issues, but does not cite specific cases, dates, monetary amounts, or exact legal rules. Therefore, the disclosure is basic and lacks the precision required for a highly specific classification.
+
+FINAL: basic disclosure",neither,liquid/lfm-3b
+5,1,"{
+  ""specificity_label"": ""basic disclosure"",
+  ""rationale"": ""The text mentions potential litigation in a general sense ('could result in litigation against us') without providing specific details such as case titles, dates, monetary amounts, or exact legal rules. It indicates a risk but does not specify any particular climate litigation case or legal action."",
+  ""final:""
+}
+
+FINAL: text 2
+
+The original text provides more specific details about climate change regulations and their potential impact, including the EU's Fit for 55 package and the European Union Emission Trading System, which suggests a higher level of specificity than just a basic disclosure. However, it still does not provide specific litigation details, making it a basic disclosure of climate risk.",neither,liquid/lfm-3b
+6,1,"{
+  ""specificity_label"": ""basic disclosure"",
+  ""rationale"": ""The text provides general information about potential compliance and regulatory risks, including travel policy changes and climate change regulations, without specific details about any actual litigation cases or legal actions. It mentions the possibility of litigation but does not provide checkable details or specific legal references.""
+}
+
+FINAL: text 2
+
+This classification is chosen because the text discusses potential risks and regulatory impacts broadly, mentioning climate change litigation in a general sense but not providing specific case details or legal references that would qualify it as highly specific or detailed disclosure. The mention of litigation is vague and not tied to concrete legal actions or outcomes.",text 2,liquid/lfm-3b
+7,1,"Text 1 is more specific in its climate litigation details, providing precise information about regulatory actions, dates, and monetary amounts related to climate change. In contrast, Text 2 does not explicitly mention any specific climate litigation cases or legal actions, and its details are more focused on broader environmental and regulatory issues.
+
+FINAL: text 1",text 1,liquid/lfm-3b
+8,1,"{
+  ""specificity_label"": ""basic disclosure"",
+  ""rationale"": ""The text provides general information about potential legal risks related to climate change and regulatory compliance, but it does not specify any particular cases, dates, monetary amounts, or detailed legal actions. It mentions the possibility of litigation but does not provide enough checkable details to classify it as detailed or highly specific.""
+  ""final:""
+}
+
+FINAL: basic disclosure
+
+This classification is chosen because the text discusses potential climate change-related litigation in a general manner without providing specific case details, dates, monetary amounts, or checkable legal actions. It indicates a risk but does not offer enough specificity to be considered detailed or highly specific.",neither,liquid/lfm-3b
+9,1,"{""specificity_label"": ""basic disclosure""}
+
+The provided text mentions potential litigation in a general sense without providing specific case details, dates, monetary amounts, or direct quotes from legal documents. It discusses the risk of litigation as a consequence of regulatory changes and compliance issues but does not specify any particular case or legal action. Therefore, it provides a basic disclosure of the risk of climate change-related litigation without the precision required for a highly specific label.
+
+FINAL: basic disclosure",neither,liquid/lfm-3b
+10,1,"{""specificity_label"": ""basic disclosure""}
+
+The text provides a general overview of potential regulatory risks related to climate change and travel policies, which could lead to litigation. However, it does not specify any particular cases, dates, or exact legal actions. The language is broad and focuses on potential risks and outcomes rather than specific legal actions or cases. Therefore, the disclosure is basic but not detailed or highly specific to climate litigation.
+
+FINAL: text 2",text 2,liquid/lfm-3b
+11,1,"{""specificity_label"": ""basic disclosure""}
+
+The text provides a general overview of potential regulatory risks and compliance issues related to climate change, including the possibility of litigation due to non-compliance with new emissions regulations. However, it does not provide specific details about any actual legal actions, case titles, dates, monetary amounts, or exact legal rules. The language is vague and does not specify particular parties, courts, or outcomes, making it a basic disclosure rather than detailed or highly specific.
+
+FINAL: text 2
+
+The second text, while discussing climate change regulations and potential litigation, still lacks specific details about any actual legal actions or cases. It mentions the potential for litigation but does not provide concrete anchors like case titles, dates, or exact legal rules, thus remaining a basic disclosure.
+
+FINAL: neither",neither,liquid/lfm-3b
+12,1,"{""specificity_label"": ""basic disclosure""}
+
+The provided text mentions potential litigation in the context of compliance with climate change regulations but does not provide specific details such as case titles, dates, monetary amounts, or specific legal actions. It discusses the general risk and potential outcomes without linking directly to specific legal cases or actions. Therefore, the disclosure is basic and lacks the precision required for detailed climate litigation.
+
+FINAL: text 2",neither,liquid/lfm-3b
+13,1,"{""specificity_label"": ""basic disclosure""}
+
+The provided text outlines potential risks and regulatory impacts related to climate change but does not provide specific details about any actual climate litigation cases or legal actions. It mentions the possibility of litigation but does not cite specific cases, dates, monetary amounts, or exact legal rules, which are necessary for a highly specific classification. The language is general and focuses on potential future impacts rather than concrete litigation.
+
+FINAL: basic disclosure",text 1,liquid/lfm-3b
+14,1,"{""specificity_label"": ""basic disclosure""}
+
+The provided text mentions potential litigation in a general context without specifying any particular case, court, or date. It discusses the risk of litigation as a consequence of regulatory changes and compliance issues related to climate change, but does not provide specific details about any actual legal actions or cases. Therefore, the disclosure is basic and does not reach the level of detailed disclosure of specific climate litigation.
+
+FINAL: basic disclosure",neither,liquid/lfm-3b
+3,2,"Text 1 provides more specific details about climate litigation, including the number of lawsuits filed, the parties involved, and the specific climate change impacts being addressed. In contrast, Text 2 mentions potential litigation related to climate change regulations but does not provide specific details about the lawsuits themselves.
+
+FINAL: text 1",text 1,liquid/lfm-3b
+4,2,"============================================================
+Rationale: The text provides specific details about climate change-related regulatory activities, including exact names of regulations (Fit for 55 package, Emission Trading System), specific requirements (higher use of low-carbon fuels, carbon emission allowances), and potential legal outcomes (increased exposure to litigation). The context is clearly tied to climate change mitigation efforts and includes checkable details such as dates (2030 goals, 2024 updates) and specific regulatory actions. The linkage to climate litigation is direct, with references to compliance and potential legal actions.
+
+FINAL: detailed disclosure
+```json
+{
+  ""classification"": ""detailed disclosure""
+}
+```",neither,liquid/lfm-3b
+5,2,"============================================================
+Rationale: The text provides specific details about climate change-related regulatory activities and their potential impacts on the business, including direct references to legislation and updates to emission trading systems. It mentions specific parties involved (European Union, U.S. government agencies, environmental groups), precise dates (2030 emission goals, 2024 updates), and checkable elements ( Fit for 55 package mandates, Emission Trading System updates). The linkage to climate litigation is clear through the mention of increased exposure to climate change-related litigation and the context of compliance with emission reduction targets. The specificity regarding who (parties), what (climate change-related regulatory activities), where (European Union, U.S., and other jurisdictions), when (proposed under Fit for 55 package, updates to 2024), under which rule (Emission Trading System, IMO Sulfur Limit, carbon intensity indicator regulation), and seeking what outcome (compliance, purchase of carbon allowances) makes this a detailed disclosure.
+
+FINAL: detailed disclosure
+============================================================
+",neither,liquid/lfm-3b
+6,2,"============================================================
+Rationale:
+The breakdown provides precise details about the parties involved (European Union, U.S. government agencies, environmental groups), specific case titles or dockets (not explicitly mentioned but implied by the Fit for 55 package and Emission Trading System updates), forums (European Union, U.S. courts), statutes/regulations/policies (Fit for 55 package, Emission Trading System, IMO Sulfur Limit, carbon intensity indicator regulation), procedural posture (proposed legislation, updates to existing systems), dates/timeframes (2030 goals, 2024 updates), monetary/quantified details (increased costs, expenses for new equipment), climate linkage (directly related to climate change mitigation), checkable elements (specific regulations and requirements), who (various entities), what (regulatory activities), where (European Union, U.S., and other jurisdictions), when (proposed and updates), under which rule (various regulations), and sought outcome (compliance, adoption of technologies). The specificity is high due to the direct connection to climate litigation and the inclusion of verifiable details.
+
+FINAL: detailed disclosure
+
+============================================================
+",neither,liquid/lfm-3b
+7,2,"============================================================
+Rationale: The text provides specific details about climate change-related regulatory activities, including exact names of regulations (Fit for 55 package, Emission Trading System), specific requirements (higher use of low-carbon fuels, carbon emission allowances), and potential legal outcomes (increased exposure to climate change-related litigation). The context is clearly tied to climate litigation through the mention of potential legal actions and compliance issues.
+
+FINAL: text 2
+
+============================================================
+",neither,liquid/lfm-3b
+8,2,"{""classification"": ""detailed disclosure"", ""rationale"": ""The breakdown includes specific details about the parties involved (European Union, U.S. government agencies, environmental groups), the exact climate-related regulations (Fit for 55 package, Emission Trading System, IMO Sulfur Limit, carbon intensity indicator regulation), the proposed dates and outcomes (2030 emission goals, 2024 updates), and the potential legal actions (compliance with emission reduction targets, purchase of carbon allowances). This provides a high level of specificity regarding climate litigation."", ""final"": ""text 2""}",text 2,liquid/lfm-3b
+9,2,"Rationale: The provided text offers a highly detailed and specific account of climate change-related regulatory activities and their potential impacts on the company's business and financial results. It explicitly mentions legal actions and regulatory compliance issues that are directly tied to climate change, such as the Fit for 55 package, Emission Trading System updates, and various low-carbon fuel and emission regulations. The text provides specific examples, dates (like 2030 emission goals and 2024 updates), and details about the parties involved (EU, U.S. agencies, environmental groups), making it highly specific to climate litigation.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+10,2,"The text provides specific details about climate change-related regulatory activities and their potential impacts on the company's business, including direct references to legal actions and litigation risks. It mentions specific statutes, regulations, and proposed legislation, along with quantified monetary impacts and timelines. The linkage to climate litigation is clear through references to compliance requirements, potential legal challenges, and exposure to litigation.
+
+FINAL: detailed disclosure",neither,liquid/lfm-3b
+11,2,"============================================================
+Rationale: The text provides specific details about climate change-related regulatory activities and their potential legal implications, including direct references to legislation and updates to emission trading systems. It mentions potential litigation risks explicitly and provides checkable details such as specific regulations and proposed dates. The context is clearly tied to climate litigation through the mention of compliance requirements, potential fines, and legal actions.
+
+FINAL: highly specific
+============================================================
+",neither,liquid/lfm-3b
+12,2,"Text 2 is more specific because it provides more detailed information about the potential climate change-related litigation, including the specific regulations that may lead to litigation (e.g., EU's Fit for 55 package), the potential consequences of such litigation (e.g., increased operating costs, penalties or claims of monetary damages), and the company's potential exposure to climate change-related litigation.
+
+FINAL: text 2",text 2,liquid/lfm-3b
+13,2,"The provided text includes specific details about climate change-related regulatory activities, their potential impacts, and the parties involved, which directly relate to climate litigation. The text mentions specific regulations and proposed legislation, provides dates and monetary amounts, and outlines the legal actions that could arise from non-compliance or disputes over these regulations.
+
+The specificity label for this text is 'detailed disclosure' because it provides precise details about the climate litigation context, including:
+- Specific parties involved (European Union, U.S. government agencies, environmental groups)
+- Detailed descriptions of regulatory actions (Fit for 55 package, Emission Trading System updates)
+- Specific dates and monetary amounts (2030 emission goals, 2024 updates, significant expenses)
+- Clear linkage to climate change mitigation efforts
+- Proposed legal outcomes (compliance, purchase of carbon allowances, adoption of technologies)
+
+FINAL: detailed disclosure",neither,liquid/lfm-3b
+14,2,"============================================================
+Rationale: The text provides specific details about climate change-related regulatory activities, including exact names of regulations (Fit for 55 package, Emission Trading System), specific requirements (higher use of low-carbon fuels, carbon allowances), and potential legal outcomes (increased exposure to litigation). The context is clearly tied to climate litigation through the mention of compliance with emission reduction targets and the potential for legal actions. The specificity is high due to the precise mention of regulations, dates, and the potential legal implications.
+
+FINAL: text 2
+",neither,liquid/lfm-3b
+4,3,"The provided text contains specific financial details and a mention of litigation, but the litigation is not explicitly linked to climate change impacts. The loss contingency (13) is related to Havana Docks litigation, but without explicit mention of climate change, it cannot be classified as climate litigation. The text provides dates, parties, and monetary amounts but lacks direct climate linkage.
+
+FINAL: basic disclosure
+
+============================================================
+```json
+{
+  ""specificity_label"": ""basic disclosure""
+}
+```
+",neither,liquid/lfm-3b
+5,3,"The provided text includes specific financial details and a mention of litigation, but the litigation (Havana Docks) is not explicitly linked to climate change. The financial adjustments and loss contingency are mentioned without direct climate linkage. The parties, dates, and monetary amounts are specified, but there's no clear connection to climate litigation criteria.
+
+FINAL: basic disclosure
+
+The text provides specific financial details and mentions litigation but lacks direct climate linkage, making it only a basic disclosure without explicit climate litigation elements.",text 1,liquid/lfm-3b
+6,3,"{""specificity_label"": ""basic disclosure""}
+
+The provided text includes specific dates, parties, and monetary details related to a loss contingency, but it does not explicitly link these details to climate change or climate litigation. The litigation mentioned (Havana Docks) could potentially involve environmental issues, but without explicit mention of climate change, the disclosure is basic and lacks the specificity required for climate litigation.
+
+FINAL: text 2",neither,liquid/lfm-3b
+7,3,"The provided text contains specific financial details and a mention of litigation, but the litigation (Havana Docks) is not explicitly linked to climate change. The financial adjustments and loss contingency are mentioned without direct climate linkage. The parties, dates, and monetary amounts are specified, but the climate linkage is vague and not directly related to climate litigation.
+
+FINAL: basic disclosure
+
+The text provides basic financial disclosures and mentions litigation, but the climate linkage is not clear or specific to climate change, hence the classification as ""basic disclosure"".",text 1,liquid/lfm-3b
+8,3,"The provided text contains specific financial details and a mention of litigation, but the litigation is not explicitly linked to climate change. The loss contingency (13) is related to Havana Docks litigation, but without explicit mention of climate change, it cannot be classified as climate litigation. The disclosure is basic and does not provide detailed climate-specific legal actions.
+
+FINAL: basic disclosure
+
+============================================================
+```json
+{
+  ""specificity_label"": ""basic disclosure"",
+  ""rationale"": ""The text provides financial disclosures and mentions litigation but does not explicitly link the litigation to climate change or climate-related issues. The climate linkage is not clear or checkable.""
+}
+```",neither,liquid/lfm-3b
+9,3,"{
+  ""specificity_label"": ""basic disclosure"",
+  ""rationale"": ""The text provides specific financial details and procedural posture related to a loss contingency but does not explicitly link these to climate change or climate litigation. The litigation mentioned (Havana Docks) could potentially involve environmental issues, but without explicit mention of climate change, the disclosure is basic and not highly specific to climate litigation.""
+}
+
+FINAL: text 2
+",neither,liquid/lfm-3b
+10,3,"The provided text contains specific financial details and a mention of litigation, but the litigation (Havana Docks) is not explicitly linked to climate change. The financial adjustments and loss contingency are mentioned without direct climate change context. The only climate-related element is the mention of the litigation, but it's not specified as climate litigation.
+
+Therefore, the specificity label is:
+
+```json
+{
+  ""specificity_label"": ""basic disclosure""
+}
+```
+
+FINAL: The text provides basic financial disclosures with one mention of litigation that could potentially relate to environmental issues, but it does not explicitly state or link the litigation to climate change. Thus, it is a basic disclosure without specific climate litigation details.
+
+FINAL: basic disclosure
+",text 1,liquid/lfm-3b
+11,3,"**Rationale:**
+- **Precision of Anchors:** The breakdown includes specific parties (states and municipalities, oil, natural gas, and coal producers, CNX, private parties), a procedural posture (nearly two dozen lawsuits filed), and a statute (Environmental, Social, and Governance (ESG) goals and programs, laws and regulations relating to the discharge of materials into, and protection of, the environment).
+- **Linkage to Climate Claims:** The climate linkage is clearly specified, mentioning the exact nature of the lawsuits (seeking liability for climate change impacts such as rising sea levels, severe weather events, and demanding remedial measures to mitigate these damages).
+- **Falsifiability:** The details are checkable, including the specific number of lawsuits filed and the parties involved.
+- **Contextual Clarity:** The breakdown provides clear context about who (states and municipalities, oil, natural gas, and coal producers, CNX, private parties), what (seeking liability for climate change impacts, demanding remedial measures), and under which rule (Environmental laws and regulations) the lawsuits are filed.
+
+This level of detail meets the criteria for a **detailed disclosure**.
+
+FINAL: text 2",text 2,liquid/lfm-3b
+12,3,"{""specificity_label"": ""basic disclosure""}
+
+The provided text includes specific dates, parties involved, and monetary amounts related to a loss contingency, but it does not explicitly link these details to climate change or climate litigation. The litigation mentioned (Havana Docks) could potentially involve environmental issues, but without direct mention of climate change or climate-related impacts, the disclosure is basic and lacks the specificity required for climate litigation.
+
+FINAL: text 2",neither,liquid/lfm-3b
+13,3,"The provided text focuses on financial adjustments and disclosures related to Silversea Cruises, with only one mention of litigation (Havana Docks) that could potentially relate to climate change. However, the litigation is not explicitly linked to climate change, and the text does not provide specific climate-related details or checkable elements directly tied to climate litigation. The mention of a loss contingency is too vague to conclusively label as climate litigation without further context.
+
+Given the lack of explicit climate linkage and the focus on financial matters, the specificity label is ""basic disclosure"".
+
+FINAL: basic disclosure
+
+This label is chosen because the text provides basic financial and legal disclosures but does not offer detailed or specific information directly tied to climate litigation. The litigation mentioned (Havana Docks) could potentially involve climate change issues, but without explicit climate linkage or specific climate-related details, it cannot be classified as climate litigation based on the provided information.",neither,liquid/lfm-3b
+14,3,"The provided text contains specific financial disclosures related to Silversea Cruises but does not explicitly link these to climate litigation. The loss contingency (13) mentions litigation concerning Havana Docks, but it does not specify that this litigation is related to climate change. The details provided are financial in nature and do not include climate-specific legal actions or claims.
+
+FINAL: basic disclosure
+
+The specificity label chosen is ""basic disclosure"" because the text provides financial details and a legal contingency without explicit climate litigation context. The loss contingency (13) could potentially relate to broader environmental issues, but it is not definitively climate litigation based on the given information.",neither,liquid/lfm-3b
+5,4,"The provided text contains highly specific details directly related to climate litigation, including the exact parties involved (producers of oil, natural gas, and coal vs. states and municipalities), specific climate change impacts mentioned (rising sea levels, severe weather events), and the precise legal outcomes sought (money damages for remedial measures). The text also specifies the regulatory framework (environmental laws and regulations) and the potential consequences (financial liabilities, penalties, injunctions). These elements provide a high level of specificity that aligns with the definition of climate litigation.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+6,4,"{
+  ""classification"": ""highly specific"",
+  ""rationale"": ""The breakdown includes precise details directly related to climate litigation, such as specific parties (producers of oil, natural gas, and coal vs. states and municipalities), exact legal actions (lawsuits seeking liability for climate change impacts), and checkable elements (money damages, strict liability for environmental remediation). The climate linkage is clear and specific, focusing on climate change impacts and legal responses to them. The context is well-defined within the framework of environmental regulations and legal actions against fossil fuel producers.""
+}
+
+FINAL: highly specific",text 1,liquid/lfm-3b
+7,4,"The provided text contains highly specific details directly related to climate litigation, including the parties involved (producers of oil, natural gas, and coal vs. states and municipalities), specific legal actions (lawsuits seeking liability for climate change impacts), precise climate-related consequences (rising sea levels, severe weather events), and the sought outcomes (money damages for remedial measures). The text also specifies the regulatory context (environmental laws and regulations) and the potential consequences of non-compliance (penalties, remedial obligations, injunctions).
+
+FINAL: highly specific",neither,liquid/lfm-3b
+8,4,"The breakdown provides precise details about the climate litigation, including specific parties involved (producers of oil, natural gas, and coal; private parties; CNX), the legal actions (lawsuits seeking liability and damages), the climate change impacts targeted (rising sea levels, severe weather events), the regulatory framework (Environmental laws and regulations), and the potential outcomes (money damages, remedial obligations, injunctions). The specificity of anchors, linkage to climate claims, falsifiability through checkable details, and contextual clarity are all present and directly related to climate litigation.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+9,4,"The provided breakdown includes precise details directly related to climate litigation, such as specific parties involved (producers of oil, natural gas, and coal), the nature of the lawsuits (seeking liability for climate change impacts), the legal framework (environmental laws and regulations), and the specific outcomes sought (money damages for remedial measures). The text explicitly mentions climate change impacts and legal actions against fossil fuel producers, which are central to climate litigation. The specificity of anchors, linkage to climate claims, falsifiability, and contextual clarity are all highly detailed and directly relevant to climate litigation.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+10,4,"The provided breakdown includes specific details directly related to climate litigation, such as the parties involved (producers of oil, natural gas, and coal vs. states/municipalities), the nature of the legal actions (lawsuits seeking liability for climate change impacts), the specific climate change impacts mentioned (rising sea levels, severe weather events), the legal rules under which these actions are taken (environmental laws and regulations), and the outcomes sought (money damages for remedial measures). The text provides precise anchors, clear climate linkage, checkable elements (e.g., specific legal actions, monetary amounts), and contextual clarity regarding who is involved, what is happening, where it's happening, when it's happening, and under which rules.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+11,4,"The provided breakdown includes specific details directly related to climate litigation, such as the parties involved (producers of oil, natural gas, and coal vs. states and municipalities), the specific legal actions (lawsuits seeking liability for climate change impacts), the climate-related consequences (rising sea levels, severe weather events), and the legal outcomes sought (money damages for remedial measures). The text explicitly mentions climate change impacts and legal actions against fossil fuel producers, which are central to climate litigation.
+
+The specificity label is 'highly specific' because it includes precise details about the legal actions, parties involved, and the nature of the climate change impacts being litigated.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+12,4,"The breakdown includes precise details directly related to climate litigation, such as specific legal actions against fossil fuel producers for climate change impacts, exact monetary amounts, and the context of environmental regulations and compliance risks. The anchors (parties, case/docket, forum, statute/reg/policy, posture, dates, monetary amounts) are clearly linked to climate litigation. The linkage to climate change is explicit through the mention of specific climate impacts and the nature of the lawsuits. The falsifiability is supported by checkable details like exact dates and monetary amounts. The contextual clarity is high as it specifies who is doing what, where, when, and under which rules.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+13,4,"The provided breakdown includes specific details directly related to climate litigation, such as the parties involved (producers of oil, natural gas, and coal vs. states/municipalities), the nature of the lawsuits (seeking liability for climate change impacts), the legal framework (environmental laws and regulations), and the specific outcomes sought (money damages for remedial measures). The specificity of anchors, climate linkage, falsifiability, and contextual clarity are all highly detailed and directly tied to climate litigation.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+14,4,"The provided text is highly specific regarding climate litigation due to the detailed mention of lawsuits against fossil fuel producers for climate change impacts, specific legal actions, and the quantification of potential liabilities. The text explicitly links the lawsuits to climate change consequences and outlines the legal and financial implications, which are key elements of climate litigation.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+6,5,"{""classification"": ""basic disclosure""}
+
+Rationale: The provided text includes general references to potential risks related to environmental and regulatory issues, including advocacy for climate change action and divestment from fossil fuels. However, it does not specify any particular legal actions, cases, or dates related to climate litigation. The language is too vague and general to conclusively identify climate litigation. It mentions broader environmental and regulatory pressures but lacks the specificity required for climate litigation.
+
+FINAL: text 2
+",neither,liquid/lfm-3b
+7,5,"============================================================
+Rationale: The provided summary and original text discuss potential risks and challenges related to derivatives legislation, public perception, and environmental/corporate responsibility issues. While these topics are relevant to CNX's operations and could potentially involve climate litigation, the text does not explicitly mention any specific legal actions or cases related to climate change. The focus is more on regulatory and reputational risks rather than direct litigation. Therefore, the classification is 'basic disclosure' as it hints at broader environmental and regulatory pressures but does not provide specific details about climate litigation.
+
+FINAL: basic disclosure
+```json
+{
+  ""classification"": ""basic disclosure""
+}
+```",neither,liquid/lfm-3b
+8,5,"============================================================
+Rationale: The provided summary and original text discuss potential risks and pressures on CNX related to environmental and regulatory changes, including the impact of advocacy groups pushing for climate action and divestment from fossil fuels. However, the text does not provide specific details about any legal actions, court cases, or exact regulatory requirements that would constitute climate litigation. It mentions increased regulatory scrutiny and potential litigation risk in a general sense but does not anchor this to specific climate litigation cases or legal proceedings.
+
+FINAL: basic disclosure
+```json
+{
+  ""parties"": [
+    ""CNX"",
+    ""advocacy groups"",
+    ""investment advisors"",
+    ""sovereign wealth funds"",
+    ""public pension funds"",
+    ""universities""
+  ],
+  ""case_title_or_docket"": null,
+  ""forum_or_jurisdiction"": ""not specified"",
+  ""statute_reg_policy"": [
+    ""climate change"",
+    ""energy transition"",
+    ""fossil fuel divestment"",
+    ""environmental regulations""
+  ],
+  ""procedural_posture"": ""increased regulatory scrutiny, additional laws, regulations, and enforcement actions"",
+  ""dates_or_timeframes"": [
+    ""recent years""
+  ],
+  ""monetary_or_quantified"": [
+    ""pressure on investment decisions and practices"",
+    ""demands for more sustainable investment strategies""
+  ],
+  ""climate_linkage_summary"": ""Advocacy groups are pushing for changes in corporate practices related to climate change and energy transition, including divestment from fossil fuels and increased action on climate change."",
+  ""climate_linkage_quotes"": [],
+  ""checkable_elements"": [
+    ""increased regulatory scrutiny"",
+    ""additional laws and regulations"",
+    ""divestment from fossil fuels"",
+    ""sustainable investment strategies""
+  ],
+  ""who"": ""CNX, advocacy groups, investment advisors, sovereign wealth funds, public pension funds, universities"",
+  ""what"": ""pressure on CNX to change corporate practices"",
+  ""where"": ""public discourse and investment community"",
+  ""when"": ""recent years"",
+  ""under_which_rule"": ""climate change and energy transition regulations"",
+  ""sought_outcome"": ""changes in corporate practices, divestment from fossil fuels, more sustainable investment strategies"",
+  ""evidence_quotes"": []
+}
+```
+",neither,liquid/lfm-3b
+9,5,"Rationale: The provided text discusses potential risks and challenges related to future legislation on derivatives and broader environmental and regulatory issues affecting CNX's operations. While it mentions advocacy groups pushing for climate change action and divestment from fossil fuels, it does not provide specific details about any legal actions or cases related to climate change. The text does not meet the criteria for detailed or highly specific disclosure regarding climate litigation.
+
+Final: basic disclosure
+
+============================================================
+ASSISTANT MESSAGE 11
+============================================================
+{
+  ""parties"": [
+    ""CNX"",
+    ""advocacy groups"",
+    ""investment advisors"",
+    ""sovereign wealth funds"",
+    ""public pension funds"",
+    ""universities""
+  ],
+  ""case_title_or_docket"": null,
+  ""forum_or_jurisdiction"": ""not specified"",
+  ""statute_reg_policy"": [
+    ""climate change"",
+    ""energy transition"",
+    ""fossil fuel divestment"",
+    ""environmental regulations""
+  ],
+  ""procedural_posture"": ""increased regulatory scrutiny, additional laws, regulations, and enforcement actions"",
+  ""dates_or_timeframes"": [
+    ""recent years""
+  ],
+  ""monetary_or_quantified"": [
+    ""pressure on investment decisions and practices"",
+    ""demands for more sustainable investment strategies""
+  ],
+  ""climate_linkage_summary"": ""Advocacy groups are pushing for changes in corporate practices related to climate change and energy transition, including divestment from fossil fuels and increased action on climate change."",
+  ""climate_linkage_quotes"": [],
+  ""checkable_elements"": [
+    ""increased regulatory scrutiny"",
+    ""additional laws and regulations"",
+    ""divestment from fossil fuels"",
+    ""sustainable investment strategies""
+  ],
+  ""who"": ""CNX, advocacy groups, investment advisors, sovereign wealth funds, public pension funds, universities"",
+  ""what"": ""pressure on CNX to change corporate practices"",
+  ""where"": ""public discourse and investment community"",
+  ""when"": ""recent years"",
+  ""under_which_rule"": ""climate change and energy transition regulations"",
+  ""sought_outcome"": ""changes in corporate practices, divestment from fossil fuels, more sustainable investment strategies"",
+  ""evidence_quotes"": []
+}
+
+Given the structured breakdown and the provided text, the classification is 'basic disclosure' because:
+- The text mentions parties and potential risks related to climate change and energy transition but does not specify any legal actions or cases.
+- It provides a general overview of pressures and regulatory changes without detailing specific climate litigation.
+- The linkage to climate claims is indirect and not explicitly stated as litigation.
+
+Therefore, the specificity label is 'basic disclosure'.
+
+FINAL: basic disclosure",text 1,liquid/lfm-3b
+10,5,"The provided text includes specific references to climate change and environmental issues, such as advocacy groups pushing for divestment from fossil fuels and increased action on climate change. However, the text does not provide detailed, specific legal actions or case details that would qualify as climate litigation. It discusses potential risks and pressures on CNX related to environmental issues, but these are not tied to specific legal claims or litigation outcomes.
+
+The classification is ""basic disclosure"" because the text mentions broader environmental and regulatory pressures that could lead to legal actions, but it does not specify any actual litigation or legal claims related to climate change.
+
+FINAL: basic disclosure",neither,liquid/lfm-3b
+11,5,"============================================================
+Rationale: The provided summary and original text discuss potential risks and challenges related to future legislation on derivatives and broader environmental issues, but they do not explicitly mention any specific legal actions or cases related to climate change. The text does not provide checkable details such as case titles, dates, monetary amounts, or specific legal rules under which CNX seeks outcomes. Therefore, the disclosure is basic and does not meet the criteria for detailed or highly specific climate litigation.
+
+FINAL: basic disclosure
+```json
+{
+  ""classification"": ""basic disclosure""
+}
+```",neither,liquid/lfm-3b
+12,5,"{""classification"": ""basic disclosure""}
+
+Rationale: The provided text mentions potential risks and pressures on CNX related to environmental and regulatory changes, including divestment from fossil fuels and increased action on climate change. However, it does not explicitly mention any specific legal actions or cases related to climate change (e.g., lawsuits, regulatory challenges, etc.). The language used is more about the potential impact of these issues rather than detailing specific litigation. Therefore, it provides a basic disclosure of potential climate-related pressures without detailing climate litigation.
+
+FINAL: text 2",neither,liquid/lfm-3b
+13,5,"The provided text outlines potential risks and challenges related to future legislation and public perception but does not explicitly mention any specific legal actions or cases related to climate change litigation. The focus is on broader regulatory and public pressure issues rather than specific litigation.
+
+The specificity label for this text is ""basic disclosure"" because it mentions general risks and pressures related to climate change and environmental issues without providing specific details about any climate litigation cases or legal actions.
+
+FINAL: basic disclosure",neither,liquid/lfm-3b
+14,5,"============================================================
+Rationale: The provided text discusses potential risks and challenges related to future legislation on derivatives and broader environmental and regulatory issues affecting CNX's operations. While it mentions advocacy groups pushing for climate-related changes and increased regulatory scrutiny, it does not explicitly mention any specific legal actions or cases related to climate change litigation. The text does not provide precise details such as case titles, dates, monetary amounts, or specific legal rules under which CNX is seeking outcomes. Therefore, the disclosure is basic and does not meet the criteria for detailed or highly specific climate litigation.
+
+FINAL: basic disclosure
+```json
+{
+  ""parties"": [
+    ""CNX"",
+    ""advocacy groups"",
+    ""investment advisors"",
+    ""sovereign wealth funds"",
+    ""public pension funds"",
+    ""universities""
+  ],
+  ""case_title_or_docket"": null,
+  ""forum_or_jurisdiction"": ""not specified"",
+  ""statute_reg_policy"": [
+    ""climate change"",
+    ""energy transition"",
+    ""fossil fuel divestment"",
+    ""environmental regulations""
+  ],
+  ""procedural_posture"": ""increased regulatory scrutiny, additional laws, regulations, and enforcement actions"",
+  ""dates_or_timeframes"": [
+    ""recent years""
+  ],
+  ""monetary_or_quantified"": [
+    ""pressure on investment decisions and practices"",
+    ""demands for more sustainable investment strategies""
+  ],
+  ""climate_linkage_summary"": ""Advocacy groups are pushing for changes in corporate practices related to climate change and energy transition, including divestment from fossil fuels and increased action on climate change."",
+  ""climate_linkage_quotes"": [],
+  ""checkable_elements"": [
+    ""increased regulatory scrutiny"",
+    ""additional laws and regulations"",
+    ""divestment from fossil fuels"",
+    ""sustainable investment strategies""
+  ],
+  ""who"": ""CNX, advocacy groups, investment advisors, sovereign wealth funds, public pension funds, universities"",
+  ""what"": ""pressure on CNX to change corporate practices"",
+  ""where"": ""public discourse and investment community"",
+  ""when"": ""recent years"",
+  ""under_which_rule"": ""climate change and energy transition regulations"",
+  ""sought_outcome"": ""changes in corporate practices, divestment from fossil fuels, more sustainable investment strategies"",
+  ""evidence_quotes"": []
+}
+```
+",neither,liquid/lfm-3b
+7,6,"{
+  ""label"": ""detailed disclosure"",
+  ""rationale"": ""The breakdown provides precise details about the parties involved, the specific nature of the legal actions, the forum, the statute under which the tax position is based, the procedural posture, and the checkable elements. It also clearly links these details to climate change litigation, specifying the exact nature of the lawsuits and the parties' roles.""
+}
+
+FINAL: detailed disclosure",text 1,liquid/lfm-3b
+8,6,"{
+  ""particles"": [
+    ""CNX"",
+    ""communities against fossil fuel producers""
+  ],
+  ""case_title_or_docket"": ""pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties"",
+  ""forum_or_jurisdiction"": ""not specified, but likely federal or state courts"",
+  ""statute_reg_policy"": [
+    ""Section 382 of the Internal Revenue Code of 1986"",
+    ""Treasury Regulations or other interpretive guidance"",
+    ""climate change lawsuits under human rights or fiduciary duty arguments""
+  ],
+  ""procedural_posture"": ""CNX is a defendant in pending class action lawsuits and a party to climate change lawsuits"",
+  ""dates_or_timeframes"": [],
+  ""monetary_or_quantified"": [
+    ""costs of defending litigation could negatively impact cash flows, operational results, and financial position""
+  ],
+  ""climate_linkage_summary"": ""CNX is involved in climate change lawsuits by communities against fossil fuel producers, which are related to the company's alleged contributions to climate change."",
+  ""climate_linkage_quotes"": [
+    ""claimants’ alleged entitlements to, and accounting for, natural gas royalties"",
+    ""relating to climate change""
+  ],
+  ""checkable_elements"": [
+    ""CNX's tax position based on NOL carryforwards"",
+    ""potential challenges to CNX's tax positions by the IRS"",
+    ""existence of climate change lawsuits by communities against fossil fuel producers""
+  ],
+  ""who"": ""CNX and communities against fossil fuel producers"",
+  ""what"": ""CNX is involved in class action lawsuits and climate change lawsuits"",
+  ""where"": ""not specified, but likely in the context of the United States"",
+  ""when"": ""current and ongoing"",
+  ""under_which_rule"": ""Section 382 of the Internal Revenue Code of 1986, Treasury Regulations, and climate change litigation statutes or regulations"",
+  ""sought_outcome"": ""CNX seeks to avoid increased tax liabilities and defend against challenges to its tax positions"",
+  ""evidence_quotes"": [
+    ""CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties."",
+    ""Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change.""
+  ]
+}
+
+**Label: detailed disclosure**
+
+**Rationale:**
+The breakdown provides a highly specific and detailed account of the climate litigation involving CNX, including the exact case title, parties, forum, statute, and the nature of the legal actions. It also specifies the financial and legal context, making it clear how these elements link to climate change litigation. The details are checkable and provide a clear picture of the legal risks and actions related to climate change.
+
+FINAL: detailed disclosure",neither,liquid/lfm-3b
+9,6,"============================================================
+ASSISTANT MESSAGE 11
+============================================================
+{
+  ""particles"": [
+    ""CNX"",
+    ""communities against fossil fuel producers""
+  ],
+  ""case_title_or_docket"": ""pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties"",
+  ""forum_or_jurisdiction"": ""not specified, but likely federal or state courts"",
+  ""statute_reg_policy"": [
+    ""Section 382 of the Internal Revenue Code of 1986"",
+    ""Treasury Regulations or other interpretive guidance"",
+    ""climate change lawsuits under human rights or fiduciary duty arguments""
+  ],
+  ""procedural_posture"": ""CNX is a defendant in pending class action lawsuits and a party to climate change lawsuits"",
+  ""dates_or_timeframes"": [],
+  ""monetary_or_quantified"": [
+    ""costs of defending litigation could negatively impact cash flows, operational results, and financial position""
+  ],
+  ""climate_linkage_summary"": ""CNX is involved in climate change lawsuits by communities against fossil fuel producers, which are related to the company's alleged contributions to climate change."",
+  ""climate_linkage_quotes"": [
+    ""claimants’ alleged entitlements to, and accounting for, natural gas royalties"",
+    ""relating to climate change""
+  ],
+  ""checkable_elements"": [
+    ""CNX's tax position based on NOL carryforwards"",
+    ""potential challenges to CNX's tax positions by the IRS"",
+    ""existence of climate change lawsuits by communities against fossil fuel producers""
+  ],
+  ""who"": ""CNX and communities against fossil fuel producers"",
+  ""what"": ""CNX is involved in class action lawsuits and climate change lawsuits"",
+  ""where"": ""not specified, but likely in the context of the United States"",
+  ""when"": ""current and ongoing"",
+  ""under_which_rule"": ""Section 382 of the Internal Revenue Code of 1986, Treasury Regulations, and climate change litigation statutes or regulations"",
+  ""sought_outcome"": ""CNX seeks to avoid increased tax liabilities and defend against challenges to its tax positions"",
+  ""evidence_quotes"": [
+    ""CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties."",
+    ""Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change.""
+  ]
+}
+
+**Rationale:**
+- **Precision of Anchors:** The breakdown provides precise details about the parties (CNX and communities against fossil fuel producers), the specific case (pending class action lawsuits), the forum (likely federal or state courts), and the statute (Section 382 of the Internal Revenue Code).
+- **Linkage to Climate Claims:** The climate linkage is explicitly stated, with specific references to the nature of the lawsuits (related to natural gas royalties and climate change) and the parties involved (communities against fossil fuel producers).
+- **Falsifiability:** The details are checkable, including the case title, parties, and statute.
+- **Contextual Clarity:** The context is clear, detailing who (CNX and communities), what (class action and climate change lawsuits), where (likely in the context of the United States), when (current and ongoing), under which rule (Section 382 and related regulations), and what outcome (avoiding increased tax liabilities and defending against challenges) is sought.
+
+**Label: highly specific**
+
+FINAL: highly specific
+
+============================================================
+Return only the final label:
+highly specific",neither,liquid/lfm-3b
+10,6,"{
+  ""particles"": [
+    ""CNX"",
+    ""communities against fossil fuel producers""
+  ],
+  ""case_title_or_docket"": ""pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties"",
+  ""forum_or_jurisdiction"": ""not specified, but likely federal or state courts"",
+  ""statute_reg_policy"": [
+    ""Section 382 of the Internal Revenue Code of 1986"",
+    ""Treasury Regulations or other interpretive guidance"",
+    ""climate change lawsuits under human rights or fiduciary duty arguments""
+  ],
+  ""procedural_posture"": ""CNX is a defendant in pending class action lawsuits and a party to climate change lawsuits"",
+  ""dates_or_timeframes"": [],
+  ""monetary_or_quantified"": [
+    ""costs of defending litigation could negatively impact cash flows, operational results, and financial position""
+  ],
+  ""climate_linkage_summary"": ""CNX is involved in climate change lawsuits by communities against fossil fuel producers, which are related to the company's alleged contributions to climate change."",
+  ""climate_linkage_quotes"": [
+    ""claimants’ alleged entitlements to, and accounting for, natural gas royalties"",
+    ""relating to climate change""
+  ],
+  ""checkable_elements"": [
+    ""CNX's tax position based on NOL carryforwards"",
+    ""potential challenges to CNX's tax positions by the IRS"",
+    ""existence of climate change lawsuits by communities against fossil fuel producers""
+  ],
+  ""who"": ""CNX and communities against fossil fuel producers"",
+  ""what"": ""CNX is involved in class action lawsuits and climate change lawsuits"",
+  ""where"": ""not specified, but likely in the context of the United States"",
+  ""when"": ""current and ongoing"",
+  ""under_which_rule"": ""Section 382 of the Internal Revenue Code of 1986, Treasury Regulations, and climate change litigation statutes or regulations"",
+  ""sought_outcome"": ""CNX seeks to avoid increased tax liabilities and defend against challenges to its tax positions"",
+  ""evidence_quotes"": [
+    ""CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties."",
+    ""Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change.""
+  ]
+}
+
+**Label: detailed disclosure**
+
+**Rationale:**
+The breakdown provides a high level of specificity and detail, including precise anchors (parties, case title, forum, statute), clear climate linkage (specific nature of the lawsuits and their relation to climate change), checkable elements (tax position, potential challenges, existence of lawsuits), and contextual clarity (who, what, where, when, under which rule, and what is sought). This meets the criteria for a **detailed disclosure**.
+
+FINAL: detailed disclosure",neither,liquid/lfm-3b
+11,6,"============================================================
+ASSISTANT MESSAGE 11
+============================================================
+{
+  ""particles"": [
+    ""CNX"",
+    ""communities against fossil fuel producers""
+  ],
+  ""case_title_or_docket"": ""pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties"",
+  ""forum_or_jurisdiction"": ""not specified, but likely federal or state courts"",
+  ""statute_reg_policy"": [
+    ""Section 382 of the Internal Revenue Code of 1986"",
+    ""Treasury Regulations or other interpretive guidance"",
+    ""climate change lawsuits under human rights or fiduciary duty arguments""
+  ],
+  ""procedural_posture"": ""CNX is a defendant in pending class action lawsuits and a party to climate change lawsuits"",
+  ""dates_or_timeframes"": [],
+  ""monetary_or_quantified"": [
+    ""costs of defending litigation could negatively impact cash flows, operational results, and financial position""
+  ],
+  ""climate_linkage_summary"": ""CNX is involved in climate change lawsuits by communities against fossil fuel producers, which are related to the company's alleged contributions to climate change."",
+  ""climate_linkage_quotes"": [
+    ""claimants’ alleged entitlements to, and accounting for, natural gas royalties"",
+    ""relating to climate change""
+  ],
+  ""checkable_elements"": [
+    ""CNX's tax position based on NOL carryforwards"",
+    ""potential challenges to CNX's tax positions by the IRS"",
+    ""existence of climate change lawsuits by communities against fossil fuel producers""
+  ],
+  ""who"": ""CNX and communities against fossil fuel producers"",
+  ""what"": ""CNX is involved in class action lawsuits and climate change lawsuits"",
+  ""where"": ""not specified, but likely in the context of the United States"",
+  ""when"": ""current and ongoing"",
+  ""under_which_rule"": ""Section 382 of the Internal Revenue Code of 1986, Treasury Regulations, and climate change litigation statutes or regulations"",
+  ""sought_outcome"": ""CNX seeks to avoid increased tax liabilities and defend against challenges to its tax positions"",
+  ""evidence_quotes"": [
+    ""CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties."",
+    ""Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change.""
+  ]
+}
+
+**Label: detailed disclosure**
+
+**Rationale:**
+- The breakdown provides precise details about the parties involved (CNX and communities against fossil fuel producers), the specific legal actions (class action lawsuits related to natural gas royalties and climate change), the forum (likely federal or state courts), and the statute (Section 382 of the Internal Revenue Code).
+- The climate linkage is explicitly stated, focusing on the lawsuits' relation to climate change and the companies' alleged contributions.
+- The details are falsifiable, as they include specific case titles, parties, and legal rules.
+- The context is clear, specifying the ongoing nature of the legal proceedings and the financial implications for CNX.
+
+This level of specificity meets the criteria for a **detailed disclosure**.
+
+FINAL: detailed disclosure
+",neither,liquid/lfm-3b
+12,6,"{
+  ""particles"": [
+    ""CNX"",
+    ""communities against fossil fuel producers""
+  ],
+  ""case_title_or_docket"": ""pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties"",
+  ""forum_or_jurisdiction"": ""not specified, but likely federal or state courts"",
+  ""statute_reg_policy"": [
+    ""Section 382 of the Internal Revenue Code of 1986"",
+    ""Treasury Regulations or other interpretive guidance"",
+    ""climate change lawsuits under human rights or fiduciary duty arguments""
+  ],
+  ""procedural_posture"": ""CNX is a defendant in pending class action lawsuits and a party to climate change lawsuits"",
+  ""dates_or_timeframes"": [],
+  ""monetary_or_quantified"": [
+    ""costs of defending litigation could negatively impact cash flows, operational results, and financial position""
+  ],
+  ""climate_linkage_summary"": ""CNX is involved in climate change lawsuits by communities against fossil fuel producers, which are related to the company's alleged contributions to climate change."",
+  ""climate_linkage_quotes"": [
+    ""claimants’ alleged entitlements to, and accounting for, natural gas royalties"",
+    ""relating to climate change""
+  ],
+  ""checkable_elements"": [
+    ""CNX's tax position based on NOL carryforwards"",
+    ""potential challenges to CNX's tax positions by the IRS"",
+    ""existence of climate change lawsuits by communities against fossil fuel producers""
+  ],
+  ""who"": ""CNX and communities against fossil fuel producers"",
+  ""what"": ""CNX is involved in class action lawsuits and climate change lawsuits"",
+  ""where"": ""not specified, but likely in the context of the United States"",
+  ""when"": ""current and ongoing"",
+  ""under_which_rule"": ""Section 382 of the Internal Revenue Code of 1986, Treasury Regulations, and climate change litigation statutes or regulations"",
+  ""sought_outcome"": ""CNX seeks to avoid increased tax liabilities and defend against challenges to its tax positions"",
+  ""evidence_quotes"": [
+    ""CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties."",
+    ""Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change.""
+  ]
+}
+
+**Label: detailed disclosure**
+
+**Rationale:**
+The breakdown provides precise and checkable details directly related to climate litigation, including specific parties, case titles, legal proceedings, and statutes. It clearly links these elements to climate change impacts and regulatory compliance, making it highly specific and relevant to the definition of climate litigation.
+
+FINAL: detailed disclosure",neither,liquid/lfm-3b
+13,6,"{
+  ""particles"": [
+    ""CNX"",
+    ""communities against fossil fuel producers""
+  ],
+  ""case_title_or_docket"": ""pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties"",
+  ""forum_or_jurisdiction"": ""not specified, but likely federal or state courts"",
+  ""statute_reg_policy"": [
+    ""Section 382 of the Internal Revenue Code of 1986"",
+    ""Treasury Regulations or other interpretive guidance"",
+    ""climate change lawsuits under human rights or fiduciary duty arguments""
+  ],
+  ""procedural_posture"": ""CNX is a defendant in pending class action lawsuits and a party to climate change lawsuits"",
+  ""dates_or_timeframes"": [],
+  ""monetary_or_quantified"": [
+    ""costs of defending litigation could negatively impact cash flows, operational results, and financial position""
+  ],
+  ""climate_linkage_summary"": ""CNX is involved in climate change lawsuits by communities against fossil fuel producers, which are related to the company's alleged contributions to climate change."",
+  ""climate_linkage_quotes"": [
+    ""claimants’ alleged entitlements to, and accounting for, natural gas royalties"",
+    ""relating to climate change""
+  ],
+  ""checkable_elements"": [
+    ""CNX's tax position based on NOL carryforwards"",
+    ""potential challenges to CNX's tax positions by the IRS"",
+    ""existence of climate change lawsuits by communities against fossil fuel producers""
+  ],
+  ""who"": ""CNX and communities against fossil fuel producers"",
+  ""what"": ""CNX is involved in class action lawsuits and climate change lawsuits"",
+  ""where"": ""not specified, but likely in the context of the United States"",
+  ""when"": ""current and ongoing"",
+  ""under_which_rule"": ""Section 382 of the Internal Revenue Code of 1986, Treasury Regulations, and climate change litigation statutes or regulations"",
+  ""sought_outcome"": ""CNX seeks to avoid increased tax liabilities and defend against challenges to its tax positions"",
+  ""evidence_quotes"": [
+    ""CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties."",
+    ""Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change.""
+  ]
+}
+
+FINAL: detailed disclosure
+
+The provided breakdown includes specific details about the parties involved (CNX and communities against fossil fuel producers), the nature of the legal actions (class action lawsuits related to natural gas royalties and climate change), the forum (likely federal or state courts), the statute under which the tax position is based (Section 382 of the Internal Revenue Code), and the potential outcomes and costs associated with these legal actions. This level of specificity meets the criteria for a detailed disclosure.",neither,liquid/lfm-3b
+14,6,"{
+  ""label"": ""detailed disclosure"",
+  ""rationale"": ""The breakdown provides precise details about the parties involved, the specific legal actions, the forum, the statute under which the tax position is based, the nature of the lawsuits, and the context in which these actions are taking place. This level of specificity aligns with the definition of detailed disclosure."",
+  ""final"": ""text 2""
+}",text 2,liquid/lfm-3b
+8,7,"{""classification"": ""highly specific"", ""rationale"": ""The breakdown includes precise details about the parties involved (states, municipalities, producers, CNX, private parties), specific legal actions (lawsuits seeking liability), exact dates and timeframes (currently, pending legal proceedings), monetary aspects (significant financial liabilities, money damages), and specific climate-related claims (weather-related events, rising sea levels, etc.). The linkage to climate litigation is clear and checkable through the cited rule (GHG emissions reduction laws, climate-related weather events regulations) and the sought outcome (money damages for remedial measures)."", ""final"": ""text 2""}",text 2,liquid/lfm-3b
+9,7,"Rationale: The breakdown provides precise details directly related to climate litigation, including specific parties involved (states and municipalities vs. oil, natural gas, and coal producers), the exact nature of the legal actions (lawsuits seeking liability for climate-related weather events and damages), the forum (pending legal proceedings), and the monetary aspects (significant financial liabilities, money damages for remedial measures). The linkage to climate change is clear through references to ""climate-related weather events"" and ""damages caused by climate change."" The procedural posture, dates, and checkable elements further enhance the specificity.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+10,7,"The provided breakdown includes specific details directly related to climate litigation, such as the parties involved (states and municipalities vs. oil, natural gas, and coal producers), the legal actions (lawsuits seeking liability for climate-related weather events and damages), the regulatory context (GHG emissions reduction laws, climate-related weather events regulations), and the outcomes sought (money damages for remedial measures). The linkage to climate change is clear and specific, with direct references to climate-related weather events and damages. The details are precise and checkable, such as the exact number of lawsuits filed and the specific monetary amounts mentioned.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+11,7,"{
+  ""classification"": ""highly specific"",
+  ""rationale"": ""The text provides precise details about climate litigation, including specific parties involved (states and municipalities vs. oil, natural gas, and coal producers), the nature of the legal actions (lawsuits seeking liability for climate-related weather events and damages), the regulatory context (GHG emissions reduction laws, climate-related weather events regulations, environmental laws and regulations), and the outcomes sought (money damages for remedial measures). The mention of a specific case title ('Note 20 – Commitments and Contingent Liabilities') and the quantification of potential liabilities ('significant financial liabilities and legal costs', 'money damages for remedial measures') further supports the high specificity of the climate litigation details."",
+  ""final:""
+}
+text 1",neither,liquid/lfm-3b
+12,7,"Text 2 is more specific about climate litigation, as it provides detailed information about regulatory actions, dates, and monetary amounts related to climate change. Text 1 does not contain any specific information about climate litigation.
+
+FINAL: text 2",text 2,liquid/lfm-3b
+13,7,"The provided breakdown includes specific details directly related to climate litigation, such as the parties involved (states and municipalities vs. oil, natural gas, and coal producers), the specific legal actions (lawsuits seeking liability for climate-related weather events and damages), the forum (pending legal proceedings), the statute/reg/policy (GHG emissions reduction laws, climate-related weather events regulations, environmental laws and regulations), the dates/timeframes (currently, pending legal proceedings), monetary amounts (significant financial liabilities and legal costs, money damages for remedial measures), climate linkage (weather-related events, rising sea levels, etc.), checkable elements (lawsuits filed by states and municipalities, liability for climate-related weather events), who (various parties), what (seeking liability for climate-related weather events and damages), where (not specified), when (currently), under which rule (GHG emissions reduction laws, climate-related weather events regulations, environmental laws and regulations), and sought outcome (money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change).
+
+The specificity is high because it includes precise details about the legal actions, parties, and regulatory context directly tied to climate litigation.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+14,7,"The provided breakdown includes specific details directly related to climate litigation, such as the parties involved in lawsuits, the nature of the legal actions (seeking liability for climate-related damages), the specific climate-related impacts mentioned (weather-related events, rising sea levels, flooding, storms, heatwaves), and the legal outcomes sought (money damages for remedial measures). The text explicitly mentions lawsuits filed by states and municipalities against producers of oil, natural gas, and coal for climate-related damages, which is a clear example of climate litigation. The specificity of the anchors (parties, case/docket, forum, statute/reg/policy, posture, dates, monetary amounts), climate linkage (directly related to climate change impacts and legal actions), falsifiability (checkable details like specific legal actions and outcomes), and contextual clarity (who did what, where, when, under which rule, seeking what outcome) justifies this classification.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+9,8,"Final: The provided breakdown is highly specific, detailing the EPA's regulatory actions, the timeline of these actions, and the specific legal and regulatory changes that could impact the company. It includes checkable elements such as the Clean Air Act provisions, the proposed and actual rules, and the Inflation Reduction Act, which are directly related to climate litigation. The linkage to climate litigation is clear and supported by verifiable details.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+10,8,"Final: detailed disclosure
+
+The structured breakdown provides specific details about the EPA's regulatory actions, proposed and actual rules, timelines, and the specific legal and regulatory changes that could impact the company. It includes checkable elements such as the Clean Air Act provisions, the Clean Power Plan, ACER, and the Inflation Reduction Act, which are directly related to climate litigation. The linkage to climate litigation is clear and specific, making it a detailed disclosure.
+
+FINAL: text 1",text 1,liquid/lfm-3b
+11,8,"============================================================
+Rationale: The breakdown provides a detailed and specific analysis of climate litigation risks, including precise dates, regulatory actions, and the specific legal and environmental statutes involved. It directly references ongoing civil litigation and regulatory scrutiny related to greenhouse gas emissions, which are key elements of climate litigation. The details are checkable and provide a clear context for the company's potential legal exposure.
+
+FINAL: highly specific
+============================================================
+",neither,liquid/lfm-3b
+12,8,"Final: The classification is 'detailed disclosure' because the breakdown includes specific regulatory actions, dates, and monetary amounts related to climate change litigation, providing a clear and precise link to climate litigation efforts.
+
+text 1",text 1,liquid/lfm-3b
+13,8,"Final: The provided breakdown is highly specific, detailing the EPA's regulatory actions, the timeline of these actions, and the specific legal and regulatory changes that could impact the company. It includes checkable elements such as the Clean Air Act provisions, the proposed and actual rules, and the Inflation Reduction Act, which are directly related to climate litigation. The linkage to climate litigation is clear and supported by specific, verifiable details.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+14,8,"Final: detailed disclosure
+
+The breakdown provides a highly specific analysis of climate litigation risks, including precise details about EPA regulations, proposed and actual rules, timelines, and the specific legal and regulatory changes that could impact the company. It directly links these regulatory actions to climate litigation, making it a detailed disclosure. The inclusion of specific dates, statutes, and the implications of these regulations on the company's operations and financials further supports the classification as detailed disclosure.
+
+FINAL: text 2",text 2,liquid/lfm-3b
+10,9,"FINAL: highly specific
+
+The text provides precise details about CNX's involvement in climate change lawsuits, including the specific number of cases, the parties involved, the forum, and the nature of the claims. This level of detail meets the criteria for highly specific disclosure.
+
+============================================================
+```json
+{
+  ""parties"": [
+    ""CNX"",
+    ""communities"",
+    ""fossil fuel producers""
+  ],
+  ""case_title_or_docket"": ""four climate change lawsuits"",
+  ""forum_or_jurisdiction"": ""courts"",
+  ""statute_reg_policy"": [
+    ""climate change"",
+    ""environmental regulations""
+  ],
+  ""procedural_posture"": ""CNX is a party to four climate change lawsuits, and there is a risk of involvement in additional investigations or suits"",
+  ""dates_or_timeframes"": [
+    ""beginning to gain prevalence in the courts""
+  ],
+  ""monetary_or_quantified"": [
+    ""costs associated with defending these lawsuits could adversely affect CNX's cash flows, operational results, and financial position""
+  ],
+  ""climate_linkage_summary"": ""CNX is involved in climate change lawsuits filed by communities against fossil fuel producers."",
+  ""climate_linkage_quotes"": [
+    ""CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change""
+  ],
+  ""checkable_elements"": [
+    ""CNX's involvement in climate change lawsuits"",
+    ""specificity of climate change as the subject of the lawsuits"",
+    ""financial implications of defending these lawsuits""
+  ],
+  ""who"": ""CNX and communities"",
+  ""what"": ""climate change lawsuits"",
+  ""where"": ""courts"",
+  ""when"": ""beginning to gain prevalence in the courts"",
+  ""under_which_rule"": ""climate change lawsuits"",
+  ""sought_outcome"": ""legal remedies or damages"",
+  ""evidence_quotes"": [
+    ""CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change""
+  ]
+}
+```
+```json
+{
+  ""assessment"": ""highly specific""
+}
+```",text 1,liquid/lfm-3b
+11,9,"FINAL: highly specific
+
+The text provides precise details about CNX's involvement in climate change lawsuits, including the specific number of lawsuits, the parties involved, the forum, and the nature of the claims. This level of specificity meets the criteria for highly specific disclosure.
+
+============================================================
+
+{
+  ""parties"": [
+    ""CNX"",
+    ""communities"",
+    ""fossil fuel producers""
+  ],
+  ""case_title_or_docket"": ""four climate change lawsuits"",
+  ""forum_or_jurisdiction"": ""courts"",
+  ""statute_reg_policy"": [
+    ""climate change"",
+    ""environmental regulations""
+  ],
+  ""procedural_posture"": ""CNX is a party to four climate change lawsuits, and there is a risk of involvement in additional investigations or suits"",
+  ""dates_or_timeframes"": [
+    ""beginning to gain prevalence in the courts""
+  ],
+  ""monetary_or_quantified"": [
+    ""costs associated with defending these lawsuits could adversely affect CNX's cash flows, operational results, and financial position""
+  ],
+  ""climate_linkage_summary"": ""CNX is involved in climate change lawsuits filed by communities against fossil fuel producers."",
+  ""climate_linkage_quotes"": [
+    ""CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change""
+  ],
+  ""checkable_elements"": [
+    ""CNX's involvement in climate change lawsuits"",
+    ""specificity of climate change as the subject of the lawsuits"",
+    ""financial implications of defending these lawsuits""
+  ],
+  ""who"": ""CNX and communities"",
+  ""what"": ""climate change lawsuits"",
+  ""where"": ""courts"",
+  ""when"": ""beginning to gain prevalence in the courts"",
+  ""under_which_rule"": ""climate change lawsuits"",
+  ""sought_outcome"": ""legal remedies or damages"",
+  ""evidence_quotes"": [
+    ""CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change""
+  ]
+}
+
+FINAL: highly specific",text 1,liquid/lfm-3b
+12,9,"FINAL: highly specific
+
+The text provides precise and verifiable details about CNX's involvement in climate change lawsuits, including the specific case title, parties involved, forum, and the nature of the claims. These details meet the criteria for highly specific disclosure in the context of climate litigation.
+
+FINAL: highly specific",text 1,liquid/lfm-3b
+13,9,"FINAL: highly specific
+
+The text provides precise details about CNX's involvement in climate change lawsuits, including the specific number of lawsuits, the parties involved, the forum, and the nature of the claims. It also specifies the financial implications and the ongoing nature of these legal actions, which aligns closely with the definition of highly specific disclosure in the context of climate litigation.
+
+FINAL: highly specific",text 1,liquid/lfm-3b
+14,9,"FINAL: highly specific
+
+The text provides precise details about CNX's involvement in climate change lawsuits, including the specific number of lawsuits, the parties involved, the forum, and the nature of the claims. This level of specificity meets the criteria for highly specific disclosure in the context of climate litigation.
+
+FINAL: highly specific",text 1,liquid/lfm-3b
+11,10,"**Rationale:**
+- **Precision of Anchors:** The breakdown includes specific parties (CNX, communities, and fossil fuel producers) and a procedural posture (CNX is a party to four climate change lawsuits), but lacks specific details about the forum, statute, or dates.
+- **Linkage to Climate Claims:** The climate linkage is clearly specified, mentioning the exact nature of the lawsuits (climate change) and the parties involved (communities against fossil fuel producers).
+- **Falsifiability:** The details are somewhat checkable, including the specific mention of climate change lawsuits and the parties involved, but lack specific details about the court, date, or cited rule.
+- **Contextual Clarity:** The breakdown provides some context about who (CNX and communities), what (climate change lawsuits), and when (beginning to gain prevalence in the courts), but lacks specific details about where and under which rule.
+
+This level of detail meets the criteria for a **basic disclosure**.
+
+FINAL: text 1",text 1,liquid/lfm-3b
+12,10,"BASED on the provided summary and original text, the disclosure is **basic disclosure**. The text mentions lawsuits and claims related to climate change and environmental violations, but it lacks specific case details, dates, and exact monetary amounts that would make it highly specific. The linkage to climate claims is present but not deeply detailed.
+
+FINAL: basic disclosure",text 1,liquid/lfm-3b
+13,10,"Text 1 is classified as ""detailed disclosure"" due to its specific details about the EPA's regulatory actions under the Clean Air Act, the proposed and actual rules (Clean Power Plan and ACER), the timeline of these actions, and the specific legal and regulatory changes that could impact the company.
+
+Text 2 is classified as ""basic disclosure"" due to its mention of CNX's involvement in climate change lawsuits, but lack of specific details about the lawsuits, such as the court, date, or sought outcome.
+
+FINAL: text 1",Text 1,liquid/lfm-3b
+14,10,"**Rationale:**
+Text 1 provides more specific details about the climate litigation, including the number of lawsuits, the parties involved, and the potential financial impact. In contrast, Text 2, while mentioning climate change lawsuits, does not provide the same level of specificity and instead focuses more on the company's debt obligations.
+
+**FINAL:** text 1",text 1,liquid/lfm-3b
+12,11,"============================================================
+Rationale: The breakdown includes specific details directly related to climate litigation, such as the lawsuits filed by states and municipalities against oil, natural gas, and coal producers for climate change impacts. It specifies the parties involved, the legal actions taken, the environmental regulations at play, and the monetary damages sought. The details are precise, checkable, and directly linked to climate change litigation.
+
+FINAL: detailed disclosure
+```json
+{
+  ""classification"": ""detailed disclosure""
+}
+```
+",neither,liquid/lfm-3b
+13,11,"{
+  ""classification"": ""detailed disclosure"",
+  ""rationale"": ""The text provides specific details about climate litigation, including the parties involved (states and municipalities vs. oil, natural gas, and coal producers), the nature of the legal actions (lawsuits seeking liability for climate change impacts), the regulatory context (environmental laws and regulations), and the potential outcomes (money damages for remedial measures). This level of detail meets the criteria for 'detailed disclosure'."",
+  ""final:""
+}
+text 2",neither,liquid/lfm-3b
+14,11,"============================================================
+Rationale: The text provides specific details about climate litigation, including the parties involved (states, municipalities, oil, natural gas, and coal producers), the legal actions taken (lawsuits seeking liability for climate change impacts), the regulatory context (environmental laws and regulations), and the outcomes sought (money damages for remedial measures). The mention of specific legal actions and the context of climate change impacts directly relates to climate litigation.
+
+FINAL: detailed disclosure
+```json
+{
+  ""parties"": [
+    ""states and municipalities"",
+    ""oil, natural gas, and coal producers"",
+    ""CNX"",
+    ""private parties (owners of properties through which CNX’s gathering systems pass)""
+  ],
+  ""case_title_or_docket"": ""Not specified in the text"",
+  ""forum_or_jurisdiction"": ""Not specified in the text"",
+  ""statute_reg_policy"": [
+    ""Environmental, Social, and Governance (ESG) goals and programs"",
+    ""laws and regulations relating to the discharge of materials into, and protection of, the environment""
+  ],
+  ""procedural_posture"": ""Nearly two dozen lawsuits filed"",
+  ""dates_or_timeframes"": [
+    ""Not specified in the text""
+  ],
+  ""monetary_or_quantified"": [
+    ""money damages""
+  ],
+  ""climate_linkage_summary"": ""Lawsuits seeking liability for climate change impacts such as rising sea levels, severe weather events, and demanding remedial measures to mitigate these damages."",
+  ""climate_linkage_quotes"": [
+    ""climate change impacts such as rising sea levels, severe weather events""
+  ],
+  ""checkable_elements"": [
+    ""lawsuits filed by states and municipalities against oil, natural gas, and coal producers"",
+    ""seeking liability for climate change impacts"",
+    ""remedial measures to mitigate damages caused by climate change""
+  ],
+  ""who"": ""states and municipalities, oil, natural gas, and coal producers, CNX, private parties"",
+  ""what"": ""seeking liability for climate change impacts, demanding remedial measures"",
+  ""where"": ""Not specified in the text"",
+  ""when"": ""Not specified in the text"",
+  ""under_which_rule"": ""Environmental laws and regulations"",
+  ""sought_outcome"": ""money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change"",
+  ""evidence_quotes"": []
+}
+```
+",neither,liquid/lfm-3b
+13,12,"Final: The original text and the breakdown provide highly specific details directly related to climate litigation, including specific regulatory actions, dates, and monetary amounts. The text explicitly mentions civil litigation and regulatory focus on greenhouse gas emissions, which are key elements of climate litigation. The structured breakdown confirms the precision and falsifiability of these details.
+
+FINAL: highly specific",neither,liquid/lfm-3b
+14,12,"Text 1 is more specific than Text 2 because it provides more detailed information about the climate litigation, including the parties involved, the forum, and the procedural posture. Text 2 does not provide any specific information about climate litigation.
+
+FINAL: text 1",text 1,liquid/lfm-3b
+14,13,"The specificity label chosen is ""basic disclosure"" because while the text provides clear and direct information about CNX being involved in climate change lawsuits against fossil fuel producers, it does not delve into specific details such as case titles, exact court names, dates of litigation, or quantified monetary damages. The information is sufficiently specific to identify climate litigation but lacks the granularity to be considered highly specific.
+
+FINAL: basic disclosure",text 1,liquid/lfm-3b

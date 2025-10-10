@@ -1,0 +1,365 @@
+idx_1,idx_2,reasoning,result,model
+1,0,"Based on the two texts, I would choose Text 1 as the more specific text. Here's why:
+
+Text 1 provides more specific details about the potential risks and uncertainties related to climate change, including the specific regulatory efforts and requirements that the company may be subject to. For example, it mentions the European Union's Fit for 55 package and the European Union Emission Trading System, which provides a clear example of a specific regulatory effort. Additionally, it mentions the text provides more specific information about the potential impacts of climate change on the company's business, such as the requirement to reduce emissions, pay for emissions, and modify itineraries.
+
+In contrast, Text 2 provides more general information about the potential risks and uncertainties related to climate change, without providing specific details about the regulatory efforts or requirements that the company may be subject to. For example, it mentions ""new laws and regulations"" and ""mandatory disclosure, reporting and diligence requirements"", but does not provide any specific examples or details.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+2,0,"Text 2 is more specific than Text 1 because it provides more detailed information about climate litigation, including the number of lawsuits, the type of damages sought, and the parties involved. Text 1 only mentions the possibility of climate change-related litigation, but does not provide any specific details.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+3,0,"Based on the two texts, I would choose Text 2 as the more specific text. 
+
+Text 2 provides more specific details about the company's exposure to climate change-related risks and regulations, including the potential for climate change-related litigation. The text also mentions specific regulations, such as the IMO Sulfur Limit and CII regulations, and provides more context about the company's potential exposure to these regulations. In contrast, Text 1 does not provide any specific details about climate litigation and only mentions a loss contingency related to the ongoing Havana Docks litigation, which is not related to climate change.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+4,0,FINAL: text 1,text 1,meta-llama/llama-3.1-8b-instruct
+5,0,FINAL: text 2,text 2,meta-llama/llama-3.1-8b-instruct
+6,0,"Based on the breakdown of specificity for climate litigation, Text 1 is more specific than Text 2. Text 1 mentions the exact type of climate change lawsuits being pursued by communities against fossil fuel producers, whereas Text 2 only mentions potential climate change-related litigation without providing any specific details.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+7,0,"Based on the breakdown, the text lacks specific details about climate litigation, such as the names of parties involved, the court or jurisdiction, or the exact dates. The mention of climate change-related litigation is also quite vague, and the text does not provide any quantified information about the damages or the number of lawsuits. The climate linkage is clear, but the falsifiability is limited due to the lack of specific details. The contextual clarity is also limited, as the text does not provide information about who is doing what, where, when, or under which rule.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+8,0,"Based on the breakdown of specificity for climate litigation, I would choose ""vague disclosure"" for Text 2. The text mentions climate change-related litigation, but it does not provide specific details about the litigation, such as the parties involved, the court or jurisdiction, or the specific regulations or policies at issue. The text also does not provide a clear summary of the climate linkage, and the checkable elements are not specified.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+9,0,"Based on the breakdown of specificity for climate litigation, I would say that Text 1 is more specific than Text 2. Here's why:
+
+Text 1 provides more specific information about the climate litigation, including the fact that CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change. The text also mentions that the lawsuits are ""beginning to gain prevalence in the courts"", which suggests that the litigation is ongoing and has some level of specificity. Additionally, the text provides some checkable details, such as the number of lawsuits (four) and the fact that they are being pursued by communities against fossil fuel producers.
+
+In contrast, Text 2 mentions climate change-related litigation as a potential risk, but does not provide any specific information about the litigation itself. The text mentions that the company is exposed to potential climate change-related litigation, but does not provide any details about the lawsuits, such as the parties involved, the court or jurisdiction, or the specific allegations.
+
+Therefore, I would say that Text 1 is more specific than Text 2.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+10,0,"Based on the two texts, I would choose Text 2 as the more specific text.
+
+Text 2 provides more specific information about the potential risks and consequences of climate change-related regulatory activity, including the potential for climate change-related litigation. The text also mentions specific regulations, such as the IMO Sulfur Limit and CII regulations, and provides more detail about the potential impact on the company's business and financial results.
+
+In contrast, Text 1 only mentions ""climate change"" as one of the areas of litigation, without providing any specific details about the nature of the claims or the company's contribution to climate-related impacts.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+11,0,"The text provides a general mention of climate change-related litigation as a potential risk, but does not provide specific details about the cases, such as the court, date, or cited rule. The mention of climate change-related litigation is not a clear example of climate litigation as defined in the provided text.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+12,0,"Based on the breakdown of specificity for climate litigation, Text 1 is more specific than Text 2. Text 1 provides more detailed information about the regulatory actions taken by the EPA, including the Clean Power Plan and the Affordable Clean Energy Rule, and mentions specific dates and monetary amounts related to the methane emissions charge. In contrast, Text 2 mentions climate change-related litigation as a potential risk, but does not provide any specific details about the litigation.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+13,0,"The text provides a vague disclosure about climate litigation, mentioning that the company is exposed to potential climate change-related litigation, but without providing any specific details or context. The text does not provide any information about the parties involved, the type of litigation, or the specific climate-related issues at stake. Therefore, I would classify this text as a vague disclosure.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+14,0,"Based on the breakdown, the text does not provide specific details about climate litigation, such as parties, case titles, or dates. The mention of ""climate change-related litigation"" is a general statement and does not provide any checkable elements or contextual clarity. Therefore, I would choose the label ""vague disclosure"".
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+2,1,FINAL: text 2,text 2,meta-llama/llama-3.1-8b-instruct
+3,1,"Based on the two breakdowns, I would choose Text 2 as the more specific text. This is because Text 2 provides more detailed information about the potential risks and uncertainties related to climate change, including specific regulatory requirements and potential impacts on the company's business and financial results. In contrast, Text 1 is more general and does not provide specific details about climate litigation.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+4,1,FINAL: text 2,text 2,meta-llama/llama-3.1-8b-instruct
+5,1,"Based on the two breakdowns, I would choose Text 2 as the more specific text. The reason is that Text 2 provides more specific details about climate-related regulatory risks, including potential emissions reductions, carbon pricing, and increased operating costs, which could impact the company's profitability and financial results. Additionally, Text 2 mentions specific regulatory efforts, such as the European Union's Fit for 55 package and the European Union Emission Trading System, which provides more context and clarity about the company's exposure to climate-related risks.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+6,1,"Based on the breakdown of specificity for climate litigation, Text 1 is more specific than Text 2. Text 1 mentions the exact number of climate change lawsuits (four) and the parties involved (communities against fossil fuel producers), whereas Text 2 only mentions the possibility of climate change-related litigation and the company's potential exposure to regulatory requirements and costs.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+7,1,"The text provides some general information about climate change-related regulatory risks, but lacks specific details about the cases, parties involved, or quantified information. The climate linkage is clear, but the falsifiability is limited due to the lack of specific details. The contextual clarity is also limited, as the text does not provide information about who is doing what, where, when, or under which rule.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+8,1,"Based on the breakdown of specificity for climate litigation, I would choose ""vague disclosure"" for Text 2. The text mentions climate change and potential climate-related regulatory risks, but it does not provide specific details about climate litigation, such as parties, case titles, or dates. The language used is also quite general and does not provide a clear link to climate claims or falsifiable details.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+9,1,"Based on the two breakdowns, I would choose Text 1 as the more specific text.
+
+Text 1 provides more specific information about the climate change lawsuits, including the number of lawsuits (four) and the fact that they are being pursued by communities against fossil fuel producers. The text also mentions the potential costs of defending litigation and the possibility of future investigations or suits. In contrast, Text 2 provides more general information about climate change-related regulatory risks and potential impacts on the company's business, but lacks specific details about climate litigation.
+
+The structured breakdown for Text 1 shows that it has more specific information about the parties involved (CNX, communities, fossil fuel producers), the type of lawsuits (climate change), and the potential impacts on the company's business. In contrast, the structured breakdown for Text 2 shows that it lacks specific information about the parties involved, the type of lawsuits, and the potential impacts on the company's business.
+
+Therefore, I would choose Text 1 as the more specific text.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+10,1,"Based on the breakdown of specificity for climate litigation, I would choose ""text 2"" as the more specific text. 
+
+Text 2 provides more specific information about the company's potential exposure to climate-related regulatory risks, including the European Union's Fit for 55 package and the European Union Emission Trading System, which imposes requirements on the company to purchase carbon emission allowances for their qualified emissions beginning in 2024. This level of detail is not present in Text 1, which only mentions ""climate change"" as one of the areas of litigation without providing any specific information about the company's potential exposure to climate-related risks or regulations.",text 2,meta-llama/llama-3.1-8b-instruct
+11,1,"The text is classified as vague disclosure because it mentions climate change and potential regulatory risks, but does not provide specific details about the cases, such as the court, date, or cited rule. The text also does not provide quantified information about the monetary amounts or the scope of the damages.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+12,1,"Based on the two texts, I would choose Text 1 as the more specific text. Text 1 provides a detailed breakdown of the regulatory actions taken by the EPA and the Trump and Biden administrations regarding climate change, including specific dates, rules, and court decisions. It also mentions the Inflation Reduction Act and its provisions related to climate change. In contrast, Text 2 provides a more general discussion of climate change-related risks and uncertainties, without providing specific details or examples.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+13,1,"The text provides some general information about climate change-related regulatory risks, but it lacks specific details about climate litigation, such as parties involved, case titles, or dates. The text also does not provide a clear link to a specific climate claim or policy. The language used is more focused on the company's potential exposure to regulatory requirements and costs, rather than specific allegations of wrongdoing or harm caused by the company's actions.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+14,1,"Based on the breakdown, the text does not provide specific details about climate litigation, such as parties, case titles, or dates. The text mentions climate change-related regulatory risks and potential litigation, but it does not provide a clear and specific description of the litigation. The language used is more focused on the company's potential exposure to regulatory requirements and costs, rather than specific allegations of wrongdoing or harm caused by the company's actions.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+3,2,"Based on the breakdowns, I would choose text 2 as the more specific text. 
+
+Text 2 provides more specific details about climate-related regulatory activity, including the Fit for 55 package and the European Union Emission Trading System, which are directly related to climate change. The text also mentions potential climate litigation as a risk due to climate change-related regulatory activity, which is a more specific mention of climate litigation compared to text 1. 
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+4,2,"Based on the breakdown of specificity for climate litigation, I would choose ""text 1"" as the more specific text. This is because Text 1 provides more specific details about climate litigation, including the number of lawsuits filed, the type of damages sought, and the specific weather-related events mentioned. In contrast, Text 2 only mentions potential climate litigation as a risk, without providing any specific details or context.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+5,2,"Based on the two breakdowns, I would choose Text 2 as the more specific text. Here's why:
+
+Text 2 provides more specific details about climate change-related regulatory activity, including the Fit for 55 package and the European Union Emission Trading System. It also mentions potential climate litigation as a risk, which is a more specific and direct reference to climate litigation. Additionally, Text 2 provides more specific information about the potential impacts of climate change-related regulatory activity, such as increased costs and modified itineraries.
+
+In contrast, Text 1 mentions climate change and energy transition as areas of increasing attention and concern, but it does not provide specific details about climate litigation or regulatory activity. It also mentions potential risks and challenges related to climate change, but these are framed as potential business and regulatory risks rather than specific legal actions or challenges related to climate change.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+6,2,FINAL: text 2,text 2,meta-llama/llama-3.1-8b-instruct
+7,2,"The text provides some general information about climate-related regulatory activity and its potential impact on the company's business, but it lacks specific details about climate litigation, such as the names of parties involved, the court or jurisdiction, or the exact dates. The text also does not provide any quantified information about the damages or the number of lawsuits. The climate linkage is mentioned, but the falsifiability is limited due to the lack of specific details. The contextual clarity is also limited, as the text does not provide information about who is doing what, where, when, or under which rule.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+8,2,"Based on the breakdown of specificity for climate litigation, the text does not provide any specific details about climate litigation, such as parties, case titles, or dates. It only mentions the potential for climate change-related litigation as a risk, without providing any further information. Therefore, the specificity label is ""vague disclosure"".
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+9,2,"Based on the breakdown, the text does not provide specific details about climate litigation, such as parties, case titles, or dates. The mention of ""climate change-related litigation"" is a general risk mentioned in the text, but it does not provide any specific information about actual lawsuits or legal actions. Therefore, the text is classified as a vague disclosure.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+10,2,"Based on the two breakdowns, I would choose ""text 2"" as the more specific text.
+
+Text 2 provides more specific details about the climate-related risks and challenges faced by the company, including the proposed EU regulations under the Fit for 55 package, the European Union Emission Trading System, and the potential for climate change-related litigation. The text also mentions specific dates, such as 2024, and provides more detailed information about the company's potential exposure to climate-related risks.
+
+In contrast, Text 1 provides more general information about the company's financial statements and legal and environmental liabilities, but does not provide specific details about climate-related risks or challenges.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+11,2,"Based on the breakdown, the text does not provide specific details about climate litigation, such as parties, case titles, or dates. The text also does not provide a clear summary of climate linkage or falsifiability. The contextual clarity is also limited, as the text does not provide specific information about who is involved, what actions are being taken, or under which rule. The text only mentions potential climate litigation as a risk due to climate change-related regulatory activity, which is a vague disclosure.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+12,2,"Based on the breakdown of specificity for climate litigation, Text 1 is more specific than Text 2. Text 1 provides more detailed information about the regulatory actions and policies related to climate change, including the specific rules and regulations that have been proposed or implemented, as well as the dates and monetary amounts associated with them. In contrast, Text 2 mentions climate change-related regulatory activity and potential litigation, but does not provide specific details about the regulations or policies involved.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+13,2,"Based on the breakdown, the text does not provide specific details about climate litigation, such as parties, case titles, or dates. It also does not provide a clear link to a specific climate claim or policy. The text mentions potential climate litigation as a risk due to climate change-related regulatory activity, but it does not provide any checkable elements or evidence quotes. Therefore, I would classify the text as a vague disclosure.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+14,2,"Based on the breakdown, the text does not provide specific details about climate litigation, such as parties, case titles, or dates. The mention of ""climate change-related litigation"" is vague and does not provide any context or clarity about the litigation. The text also does not provide any checkable elements or evidence quotes related to climate litigation.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+4,3,"Based on the comparison of the two texts, I would choose Text 1 as the more specific text. Text 1 provides more detailed information about the climate litigation, including the number of lawsuits, the type of damages sought, and the specific weather-related events mentioned. Additionally, Text 1 provides more context about the company's operations and the potential risks and liabilities associated with climate change.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+5,3,"Based on the two breakdowns, I would choose Text 1 as the more specific text. The breakdown for Text 1 provides more detailed information about the climate linkage, including specific quotes and checkable elements, whereas the breakdown for Text 2 only mentions a loss contingency related to the ongoing Havana Docks litigation without providing further details on climate linkage.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+6,3,FINAL: text 2,text 2,meta-llama/llama-3.1-8b-instruct
+7,3,"Based on the breakdown, I would choose ""vague disclosure"" because the text does not provide specific details about the climate litigation, such as the parties involved, the court or jurisdiction, or the exact dates. The text only mentions a ""loss contingency recorded in connection with the ongoing Havana Docks litigation"" without providing further details on climate linkage.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+8,3,"Based on the breakdown of specificity for climate litigation, Text 1 is more specific than Text 2. Text 1 provides more detailed information about climate change regulations, litigation, and policy, including specific dates, regulations, and permits. In contrast, Text 2 only mentions a loss contingency related to the ongoing Havana Docks litigation, but does not provide further details on climate linkage.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+9,3,FINAL: text 1,text 1,meta-llama/llama-3.1-8b-instruct
+10,3,"Based on the breakdown of specificity for climate litigation, I would choose ""text 2"" as the more specific text. 
+
+Text 2 has more specific details about the climate litigation, including the mention of ""Havana Docks litigation"" and the related legal fees and costs, which provides a clearer link to climate litigation. In contrast, Text 1 only mentions ""climate change"" as one of the areas of litigation, but does not provide any specific details about the climate-related claims or liabilities. 
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+11,3,"Based on the breakdown, the text does not provide specific details about the climate litigation, such as the court, date, or cited rule. The mention of ""Havana Docks litigation"" is not linked to climate change, and the text does not provide any information on the environmental impact of the company's operations or any related risks or opportunities. Therefore, the label ""vague disclosure"" is chosen.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+12,3,"Based on the breakdown of specificity for climate litigation, Text 1 is more specific than Text 2. Text 1 provides more detailed information about the regulatory actions related to climate change, including the specific rules and policies involved, and the dates and monetary amounts associated with them. In contrast, Text 2 only mentions a loss contingency related to the ongoing Havana Docks litigation, but does not provide further details on climate linkage.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+13,3,"Based on the breakdown of specificity for climate litigation, I would choose ""vague disclosure"" for Text 2. The text mentions a loss contingency related to the ongoing Havana Docks litigation, but does not provide further details on climate linkage. The parties and dates mentioned are related to the litigation, but the text does not provide a clear link to climate claims or policies. The falsifiability of the details is also limited, as the text does not provide checkable elements or evidence quotes related to climate litigation.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+14,3,"Based on the breakdown, I would choose the label ""vague disclosure"". This label is chosen because the text provides some basic information about the Havana Docks litigation, but it does not provide any clear or specific details about the climate linkage, falsifiability, or contextual clarity. The text does not mention any of the specific types of climate litigation listed in the provided text, and it does not provide any information on the environmental impact of the company's operations or any related risks or opportunities.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+5,4,"The text provided is a disclosure from a company, CNX, regarding its environmental and social governance (ESG) goals and programs. The text mentions that the company is facing increasing ESG scrutiny from investors and stakeholders, and that there are currently close to two dozen lawsuits filed by states and municipalities seeking to hold oil, gas, and coal producers liable for climate change-related damages.
+
+The breakdown of specificity for climate litigation is as follows:
+
+* Precision of anchors: The text provides some information about the parties involved (states and municipalities, oil, gas, and coal producers) and the type of damages sought (money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change), but lacks specific details about the cases, such as the court or jurisdiction.
+* Linkage to climate claims: The text clearly links the lawsuits to climate change-related damages, but does not provide specific information about the climate change science, policy, or law underlying these lawsuits.
+* Falsifiability: The text does not provide checkable details, such as exact court dates or cited rules.
+* Contextual clarity: The text provides some information about who is involved (states and municipalities, oil, gas, and coal producers) and what is being sought (money damages), but lacks clarity about where, when, and under which rule these actions are taking place.
+
+Based on these factors, I would choose the specificity label ""vague disclosure"".
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+6,4,"The text provided is a disclosure from CNX, a company in the energy industry, regarding its environmental and regulatory risks. The disclosure mentions the company's involvement in climate change-related lawsuits and its potential liability for damages caused by climate change. However, the disclosure is vague in terms of specific details about the lawsuits, such as the exact number of lawsuits, the courts involved, or the specific climate-related regulations being challenged.
+
+The breakdown of specificity for climate litigation reveals that the text provides some information about the parties involved (states and municipalities, oil, gas, and coal producers), the type of damages sought (money damages for remedial measures), and the climate linkage (lawsuits filed to hold producers liable for climate change-related damages). However, the text lacks precision in terms of anchors (parties, case, docket, forum, statute/reg/policy, posture, dates, monetary amounts), falsifiability (checkable details), and contextual clarity (who did what, where, when, under which rule, seeking what outcome).
+
+Therefore, the final classification is:
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+7,4,"The text provides some basic information about climate litigation, such as the existence of lawsuits and the types of damages sought, but it lacks specific details about the cases, such as the names of the parties involved, the court or jurisdiction, or the exact dates. The climate linkage is clear, but the falsifiability is limited due to the lack of specific details.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+8,4,"Based on the breakdown, the text is a vague disclosure because it mentions climate change-related lawsuits but does not provide specific details about the cases, such as the parties involved, the court or jurisdiction, or the specific regulations or policies at issue.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+9,4,"The text is classified as vague disclosure because it provides general information about climate-related lawsuits and risks, but lacks specific details about the lawsuits, such as the exact court, jurisdiction, or statute involved. The text also does not provide clear information about the climate linkage, falsifiability, or contextual clarity of the lawsuits.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+10,4,"Based on the breakdown of specificity for climate litigation, I would choose ""text 2"" as the more specific text. The reason for this is that Text 2 provides more specific details about the climate-related lawsuits, including the number of lawsuits, the type of damages sought, and the specific weather-related events that are being targeted. Additionally, Text 2 provides more context about the climate-related risks facing CNX, including the potential for joint and several liability, administrative, civil, and criminal penalties, and the imposition of remedial obligations.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+11,4,"Based on the summary, original text, CL classification, and the structured breakdown, I would choose the label: ""vague disclosure"".
+
+The text provides a general overview of climate litigation risks, including the number of lawsuits and the type of damages sought, but does not provide specific details about the cases, such as the court, date, or cited rule. The text also does not provide quantified information about the monetary amounts or the scope of the damages.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+12,4,"Text 1 provides more specific details about climate litigation, including the number of lawsuits, the type of damages sought, and the specific weather-related events mentioned. In contrast, Text 2 mentions climate litigation but provides less specific information, such as the number of lawsuits and the type of damages sought.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+13,4,"Based on the breakdown JSON, the text provides some information about climate litigation, but it is not highly specific. The text mentions the number of lawsuits, the type of damages sought, and the consequences of certain weather-related events, but it does not provide exact details about the climate change science, policy, or law underlying these lawsuits. The text also does not provide a clear link to a specific climate claim or policy.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+14,4,"Based on the breakdown JSON, I would choose the label ""vague disclosure"".
+
+The text provides some basic information about climate litigation, such as the parties involved (states and municipalities), the statute or policy (climate change-related regulations), and the procedural posture (lawsuits filed). However, the text does not provide highly specific details about the litigation, such as the exact court, date, or quantified remedy. The text also does not provide a clear and detailed description of the climate linkage, falsifiability, or contextual clarity.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+6,5,"Based on the breakdown of specificity for climate litigation, I conclude that the original text is a ""vague disclosure"" because it mentions climate change and energy transition, but does not provide specific details about climate litigation, such as parties, case titles, or dates.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+7,5,"The text provides some general information about climate change and energy transition, but it lacks specific details about climate litigation, such as the names of parties involved, the court or jurisdiction, or the exact dates. The climate linkage is present, but the falsifiability is limited due to the lack of specific details. The contextual clarity is also limited, as the text does not provide information about who is doing what, where, when, or under which rule.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+8,5,"Based on the breakdown, the text does not provide specific details about climate litigation, such as parties, case titles, or dates. The text mentions climate change and energy transition as areas of increasing attention and concern, but does not provide any specific information about legal actions or challenges related to climate change. Therefore, the text is classified as a vague disclosure.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+9,5,"Based on the breakdown, the text does not provide specific details about climate litigation, such as parties, case titles, or dates. The text mentions climate change and energy transition, but it is not directly related to specific legal actions or challenges. The disclosure is vague and does not provide clear information about the company's involvement in climate litigation.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+10,5,"Based on the breakdown of specificity for climate litigation, Text 1 is more specific than Text 2. Text 1 mentions ""climate change"" as one of the areas of litigation and provides some checkable elements, such as the estimated loss for lawsuits and claims when the loss is probable and can be estimated. In contrast, Text 2 mentions climate change and energy transition as areas of increasing attention and concern, but does not provide any specific details about climate litigation.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+11,5,"Based on the breakdown, the text does not provide specific details about climate litigation, such as parties, case titles, forums, or statutes. The climate linkage is mentioned in a general sense, but there are no specific quotes or checkable elements related to climate litigation. The text also lacks contextual clarity, as it does not specify who is involved, what actions are being taken, or under which rule the company is operating.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+12,5,"Based on the breakdown of specificity for climate litigation, Text 1 is more specific than Text 2. Text 1 provides more detailed information about the regulatory actions and climate-related policies, including specific dates, statutes, and regulations. It also mentions the Affordable Clean Energy Rule and the Inflation Reduction Act, which are specific climate-related policies. In contrast, Text 2 mentions climate change and energy transition, but does not provide specific details about climate-related policies or regulations.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+13,5,FINAL: text 1,text 1,meta-llama/llama-3.1-8b-instruct
+14,5,"Based on the breakdown, I would choose the label ""vague disclosure"" because the text provides some general information about climate change and energy transition, but it does not provide specific details about climate litigation, such as the parties involved, the statute or policy, or the procedural posture.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+7,6,"Based on the breakdown, I would choose ""vague disclosure"" because the text provides some general information about climate change lawsuits, but lacks specific details about the cases, such as the names of the parties involved, the court or jurisdiction, or the exact dates. The climate linkage is clear, but the falsifiability is limited due to the lack of specific details.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+8,6,"Based on the breakdown, the text is a vague disclosure because it mentions climate change lawsuits being pursued by communities against fossil fuel producers, but does not provide specific details about the cases, such as the court, jurisdiction, or any quantified information.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+9,6,"Based on the two breakdowns, I would choose Text 2 as the more specific text.
+
+Text 2 provides more specific information about the climate litigation, including the number of lawsuits (four), the type of lawsuits (climate change), and the parties involved (CNX, communities, fossil fuel producers). The text also provides more specific information about the potential risks and uncertainties facing CNX related to its tax position and legal proceedings.
+
+In contrast, Text 1 provides more general information about the potential risks and uncertainties facing CNX, but does not provide as much specific detail about the climate litigation.
+
+FINAL: text 2",Text 2,meta-llama/llama-3.1-8b-instruct
+10,6,"Based on the breakdown of specificity for climate litigation, I would choose ""vague disclosure"" for Text 1 and ""vague disclosure"" for Text 2.
+
+For Text 1, the breakdown shows that while there is a mention of climate change, the details are quite general and do not provide specific information about the nature of the climate-related claims or the company's contribution to climate-related impacts. The text does not provide any checkable details, such as exact court dates or cited rules, and the climate linkage is not clearly established.
+
+For Text 2, the breakdown shows that there is a specific mention of climate change lawsuits being pursued by communities against fossil fuel producers, but the details are still quite general and do not provide specific information about the nature of the claims or the company's contribution to climate-related impacts. The text does not provide any checkable details, such as exact court dates or cited rules, and the climate linkage is not clearly established.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+11,6,"Based on the breakdown, the text provides a general mention of climate change lawsuits being pursued by communities against fossil fuel producers, but does not provide specific details about the cases, such as the court, date, or cited rule. The text also does not provide quantified information about the monetary amounts or the scope of the damages. The disclosure is vague in the sense that it provides a general awareness of the climate litigation risks, but does not provide detailed or specific information about the cases.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+12,6,FINAL: text 2,text 2,meta-llama/llama-3.1-8b-instruct
+13,6,"I would choose: vague disclosure
+
+The text provides some general information about the climate litigation, including the parties involved (CNX and communities) and the type of lawsuits (climate change). However, the information is not highly specific, as it does not provide details such as the exact court, date, or quantified remedy. The text also does not provide a clear link to a specific climate claim or policy. Therefore, it falls into the category of vague disclosure.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+14,6,"Based on the breakdown, the text provides some basic information about climate litigation, such as the parties involved (CNX, communities, and fossil fuel producers) and the statute or policy (climate change). However, the text does not provide highly specific details about the litigation, such as the exact court, date, or quantified remedy. The climate linkage is also not clearly defined, and the falsifiability is limited to the fact that CNX is a party to four climate change lawsuits. The contextual clarity is also limited, as the text does not provide a clear description of who is doing what, where, when, and under which rule.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+8,7,"The text provides some basic information about climate litigation, such as the existence of lawsuits and the types of damages sought, but it lacks specific details about the cases, such as the names of the parties involved, the court or jurisdiction, or the exact dates. The text also does not provide any quantified information about the damages or the number of lawsuits. The climate linkage is clear, but the falsifiability is limited due to the lack of specific details. The contextual clarity is also limited, as the text does not provide information about who is doing what, where, when, or under which rule.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+9,7,FINAL: text 2,text 2,meta-llama/llama-3.1-8b-instruct
+10,7,FINAL: text 2,text 2,meta-llama/llama-3.1-8b-instruct
+11,7,"Based on the breakdown of specificity for climate litigation, I would choose the label ""basic disclosure"" for Text 2. The text provides a general overview of climate litigation risks, including the number of lawsuits and the type of damages sought, but does not provide specific details about the cases, such as the court, date, or cited rule.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+12,7,"The text provides some basic information about climate litigation, but lacks specific details about the cases, such as the names of the parties involved, the court or jurisdiction, or the exact dates. The climate linkage is clear, but the falsifiability is limited due to the lack of specific details. The contextual clarity is also limited, as the text does not provide information about who is doing what, where, when, or under which rule.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+13,7,"Based on the breakdown of specificity for climate litigation, I would choose ""basic disclosure"" for Text 1 and ""detailed disclosure"" for Text 2.
+
+Text 1 provides some basic information about climate litigation, including the parties involved (CNX and communities), the type of lawsuits (climate change), and the potential risks associated with defending litigation. However, the information is not highly specific, as it does not provide details such as the exact court, date, or quantified remedy.
+
+Text 2, on the other hand, provides more detailed information about climate litigation, including the number of lawsuits filed, the type of damages sought, and the specific climate-related events that are being held liable. The text also provides information about the environmental regulations and laws that are relevant to the litigation, and the potential consequences of non-compliance.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+14,7,"Based on the breakdown of specificity for climate litigation, I would choose ""text 1"" as the more specific text. This is because Text 1 provides more detailed information about the climate litigation, including the specific lawsuits filed, the parties involved, and the types of damages sought. Additionally, Text 1 provides more specific dates and timeframes, and it mentions the Regional Greenhouse Gas Initiative (RGGI) and the New Source Performance Standards, which are specific climate-related regulations. In contrast, Text 2 provides more general information about the potential risks and challenges facing the oil and natural gas industry, but it lacks the specific details and clarity of Text 1.",text 1,meta-llama/llama-3.1-8b-instruct
+9,8,"Based on the breakdown of specificity for climate litigation, I would rate the text as ""mention only"" because it mentions climate litigation and regulations, but lacks specific details about the parties involved, the court or jurisdiction, the statute or policy, and the procedural posture. The text also lacks checkable elements, such as exact dates, monetary amounts, or quantified remedies.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+10,8,"Based on the breakdown, the text is a mention only of climate litigation, as it does not provide specific details about the litigation, such as parties, case titles, or dates. The text only mentions climate change and litigation in a general sense, without providing any specific information about the litigation itself.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+11,8,"The text provides a general mention of climate litigation, but lacks specific details about the cases, such as the court, date, or cited rule. The text also does not provide quantified information about the monetary amounts or the scope of the damages.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+12,8,"Based on the breakdown of specificity for climate litigation, Text 1 is more specific than Text 2. Text 1 provides more details about the regulatory actions and policies related to climate change, including the Clean Air Act, Clean Power Plan, and Affordable Clean Energy Rule, as well as the dates and jurisdictions involved. In contrast, Text 2 provides more general information about climate change and environmental regulations, but lacks specific details about climate litigation.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+13,8,"The text provides a general mention of climate litigation, but lacks specific details about the cases, parties, or regulations involved. It does not provide a clear link to a specific climate claim or policy, and the information is not quantified or checkable. Therefore, the text falls into the category of ""mention only"".
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+14,8,"Based on the breakdown, the text only mentions climate litigation in a general sense, without providing specific details about the litigation, such as parties, case titles, or dates. The text primarily focuses on the company's disclosure of potential risks and uncertainties related to climate change and environmental regulations.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+10,9,"Based on the breakdown of specificity for climate litigation, I would classify Text 1 as ""vague disclosure"" and Text 2 as ""basic disclosure"".
+
+Text 1 has a vague disclosure because it mentions ""climate change"" as one of the areas of litigation, but does not provide any specific information about the nature of the climate-related claims or the company's contribution to climate-related impacts.
+
+Text 2 has a basic disclosure because it provides some specific information about the parties involved (CNX, communities, fossil fuel producers) and the type of lawsuits (climate change), but lacks precise details about the court, jurisdiction, statute, or policy.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+11,9,"Based on the comparison of the two texts, I would choose ""text 1"" as the more specific text.
+
+Text 1 provides more specific details about the climate litigation, including the number of lawsuits (close to two dozen), the type of damages sought (money damages for remedial measures), and the specific weather-related events (rising sea levels and more frequent and severe flooding, storms and heatwaves). The text also provides more specific information about the regulatory risks and litigation risks, including the potential for joint and several or strict liability, administrative, civil and criminal penalties, and remedial obligations.
+
+In contrast, Text 2 provides more general information about the climate litigation, including the fact that CNX is a party to four climate change lawsuits, but lacks more specific details about the lawsuits, such as the specific allegations or the potential impacts on the company.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+12,9,FINAL: text 2,text 2,meta-llama/llama-3.1-8b-instruct
+13,9,FINAL: text 2,text 2,meta-llama/llama-3.1-8b-instruct
+14,9,"Based on the comparison of the two texts, I would choose ""text 1"" as the more specific text.
+
+Text 1 provides more specific details about the climate litigation, including the number of lawsuits (close to two dozen), the specific type of lawsuits (seeking to hold producers liable for the consequences of climate-related events), and the parties involved (states and municipalities). The text also provides more specific information about the regulatory landscape, including the proposed revisions to the New Source Performance Standards and the Regional Greenhouse Gas Initiative.
+
+In contrast, Text 2 provides more general information about the company's involvement in climate change lawsuits, but lacks specific details about the number of lawsuits, the type of lawsuits, and the parties involved. The text also focuses more on the company's general risks and uncertainties, rather than specifically on climate litigation.
+
+Therefore, Text 1 is more specific in its details about climate litigation and is therefore the more specific text.",text 1,meta-llama/llama-3.1-8b-instruct
+11,10,"The text provides a general mention of climate change as one of the areas of litigation, but lacks specific details about the nature of the climate-related claims or the company's contribution to climate-related impacts. The text does not provide checkable elements, such as exact court, date, cited rule, or quantified remedy, and the climate linkage is not clearly established. Therefore, the disclosure is considered vague.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+12,10,"Text 1 is more specific because it provides detailed information about the regulatory actions taken by the EPA, including the Clean Air Act, Clean Power Plan, and Affordable Clean Energy Rule. It also mentions specific dates, monetary amounts, and court decisions related to climate change. In contrast, Text 2 is more vague because it only mentions ""climate change"" as one of the areas of litigation, without providing any specific details or context.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+13,10,"Based on the breakdown, the text provides some general information about climate change being mentioned as one of the areas of litigation, but it does not provide specific details about the climate-related claims or liabilities. The text does not provide a clear link to a specific climate claim or policy, and the information is not quantified or checkable. Therefore, I would choose ""vague disclosure"".
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+14,10,"The text provides some basic information about climate litigation, such as the company's mention of ""climate change"" as one of the areas of litigation, but lacks specific details about the nature of the climate-related claims or the company's contribution to climate-related impacts. The text also does not provide a clear and detailed description of the climate linkage, falsifiability, or contextual clarity.
+
+FINAL: text 2",text 2,meta-llama/llama-3.1-8b-instruct
+12,11,FINAL: text 2,text 2,meta-llama/llama-3.1-8b-instruct
+13,11,FINAL: text 2,text 2,meta-llama/llama-3.1-8b-instruct
+14,11,"Based on the breakdown of specificity for climate litigation, I would choose the label ""basic disclosure"" for Text 1 and ""mention only"" for Text 2.
+
+Text 1 provides a basic overview of climate litigation, including the number of lawsuits and the type of damages sought, but does not provide specific details about the cases, such as the court, date, or cited rule. The text also does not provide quantified information about the monetary amounts or the scope of the damages.
+
+Text 2 mentions climate litigation only briefly, stating that there are currently close to two dozen lawsuits filed on behalf of various states and municipalities seeking to hold producers of oil, natural gas and coal liable for the consequences of certain weather-related events. However, the text does not provide any further details about the lawsuits, such as the specific cases, courts, or dates.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+13,12,"The text provides some information about the evolving regulatory landscape related to climate change, but it does not provide specific details about climate litigation. The text mentions the Clean Air Act, the Clean Power Plan, and the Affordable Clean Energy Rule, but it does not mention any specific lawsuits or court cases related to climate change. The text also mentions the Inflation Reduction Act, which includes provisions related to climate change, but it does not provide any specific details about climate litigation.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct
+14,12,"Based on the breakdown, the text does not provide specific details about climate litigation, such as parties, case titles, or court decisions. The text also does not provide a clear and detailed description of the climate linkage, falsifiability, or contextual clarity. The text only mentions that the issue of global climate change is ""increasingly the subject of civil litigation and regulatory focus"", but does not provide any specific information about the litigation itself.
+
+FINAL: text 2",neither,meta-llama/llama-3.1-8b-instruct
+14,13,"Based on the breakdown of specificity for climate litigation, I would choose the label ""basic disclosure"" for Text 1 and ""basic disclosure"" for Text 2. Both texts provide some basic information about climate litigation, but lack highly specific details such as exact court dates, quantified remedies, or clear links to specific climate claims or policies.
+
+FINAL: text 1",text 1,meta-llama/llama-3.1-8b-instruct

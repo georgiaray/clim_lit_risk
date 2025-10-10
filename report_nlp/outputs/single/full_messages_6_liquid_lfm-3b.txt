@@ -1,0 +1,341 @@
+
+============================================================
+USER MESSAGE 1
+============================================================
+Summarize the following text: This expectation is based upon assumptions we have made regarding, among other things, our income, capital expenditures and net working capital and the current expectation that our NOL carryforwards will not become subject to future limitations under Section 382 of the Internal Revenue Code of 1986 or otherwise. Additionally, any significant variance in our interpretation of current income tax laws, including as result of the release of any Treasury Regulations or other interpretive guidance or a challenge of one or more of our tax positions by the IRS or other tax authorities could affect our tax position. While CNX expects to be able to utilize our NOL carryforwards and generate deductions to offset our future taxable income, in the event that deductions are not generated as expected, one or more of our tax positions are successfully challenged by the IRS (in a tax audit or otherwise), or our NOL carryforwards are subject to future limitations, our future tax liability may be greater than expected.
+CNX and its subsidiaries are subject to various legal proceedings and investigations, which may have an adverse effect on our business.
+CNX is party to a number of legal proceedings and, from time to time, investigations, in the normal course of business activities. Responding to investigations or defending these actions, especially purported class actions, can be costly and can distract management. For example, CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties. Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change, which are beginning to gain prevalence in the courts. There is also the possibility that CNX may become involved in future investigations or suits regarding its business activities. There is the potential that the costs of defending litigation in an individual matter or the aggregation of many matters could have an adverse effect on our cash flows, results of operations or financial position.
+
+============================================================
+ASSISTANT MESSAGE 2
+============================================================
+The text outlines several key considerations and risks for CNX, focusing on both financial and legal aspects:
+
+1. **Financial Expectations and Risks:**
+   - **Tax Position:** CNX's tax position is based on assumptions about income, capital expenditures, and net working capital. The company expects its Net Operating Loss (NOL) carryforwards to remain unaffected by future limitations under Section 382 of the Internal Revenue Code. However, any changes in tax laws, interpretations by the IRS, or challenges to CNX's tax positions could increase future tax liabilities.
+   - **NOL Carryforwards:** The company relies on its NOL carryforwards to offset future taxable income. If these carryforwards are not utilized as expected, or if the IRS challenges CNX's tax positions or limits NOL carryforwards, the company's tax liability could be higher than anticipated.
+
+2. **Legal Proceedings and Investigations:**
+   - **Current Proceedings:** CNX is involved in multiple legal proceedings and investigations, including class action lawsuits related to natural gas royalties and climate change lawsuits by communities against fossil fuel producers.
+   - **Costs and Impact:** These legal actions can be costly and divert management attention. The costs of defending these lawsuits could negatively impact CNX's cash flows, operational results, and financial position.
+   - **Future Risks:** The company may face additional legal challenges in the future, which could further exacerbate these risks.
+
+In summary, CNX's financial and legal positions are subject to significant uncertainties, including potential changes in tax laws, challenges to its tax positions, and ongoing legal disputes, all of which could adversely affect its financial performance and financial stability.
+
+============================================================
+USER MESSAGE 3
+============================================================
+Please assess whether the following text is climate litigation.
+
+Previously, someone else extracted all of the sentences from several companies' annual reports that related to climate litigation. Now, we are interested in assessing the specificity of these disclosures.
+
+Now, we are just seeing if you agree with them.
+Climate litigation refers to legal actions that materially concern climate change science, policy, or law. These include, but are not limited to:
+- Lawsuits targeting false or misleading climate claims (e.g. greenwashing)
+- Legal actions over a company’s contribution to climate-related impacts
+- Efforts to force climate alignment through human rights or fiduciary duty arguments
+- Failure to disclose climate-related risks or impacts
+- Breaches of climate-related regulations
+- Litigation seeking damages for harms caused by climate change
+- Legal challenges to regulatory approvals on the basis of climate misalignment
+
+You will be given a summary of the text, as well as the original text.
+Summary: The text outlines several key considerations and risks for CNX, focusing on both financial and legal aspects:
+
+1. **Financial Expectations and Risks:**
+   - **Tax Position:** CNX's tax position is based on assumptions about income, capital expenditures, and net working capital. The company expects its Net Operating Loss (NOL) carryforwards to remain unaffected by future limitations under Section 382 of the Internal Revenue Code. However, any changes in tax laws, interpretations by the IRS, or challenges to CNX's tax positions could increase future tax liabilities.
+   - **NOL Carryforwards:** The company relies on its NOL carryforwards to offset future taxable income. If these carryforwards are not utilized as expected, or if the IRS challenges CNX's tax positions or limits NOL carryforwards, the company's tax liability could be higher than anticipated.
+
+2. **Legal Proceedings and Investigations:**
+   - **Current Proceedings:** CNX is involved in multiple legal proceedings and investigations, including class action lawsuits related to natural gas royalties and climate change lawsuits by communities against fossil fuel producers.
+   - **Costs and Impact:** These legal actions can be costly and divert management attention. The costs of defending these lawsuits could negatively impact CNX's cash flows, operational results, and financial position.
+   - **Future Risks:** The company may face additional legal challenges in the future, which could further exacerbate these risks.
+
+In summary, CNX's financial and legal positions are subject to significant uncertainties, including potential changes in tax laws, challenges to its tax positions, and ongoing legal disputes, all of which could adversely affect its financial performance and financial stability.
+
+Original text: This expectation is based upon assumptions we have made regarding, among other things, our income, capital expenditures and net working capital and the current expectation that our NOL carryforwards will not become subject to future limitations under Section 382 of the Internal Revenue Code of 1986 or otherwise. Additionally, any significant variance in our interpretation of current income tax laws, including as result of the release of any Treasury Regulations or other interpretive guidance or a challenge of one or more of our tax positions by the IRS or other tax authorities could affect our tax position. While CNX expects to be able to utilize our NOL carryforwards and generate deductions to offset our future taxable income, in the event that deductions are not generated as expected, one or more of our tax positions are successfully challenged by the IRS (in a tax audit or otherwise), or our NOL carryforwards are subject to future limitations, our future tax liability may be greater than expected.
+CNX and its subsidiaries are subject to various legal proceedings and investigations, which may have an adverse effect on our business.
+CNX is party to a number of legal proceedings and, from time to time, investigations, in the normal course of business activities. Responding to investigations or defending these actions, especially purported class actions, can be costly and can distract management. For example, CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties. Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change, which are beginning to gain prevalence in the courts. There is also the possibility that CNX may become involved in future investigations or suits regarding its business activities. There is the potential that the costs of defending litigation in an individual matter or the aggregation of many matters could have an adverse effect on our cash flows, results of operations or financial position.
+
+============================================================
+ASSISTANT MESSAGE 4
+============================================================
+To assess whether the provided summary accurately reflects climate litigation, let's break down the key points from the original text and compare them to the definition of climate litigation provided:
+
+### Summary Analysis:
+1. **Financial Expectations and Risks:**
+   - **Tax Position:** Discusses potential changes in tax laws and challenges to tax positions, which could affect the company's tax liability.
+   - **NOL Carryforwards:** Highlights the risk of future limitations on NOL carryforwards, which could increase tax liability.
+
+2. **Legal Proceedings and Investigations:**
+   - **Current Proceedings:** Mentions class action lawsuits related to natural gas royalties and climate change lawsuits by communities against fossil fuel producers.
+   - **Costs and Impact:** Notes that these legal actions can be costly and divert management attention.
+   - **Future Risks:** Indicates the possibility of additional legal challenges in the future.
+
+### Climate Litigation Definition:
+Climate litigation includes:
+- Lawsuits targeting false or misleading climate claims (e.g., greenwashing)
+- Legal actions over a company’s contribution to climate-related impacts
+- Efforts to force climate alignment through human rights or fiduciary duty arguments
+- Failure to disclose climate-related risks or impacts
+- Breaches of climate-related regulations
+- Litigation seeking damages for harms caused by climate change
+- Legal challenges to regulatory approvals on the basis of climate misalignment
+
+### Assessment:
+1. **Class Action Lawsuits Related to Natural Gas Royalties:**
+   - **Not Climate Litigation:** These lawsuits are primarily about financial entitlements and do not directly relate to climate change science, policy, or law.
+
+2. **Climate Change Lawsuits by Communities Against Fossil Fuel Producers:**
+   - **Climate Litigation:** These lawsuits directly involve claims related to climate change, which fits the definition of climate litigation. They address the company's contribution to climate-related impacts and seek to hold fossil fuel producers accountable for their role in climate change.
+
+### Conclusion:
+The summary accurately reflects climate litigation in the context of the climate change lawsuits mentioned. However, the class action lawsuits related to natural gas royalties are not examples of climate litigation. Therefore, while the summary includes one aspect of climate litigation, it does not comprehensively capture all the climate litigation risks and actions mentioned in the original text.
+
+**Final Assessment:**
+The summary is partially correct but incomplete. It correctly identifies one aspect of climate litigation (the climate change lawsuits) but fails to include other relevant climate litigation examples (e.g., lawsuits targeting false climate claims, efforts to force climate alignment, failure to disclose climate risks, breaches of climate regulations, and damages for climate change harms).
+
+============================================================
+USER MESSAGE 5
+============================================================
+For your knowledge, the text was previously classified as follows:
+Summary: The text outlines several key considerations and risks for CNX, focusing on both financial and legal aspects:
+
+1. **Financial Expectations and Risks:**
+   - **Tax Position:** CNX's tax position is based on assumptions about income, capital expenditures, and net working capital. The company expects its Net Operating Loss (NOL) carryforwards to remain unaffected by future limitations under Section 382 of the Internal Revenue Code. However, any changes in tax laws, interpretations by the IRS, or challenges to CNX's tax positions could increase future tax liabilities.
+   - **NOL Carryforwards:** The company relies on its NOL carryforwards to offset future taxable income. If these carryforwards are not utilized as expected, or if the IRS challenges CNX's tax positions or limits NOL carryforwards, the company's tax liability could be higher than anticipated.
+
+2. **Legal Proceedings and Investigations:**
+   - **Current Proceedings:** CNX is involved in multiple legal proceedings and investigations, including class action lawsuits related to natural gas royalties and climate change lawsuits by communities against fossil fuel producers.
+   - **Costs and Impact:** These legal actions can be costly and divert management attention. The costs of defending these lawsuits could negatively impact CNX's cash flows, operational results, and financial position.
+   - **Future Risks:** The company may face additional legal challenges in the future, which could further exacerbate these risks.
+
+In summary, CNX's financial and legal positions are subject to significant uncertainties, including potential changes in tax laws, challenges to its tax positions, and ongoing legal disputes, all of which could adversely affect its financial performance and financial stability.
+
+Original text: This expectation is based upon assumptions we have made regarding, among other things, our income, capital expenditures and net working capital and the current expectation that our NOL carryforwards will not become subject to future limitations under Section 382 of the Internal Revenue Code of 1986 or otherwise. Additionally, any significant variance in our interpretation of current income tax laws, including as result of the release of any Treasury Regulations or other interpretive guidance or a challenge of one or more of our tax positions by the IRS or other tax authorities could affect our tax position. While CNX expects to be able to utilize our NOL carryforwards and generate deductions to offset our future taxable income, in the event that deductions are not generated as expected, one or more of our tax positions are successfully challenged by the IRS (in a tax audit or otherwise), or our NOL carryforwards are subject to future limitations, our future tax liability may be greater than expected.
+CNX and its subsidiaries are subject to various legal proceedings and investigations, which may have an adverse effect on our business.
+CNX is party to a number of legal proceedings and, from time to time, investigations, in the normal course of business activities. Responding to investigations or defending these actions, especially purported class actions, can be costly and can distract management. For example, CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties. Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change, which are beginning to gain prevalence in the courts. There is also the possibility that CNX may become involved in future investigations or suits regarding its business activities. There is the potential that the costs of defending litigation in an individual matter or the aggregation of many matters could have an adverse effect on our cash flows, results of operations or financial position.
+
+Classification: 1
+Please only respond with an acknowledgement of this information.
+
+============================================================
+ASSISTANT MESSAGE 6
+============================================================
+Acknowledged. The provided classification of "1" aligns with the summary and original text, as the text indeed outlines both financial and legal considerations, including specific climate change lawsuits, which are a form of climate litigation. The summary and original text accurately reflect the key points of CNX's financial and legal risks, including the climate change lawsuits mentioned.
+
+============================================================
+USER MESSAGE 7
+============================================================
+Build a concept-specific breakdown of SPECIFICITY for climate litigation.
+Focus on anchors (parties/case/docket, forum/jurisdiction, statute/reg/policy, posture, dates, monetary amounts), climate linkage, falsifiability (checkable details), and contextual clarity (who/what/where/when/under which rule/seeking what).
+
+It is very impotant that you only fill in the following schema with details that are DIRECTLY RELATED to climate litigation. Many text chunks will include details about other climate related regulations, monetary incentives, etc. but ONLY IF the text provides the following details about CLIMATE LITIGATION ITSELF, should you fill them in. Otherwise, they should be given null or empty lists.Summary: The text outlines several key considerations and risks for CNX, focusing on both financial and legal aspects:
+
+1. **Financial Expectations and Risks:**
+   - **Tax Position:** CNX's tax position is based on assumptions about income, capital expenditures, and net working capital. The company expects its Net Operating Loss (NOL) carryforwards to remain unaffected by future limitations under Section 382 of the Internal Revenue Code. However, any changes in tax laws, interpretations by the IRS, or challenges to CNX's tax positions could increase future tax liabilities.
+   - **NOL Carryforwards:** The company relies on its NOL carryforwards to offset future taxable income. If these carryforwards are not utilized as expected, or if the IRS challenges CNX's tax positions or limits NOL carryforwards, the company's tax liability could be higher than anticipated.
+
+2. **Legal Proceedings and Investigations:**
+   - **Current Proceedings:** CNX is involved in multiple legal proceedings and investigations, including class action lawsuits related to natural gas royalties and climate change lawsuits by communities against fossil fuel producers.
+   - **Costs and Impact:** These legal actions can be costly and divert management attention. The costs of defending these lawsuits could negatively impact CNX's cash flows, operational results, and financial position.
+   - **Future Risks:** The company may face additional legal challenges in the future, which could further exacerbate these risks.
+
+In summary, CNX's financial and legal positions are subject to significant uncertainties, including potential changes in tax laws, challenges to its tax positions, and ongoing legal disputes, all of which could adversely affect its financial performance and financial stability.
+
+Original text:
+This expectation is based upon assumptions we have made regarding, among other things, our income, capital expenditures and net working capital and the current expectation that our NOL carryforwards will not become subject to future limitations under Section 382 of the Internal Revenue Code of 1986 or otherwise. Additionally, any significant variance in our interpretation of current income tax laws, including as result of the release of any Treasury Regulations or other interpretive guidance or a challenge of one or more of our tax positions by the IRS or other tax authorities could affect our tax position. While CNX expects to be able to utilize our NOL carryforwards and generate deductions to offset our future taxable income, in the event that deductions are not generated as expected, one or more of our tax positions are successfully challenged by the IRS (in a tax audit or otherwise), or our NOL carryforwards are subject to future limitations, our future tax liability may be greater than expected.
+CNX and its subsidiaries are subject to various legal proceedings and investigations, which may have an adverse effect on our business.
+CNX is party to a number of legal proceedings and, from time to time, investigations, in the normal course of business activities. Responding to investigations or defending these actions, especially purported class actions, can be costly and can distract management. For example, CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties. Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change, which are beginning to gain prevalence in the courts. There is also the possibility that CNX may become involved in future investigations or suits regarding its business activities. There is the potential that the costs of defending litigation in an individual matter or the aggregation of many matters could have an adverse effect on our cash flows, results of operations or financial position.
+
+
+Return ONLY valid JSON with this exact schema and keys (no code fences, no extra text):
+
+{
+  "parties": [string],
+  "case_title_or_docket": string or null,
+  "forum_or_jurisdiction": string or null,
+  "statute_reg_policy": [string],
+  "procedural_posture": string or null,
+  "dates_or_timeframes": [string],
+  "monetary_or_quantified": [string],
+  "climate_linkage_summary": string,
+  "climate_linkage_quotes": [string],
+  "checkable_elements": [string],
+  "who": string or null,
+  "what": string or null,
+  "where": string or null,
+  "when": string or null,
+  "under_which_rule": string or null,
+  "sought_outcome": string or null,
+  "evidence_quotes": [string]
+}
+
+Rules:
+- Only consider these categories in relation to climate litigation. If there are dates, parties, monetary amounts, etc. that are not related to climate litigation, ignore them.
+- Populate every key. Use [] for unknown lists, and null for unknown single values.
+- Prefer short verbatim snippets from the text for any *quotes* arrays.
+- Do NOT invent details not supported by the text. Ignore specificity about non-climate topics.
+
+
+============================================================
+ASSISTANT MESSAGE 8
+============================================================
+{
+  "parties": [
+    "CNX",
+    "communities against fossil fuel producers"
+  ],
+  "case_title_or_docket": "pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties",
+  "forum_or_jurisdiction": "not specified, but likely federal or state courts",
+  "statute_reg_policy": [
+    "Section 382 of the Internal Revenue Code of 1986",
+    "Treasury Regulations or other interpretive guidance",
+    "climate change lawsuits under human rights or fiduciary duty arguments"
+  ],
+  "procedural_posture": "CNX is a defendant in pending class action lawsuits and a party to climate change lawsuits",
+  "dates_or_timeframes": [],
+  "monetary_or_quantified": [
+    "costs of defending litigation could negatively impact cash flows, operational results, and financial position"
+  ],
+  "climate_linkage_summary": "CNX is involved in climate change lawsuits by communities against fossil fuel producers, which are related to the company's alleged contributions to climate change.",
+  "climate_linkage_quotes": [
+    "claimants’ alleged entitlements to, and accounting for, natural gas royalties",
+    "relating to climate change"
+  ],
+  "checkable_elements": [
+    "CNX's tax position based on NOL carryforwards",
+    "potential challenges to CNX's tax positions by the IRS",
+    "existence of climate change lawsuits by communities against fossil fuel producers"
+  ],
+  "who": "CNX and communities against fossil fuel producers",
+  "what": "CNX is involved in class action lawsuits and climate change lawsuits",
+  "where": "not specified, but likely in the context of the United States",
+  "when": "current and ongoing",
+  "under_which_rule": "Section 382 of the Internal Revenue Code of 1986, Treasury Regulations, and climate change litigation statutes or regulations",
+  "sought_outcome": "CNX seeks to avoid increased tax liabilities and defend against challenges to its tax positions",
+  "evidence_quotes": [
+    "CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties.",
+    "Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change."
+  ]
+}
+
+============================================================
+USER MESSAGE 9
+============================================================
+Given the summary, original text, CL classification, and the structured breakdown, choose ONE specificity label.
+Base your choice on:
+ - PRECISION of anchors (parties/case/docket, forum, statute/reg/policy, posture, dates, monetary/quantified).
+ - LINKAGE to climate claims (not generic legal/ESG talk).
+ - FALSIFIABILITY (checkable details: exact court, date, cited rule, quantified remedy, etc.).
+ - CONTEXTUAL CLARITY (who did what, where, when, under which rule, seeking what outcome).
+Ignore specificity about non-climate and non-litigation topics
+
+Return ONLY one of: not climate litigation, mention only, vague disclosure, basic disclosure, detailed disclosure, highly specific
+
+Summary: The text outlines several key considerations and risks for CNX, focusing on both financial and legal aspects:
+
+1. **Financial Expectations and Risks:**
+   - **Tax Position:** CNX's tax position is based on assumptions about income, capital expenditures, and net working capital. The company expects its Net Operating Loss (NOL) carryforwards to remain unaffected by future limitations under Section 382 of the Internal Revenue Code. However, any changes in tax laws, interpretations by the IRS, or challenges to CNX's tax positions could increase future tax liabilities.
+   - **NOL Carryforwards:** The company relies on its NOL carryforwards to offset future taxable income. If these carryforwards are not utilized as expected, or if the IRS challenges CNX's tax positions or limits NOL carryforwards, the company's tax liability could be higher than anticipated.
+
+2. **Legal Proceedings and Investigations:**
+   - **Current Proceedings:** CNX is involved in multiple legal proceedings and investigations, including class action lawsuits related to natural gas royalties and climate change lawsuits by communities against fossil fuel producers.
+   - **Costs and Impact:** These legal actions can be costly and divert management attention. The costs of defending these lawsuits could negatively impact CNX's cash flows, operational results, and financial position.
+   - **Future Risks:** The company may face additional legal challenges in the future, which could further exacerbate these risks.
+
+In summary, CNX's financial and legal positions are subject to significant uncertainties, including potential changes in tax laws, challenges to its tax positions, and ongoing legal disputes, all of which could adversely affect its financial performance and financial stability.
+Original text: This expectation is based upon assumptions we have made regarding, among other things, our income, capital expenditures and net working capital and the current expectation that our NOL carryforwards will not become subject to future limitations under Section 382 of the Internal Revenue Code of 1986 or otherwise. Additionally, any significant variance in our interpretation of current income tax laws, including as result of the release of any Treasury Regulations or other interpretive guidance or a challenge of one or more of our tax positions by the IRS or other tax authorities could affect our tax position. While CNX expects to be able to utilize our NOL carryforwards and generate deductions to offset our future taxable income, in the event that deductions are not generated as expected, one or more of our tax positions are successfully challenged by the IRS (in a tax audit or otherwise), or our NOL carryforwards are subject to future limitations, our future tax liability may be greater than expected.
+CNX and its subsidiaries are subject to various legal proceedings and investigations, which may have an adverse effect on our business.
+CNX is party to a number of legal proceedings and, from time to time, investigations, in the normal course of business activities. Responding to investigations or defending these actions, especially purported class actions, can be costly and can distract management. For example, CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties. Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change, which are beginning to gain prevalence in the courts. There is also the possibility that CNX may become involved in future investigations or suits regarding its business activities. There is the potential that the costs of defending litigation in an individual matter or the aggregation of many matters could have an adverse effect on our cash flows, results of operations or financial position.
+Previously classified as climate litigation? 1
+Breakdown JSON: {
+  "parties": [
+    "CNX",
+    "communities against fossil fuel producers"
+  ],
+  "case_title_or_docket": "pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties",
+  "forum_or_jurisdiction": "not specified, but likely federal or state courts",
+  "statute_reg_policy": [
+    "Section 382 of the Internal Revenue Code of 1986",
+    "Treasury Regulations or other interpretive guidance",
+    "climate change lawsuits under human rights or fiduciary duty arguments"
+  ],
+  "procedural_posture": "CNX is a defendant in pending class action lawsuits and a party to climate change lawsuits",
+  "dates_or_timeframes": [],
+  "monetary_or_quantified": [
+    "costs of defending litigation could negatively impact cash flows, operational results, and financial position"
+  ],
+  "climate_linkage_summary": "CNX is involved in climate change lawsuits by communities against fossil fuel producers, which are related to the company's alleged contributions to climate change.",
+  "climate_linkage_quotes": [
+    "claimants’ alleged entitlements to, and accounting for, natural gas royalties",
+    "relating to climate change"
+  ],
+  "checkable_elements": [
+    "CNX's tax position based on NOL carryforwards",
+    "potential challenges to CNX's tax positions by the IRS",
+    "existence of climate change lawsuits by communities against fossil fuel producers"
+  ],
+  "who": "CNX and communities against fossil fuel producers",
+  "what": "CNX is involved in class action lawsuits and climate change lawsuits",
+  "where": "not specified, but likely in the context of the United States",
+  "when": "current and ongoing",
+  "under_which_rule": "Section 382 of the Internal Revenue Code of 1986, Treasury Regulations, and climate change litigation statutes or regulations",
+  "sought_outcome": "CNX seeks to avoid increased tax liabilities and defend against challenges to its tax positions",
+  "evidence_quotes": [
+    "CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties.",
+    "Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change."
+  ]
+}
+
+============================================================
+ASSISTANT MESSAGE 10
+============================================================
+{
+  "particles": [
+    "CNX",
+    "communities against fossil fuel producers"
+  ],
+  "case_title_or_docket": "pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties",
+  "forum_or_jurisdiction": "not specified, but likely federal or state courts",
+  "statute_reg_policy": [
+    "Section 382 of the Internal Revenue Code of 1986",
+    "Treasury Regulations or other interpretive guidance",
+    "climate change lawsuits under human rights or fiduciary duty arguments"
+  ],
+  "procedural_posture": "CNX is a defendant in pending class action lawsuits and a party to climate change lawsuits",
+  "dates_or_timeframes": [],
+  "monetary_or_quantified": [
+    "costs of defending litigation could negatively impact cash flows, operational results, and financial position"
+  ],
+  "climate_linkage_summary": "CNX is involved in climate change lawsuits by communities against fossil fuel producers, which are related to the company's alleged contributions to climate change.",
+  "climate_linkage_quotes": [
+    "claimants’ alleged entitlements to, and accounting for, natural gas royalties",
+    "relating to climate change"
+  ],
+  "checkable_elements": [
+    "CNX's tax position based on NOL carryforwards",
+    "potential challenges to CNX's tax positions by the IRS",
+    "existence of climate change lawsuits by communities against fossil fuel producers"
+  ],
+  "who": "CNX and communities against fossil fuel producers",
+  "what": "CNX is involved in class action lawsuits and climate change lawsuits",
+  "where": "not specified, but likely in the context of the United States",
+  "when": "current and ongoing",
+  "under_which_rule": "Section 382 of the Internal Revenue Code of 1986, Treasury Regulations, and climate change litigation statutes or regulations",
+  "sought_outcome": "CNX seeks to avoid increased tax liabilities and defend against challenges to its tax positions",
+  "evidence_quotes": [
+    "CNX is a defendant in pending purported class action lawsuits dealing with claimants’ alleged entitlements to, and accounting for, natural gas royalties.",
+    "Additionally, CNX is a party to four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change."
+  ]
+}
+
+**Label: detailed disclosure**
+
+**Rationale:**
+- **Precision of Anchors:** The breakdown includes specific parties (CNX and communities against fossil fuel producers), a case title (pending class action lawsuits), a forum (likely federal or state courts), and a statute (Section 382 of the Internal Revenue Code).
+- **Linkage to Climate Claims:** The climate linkage is clearly specified, mentioning the exact nature of the lawsuits (related to natural gas royalties and climate change) and the parties involved (communities against fossil fuel producers).
+- **Falsifiability:** The details are checkable, including the specific case title, the parties involved, and the statute under which the tax position is based.
+- **Contextual Clarity:** The breakdown provides clear context about who (CNX and communities), what (class action and climate change lawsuits), where (likely in the context of the United States), when (current and ongoing), under which rule (Section 382 and related regulations), and what outcome (avoiding increased tax liabilities and defending against challenges) is sought.
+
+This level of detail meets the criteria for a **detailed disclosure**.

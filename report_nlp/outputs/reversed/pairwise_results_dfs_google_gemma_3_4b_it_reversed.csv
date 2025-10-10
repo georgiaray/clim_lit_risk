@@ -1,0 +1,629 @@
+idx_1,idx_2,reasoning,result,model
+1,0,"Text 2 is more specific due to its detailed discussion of specific regulations (EU Fit for 55, CII, IMO Sulfur Limit) and their potential financial impacts. Text 1 primarily focuses on broader risks and lacks the granular detail necessary to be considered highly specific.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+2,0,"The text primarily focuses on geopolitical risks related to foreign travel policy and the increasing regulatory pressure from climate change, specifically highlighting the potential for litigation arising from inadequate disclosure of climate-related risks. While it mentions regulatory impacts, the core concern is the *potential for legal action* due to failing to adequately prepare stakeholders for these risks.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+3,0,"The text primarily discusses geopolitical risks related to foreign travel policy and the increasing regulatory focus on climate change, specifically referencing regulations like the CII and the EU’s Fit for 55 package. While the potential for litigation is mentioned, the core concern revolves around the *failure to adequately disclose* these climate-related risks and the potential financial consequences. The discussion of regulatory compliance and the need for emission reductions clearly indicates a vulnerability to legal action if these risks are not properly communicated.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+4,0,"The text primarily focuses on geopolitical risks and environmental regulations, specifically concerning cruise operations and the impact of foreign travel policies and climate change regulations. While the potential for litigation is mentioned, the core concern is the *risk* of disruption and financial impact stemming from these external factors, rather than a direct legal action. The climate change section highlights regulatory requirements and potential liabilities, but the broader geopolitical risk is a more prominent and directly actionable concern.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+5,0,"The text primarily focuses on geopolitical risks (foreign travel policy) and regulatory risks (climate change and environmental regulations), rather than directly addressing legal actions specifically related to climate change. While the potential for litigation is mentioned, the core of the disclosure revolves around the *risk* of disruption due to external factors, not a specific climate litigation claim.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+6,0,"The text primarily discusses geopolitical risks related to foreign travel policy and the increasing regulatory focus on climate change. While the potential for litigation is mentioned, the core concern revolves around the *failure to adequately disclose* these risks and the potential financial consequences. The text highlights specific regulations (IMO Sulfur Limit, CII) and the uncertainty surrounding future climate policies, indicating a vulnerability to legal challenges if these risks aren't transparently communicated.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+7,0,"The text presents a significant risk related to potential litigation arising from climate change impacts, specifically concerning the company's failure to adequately disclose these risks. While the primary focus isn't on a specific legal action, the acknowledgment of potential lawsuits and the detailed discussion of regulatory pressures and their financial implications clearly indicate a vulnerability to climate litigation. The text provides specific examples of regulations (CII, IMO Sulfur Limit) and potential consequences, making it a more detailed disclosure than simply mentioning a general risk.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+8,0,"Text 2 represents a more specific disclosure regarding climate litigation risk. While text 1 mentions “climate change risk” and “litigation,” text 2 explicitly details the regulatory pressures stemming from the EU’s “Fit for 55” package and the CII, providing concrete examples of potential legal challenges and the specific actions required to comply. The discussion of potential monetary damages (fines) further strengthens the specificity.
+
+FINAL: text 2",text 2,google/gemma-3-4b-it
+9,0,"```json
+{
+  ""parties"": [
+    ""U.S."",
+    ""European Union"",
+    ""Various state, regional and foreign government or regulatory agencies""
+  ],
+  ""case_title_or_docket"": null,
+  ""forum_or_jurisdiction"": [
+    ""International"",
+    ""U.S."",
+    ""European Union""
+  ],
+  ""statute_reg_policy"": [
+    ""IMO Sulfur Limit"",
+    ""Carbon Intensity Indicator (CII)"",
+    ""Fit for 55 package"",
+    ""2030 emission goals""
+  ],
+  ""procedural_posture"": ""Risk assessment; potential for litigation"",
+  ""dates_or_timeframes"": [
+    ""2030""
+  ],
+  ""monetary_or_quantified"": [
+    ""Significant fines, penalties"",
+    ""Potential for $X million in fines""
+  ],
+  ""climate_linkage_summary"": ""The text outlines significant risks to the company’s operations stemming from both geopolitical factors (foreign travel policy) and environmental regulations. It highlights the potential for disruptions to business – specifically cruise sailings – due to travel restrictions and the increasing pressure to address climate change and environmental impacts. The company acknowledges uncertainty surrounding future regulations and their potential financial impact, emphasizing the need for proactive adaptation and risk management."",
+  ""climate_linkage_quotes"": [
+    ""such climate change-related regulatory activity in the future may adversely affect our business and financial results by requiring us to reduce our emissions, pay for our emissions"",
+    ""the European Union has enacted parts of a series of significant carbon reforms under its Fit for 55 package designed to meet its 2030 emission goals""
+  ],
+  ""checkable_elements"": [
+    ""The increasing global regulatory focus on climate change."",
+    ""The requirement to purchase emission allowances."",
+    ""The potential for climate change-related litigation.""
+  ],
+  ""who"": [
+    ""The company"",
+    ""Regulators"",
+    ""Stakeholders""
+  ],
+  ""what"": [
+    ""Climate change-related regulatory activity"",
+    ""Disclosure of climate risks"",
+    ""Cruise sailings""
+  ],
+  ""where"": [
+    ""U.S."",
+    ""International"",
+    ""European Union"",
+    ""Various states and regions""
+  ],
+  ""when"": [
+    ""Future""
+  ],
+  ""under_which_rule"": [
+    ""IMO Sulfur Limit"",
+    ""Carbon Intensity Indicator (CII)"",
+    ""Fit for 55 package""
+  ],
+  ""sought_outcome"": ""Compliance with climate regulations; avoidance of litigation."",
+  ""evidence_quotes"": []
+}
+```
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+10,0,"The text presents a significant risk related to potential legal action stemming from the company’s failure to adequately disclose climate-related risks. The discussion of geopolitical travel policies and the increasing regulatory focus on climate change, specifically referencing the EU’s Fit for 55 package and the CII, directly points to potential liability. While the text doesn't detail specific legal claims or potential damages, the acknowledgment of “climate change-related litigation” and the company’s proactive efforts to assess and mitigate these risks clearly indicate a vulnerability to climate litigation.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+11,0,"The text explicitly discusses the potential for litigation arising from climate change-related regulatory activity, particularly concerning the EU’s “Fit for 55” package and the CII regulation. It details the potential financial consequences (penalties, increased costs) and the company’s acknowledgment of uncertainty surrounding future regulations. This level of detail regarding risk assessment, potential liabilities, and regulatory impact surpasses the more general disclosures found in the other text.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+12,0,"The text primarily focuses on geopolitical risks and regulatory changes impacting a cruise line's operations, specifically related to travel restrictions and environmental regulations. While the discussion of climate change and regulatory responses is present, the core concern revolves around the *potential for litigation arising from disruptions to operations due to these external factors*. The text doesn't explicitly detail a legal claim or a specific regulatory challenge, but it lays the groundwork for a potential climate-related lawsuit centered on failure to disclose or manage these risks.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+13,0,"The text primarily discusses geopolitical risks related to foreign travel policy and the increasing regulatory focus on climate change. While the potential for litigation is mentioned, the core concern revolves around the *failure to adequately disclose* these risks and the potential financial consequences. The discussion of regulations like the CII and the EU’s Fit for 55 package directly relates to climate change impacts and creates a basis for future legal challenges. The text highlights a vulnerability to litigation stemming from inadequate disclosure of climate-related risks.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+14,0,"The text primarily focuses on the *risk* of climate-related regulations and geopolitical events impacting the company’s operations, rather than presenting a specific legal claim or action. While it acknowledges the *potential* for litigation, it doesn't detail any existing or anticipated legal proceedings. The disclosure is detailed in outlining the various regulatory pressures and potential disruptions, but lacks specific legal arguments or quantifiable damages.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+2,1,"Text 2
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+3,1,"Text 2
+
+FINAL: Text 2","text 2
+",google/gemma-3-4b-it
+4,1,"Text 2
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+5,1,"Text 2 demonstrates a higher level of specificity regarding climate litigation risks. While text 1 touches on environmental risks, text 2 directly addresses the potential for litigation stemming from climate change regulations (specifically the EU’s Fit for 55 package and the EU ETS), outlines concrete actions required for compliance (increased low-carbon fuel use, shore power connectivity), and quantifies a specific financial obligation (carbon emission allowance purchases). Text 1 is more general and lacks these specific details.
+
+FINAL: text 2",text 2,google/gemma-3-4b-it
+6,1,"Text 2
+
+FINAL: text 2
+","text 2
+",google/gemma-3-4b-it
+7,1,"The text clearly outlines potential legal and financial risks stemming from climate change regulations and geopolitical events, specifically referencing the EU’s Fit for 55 package and the potential for climate change-related litigation. The discussion of export credit facilities and travel policy further strengthens the connection to climate impacts. While not a direct legal action, the disclosures represent a significant risk factor related to climate change.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+8,1,"Text 2 is more specific because it details concrete regulatory actions (EU Fit for 55, EU ETS) and quantifiable obligations (carbon emission allowance purchases), providing a clearer picture of potential climate litigation risks compared to the more general discussion of regulatory changes in Text 1.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+9,1,"The text directly addresses climate change-related regulatory risks, specifically through the EU’s Fit for 55 package and the implications of carbon emission allowances. It also highlights the potential for climate change-related litigation. While not a direct legal action, the disclosures are crucial for assessing and managing climate-related legal exposure.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+10,1,"The text primarily outlines financial and operational risks, particularly concerning regulatory compliance and potential financial liabilities. While it mentions “climate change” as a factor affecting business, the focus is on the *consequences* of climate-related regulations (e.g., carbon emission allowances) rather than a direct legal challenge or claim related to climate change itself. The discussion of travel restrictions and the export credit facility also fall outside the scope of climate litigation.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+11,1,"The text presents a significant risk of future climate litigation due to evolving regulations, particularly the EU’s Fit for 55 package and the associated carbon emission allowance requirements. While not a current lawsuit, the potential for legal action related to emissions reductions and compliance is clearly articulated.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+12,1,"Text 2
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+13,1,"Text 2
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+14,1,"The text clearly outlines potential legal and financial risks stemming from climate change regulations and geopolitical events, specifically referencing the EU’s Fit for 55 package and the potential for climate-related litigation. The discussion of export credit facilities and travel policy further strengthens the argument for its classification as climate litigation.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+3,2,"Text 2
+
+FINAL: Text 2","text 2
+",google/gemma-3-4b-it
+4,2,"Text 1 is more specific than Text 2 because it provides more detailed information about the climate litigation, including the number of lawsuits, the specific weather-related events, and the potential financial penalties. Text 2, on the other hand, is more focused on the regulatory risks and reputational concerns related to climate change, but does not provide as much specificity about the climate litigation itself.
+
+FINAL: text 1",text 1,google/gemma-3-4b-it
+5,2,"The text primarily focuses on the *potential* for future regulatory action and its impact on the company’s operations and financial results, rather than detailing existing legal claims or litigation. While it acknowledges the risk of climate change-related litigation, the core of the disclosure revolves around anticipating and preparing for regulatory changes. Therefore, it leans towards a “mention only” level of specificity.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+6,2,"The rationale for choosing ""Detailed disclosure"" is that the text provides specific details about the regulatory risks facing the cruise industry, including the EU's ""Fit for 55"" package, the European Union Emission Trading System, and the US and state regulations. The text also mentions the potential impact of these regulations on the company's business and financial results, including increased operating costs, modified itineraries, and reputational damage. Additionally, the text provides some quantitative data, such as the 2030 emission goals and the requirement to purchase carbon emission allowances beginning in 2024.
+
+FINAL: text 2",text 2,google/gemma-3-4b-it
+7,2,"Text 2 exhibits a significantly higher level of specificity regarding climate litigation risks compared to Text 1. Text 2 directly identifies specific regulatory frameworks (Fit for 55, EU ETS, IMO Sulfur Limit, carbon intensity indicator), quantifies potential costs (capital expenditures, fuel price fluctuations), and explicitly acknowledges the possibility of future litigation. Text 1 primarily focuses on general regulatory pressures and broader ESG concerns without delving into the specifics of climate-related legal challenges.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+8,2,"Text 2
+
+FINAL: Text 2 is more specific because it identifies particular regulations (Fit for 55, EU ETS, IMO Sulfur Limit, carbon intensity indicator) and quantifies potential impacts (capital expenditures, fuel price fluctuations). Text 1 is more general, focusing on “climate change-related regulatory activity” without specifying the particular regulations or their potential consequences.","Text 2
+",google/gemma-3-4b-it
+9,2,"Text 2 represents a significantly more detailed and specific disclosure of climate litigation risk compared to text 1. Text 1 primarily focuses on general regulatory risks and lacks the granular detail regarding specific regulations (Fit for 55, EU ETS, carbon intensity indicator) and their potential financial impacts. Text 2, conversely, provides concrete examples of regulatory activity, outlines the potential costs associated with compliance, and acknowledges the reputational risks.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+10,2,"Text 2 is significantly more specific than Text 1. Text 2 directly identifies specific regulatory frameworks (Fit for 55, EU ETS, IMO Sulfur Limit, carbon intensity indicator) and quantifies potential impacts (capital expenditures, fuel price fluctuations). Text 1, while mentioning “climate change” as a legal liability, lacks this level of detail and relies on more general statements about regulatory risk.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+11,2,"The text explicitly discusses the *potential* for future climate change-related litigation and the risks associated with evolving regulations. It details specific regulatory actions (EU’s Fit for 55, IMO Sulfur Limit, carbon intensity indicator) and their potential financial impact, demonstrating a proactive awareness of legal and regulatory exposure. The discussion of a “material adverse effect” further solidifies this classification.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+12,2,"Text 2
+
+FINAL: Text 2 – Highly Specific Disclosure
+
+","text 2
+",google/gemma-3-4b-it
+13,2,"Text 2 is significantly more specific than Text 1. Text 1 primarily outlines general risks associated with climate regulations and debt, lacking concrete details about specific regulations, potential costs, or the company’s response strategy. Text 2, conversely, identifies specific regulations like the EU’s “Fit for 55” package and the carbon intensity indicator regulation, mentions potential costs (capital expenditures, fuel price fluctuations), and alludes to a need for investment in alternative fuels and shore power. This level of detail regarding specific regulatory impacts and potential responses elevates Text 2 to a more specific disclosure of climate litigation risk.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+14,2,"Text 2
+
+FINAL: text 2
+","text 2
+",google/gemma-3-4b-it
+4,3,"The text primarily details accounting adjustments and restructuring events within a cruise company, focusing on financial reporting and operational changes. While the potential environmental implications of these changes (carbon emissions, waste management) are acknowledged, the core content doesn't directly relate to legal actions concerning climate change science, policy, or law. The disclosures highlight complexities in accounting for ownership changes, asset sales, and currency translation, but lack specific details about climate-related risks or legal challenges.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+5,3,"The text primarily details accounting adjustments and restructuring events related to a cruise company’s financial performance. While it touches upon potential environmental implications (carbon emissions, waste management, regulatory compliance), the core focus is on financial reporting and legal accounting matters. There isn't a direct legal challenge concerning climate change science, policy, or law.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+6,3,"The text primarily details accounting adjustments and restructuring events within a cruise company, focusing on financial reporting and related complexities. While the potential for environmental impacts (carbon emissions, waste management) is acknowledged, the core content doesn't directly address legal actions or policy related to climate change. The disclosures concern the financial implications of asset sales and ownership changes, not climate litigation itself.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+7,3,"text 2
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+8,3,"The text primarily details accounting adjustments and restructuring events related to a cruise company’s financial reporting, focusing on ownership changes and asset sales. While there are environmental considerations implied (carbon emissions, waste management), the core content doesn't directly involve legal actions concerning climate change science, policy, or law. The disclosures relate to financial reporting and accounting practices, not climate litigation.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+9,3,"```json
+{
+  ""parties"": [
+    ""Silversea Cruises"",
+    ""Heritage Cruise Holding Ltd."",
+    ""Pullmantur""
+  ],
+  ""case_title_or_docket"": null,
+  ""forum_or_jurisdiction"": null,
+  ""statute_reg_policy"": [
+    ""Contractual Accretion Requirements""
+  ],
+  ""procedural_posture"": null,
+  ""dates_or_timeframes"": [
+    ""2020"",
+    ""First Quarter 2021""
+  ],
+  ""monetary_or_quantified"": [
+    ""Net Gain Recognized""
+  ],
+  ""climate_linkage_summary"": ""The text discusses currency translation losses related to ships sold to Pullmantur, suggesting potential impacts on carbon emissions and broader climate change concerns due to the ships' previous charter arrangements."",
+  ""climate_linkage_quotes"": [
+    ""currency translation losses recognized in connection with the ships sold in 2020 that were previously chartered to Pullmantur""
+  ],
+  ""checkable_elements"": [
+    ""The nature of the charter agreements with Pullmantur."",
+    ""The currency translation methodology used."",
+    ""The impact of the change in ownership on the reported losses.""
+  ],
+  ""who"": [
+    ""Silversea Cruises"",
+    ""Heritage Cruise Holding Ltd.""
+  ],
+  ""what"": [
+    ""Accounting adjustments"",
+    ""Restructuring"",
+    ""Sale of assets (Azamara brand, ships)"",
+    ""Currency translation losses""
+  ],
+  ""where"": [
+    ""Silversea Cruises (previously Silversea Cruises Group Ltd.)""
+  ],
+  ""when"": [
+    ""2020"",
+    ""First Quarter 2021""
+  ],
+  ""under_which_rule"": null,
+  ""sought_outcome"": null,
+  ""evidence_quotes"": []
+}
+```
+
+The text details complex accounting adjustments related to a corporate restructuring and asset sales. While it touches on potential environmental implications through currency translation losses, the core focus is on financial reporting and disclosure, not direct climate litigation.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+10,3,"The text details complex accounting adjustments related to a corporate restructuring, primarily focusing on financial reporting and ownership changes. While the potential environmental implications of asset sales (carbon emissions, waste management) are acknowledged, the core content does not directly address legal actions or policy related to climate change. The disclosures highlight accounting complexities and potential misstatements rather than legal challenges concerning climate science or impacts.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+11,3,"The text details complex accounting adjustments and restructuring events within a cruise company. While not directly a climate litigation case, the discussion of currency translation losses related to ships sold to a company previously involved in chartering those ships raises potential environmental implications regarding carbon emissions and waste management. The need for detailed explanations in supporting notes to clarify the accounting treatment and potential environmental impacts elevates the disclosure requirements beyond a basic level.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+12,3,"The text primarily details accounting adjustments and restructuring events within a cruise company, focusing on financial reporting and disclosure. While there are environmental implications (carbon emissions, waste management) suggested by the asset sales, the core content doesn't directly address climate litigation – legal challenges related to climate change science, policy, or law. The disclosures concern accounting practices and potential misstatements, not legal claims.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+13,3,"The text primarily details accounting adjustments and restructuring events within a cruise company, focusing on financial reporting and operational changes. While the potential environmental implications of these changes (carbon emissions, waste management) are acknowledged, the core content does not directly address legal actions related to climate change science, policy, or law. The disclosures concern accounting practices and financial performance, not legal challenges concerning climate impacts.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+14,3,"text 2
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+5,4,"The text primarily focuses on legal and regulatory risks associated with environmental liabilities and climate change litigation, specifically the potential for significant financial exposure due to lawsuits and regulatory compliance. While ESG considerations are mentioned, the core concern is the legal risk stemming from climate-related damages.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+6,4,"Text 2
+
+FINAL: text 2
+","text 2
+",google/gemma-3-4b-it
+7,4,"Text 2
+
+FINAL: text 2
+","text 2
+",google/gemma-3-4b-it
+8,4,"Text 2 represents a more detailed disclosure of climate litigation risk. While text 1 mentions “increasing civil litigation related to climate change,” text 2 provides specific details about the number of lawsuits, the parties involved (states and municipalities), the basis of the claims (weather-related events and climate change), and references a specific note (Note 20) containing further information on potential liabilities. Text 1 is vague and lacks the concrete details necessary to assess the true extent of the risk.
+
+FINAL: text 2",text 2,google/gemma-3-4b-it
+9,4,"Text 2 represents a significantly more detailed and specific assessment of climate litigation risks compared to Text 1. Text 2 explicitly identifies the number of lawsuits, the parties involved, the legal basis (climate-related weather events), and the potential remedies sought (money damages for remedial measures). Text 1, in contrast, is highly general, focusing on broader regulatory risks and lacking any specific details about the climate litigation.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+10,4,"Text 2 represents a more detailed disclosure of climate litigation risks. While text 1 mentions “climate change” as a legal liability, text 2 provides specific details about the nature of the lawsuits (seeking money damages for weather-related events), the number of lawsuits involved (close to two dozen), and references a note containing further information on contingent liabilities. This level of specificity aligns more closely with the definition of “climate litigation” as a focused legal action.
+
+FINAL: text 2
+",text 2,google/gemma-3-4b-it
+11,4,"Text 2 is more specific. While both texts identify climate litigation risk, Text 2 provides more concrete details about the nature of the lawsuits (seeking money damages for climate-related events), the parties involved (states and municipalities), and the potential consequences (remedial measures). Text 1 is more general, focusing on broader regulatory and ESG concerns.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+12,4,"Text 2
+
+FINAL: Text 2","text 2
+",google/gemma-3-4b-it
+13,4,"Text 2
+
+FINAL: Text 2","text 2
+",google/gemma-3-4b-it
+14,4,"Text 2
+
+FINAL: text 2
+","text 2
+",google/gemma-3-4b-it
+6,5,"The text clearly outlines risks related to potential legislative changes impacting derivative use, increased regulatory scrutiny due to environmental concerns, and investor pressure for divestment – all of which align with the definition of climate litigation risk. While it doesn't detail specific lawsuits, the identified risks and potential consequences are directly relevant to climate-related legal challenges.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+7,5,"The text demonstrates a detailed understanding of the risks involved, particularly concerning derivative strategies and the potential impact of regulatory changes and public scrutiny. It identifies specific vulnerabilities within the derivative market, outlines the potential for litigation related to environmental impacts, and highlights the pressure from investors advocating for divestment. The level of detail regarding counterparty risk and the potential for operational delays due to permitting challenges elevates this beyond a basic disclosure.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+8,5,"The text primarily outlines risks related to regulatory changes and market vulnerabilities, particularly concerning derivative instruments and potential reputational damage. While it touches upon climate-related concerns (increased scrutiny, advocacy groups), the core focus is on financial and operational risks, rather than direct climate litigation claims. The specific details regarding legislative changes and counterparty risk are more central to the potential for legal challenges than the broader climate impacts.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+9,5,"The text demonstrates a significant risk profile related to climate change, specifically through potential legislative action impacting derivative strategies and increased regulatory scrutiny due to environmental concerns. While not a direct lawsuit, the disclosures highlight vulnerabilities that could be exploited in future climate litigation. The level of detail regarding potential financial impacts and the proactive identification of risks elevate it beyond a simple ""mention"" or ""basic disclosure.""
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+10,5,"The text demonstrates a detailed disclosure by outlining multiple specific risks related to both derivative usage and environmental impact. It identifies potential legislative changes, counterparty vulnerabilities, reputational damage, and regulatory scrutiny – all of which are key elements of climate litigation risk. The document goes beyond a general statement of concern and details the *mechanisms* through which these risks could materialize, including specific scenarios (e.g., price spikes, counterparty defaults).  It also highlights the potential for investor pressure and divestment campaigns.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+11,5,"The text contains specific risks related to potential legislative changes impacting derivative use, increased regulatory scrutiny due to environmental concerns, and investor pressure for divestment – all of which align with the definition of climate litigation risk. The document outlines potential legal and financial consequences stemming from these risks, demonstrating a proactive assessment of climate-related liabilities.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+12,5,"The text presents a significant risk of climate litigation due to the potential for future legislative action to curtail derivative strategies, coupled with increasing regulatory scrutiny and investor pressure related to environmental impacts. The document explicitly outlines vulnerabilities stemming from these factors, including potential financial losses and operational restrictions. While it doesn't detail a specific lawsuit, the identified risks align directly with the criteria for climate litigation.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+13,5,"The text primarily discusses financial risks – derivative exposure, counterparty credit risk, and regulatory scrutiny – rather than specific legal actions targeting climate change. While the increased regulatory scrutiny *could* lead to litigation, the core focus is on operational and financial vulnerabilities stemming from these risks. The potential for future legislative changes regarding derivatives also presents a risk, but it’s framed as a regulatory risk rather than a direct climate litigation risk.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+14,5,"The text demonstrates a detailed disclosure because it identifies multiple specific risks (derivative exposure, counterparty risk, reputational risk, regulatory scrutiny, investor pressure) and outlines the potential consequences of each. It goes beyond a general statement of “climate risk” and delves into the specific mechanisms through which climate change could impact the company’s operations and financial performance. The analysis includes potential legislative changes and the implications for hedging strategies, adding a layer of complexity and specificity.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+7,6,"The text contains specific disclosures related to climate change litigation, including the existence of four lawsuits pursued by communities against fossil fuel producers. This clearly falls under the definition of climate litigation.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+8,6,"The text clearly identifies climate change lawsuits as a significant risk, directly referencing ""four climate change lawsuits being pursued by communities against fossil fuel producers."" This constitutes a specific and verifiable element of climate litigation.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+9,6,"Text 2 is more specific. While text 1 identifies the existence of climate change lawsuits, text 2 provides more detail regarding the nature of those lawsuits (community vs. fossil fuel producers) and explicitly links them to climate change.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+10,6,"The text contains specific disclosures related to climate change litigation, including the existence of four lawsuits pursued by communities against fossil fuel producers. This directly aligns with the definition of climate litigation. While other aspects of the text (tax liabilities, legal proceedings) are present, the climate litigation disclosures are sufficiently detailed and central to the overall risk assessment.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+11,6,"The text contains specific disclosures related to climate change litigation, including the existence of four lawsuits pursued by communities against fossil fuel producers. This directly addresses the definition of climate litigation provided.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+12,6,"The text clearly identifies climate change lawsuits as a significant risk factor, directly referencing ""four climate change lawsuits being pursued by communities against fossil fuel producers."" This constitutes a specific and verifiable climate litigation element.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+13,6,"Text 2 is more specific. While both texts identify climate litigation as a risk, Text 2 explicitly names ""four climate change lawsuits"" and references the potential for Section 382 limitations on NOL carryforwards, providing concrete details absent in Text 1's more general description of legal liabilities.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+14,6,"The text clearly identifies climate change lawsuits as a significant risk, falling squarely within the definition of climate litigation. The discussion of “four climate change lawsuits” and their increasing prevalence provides specific details about this aspect of the legal risk.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+8,7,"Text 2 demonstrates a higher degree of specificity regarding climate litigation. While text 1 mentions “increasing civil litigation related to climate change,” text 2 provides concrete details about the nature of the lawsuits – seeking damages for harms caused by climate change events like rising sea levels and extreme weather – and explicitly references a significant number of pending cases ( “close to two dozen lawsuits”).  Text 1’s description is vague and lacks the specific details necessary to classify it as a concrete climate litigation risk.
+
+FINAL: text 2",text 2,google/gemma-3-4b-it
+9,7,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete details about the nature of the lawsuits (seeking damages for weather-related events), the parties involved (states and municipalities), and the potential legal consequences (joint and several liability). Text 1, in contrast, is largely focused on regulatory burdens and general legal risks, lacking the specific details necessary to classify it as climate litigation.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+10,7,"text 2
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+11,7,"text 2
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+12,7,"Text 2 demonstrates a higher degree of specificity regarding climate litigation. While text 1 mentions regulatory uncertainty and potential market impacts, text 2 explicitly details the existence of “close to two dozen lawsuits” seeking damages for climate-related harms, referencing specific types of events (rising sea levels, flooding, etc.) and the legal concept of “joint and several” liability. This level of detail – including the number of lawsuits, the nature of the claims, and the potential financial consequences – is crucial for assessing the litigation risk and is a hallmark of climate litigation.
+
+FINAL: text 2",text 2,google/gemma-3-4b-it
+13,7,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete details about the lawsuits – the number of cases, the parties involved (states and municipalities), the types of damages sought (money for remedial measures), and the underlying legal basis (climate-related events like rising sea levels). Text 1, in contrast, is largely general, referring to “four climate change lawsuits” and “potential future litigation” without providing any specific details about the claims, parties, or legal framework.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+14,7,"text 2
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+9,8,"This text presents a significant risk profile related to evolving climate regulations and their potential impact on a natural gas company’s operations and financial performance. It details a volatile regulatory landscape, including shifts in administration and the introduction of new policies like the methane fee, alongside existing regulations like PSD permits. The discussion of potential litigation and the need for proactive disclosure elevates it beyond a simple mention of climate risk.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+10,8,"The text clearly identifies significant legal, environmental, and regulatory risks related to climate change, including potential litigation and the impact of evolving regulations like the Inflation Reduction Act. It details specific regulatory changes and their potential financial consequences, demonstrating a proactive assessment of climate-related risks. The level of detail regarding the regulatory landscape and potential legal challenges surpasses what would be considered a basic disclosure.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+11,8,"The text provides a detailed analysis of regulatory risks, particularly concerning greenhouse gas emissions and the potential for litigation. It outlines specific regulations (Clean Air Act, ACER, IRA) and their potential impact on the company’s operations and financial performance. The discussion of uncertainty surrounding future regulations and the possibility of legal challenges related to climate change aligns strongly with the definition of climate litigation.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+12,8,"The text demonstrates a detailed assessment of regulatory risks related to climate change, specifically focusing on the potential impact of the Inflation Reduction Act’s methane fee and broader shifts in policy under the Biden administration. It identifies multiple potential legal challenges and outlines specific disclosure requirements for companies operating in the natural gas sector. The text clearly articulates the uncertainty surrounding future regulations and their potential financial consequences.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+13,8,"Text 2 exhibits a higher degree of specificity regarding climate litigation risk. While Text 1 mentions “climate change lawsuits” and a potential for adverse financial impact, Text 2 explicitly details the regulatory landscape – including the Clean Air Act, the Affordable Clean Energy Rule, the Inflation Reduction Act, and the methane fee – and how these regulations could lead to litigation and reduced demand for natural gas. The inclusion of specific dates and regulatory actions significantly strengthens the disclosure’s focus on climate litigation.
+
+FINAL: text 2",text 2,google/gemma-3-4b-it
+14,8,"The text contains a significant risk of climate litigation due to the evolving regulatory landscape and the potential for legal challenges related to GHG emissions. The discussion of the Inflation Reduction Act, methane fees, and shifting administrations clearly indicates a vulnerability to claims alleging inadequate risk disclosure and potential harm from climate-related regulations. The text doesn't detail a specific lawsuit but lays the groundwork for a legal challenge.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+10,9,"Text 2 is more specific because it provides more details about the climate change lawsuits, such as the number of lawsuits, the parties involved, and the potential financial impact.
+
+FINAL: text 2",text 2,google/gemma-3-4b-it
+11,9,"Text 2 is more specific because it provides more detailed information about the climate litigation, including the number of lawsuits, the parties involved, and the potential financial impact.
+
+FINAL: text 2",text 2,google/gemma-3-4b-it
+12,9,"Text 2 is more specific because it provides more details about the climate litigation, such as the number of lawsuits (four), the parties involved (communities against fossil fuel producers), and the potential financial impact (costly, potential adverse effect on cash flows, results of operations, or financial position).
+
+FINAL: text 2",text 2,google/gemma-3-4b-it
+13,9,"```json
+{
+  ""parties"": [
+    ""communities against fossil fuel producers""
+  ],
+  ""case_title_or_docket"": null,
+  ""forum_or_jurisdiction"": ""courts"",
+  ""statute_reg_policy"": [
+    ""climate change""
+  ],
+  ""procedural_posture"": ""party to a number of legal proceedings"",
+  ""dates_or_timeframes"": [
+    ""beginning to gain prevalence in the courts""
+  ],
+  ""monetary_or_quantified"": [
+    ""costly"",
+    ""potential that the costs of defending litigation... could have an adverse effect""
+  ],
+  ""climate_linkage_summary"": ""CNX is facing climate change lawsuits from communities against fossil fuel producers relating to climate change."",
+  ""climate_linkage_quotes"": [
+    ""four climate change lawsuits being pursued by communities against fossil fuel producers relating to climate change""
+  ],
+  ""checkable_elements"": [
+    ""purported class actions""
+  ],
+  ""who"": ""CNX"",
+  ""what"": ""climate change lawsuits"",
+  ""where"": ""courts"",
+  ""when"": ""beginning to gain prevalence"",
+  ""under_which_rule"": null,
+  ""sought_outcome"": null,
+  ""evidence_quotes"": []
+}
+```
+
+The text explicitly identifies CNX as a party to ""four climate change lawsuits"" and links these lawsuits to the company's core business of fossil fuel production.  It also details risks associated with the environmental attribute market, which is a key component of climate litigation.  The mention of ""purported class actions"" adds a layer of complexity and potential financial exposure.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+14,9,"Text 2 is more specific because it provides more detailed information about the climate litigation, including the number of lawsuits, the parties involved, and the potential financial impact.
+
+FINAL: text 2",text 2,google/gemma-3-4b-it
+11,10,"Text 2 is significantly more specific. While Text 1 provides a general overview of regulatory risk and ESG pressures, Text 2 delves into the specifics of derivative accounting (including the substantial, unexplained omissions regarding settled but not received/paid amounts), interest rate swap impacts, and the detailed obligations stemming from the Coal Act. Text 2 offers quantifiable data (dollar amounts) and identifies specific legal liabilities (climate change, environmental violations) with a level of detail absent in Text 1.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+12,10,"The text contains specific details regarding financial exposures – particularly the unsettled commodity derivatives and the potential liability stemming from the Coal Act – that directly relate to legal claims concerning “climate change.” The inclusion of monetary amounts (settled but not received, unrealized gains/losses) and specific dates (December 31, 2023, 2022) provides a level of detail that allows for potential legal challenges based on inadequate disclosure of these risks. The lack of a reasonable estimate for the potential aggregate loss related to the pending claims further strengthens the case for classifying this as climate litigation.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+13,10,"The text contains specific details regarding financial exposures – commodity derivatives, interest rate swaps, and a significant legal liability stemming from the Coal Act. While it mentions “climate change” as a legal claim, the disclosure lacks the granularity to definitively classify it as “climate litigation” according to the provided definition. The focus is primarily on financial and legal risks, with the climate aspect being a component of a broader liability.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+14,10,"Text 2 is significantly more specific than Text 1. Text 2 provides concrete monetary figures (e.g., $6,741, $77,662), specific dates (December 31, 2023, 2022), and details about the nature of the legal liabilities (climate change, environmental violations, retiree health benefits). Text 1, in contrast, offers a more general overview of regulatory changes and ESG pressures, lacking the granular detail necessary to assess the litigation risk with precision.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+12,11,"The text explicitly details a growing legal risk – close to two dozen lawsuits seeking damages related to climate change impacts – alongside the regulatory pressures of carbon pricing and ESG demands. The discussion of “joint and several liability” provides a specific, falsifiable element. The disclosure implications are clearly outlined, focusing on the need to quantify financial exposure and detail legal strategy.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+13,11,"```json
+{
+  ""parties"": [
+    ""various states and municipalities"",
+    ""CNX"",
+    ""owners of the properties through which CNX’s gathering systems pass"",
+    ""local municipalities""
+  ],
+  ""case_title_or_docket"": null,
+  ""forum_or_jurisdiction"": [
+    ""federal"",
+    ""state"",
+    ""local""
+  ],
+  ""statute_reg_policy"": [
+    ""environmental laws and regulations"",
+    ""GHG emissions regulations"",
+    ""carbon pricing mechanisms""
+  ],
+  ""procedural_posture"": ""seeking money damages for remedial measures"",
+  ""dates_or_timeframes"": [
+    ""close to two dozen lawsuits""
+  ],
+  ""monetary_or_quantified"": [
+    ""money damages"",
+    ""potential cost increases""
+  ],
+  ""climate_linkage_summary"": ""Lawsuits seeking damages for harms caused by climate change, related to weather-related events like rising sea levels and flooding."",
+  ""climate_linkage_quotes"": [
+    ""rising sea levels and more frequent and severe flooding, storms and heatwaves"",
+    ""damages caused by climate change""
+  ],
+  ""checkable_elements"": [
+    ""close to two dozen lawsuits"",
+    ""seeking money damages for remedial measures aimed at eliminating or ameliorating damages caused by climate change""
+  ],
+  ""who"": [
+    ""producers of oil, natural gas and coal"",
+    ""private parties""
+  ],
+  ""what"": [
+    ""money damages"",
+    ""remedial measures"",
+    ""compliance with environmental laws and regulations""
+  ],
+  ""where"": [
+    ""various states and municipalities"",
+    ""properties through which CNX’s gathering systems pass"",
+    ""local municipalities""
+  ],
+  ""when"": [
+    ""currently""
+  ],
+  ""under_which_rule"": [
+    ""joint and several or strict liability""
+  ],
+  ""sought_outcome"": [
+    ""eliminating or ameliorating damages caused by climate change""
+  ],
+  ""evidence_quotes"": []
+}
+```
+
+Rationale: The text explicitly details a growing number of lawsuits targeting oil and gas producers for climate-related damages, referencing specific legal mechanisms (joint and several liability) and the types of harms being sought.  It goes beyond a general discussion of climate risk and focuses on a concrete legal threat.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+14,11,"Text 2 is significantly more specific than Text 1. Text 2 directly references the potential for increased costs due to emission allowances, the concept of “joint and several liability” in legal proceedings, and the specific types of lawsuits being filed (climate-related damages). Text 1, while discussing regulatory changes and state initiatives, lacks this level of detail regarding the legal and financial risks associated with climate change.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+13,12,"Text 2 demonstrates a significantly higher level of specificity regarding climate litigation. While Text 1 mentions “climate change lawsuits” and the potential for litigation, Text 2 provides a detailed timeline of regulatory actions (Clean Air Act, Affordable Clean Energy Rule, EPA shifts under Trump and Biden administrations), specific monetary amounts related to the methane fee, and the legal basis for potential challenges (invalidation of the Affordable Clean Energy Rule). This level of detail, including dates, specific regulations, and quantified financial impacts, aligns more closely with the definition of climate litigation provided.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+14,12,"The text exhibits a high degree of specificity regarding climate litigation due to the detailed description of regulatory shifts (Clean Air Act, Affordable Clean Energy Rule, IRA methane fee), the identification of key parties involved (EPA, Biden administration, Trump administration), and the quantification of financial impacts (methane fee amounts). The text clearly outlines the potential for legal challenges and the need for proactive disclosure, aligning directly with the definition of climate litigation.
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
+14,13,"Text 2
+
+FINAL: text 2","text 2
+",google/gemma-3-4b-it
